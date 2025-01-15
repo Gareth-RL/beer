@@ -28,35 +28,54 @@ Here are the beers I reviewed using ratebeer
 </table>
 
 <script>
-  // Fetch beers data and populate the table
+  let beersData = []; // Store the beers data globally
+
+  // Fetch beers data and store it for filtering
   fetch('./beers.json')
     .then(response => response.json())
     .then(beers => {
-      const tableBody = document.querySelector('#resultsTable tbody');
-
-      beers.forEach(beer => {
-        const row = document.createElement('tr');
-        row.innerHTML = `
-          <td style="border: 1px solid #ddd; padding: 8px;">
-            <a href="${beer.link}">${beer.beer}</a>
-          </td>
-          <td style="border: 1px solid #ddd; padding: 8px;">${beer.brewer}</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">${beer.style}</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">${beer.country}</td>
-          <td style="border: 1px solid #ddd; padding: 8px;">${beer.rating}</td>
-        `;
-        tableBody.appendChild(row);
-      });
+      beersData = beers; // Store the data globally
     });
 
   // Filter results based on user input
   function filterBeers() {
     const searchInput = document.getElementById('searchBox').value.toLowerCase();
-    const tableRows = document.querySelectorAll('#resultsTable tbody tr');
+    const tableBody = document.querySelector('#resultsTable tbody');
+    tableBody.innerHTML = ''; // Clear previous results
 
-    tableRows.forEach(row => {
-      const rowText = row.innerText.toLowerCase();
-      row.style.display = rowText.includes(searchInput) ? '' : 'none';
+    if (searchInput.length < 2) {
+      // Show no results if the search input is less than 2 characters
+      tableBody.innerHTML = '<tr><td colspan="5" style="text-align: center;">Please enter at least 2 characters to search</td></tr>';
+      return;
+    }
+
+    // Filter beers based on the search input
+    const filteredBeers = beersData.filter(beer => {
+      const rowText = `${beer.beer} ${beer.brewer} ${beer.style} ${beer.country} ${beer.rating}`.toLowerCase();
+      return rowText.includes(searchInput);
+    });
+
+    // Show up to 50 results
+    const limitedBeers = filteredBeers.slice(0, 50);
+
+    if (limitedBeers.length === 0) {
+      tableBody.innerHTML = '<tr><td colspan="5" style="text-align: center;">No results found</td></tr>';
+      return;
+    }
+
+    // Populate the table with filtered results
+    limitedBeers.forEach(beer => {
+      const row = document.createElement('tr');
+      row.innerHTML = `
+        <td style="border: 1px solid #ddd; padding: 8px;">
+          <a href="${beer.link}">${beer.beer}</a>
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px;">${beer.brewer}</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">${beer.style}</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">${beer.country}</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">${beer.rating}</td>
+      `;
+      tableBody.appendChild(row);
     });
   }
 </script>
