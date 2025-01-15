@@ -1,21 +1,7 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
-title: Beer Ratings Directory
-description: My ratings from ratebeer
-timezone: UTC
-lang: en
-author:
-  name: Gareth
-  email: your-email@example.com
-url: "https://gareth-rl.github.io"
-baseurl: "/beer"
+title: Beer Ratings from Ratebeer
+description: Exports from my ratebeer records
+theme: jekyll-theme-cayman
+markdown: kramdown
+permalink: pretty
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-include-cache
-header:
-  logo:
-    text: Beer Ratings
-    url: "{{ site.baseurl }}/"
-sass:
-  load_paths:
-    - _sass/custom
