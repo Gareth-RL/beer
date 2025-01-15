@@ -1,0 +1,24 @@
+---
+layout: default
+title: Springhead Fallen Angel
+---
+
+# Springhead Fallen Angel
+
+| Field         | Value     |
+|---------------|-----------|
+| **BeerID** | 114708 |
+| **Beer** | Springhead Fallen Angel |
+| **Brewer** | Springhead Brewery |
+| **Aroma** | 5.0 |
+| **Appearance** | 4.0 |
+| **Taste** | 6.0 |
+| **Palate** | 3.0 |
+| **Overall** | 12.0 |
+| **MyScore** | 3.0 |
+| **Comments** | Cask. Aroma hoppy citrus, grassy. Pours golden with white top. Tastes light and fruity with cereal ad nuts lurking behind. An easy and forgettable swallow. |
+| **Date** | 1/24/2017 4:23:19 PM |
+| **Country** | England |
+| **State** | Nottinghamshire |
+| **City** | Laneham |
+| **Style** | Blonde Ale / Golden Ale |

@@ -1,0 +1,24 @@
+---
+layout: default
+title: Cathedral Heights Devils Nightmare
+---
+
+# Cathedral Heights Devils Nightmare
+
+| Field         | Value     |
+|---------------|-----------|
+| **BeerID** | 292346 |
+| **Beer** | Cathedral Heights Devils Nightmare |
+| **Brewer** | Cathedral Heights Brewery |
+| **Aroma** | 7.0 |
+| **Appearance** | 4.0 |
+| **Taste** | 7.0 |
+| **Palate** | 3.0 |
+| **Overall** | 12.0 |
+| **MyScore** | 3.3 |
+| **Comments** | Cask. Hazel, chocolate and liquorice have ben detected in the aroma. Brown with ruby lights. Taste ses more hop fruits come through. Medium to thin bodied. But overall a vey palatable ale that pleased 2 out of 3. |
+| **Date** | 5/16/2016 12:52:34 PM |
+| **Country** | England |
+| **State** | Lincolnshire |
+| **City** | Lincoln |
+| **Style** | Mild Ale |

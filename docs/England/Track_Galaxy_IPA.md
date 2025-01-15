@@ -1,0 +1,24 @@
+---
+layout: default
+title: Track Galaxy IPA
+---
+
+# Track Galaxy IPA
+
+| Field         | Value     |
+|---------------|-----------|
+| **BeerID** | 590612 |
+| **Beer** | Track Galaxy IPA |
+| **Brewer** | Track Brewing Co. |
+| **Aroma** | 7.0 |
+| **Appearance** | 4.0 |
+| **Taste** | 7.0 |
+| **Palate** | 4.0 |
+| **Overall** | 14.0 |
+| **MyScore** | 3.6 |
+| **Comments** | Tap at the Overdraught. Pours hazy orange golden with thin white lace top. Aroma tropical hops pineapple peach mango guava. Taste is light sweetness and medium bitter. Palate is medium bodied sticky texture average carbonation and sweet fruity finish. |
+| **Date** | 3/3/2018 7:17:07 PM |
+| **Country** | England |
+| **State** | Greater Manchester |
+| **City** | Manchester |
+| **Style** | IPA |

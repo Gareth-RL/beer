@@ -1,0 +1,24 @@
+---
+layout: default
+title: Dry & Bitter Ever Glow
+---
+
+# Dry & Bitter Ever Glow
+
+| Field         | Value     |
+|---------------|-----------|
+| **BeerID** | 315871 |
+| **Beer** | Dry & Bitter Ever Glow |
+| **Brewer** | Dry & Bitter Brewing Company |
+| **Aroma** | 6.0 |
+| **Appearance** | 4.0 |
+| **Taste** | 7.0 |
+| **Palate** | 4.0 |
+| **Overall** | 13.0 |
+| **MyScore** | 3.4 |
+| **Comments** | Tap at the Junkyard. Pours cloudy orange with foamy off white lacing. Pale malts, spruce, citrus, hops, but muffled. Taste is medium bitter with an extra bitter tang. Palate is medium bodied, sticky, soft carbonation, bitter finish like grapefruit rind. |
+| **Date** | 1/8/2018 11:52:56 AM |
+| **Country** | Denmark |
+| **State** | nan |
+| **City** | Gørløse |
+| **Style** | Pale Ale - American (APA) |

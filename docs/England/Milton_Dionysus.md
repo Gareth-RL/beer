@@ -1,0 +1,24 @@
+---
+layout: default
+title: Milton Dionysus
+---
+
+# Milton Dionysus
+
+| Field         | Value     |
+|---------------|-----------|
+| **BeerID** | 71277 |
+| **Beer** | Milton Dionysus |
+| **Brewer** | Milton Brewery |
+| **Aroma** | 6.0 |
+| **Appearance** | 4.0 |
+| **Taste** | 6.0 |
+| **Palate** | 3.0 |
+| **Overall** | 12.0 |
+| **MyScore** | 3.1 |
+| **Comments** | Aroma of grassy floral hops. Pours golden body with white lace. Taste is muted sweet to herbal bitter with a bitter finish and a soapy transition. Palate is medium bodied oily/ soapy feel, soft to average carbonation and a bitter finish. They chose the wrong God. This is not a Dionysian beer. |
+| **Date** | 10/8/2019 5:07:56 PM |
+| **Country** | England |
+| **State** | Cambridgeshire |
+| **City** | Waterbeach |
+| **Style** | Blonde Ale / Golden Ale |

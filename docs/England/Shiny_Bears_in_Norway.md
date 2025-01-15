@@ -1,0 +1,24 @@
+---
+layout: default
+title: Shiny Bears in Norway
+---
+
+# Shiny Bears in Norway
+
+| Field         | Value     |
+|---------------|-----------|
+| **BeerID** | 1094998 |
+| **Beer** | Shiny Bears in Norway |
+| **Brewer** | Shiny Brewing |
+| **Aroma** | 7.0 |
+| **Appearance** | 4.0 |
+| **Taste** | 7.0 |
+| **Palate** | 4.0 |
+| **Overall** | 13.0 |
+| **MyScore** | 3.5 |
+| **Comments** | Poured hazy golden body white lace top. Nitro fizz. Aroma tropical fruits but with lime and melon evident. Taste is medium sweet to bitter with plenty of hop fruitiness. Medium bodied smooth texture average carbonation and a bitter finish. Refreshing hop medley IPA Simcoe Mosaic  and Waiti listed  |
+| **Date** | 3/20/2023 2:55:39 PM |
+| **Country** | England |
+| **State** | Derbyshire |
+| **City** | Little Eaton |
+| **Style** | IPA |

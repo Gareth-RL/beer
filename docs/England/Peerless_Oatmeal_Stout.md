@@ -1,0 +1,24 @@
+---
+layout: default
+title: Peerless Oatmeal Stout
+---
+
+# Peerless Oatmeal Stout
+
+| Field         | Value     |
+|---------------|-----------|
+| **BeerID** | 196878 |
+| **Beer** | Peerless Oatmeal Stout |
+| **Brewer** | Peerless Brewing Co. |
+| **Aroma** | 7.0 |
+| **Appearance** | 4.0 |
+| **Taste** | 7.0 |
+| **Palate** | 4.0 |
+| **Overall** | 12.0 |
+| **MyScore** | 3.4 |
+| **Comments** | Pours mahogany body with tan lace top. Aroma malty some chocolate notes. Taste medium sweet to bitter. Palate thin to medium, smooth average carbonation and a bitter finish. Easy drinking |
+| **Date** | 11/1/2021 4:53:06 PM |
+| **Country** | England |
+| **State** | Merseyside |
+| **City** | Birkenhead |
+| **Style** | Stout - Oatmeal |
