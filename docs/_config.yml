@@ -1,6 +1,24 @@
-etitle: Beer Ratings from Ratebeer
-description: Exports from my ratebeer records
-theme: jekyll-theme-dinky
-markdown: kramdown
+remote_theme: cotes2020/jekyll-theme-chirpy
+title: Beer Ratings Directory
+description: My ratings from ratebeer
+timezone: UTC
+lang: en
+author:
+  name: Your Name
+  email: your-email@example.com
+url: "https://your-github-username.github.io"
+baseurl: ""
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-include-cache
+paginate: 50 # Adjust for pagination
+paginate_path: "/page:num/"
+header:
+  logo:
+    text: Beer Ratings
+    url: /
+sass:
+  load_paths:
+    - _sass/custom

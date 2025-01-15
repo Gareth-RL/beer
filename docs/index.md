@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: paginated_index
 title: Beer Ratings Directory
 ---
 
