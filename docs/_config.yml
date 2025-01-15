@@ -11,10 +11,7 @@ baseurl: ""
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-include-cache
-paginate: 50 # Adjust for pagination
-paginate_path: "/page:num/"
 header:
   logo:
     text: Beer Ratings
