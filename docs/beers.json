@@ -1,8 +1,8 @@
 [
   {
     "beer": "Hubertus Dunkel",
-    "brewer": "Hubertus Br\u00e4u",
-    "style": "Dark Lager - Dunkel / Tmav\u00fd",
+    "brewer": "Hubertus Bräu",
+    "style": "Dark Lager - Dunkel / Tmavý",
     "country": "Austria",
     "link": "./Austria/Hubertus_Dunkel.html",
     "rating": 3.0
@@ -16,11 +16,11 @@
     "rating": 3.4
   },
   {
-    "beer": "Stiegl Radler Zitrone Naturtr\u00fcb",
+    "beer": "Stiegl Radler Zitrone Naturtrüb",
     "brewer": "Stieglbrauerei zu Salzburg",
     "style": "Radler / Shandy",
     "country": "Austria",
-    "link": "./Austria/Stiegl_Radler_Zitrone_Naturtr\u00fcb.html",
+    "link": "./Austria/Stiegl_Radler_Zitrone_Naturtrüb.html",
     "rating": 3.1
   },
   {
@@ -32,11 +32,11 @@
     "rating": 3.2
   },
   {
-    "beer": "Stiegl Weisse Naturtr\u00fcb",
+    "beer": "Stiegl Weisse Naturtrüb",
     "brewer": "Stieglbrauerei zu Salzburg",
     "style": "Weissbier - Hefeweizen",
     "country": "Austria",
-    "link": "./Austria/Stiegl_Weisse_Naturtr\u00fcb.html",
+    "link": "./Austria/Stiegl_Weisse_Naturtrüb.html",
     "rating": 3.1
   },
   {
@@ -48,25 +48,25 @@
     "rating": 3.3
   },
   {
-    "beer": "Sonnen Br\u00e4u",
+    "beer": "Sonnen Bräu",
     "brewer": "Wieselburger Brauerei (Brau Union - Heineken)",
     "style": "Pale Lager - American",
     "country": "Austria",
-    "link": "./Austria/Sonnen_Br\u00e4u.html",
+    "link": "./Austria/Sonnen_Bräu.html",
     "rating": 1.8
   },
   {
-    "beer": "G\u00f6sser Beer (Export)",
-    "brewer": "G\u00f6sser (Brau Union - Heineken)",
+    "beer": "Gösser Beer (Export)",
+    "brewer": "Gösser (Brau Union - Heineken)",
     "style": "Pale Lager - International / Premium",
     "country": "Austria",
-    "link": "./Austria/G\u00f6sser_Beer_(Export).html",
+    "link": "./Austria/Gösser_Beer_(Export).html",
     "rating": 2.7
   },
   {
     "beer": "Hirter Morchl",
     "brewer": "Brauerei Hirt",
-    "style": "Dark Lager - Dunkel / Tmav\u00fd",
+    "style": "Dark Lager - Dunkel / Tmavý",
     "country": "Austria",
     "link": "./Austria/Hirter_Morchl.html",
     "rating": 3.4
@@ -88,11 +88,11 @@
     "rating": 3.3
   },
   {
-    "beer": "Du Bocq T\u00eate de Mort Triple Amber",
+    "beer": "Du Bocq Tête de Mort Triple Amber",
     "brewer": "Brasserie Du Bocq",
     "style": "Tripel",
     "country": "Belgium",
-    "link": "./Belgium/Du_Bocq_T\u00eate_de_Mort_Triple_Amber.html",
+    "link": "./Belgium/Du_Bocq_Tête_de_Mort_Triple_Amber.html",
     "rating": 3.8
   },
   {
@@ -112,11 +112,11 @@
     "rating": 3.1
   },
   {
-    "beer": "Delirium No\u00ebl / Christmas ",
+    "beer": "Delirium Noël / Christmas ",
     "brewer": "Brouwerij Huyghe",
     "style": "Belgian Ale - Strong Dark",
     "country": "Belgium",
-    "link": "./Belgium/Delirium_No\u00ebl___Christmas_.html",
+    "link": "./Belgium/Delirium_Noël___Christmas_.html",
     "rating": 3.7
   },
   {
@@ -128,11 +128,11 @@
     "rating": 3.1
   },
   {
-    "beer": "Silly Enghien d\u2019Hiver",
+    "beer": "Silly Enghien d’Hiver",
     "brewer": "Brasserie de Silly",
     "style": "Tripel",
     "country": "Belgium",
-    "link": "./Belgium/Silly_Enghien_d\u2019Hiver.html",
+    "link": "./Belgium/Silly_Enghien_d’Hiver.html",
     "rating": 4.0
   },
   {
@@ -152,27 +152,27 @@
     "rating": 3.4
   },
   {
-    "beer": "Bi\u00e8re des Amis Belge Blonde",
+    "beer": "Bière des Amis Belge Blonde",
     "brewer": "Neobulles",
     "style": "Belgian Ale - Pale / Golden / Single",
     "country": "Belgium",
-    "link": "./Belgium/Bi\u00e8re_des_Amis_Belge_Blonde.html",
+    "link": "./Belgium/Bière_des_Amis_Belge_Blonde.html",
     "rating": 3.1
   },
   {
-    "beer": "Pr\u00e9aris Blond (Saison)",
+    "beer": "Préaris Blond (Saison)",
     "brewer": "Vliegende Paard Brouwers",
     "style": "Belgian Ale - Pale / Golden / Single",
     "country": "Belgium",
-    "link": "./Belgium/Pr\u00e9aris_Blond_(Saison).html",
+    "link": "./Belgium/Préaris_Blond_(Saison).html",
     "rating": 3.3
   },
   {
-    "beer": "La Binchoise Speciale No\u00ebl",
+    "beer": "La Binchoise Speciale Noël",
     "brewer": "Brasserie La Binchoise",
     "style": "Belgian Ale - Strong Dark",
     "country": "Belgium",
-    "link": "./Belgium/La_Binchoise_Speciale_No\u00ebl.html",
+    "link": "./Belgium/La_Binchoise_Speciale_Noël.html",
     "rating": 2.6
   },
   {
@@ -208,11 +208,11 @@
     "rating": 3.2
   },
   {
-    "beer": "Caulier Bon Secours Blonde de No\u00ebl",
+    "beer": "Caulier Bon Secours Blonde de Noël",
     "brewer": "Caulier",
     "style": "Belgian Ale - Strong Pale",
     "country": "Belgium",
-    "link": "./Belgium/Caulier_Bon_Secours_Blonde_de_No\u00ebl.html",
+    "link": "./Belgium/Caulier_Bon_Secours_Blonde_de_Noël.html",
     "rating": 3.4
   },
   {
@@ -224,19 +224,19 @@
     "rating": 3.7
   },
   {
-    "beer": "Ellezelloise Quintine de No\u00ebl",
-    "brewer": "Ellezelloise (Brasserie des L\u00e9gendes)",
+    "beer": "Ellezelloise Quintine de Noël",
+    "brewer": "Ellezelloise (Brasserie des Légendes)",
     "style": "Belgian Ale - Strong Dark",
     "country": "Belgium",
-    "link": "./Belgium/Ellezelloise_Quintine_de_No\u00ebl.html",
+    "link": "./Belgium/Ellezelloise_Quintine_de_Noël.html",
     "rating": 3.6
   },
   {
-    "beer": "De Ranke P\u00e8re No\u00ebl",
+    "beer": "De Ranke Père Noël",
     "brewer": "Brouwerij De Ranke",
     "style": "Belgian Ale - Dark / Amber",
     "country": "Belgium",
-    "link": "./Belgium/De_Ranke_P\u00e8re_No\u00ebl.html",
+    "link": "./Belgium/De_Ranke_Père_Noël.html",
     "rating": 3.6
   },
   {
@@ -272,11 +272,11 @@
     "rating": 3.4
   },
   {
-    "beer": "Grimbergen Cuv\u00e9e Blanche",
+    "beer": "Grimbergen Cuvée Blanche",
     "brewer": "Brouwerijen Alken-Maes (Heineken)",
     "style": "Witbier / Belgian White Ale",
     "country": "Belgium",
-    "link": "./Belgium/Grimbergen_Cuv\u00e9e_Blanche.html",
+    "link": "./Belgium/Grimbergen_Cuvée_Blanche.html",
     "rating": 3.2
   },
   {
@@ -305,7 +305,7 @@
   },
   {
     "beer": "Nektar Bez Filtera",
-    "brewer": "Banjalu\u010dka Pivara",
+    "brewer": "Banjalučka Pivara",
     "style": "Zwickelbier / Kellerbier / Landbier",
     "country": "Bosnia and Herzegovina",
     "link": "./Bosnia_and_Herzegovina/Nektar_Bez_Filtera.html",
@@ -313,18 +313,18 @@
   },
   {
     "beer": "Baraba Svijetlo Pivo",
-    "brewer": "Banjalu\u010dka Pivara",
+    "brewer": "Banjalučka Pivara",
     "style": "Pale Lager - International / Premium",
     "country": "Bosnia and Herzegovina",
     "link": "./Bosnia_and_Herzegovina/Baraba_Svijetlo_Pivo.html",
     "rating": 2.6
   },
   {
-    "beer": "Tsingtao 4.7% 11\u00b0P",
+    "beer": "Tsingtao 4.7% 11°P",
     "brewer": "Tsingtao Brewery (Tsingtao)",
     "style": "Pale Lager - International / Premium",
     "country": "China",
-    "link": "./China/Tsingtao_4.7%_11\u00b0P.html",
+    "link": "./China/Tsingtao_4.7%_11°P.html",
     "rating": 2.7
   },
   {
@@ -352,27 +352,27 @@
     "rating": 3.3
   },
   {
-    "beer": "Kozel Premium Lager 12\u00b0",
-    "brewer": "Pivovar Velk\u00e9 Popovice (Asahi)",
+    "beer": "Kozel Premium Lager 12°",
+    "brewer": "Pivovar Velké Popovice (Asahi)",
     "style": "Pilsener - Bohemian / Czech",
     "country": "Czech Republic",
-    "link": "./Czech_Republic/Kozel_Premium_Lager_12\u00b0.html",
+    "link": "./Czech_Republic/Kozel_Premium_Lager_12°.html",
     "rating": 2.7
   },
   {
-    "beer": "Harboe Bj\u00f8rne Bryg (Stark)",
+    "beer": "Harboe Bjørne Bryg (Stark)",
     "brewer": "Harboes Bryggeri",
     "style": "Pale Lager - International / Premium",
     "country": "Denmark",
-    "link": "./Denmark/Harboe_Bj\u00f8rne_Bryg_(Stark).html",
+    "link": "./Denmark/Harboe_Bjørne_Bryg_(Stark).html",
     "rating": 2.7
   },
   {
-    "beer": "To \u00d8l Humle Sovs",
-    "brewer": "To \u00d8l",
+    "beer": "To Øl Humle Sovs",
+    "brewer": "To Øl",
     "style": "IPA - Hazy (NEIPA)",
     "country": "Denmark",
-    "link": "./Denmark/To_\u00d8l_Humle_Sovs.html",
+    "link": "./Denmark/To_Øl_Humle_Sovs.html",
     "rating": 3.6
   },
   {
@@ -1312,11 +1312,11 @@
     "rating": 3.3
   },
   {
-    "beer": "Top Rope / Emperor\u2019s The Shockmaster",
+    "beer": "Top Rope / Emperor’s The Shockmaster",
     "brewer": "Top Rope Brewing",
     "style": "Stout - Imperial Flavored / Pastry",
     "country": "England",
-    "link": "./England/Top_Rope___Emperor\u2019s_The_Shockmaster.html",
+    "link": "./England/Top_Rope___Emperor’s_The_Shockmaster.html",
     "rating": 4.1
   },
   {
@@ -1616,11 +1616,11 @@
     "rating": 3.2
   },
   {
-    "beer": "Gorilla Bit\u2019ter Meccie",
+    "beer": "Gorilla Bit’ter Meccie",
     "brewer": "Gorilla Brewing (Mad Ape Ales)",
     "style": "Bitter - Ordinary / Best",
     "country": "England",
-    "link": "./England/Gorilla_Bit\u2019ter_Meccie.html",
+    "link": "./England/Gorilla_Bit’ter_Meccie.html",
     "rating": 3.1
   },
   {
@@ -2224,11 +2224,11 @@
     "rating": 3.1
   },
   {
-    "beer": "Dukeries \u2018Ard as n\u2019Ales",
+    "beer": "Dukeries ‘Ard as n’Ales",
     "brewer": "Dukeries Brewery",
     "style": "IPA",
     "country": "England",
-    "link": "./England/Dukeries_\u2018Ard_as_n\u2019Ales.html",
+    "link": "./England/Dukeries_‘Ard_as_n’Ales.html",
     "rating": 3.5
   },
   {
@@ -2368,11 +2368,11 @@
     "rating": 3.5
   },
   {
-    "beer": "Beermats Sum\u2019mat Exotic",
+    "beer": "Beermats Sum’mat Exotic",
     "brewer": "Beermats Brewing Company",
     "style": "Blonde Ale / Golden Ale",
     "country": "England",
-    "link": "./England/Beermats_Sum\u2019mat_Exotic.html",
+    "link": "./England/Beermats_Sum’mat_Exotic.html",
     "rating": 3.2
   },
   {
@@ -2381,7 +2381,7 @@
     "style": "Stout",
     "country": "England",
     "link": "./England/St._Austell_Mena_Dhu.html",
-    "rating": NaN
+    "rating": null
   },
   {
     "beer": "Bays Devon Dumpling",
@@ -2440,11 +2440,11 @@
     "rating": 3.5
   },
   {
-    "beer": "Thornbridge Cat\u2019s Eyes",
+    "beer": "Thornbridge Cat’s Eyes",
     "brewer": "Thornbridge Brewery",
     "style": "Stout - Dry / Irish",
     "country": "England",
-    "link": "./England/Thornbridge_Cat\u2019s_Eyes.html",
+    "link": "./England/Thornbridge_Cat’s_Eyes.html",
     "rating": 3.3
   },
   {
@@ -3317,7 +3317,7 @@
     "style": "Bitter - Ordinary / Best",
     "country": "England",
     "link": "./England/Lincoln_Green_Old_School.html",
-    "rating": NaN
+    "rating": null
   },
   {
     "beer": "Wantsum Fortitude",
@@ -3376,11 +3376,11 @@
     "rating": 3.3
   },
   {
-    "beer": "Vocation Doppelg\u00e4nger",
+    "beer": "Vocation Doppelgänger",
     "brewer": "Vocation Brewery",
     "style": "IPA",
     "country": "England",
-    "link": "./England/Vocation_Doppelg\u00e4nger.html",
+    "link": "./England/Vocation_Doppelgänger.html",
     "rating": 3.6
   },
   {
@@ -3477,7 +3477,7 @@
     "style": "Stout - Dry / Irish",
     "country": "England",
     "link": "./England/Attic_Brew_Co_Ten_Acres_.html",
-    "rating": NaN
+    "rating": null
   },
   {
     "beer": "Round Corner Cornerstone",
@@ -4160,11 +4160,11 @@
     "rating": 3.6
   },
   {
-    "beer": "Little Critters Winnie\u2019s Wag",
+    "beer": "Little Critters Winnie’s Wag",
     "brewer": "Little Critters Brewing Co.",
     "style": "Pale Ale - American (APA)",
     "country": "England",
-    "link": "./England/Little_Critters_Winnie\u2019s_Wag.html",
+    "link": "./England/Little_Critters_Winnie’s_Wag.html",
     "rating": 3.2
   },
   {
@@ -4658,7 +4658,7 @@
   {
     "beer": "Pentrich Dying Embers",
     "brewer": "Pentrich Brewing Co.",
-    "style": "Dark Lager - Dunkel / Tmav\u00fd",
+    "style": "Dark Lager - Dunkel / Tmavý",
     "country": "England",
     "link": "./England/Pentrich_Dying_Embers.html",
     "rating": 3.5
@@ -4706,7 +4706,7 @@
   {
     "beer": "Jacaranda Magnum Opus",
     "brewer": "Jacaranda Brewing Co.",
-    "style": "K\u00f6lsch / K\u00f6lsch-Style",
+    "style": "Kölsch / Kölsch-Style",
     "country": "England",
     "link": "./England/Jacaranda_Magnum_Opus.html",
     "rating": 3.2
@@ -4776,11 +4776,11 @@
     "rating": 3.3
   },
   {
-    "beer": "Thornbridge Kn\u00e4ck",
+    "beer": "Thornbridge Knäck",
     "brewer": "Thornbridge Brewery",
     "style": "Mild Ale",
     "country": "England",
-    "link": "./England/Thornbridge_Kn\u00e4ck.html",
+    "link": "./England/Thornbridge_Knäck.html",
     "rating": 3.4
   },
   {
@@ -4904,11 +4904,11 @@
     "rating": 3.0
   },
   {
-    "beer": "Bang The Elephant / Emperor\u2019s The Grand Inquisitor",
+    "beer": "Bang The Elephant / Emperor’s The Grand Inquisitor",
     "brewer": "Bang The Elephant Brewing",
     "style": "Stout - Imperial Flavored / Pastry",
     "country": "England",
-    "link": "./England/Bang_The_Elephant___Emperor\u2019s_The_Grand_Inquisitor.html",
+    "link": "./England/Bang_The_Elephant___Emperor’s_The_Grand_Inquisitor.html",
     "rating": 4.2
   },
   {
@@ -5456,11 +5456,11 @@
     "rating": 3.2
   },
   {
-    "beer": "52 Degrees K\u00f6lle",
+    "beer": "52 Degrees Kölle",
     "brewer": "Backyard Brewhouse (52 Degrees Brewing)",
-    "style": "K\u00f6lsch / K\u00f6lsch-Style",
+    "style": "Kölsch / Kölsch-Style",
     "country": "England",
-    "link": "./England/52_Degrees_K\u00f6lle.html",
+    "link": "./England/52_Degrees_Kölle.html",
     "rating": 3.2
   },
   {
@@ -5490,7 +5490,7 @@
   {
     "beer": "Donzoko Fest Bier",
     "brewer": "Donzoko Brewing",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "England",
     "link": "./England/Donzoko_Fest_Bier.html",
     "rating": 3.2
@@ -5570,7 +5570,7 @@
   {
     "beer": "Full Circle (UK) / BrewDog Newcastle Oktoberfest",
     "brewer": "Full Circle Brew Co",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "England",
     "link": "./England/Full_Circle_(UK)___BrewDog_Newcastle_Oktoberfest.html",
     "rating": 3.3
@@ -5728,11 +5728,11 @@
     "rating": 3.2
   },
   {
-    "beer": "Deya I\u2019m a Rolling Stone",
+    "beer": "Deya I’m a Rolling Stone",
     "brewer": "Deya Brewing Company",
     "style": "Brown Ale",
     "country": "England",
-    "link": "./England/Deya_I\u2019m_a_Rolling_Stone.html",
+    "link": "./England/Deya_I’m_a_Rolling_Stone.html",
     "rating": 3.4
   },
   {
@@ -5746,7 +5746,7 @@
   {
     "beer": "Lost And Grounded Festbier 2023",
     "brewer": "Lost And Grounded Brewers",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "England",
     "link": "./England/Lost_And_Grounded_Festbier_2023.html",
     "rating": 3.4
@@ -5968,11 +5968,11 @@
     "rating": 3.2
   },
   {
-    "beer": "Beermats Sum\u2019mat Twisted",
+    "beer": "Beermats Sum’mat Twisted",
     "brewer": "Beermats Brewing Company",
     "style": "Blonde Ale / Golden Ale",
     "country": "England",
-    "link": "./England/Beermats_Sum\u2019mat_Twisted.html",
+    "link": "./England/Beermats_Sum’mat_Twisted.html",
     "rating": 3.4
   },
   {
@@ -6010,7 +6010,7 @@
   {
     "beer": "Round Corner Love, Lager & Horse Racing",
     "brewer": "Round Corner Brewing",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "England",
     "link": "./England/Round_Corner_Love,_Lager_&_Horse_Racing.html",
     "rating": 3.5
@@ -6034,7 +6034,7 @@
   {
     "beer": "Verdant Festbier (2023)",
     "brewer": "Verdant Brewing Co",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "England",
     "link": "./England/Verdant_Festbier_(2023).html",
     "rating": 3.4
@@ -6146,7 +6146,7 @@
   {
     "beer": "Everards Biere Brut",
     "brewer": "Everards",
-    "style": "Bi\u00e8re de Garde / de Mars / Brut",
+    "style": "Bière de Garde / de Mars / Brut",
     "country": "England",
     "link": "./England/Everards_Biere_Brut.html",
     "rating": 3.1
@@ -6488,11 +6488,11 @@
     "rating": 3.5
   },
   {
-    "beer": "P\u00f5hjala French Toast B\u00e4nger",
-    "brewer": "P\u00f5hjala",
+    "beer": "Põhjala French Toast Bänger",
+    "brewer": "Põhjala",
     "style": "Stout - Imperial Flavored / Pastry",
     "country": "Estonia",
-    "link": "./Estonia/P\u00f5hjala_French_Toast_B\u00e4nger.html",
+    "link": "./Estonia/Põhjala_French_Toast_Bänger.html",
     "rating": 3.8
   },
   {
@@ -6504,19 +6504,19 @@
     "rating": 3.6
   },
   {
-    "beer": "P\u00fchaste Tumeaine - Honduras Coffee (Amprocal)",
-    "brewer": "P\u00fchaste",
+    "beer": "Pühaste Tumeaine - Honduras Coffee (Amprocal)",
+    "brewer": "Pühaste",
     "style": "Stout - Imperial Flavored / Pastry",
     "country": "Estonia",
-    "link": "./Estonia/P\u00fchaste_Tumeaine_-_Honduras_Coffee_(Amprocal).html",
+    "link": "./Estonia/Pühaste_Tumeaine_-_Honduras_Coffee_(Amprocal).html",
     "rating": 4.0
   },
   {
-    "beer": "P\u00f5hjala Cellar Series - Enn Barrel",
-    "brewer": "P\u00f5hjala",
+    "beer": "Põhjala Cellar Series - Enn Barrel",
+    "brewer": "Põhjala",
     "style": "Stout - Imperial Flavored / Pastry",
     "country": "Estonia",
-    "link": "./Estonia/P\u00f5hjala_Cellar_Series_-_Enn_Barrel.html",
+    "link": "./Estonia/Põhjala_Cellar_Series_-_Enn_Barrel.html",
     "rating": 3.5
   },
   {
@@ -6528,11 +6528,11 @@
     "rating": 2.8
   },
   {
-    "beer": "Sch\u00f6fferhofer Hefeweizen",
+    "beer": "Schöfferhofer Hefeweizen",
     "brewer": "Binding-Brauerei (Radeberger Group)",
     "style": "Weissbier - Hefeweizen",
     "country": "Germany",
-    "link": "./Germany/Sch\u00f6fferhofer_Hefeweizen.html",
+    "link": "./Germany/Schöfferhofer_Hefeweizen.html",
     "rating": 3.2
   },
   {
@@ -6544,40 +6544,40 @@
     "rating": 3.2
   },
   {
-    "beer": "Veldensteiner Wei\u00dfbier",
-    "brewer": "Kaiser Br\u00e4u",
+    "beer": "Veldensteiner Weißbier",
+    "brewer": "Kaiser Bräu",
     "style": "Weissbier - Hefeweizen",
     "country": "Germany",
-    "link": "./Germany/Veldensteiner_Wei\u00dfbier.html",
+    "link": "./Germany/Veldensteiner_Weißbier.html",
     "rating": 2.9
   },
   {
-    "beer": "Hofbr\u00e4u M\u00fcnchen Oktoberfestbier",
-    "brewer": "Staatliches Hofbr\u00e4uhaus M\u00fcnchen",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "beer": "Hofbräu München Oktoberfestbier",
+    "brewer": "Staatliches Hofbräuhaus München",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
-    "link": "./Germany/Hofbr\u00e4u_M\u00fcnchen_Oktoberfestbier.html",
+    "link": "./Germany/Hofbräu_München_Oktoberfestbier.html",
     "rating": 3.2
   },
   {
-    "beer": "Sch\u00e4ffler Br\u00e4u Winterzauber",
-    "brewer": "Brauerei Sch\u00e4ffler",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "beer": "Schäffler Bräu Winterzauber",
+    "brewer": "Brauerei Schäffler",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
-    "link": "./Germany/Sch\u00e4ffler_Br\u00e4u_Winterzauber.html",
+    "link": "./Germany/Schäffler_Bräu_Winterzauber.html",
     "rating": 3.4
   },
   {
-    "beer": "Fr\u00fch K\u00f6lsch",
-    "brewer": "C\u00f6lner Hofbr\u00e4u P. Josef Fr\u00fch",
-    "style": "K\u00f6lsch / K\u00f6lsch-Style",
+    "beer": "Früh Kölsch",
+    "brewer": "Cölner Hofbräu P. Josef Früh",
+    "style": "Kölsch / Kölsch-Style",
     "country": "Germany",
-    "link": "./Germany/Fr\u00fch_K\u00f6lsch.html",
+    "link": "./Germany/Früh_Kölsch.html",
     "rating": 3.0
   },
   {
     "beer": "Aecht Schlenkerla Rauchbier Urbock",
-    "brewer": "Heller-Br\u00e4u Trum",
+    "brewer": "Heller-Bräu Trum",
     "style": "Smoked - Rauchbier",
     "country": "Germany",
     "link": "./Germany/Aecht_Schlenkerla_Rauchbier_Urbock.html",
@@ -6585,7 +6585,7 @@
   },
   {
     "beer": "Augustiner Weissbier",
-    "brewer": "Augustiner-Br\u00e4u M\u00fcnchen",
+    "brewer": "Augustiner-Bräu München",
     "style": "Weissbier - Hefeweizen",
     "country": "Germany",
     "link": "./Germany/Augustiner_Weissbier.html",
@@ -6601,7 +6601,7 @@
   },
   {
     "beer": "Meckatzer Original Hell",
-    "brewer": "Meckatzer L\u00f6wenbr\u00e4u Benedikt Wei\u00df",
+    "brewer": "Meckatzer Löwenbräu Benedikt Weiß",
     "style": "Helles / Dortmunder Export",
     "country": "Germany",
     "link": "./Germany/Meckatzer_Original_Hell.html",
@@ -6625,7 +6625,7 @@
   },
   {
     "beer": "Franziskaner Kellerbier",
-    "brewer": "Spaten-Franziskaner-Br\u00e4u",
+    "brewer": "Spaten-Franziskaner-Bräu",
     "style": "Zwickelbier / Kellerbier / Landbier",
     "country": "Germany",
     "link": "./Germany/Franziskaner_Kellerbier.html",
@@ -6634,7 +6634,7 @@
   {
     "beer": "Paulaner Ur-Dunkel",
     "brewer": "Paulaner Brauerei",
-    "style": "Dark Lager - Dunkel / Tmav\u00fd",
+    "style": "Dark Lager - Dunkel / Tmavý",
     "country": "Germany",
     "link": "./Germany/Paulaner_Ur-Dunkel.html",
     "rating": 3.4
@@ -6656,11 +6656,11 @@
     "rating": 2.8
   },
   {
-    "beer": "Z\u00e4hringer German Beer Premium",
+    "beer": "Zähringer German Beer Premium",
     "brewer": "Frankenthaler Brauhaus (Eichbaum)",
     "style": "Pale Lager - International / Premium",
     "country": "Germany",
-    "link": "./Germany/Z\u00e4hringer_German_Beer_Premium.html",
+    "link": "./Germany/Zähringer_German_Beer_Premium.html",
     "rating": 2.6
   },
   {
@@ -6672,11 +6672,11 @@
     "rating": 3.1
   },
   {
-    "beer": "L\u00f6wenbr\u00e4u M\u00fcnchen Original",
-    "brewer": "L\u00f6wenbr\u00e4u M\u00fcnchen",
+    "beer": "Löwenbräu München Original",
+    "brewer": "Löwenbräu München",
     "style": "Helles / Dortmunder Export",
     "country": "Germany",
-    "link": "./Germany/L\u00f6wenbr\u00e4u_M\u00fcnchen_Original.html",
+    "link": "./Germany/Löwenbräu_München_Original.html",
     "rating": 3.0
   },
   {
@@ -6688,11 +6688,11 @@
     "rating": 3.6
   },
   {
-    "beer": "Bayreuther Aktien Landbier Fr\u00e4nkisch Dunkel ",
+    "beer": "Bayreuther Aktien Landbier Fränkisch Dunkel ",
     "brewer": "Bayreuther Bierbrauerei",
-    "style": "Dark Lager - Dunkel / Tmav\u00fd",
+    "style": "Dark Lager - Dunkel / Tmavý",
     "country": "Germany",
-    "link": "./Germany/Bayreuther_Aktien_Landbier_Fr\u00e4nkisch_Dunkel_.html",
+    "link": "./Germany/Bayreuther_Aktien_Landbier_Fränkisch_Dunkel_.html",
     "rating": 3.3
   },
   {
@@ -6712,11 +6712,11 @@
     "rating": 2.9
   },
   {
-    "beer": "Wei\u00dfenoher Benediktiner Pils Premium",
-    "brewer": "Klosterbrauerei Wei\u00dfenohe",
+    "beer": "Weißenoher Benediktiner Pils Premium",
+    "brewer": "Klosterbrauerei Weißenohe",
     "style": "Pilsener / Pils / Pilsner",
     "country": "Germany",
-    "link": "./Germany/Wei\u00dfenoher_Benediktiner_Pils_Premium.html",
+    "link": "./Germany/Weißenoher_Benediktiner_Pils_Premium.html",
     "rating": 3.4
   },
   {
@@ -6728,33 +6728,33 @@
     "rating": 3.2
   },
   {
-    "beer": "Stra\u00dfenbr\u00e4u / BrewDog Berlin Mitte Jet Blond Heart",
-    "brewer": "Stra\u00dfenbr\u00e4u",
+    "beer": "Straßenbräu / BrewDog Berlin Mitte Jet Blond Heart",
+    "brewer": "Straßenbräu",
     "style": "Pale Ale - Flavored",
     "country": "Germany",
-    "link": "./Germany/Stra\u00dfenbr\u00e4u___BrewDog_Berlin_Mitte_Jet_Blond_Heart.html",
+    "link": "./Germany/Straßenbräu___BrewDog_Berlin_Mitte_Jet_Blond_Heart.html",
     "rating": 2.9
   },
   {
     "beer": "Augustiner Oktoberfest Bier",
-    "brewer": "Augustiner-Br\u00e4u M\u00fcnchen",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "brewer": "Augustiner-Bräu München",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
     "link": "./Germany/Augustiner_Oktoberfest_Bier.html",
     "rating": 3.2
   },
   {
-    "beer": "Aecht Schlenkerla Rauchbier M\u00e4rzen",
-    "brewer": "Heller-Br\u00e4u Trum",
+    "beer": "Aecht Schlenkerla Rauchbier Märzen",
+    "brewer": "Heller-Bräu Trum",
     "style": "Smoked - Rauchbier",
     "country": "Germany",
-    "link": "./Germany/Aecht_Schlenkerla_Rauchbier_M\u00e4rzen.html",
+    "link": "./Germany/Aecht_Schlenkerla_Rauchbier_Märzen.html",
     "rating": 4.0
   },
   {
     "beer": "Rittmayer Hallerndorfer Annafest  Bier",
     "brewer": "Brauerei Rittmayer Hallerndorf",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
     "link": "./Germany/Rittmayer_Hallerndorfer_Annafest__Bier.html",
     "rating": 3.2
@@ -6762,38 +6762,38 @@
   {
     "beer": "ABK Urbayrisch Dunkel",
     "brewer": "ABK Betriebsgesellschaft der Aktienbrauerei Kaufbeuren",
-    "style": "Dark Lager - Dunkel / Tmav\u00fd",
+    "style": "Dark Lager - Dunkel / Tmavý",
     "country": "Germany",
     "link": "./Germany/ABK_Urbayrisch_Dunkel.html",
     "rating": 3.3
   },
   {
-    "beer": "Fl\u00f6tzinger Br\u00e4u Wies\u2019n M\u00e4rzen",
-    "brewer": "Fl\u00f6tzinger Brauerei Franz Steegm\u00fcller",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "beer": "Flötzinger Bräu Wies’n Märzen",
+    "brewer": "Flötzinger Brauerei Franz Steegmüller",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
-    "link": "./Germany/Fl\u00f6tzinger_Br\u00e4u_Wies\u2019n_M\u00e4rzen.html",
+    "link": "./Germany/Flötzinger_Bräu_Wies’n_Märzen.html",
     "rating": 3.4
   },
   {
     "beer": "Andechser Spezial Hell",
     "brewer": "Klosterbrauerei Andechs",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
     "link": "./Germany/Andechser_Spezial_Hell.html",
     "rating": 3.5
   },
   {
-    "beer": "Wei\u00dfenoher Eucharius M\u00e4rzen",
-    "brewer": "Klosterbrauerei Wei\u00dfenohe",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "beer": "Weißenoher Eucharius Märzen",
+    "brewer": "Klosterbrauerei Weißenohe",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
-    "link": "./Germany/Wei\u00dfenoher_Eucharius_M\u00e4rzen.html",
+    "link": "./Germany/Weißenoher_Eucharius_Märzen.html",
     "rating": 3.9
   },
   {
     "beer": "Aecht Schlenkerla Weichsel",
-    "brewer": "Heller-Br\u00e4u Trum",
+    "brewer": "Heller-Bräu Trum",
     "style": "Smoked - Rauchbier",
     "country": "Germany",
     "link": "./Germany/Aecht_Schlenkerla_Weichsel.html",
@@ -6802,17 +6802,17 @@
   {
     "beer": "Flensburger Festbier",
     "brewer": "Flensburger Brauerei Emil Petersen",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
     "link": "./Germany/Flensburger_Festbier.html",
     "rating": 3.2
   },
   {
-    "beer": "Ayinger Festm\u00e4rzen",
+    "beer": "Ayinger Festmärzen",
     "brewer": "Brauerei Aying Franz Inselkammer",
-    "style": "M\u00e4rzen / Oktoberfest Bier",
+    "style": "Märzen / Oktoberfest Bier",
     "country": "Germany",
-    "link": "./Germany/Ayinger_Festm\u00e4rzen.html",
+    "link": "./Germany/Ayinger_Festmärzen.html",
     "rating": 3.4
   },
   {
@@ -6841,7 +6841,7 @@
   },
   {
     "beer": "Franziskaner Hefe-Weissbier / Weissbier Naturtrub",
-    "brewer": "Spaten-Franziskaner-Br\u00e4u",
+    "brewer": "Spaten-Franziskaner-Bräu",
     "style": "Weissbier - Hefeweizen",
     "country": "Germany",
     "link": "./Germany/Franziskaner_Hefe-Weissbier___Weissbier_Naturtrub.html",
@@ -6849,26 +6849,26 @@
   },
   {
     "beer": "Karlskrone Zitronen Radler",
-    "brewer": "Aldi Europe (Nord / S\u00fcd / Hofer)",
+    "brewer": "Aldi Europe (Nord / Süd / Hofer)",
     "style": "Radler / Shandy",
     "country": "Germany",
     "link": "./Germany/Karlskrone_Zitronen_Radler.html",
     "rating": 2.2
   },
   {
-    "beer": "Hofbr\u00e4u M\u00fcnchen Original",
-    "brewer": "Staatliches Hofbr\u00e4uhaus M\u00fcnchen",
+    "beer": "Hofbräu München Original",
+    "brewer": "Staatliches Hofbräuhaus München",
     "style": "Helles / Dortmunder Export",
     "country": "Germany",
-    "link": "./Germany/Hofbr\u00e4u_M\u00fcnchen_Original.html",
+    "link": "./Germany/Hofbräu_München_Original.html",
     "rating": 3.1
   },
   {
-    "beer": "Hofbr\u00e4u M\u00fcnchen Schwarze Weisse",
-    "brewer": "Staatliches Hofbr\u00e4uhaus M\u00fcnchen",
+    "beer": "Hofbräu München Schwarze Weisse",
+    "brewer": "Staatliches Hofbräuhaus München",
     "style": "Weissbier - Dunkelweizen",
     "country": "Germany",
-    "link": "./Germany/Hofbr\u00e4u_M\u00fcnchen_Schwarze_Weisse.html",
+    "link": "./Germany/Hofbräu_München_Schwarze_Weisse.html",
     "rating": 3.3
   },
   {
@@ -6880,19 +6880,19 @@
     "rating": 3.2
   },
   {
-    "beer": "Einst\u00f6k Icelandic White Ale",
-    "brewer": "Einst\u00f6k \u00d6lger\u00f0",
+    "beer": "Einstök Icelandic White Ale",
+    "brewer": "Einstök Ölgerð",
     "style": "Witbier / Belgian White Ale",
     "country": "Iceland",
-    "link": "./Iceland/Einst\u00f6k_Icelandic_White_Ale.html",
+    "link": "./Iceland/Einstök_Icelandic_White_Ale.html",
     "rating": 3.3
   },
   {
-    "beer": "Einst\u00f6k Icelandic Toasted Porter ",
-    "brewer": "Einst\u00f6k \u00d6lger\u00f0",
+    "beer": "Einstök Icelandic Toasted Porter ",
+    "brewer": "Einstök Ölgerð",
     "style": "Porter",
     "country": "Iceland",
-    "link": "./Iceland/Einst\u00f6k_Icelandic_Toasted_Porter_.html",
+    "link": "./Iceland/Einstök_Icelandic_Toasted_Porter_.html",
     "rating": 3.4
   },
   {
@@ -6936,11 +6936,11 @@
     "rating": 3.1
   },
   {
-    "beer": "Baj\u00f6n Euforia",
-    "brewer": "Birrificio Baj\u00f6n",
+    "beer": "Bajön Euforia",
+    "brewer": "Birrificio Bajön",
     "style": "IPA",
     "country": "Italy",
-    "link": "./Italy/Baj\u00f6n_Euforia.html",
+    "link": "./Italy/Bajön_Euforia.html",
     "rating": 3.5
   },
   {
@@ -7040,19 +7040,19 @@
     "rating": 3.6
   },
   {
-    "beer": "L\u00fcf Rossa",
-    "brewer": "Birrificio L\u00fcf",
+    "beer": "Lüf Rossa",
+    "brewer": "Birrificio Lüf",
     "style": "Red Ale - Irish",
     "country": "Italy",
-    "link": "./Italy/L\u00fcf_Rossa.html",
+    "link": "./Italy/Lüf_Rossa.html",
     "rating": 3.3
   },
   {
-    "beer": "Zago Abbaye de Bonne Esp\u00e9rance",
+    "beer": "Zago Abbaye de Bonne Espérance",
     "brewer": "Zago Birrificio Agricolo",
     "style": "Tripel",
     "country": "Italy",
-    "link": "./Italy/Zago_Abbaye_de_Bonne_Esp\u00e9rance.html",
+    "link": "./Italy/Zago_Abbaye_de_Bonne_Espérance.html",
     "rating": 3.5
   },
   {
@@ -7250,7 +7250,7 @@
   {
     "beer": "Birra di Fiemme Larixbier",
     "brewer": "Birra di Fiemme",
-    "style": "Dark Lager - Dunkel / Tmav\u00fd",
+    "style": "Dark Lager - Dunkel / Tmavý",
     "country": "Italy",
     "link": "./Italy/Birra_di_Fiemme_Larixbier.html",
     "rating": 3.0
@@ -7272,11 +7272,11 @@
     "rating": 3.1
   },
   {
-    "beer": "Monpi\u00ebr De Gherd\u00ebina  Wild Lichtenhainer",
-    "brewer": "Monpi\u00ebr De Gherd\u00ebina",
-    "style": "Grodziskie / Gr\u00e4tzer / Lichtenhainer",
+    "beer": "Monpiër De Gherdëina  Wild Lichtenhainer",
+    "brewer": "Monpiër De Gherdëina",
+    "style": "Grodziskie / Grätzer / Lichtenhainer",
     "country": "Italy",
-    "link": "./Italy/Monpi\u00ebr_De_Gherd\u00ebina__Wild_Lichtenhainer.html",
+    "link": "./Italy/Monpiër_De_Gherdëina__Wild_Lichtenhainer.html",
     "rating": 3.5
   },
   {
@@ -7464,11 +7464,11 @@
     "rating": 3.2
   },
   {
-    "beer": "Molo / BrewDog Gr\u00f9nerl\u00f8kka Howling Fjord",
+    "beer": "Molo / BrewDog Grùnerløkka Howling Fjord",
     "brewer": "Molo Brew",
     "style": "Stout - Flavored / Pastry",
     "country": "Norway",
-    "link": "./Norway/Molo___BrewDog_Gr\u00f9nerl\u00f8kka_Howling_Fjord.html",
+    "link": "./Norway/Molo___BrewDog_Grùnerløkka_Howling_Fjord.html",
     "rating": 3.5
   },
   {
@@ -7721,7 +7721,7 @@
   },
   {
     "beer": "Union Radler Grenivka (Grapefruit)",
-    "brewer": "Pivovarna Union (La\u0161ko - Heineken)",
+    "brewer": "Pivovarna Union (Laško - Heineken)",
     "style": "Radler / Shandy",
     "country": "Slovenia",
     "link": "./Slovenia/Union_Radler_Grenivka_(Grapefruit).html",
@@ -7744,11 +7744,11 @@
     "rating": 3.2
   },
   {
-    "beer": "Fj\u00e4derholmarnas BrewDog Kungsholmen / S\u00f6dermalm Crowbar Cold IPA",
-    "brewer": "Fj\u00e4derholmarnas Bryggeri",
+    "beer": "Fjäderholmarnas BrewDog Kungsholmen / Södermalm Crowbar Cold IPA",
+    "brewer": "Fjäderholmarnas Bryggeri",
     "style": "IPA",
     "country": "Sweden",
-    "link": "./Sweden/Fj\u00e4derholmarnas_BrewDog_Kungsholmen___S\u00f6dermalm_Crowbar_Cold_IPA.html",
+    "link": "./Sweden/Fjäderholmarnas_BrewDog_Kungsholmen___Södermalm_Crowbar_Cold_IPA.html",
     "rating": 3.2
   },
   {
@@ -7800,11 +7800,11 @@
     "rating": 2.8
   },
   {
-    "beer": "Goose Island Today\u2019s Haze",
+    "beer": "Goose Island Today’s Haze",
     "brewer": "Goose Island Beer Company (AB-InBev)",
     "style": "ISA - Session IPA",
     "country": "United States",
-    "link": "./United_States/Goose_Island_Today\u2019s_Haze.html",
+    "link": "./United_States/Goose_Island_Today’s_Haze.html",
     "rating": 3.3
   },
   {
@@ -7824,17 +7824,17 @@
     "rating": 3.4
   },
   {
-    "beer": "The Veil PRBLMS\u00b3",
+    "beer": "The Veil PRBLMS³",
     "brewer": "The Veil Brewing Company",
     "style": "IIPA DIPA - Imperial / Double Hazy (NEIPA)",
     "country": "United States",
-    "link": "./United_States/The_Veil_PRBLMS\u00b3.html",
+    "link": "./United_States/The_Veil_PRBLMS³.html",
     "rating": 3.9
   },
   {
     "beer": "Halfway Crooks Farina",
     "brewer": "Halfway Crooks Beer",
-    "style": "K\u00f6lsch / K\u00f6lsch-Style",
+    "style": "Kölsch / Kölsch-Style",
     "country": "United States",
     "link": "./United_States/Halfway_Crooks_Farina.html",
     "rating": 3.6
@@ -7881,7 +7881,7 @@
   },
   {
     "beer": "Purple Moose Snowdonia Ale / Cwrw Eryri",
-    "brewer": "Purple Moose Brewery (Y Bragdy Mw\u0302s Piws)",
+    "brewer": "Purple Moose Brewery (Y Bragdy Mŵs Piws)",
     "style": "Blonde Ale / Golden Ale",
     "country": "Wales",
     "link": "./Wales/Purple_Moose_Snowdonia_Ale___Cwrw_Eryri.html",
