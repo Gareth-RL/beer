@@ -1,37 +1,22 @@
 ---
-BeerID: 1198167
-Beer: Neon Raptor Crimes Against Brewing: Maple, Toffee, Pecan Pie
-Brewer: Neon Raptor Brewing Co.
-Aroma: 8.0
-Appearance: 4.0
-Taste: 8.0
-Palate: 4.0
-Overall: 17.0
-MyScore: 4.1
-Comments: Classic pastry scent - no subtlety maple toffee coffee chocolate. But great. Medium sweet to bitter rich toffee malt and syrup light coffee finish and a refresh of syrup. Medium bodied smooth texture soft carbonation and a syrupy finish.  Excellent
-Date: 9/16/2024 4:06:34 PM
-Country: England
-State: Nottinghamshire
-City: Nottingham
-Style: Stout - Imperial Flavored / Pastry
+layout: default
+title: Neon Raptor Crimes Against Brewing: Maple, Toffee, Pecan Pie
 ---
 
 # Neon Raptor Crimes Against Brewing: Maple, Toffee, Pecan Pie
 
-| Field         | Value |
-|---------------|-------|
-| **BeerID** | 1198167 |
-| **Beer** | Neon Raptor Crimes Against Brewing: Maple, Toffee, Pecan Pie |
-| **Brewer** | Neon Raptor Brewing Co. |
-| **Aroma** | 8.0 |
-| **Appearance** | 4.0 |
-| **Taste** | 8.0 |
-| **Palate** | 4.0 |
-| **Overall** | 17.0 |
-| **MyScore** | 4.1 |
-| **Comments** | Classic pastry scent - no subtlety maple toffee coffee chocolate. But great. Medium sweet to bitter rich toffee malt and syrup light coffee finish and a refresh of syrup. Medium bodied smooth texture soft carbonation and a syrupy finish.  Excellent |
-| **Date** | 9/16/2024 4:06:34 PM |
-| **Country** | England |
-| **State** | Nottinghamshire |
-| **City** | Nottingham |
-| **Style** | Stout - Imperial Flavored / Pastry |
+| Field         | Value                                                                                                   |
+|---------------|---------------------------------------------------------------------------------------------------------|
+| **Brewer**    | Neon Raptor Brewing Co.                                                                                        |
+| **Aroma**     | 8.0                                                                                         |
+| **Appearance**| 4.0                                                                                    |
+| **Taste**     | 8.0                                                                                         |
+| **Palate**    | 4.0                                                                                        |
+| **Overall**   | 17.0                                                                                       |
+| **MyScore**   | 4.1                                                                                       |
+| **Comments**  | Classic pastry scent - no subtlety maple toffee coffee chocolate. But great. Medium sweet to bitter rich toffee malt and syrup light coffee finish and a refresh of syrup. Medium bodied smooth texture soft carbonation and a syrupy finish.  Excellent                                                                                      |
+| **Date**      | 9/16/2024 4:06:34 PM                                                                                          |
+| **Country**   | England                                                                                       |
+| **State**     | Nottinghamshire                                                                                         |
+| **City**      | Nottingham                                                                                          |
+| **Style**     | Stout - Imperial Flavored / Pastry                                                                                         |

@@ -1,37 +1,22 @@
 ---
-BeerID: 458256
-Beer: Rodenbach Fruitage
-Brewer: Brouwerij Rodenbach (Swinkels Family Brewers)
-Aroma: 7.0
-Appearance: 4.0
-Taste: 6.0
-Palate: 4.0
-Overall: 12.0
-MyScore: 3.3
-Comments: Poured red with thin pink lace. Aroma decidedly cherry. Taste is sweet to lightly sour with cherry dominant with a hint of raspberry. A guest ale at Brewdog.
-Date: 8/29/2023 2:08:46 PM
-Country: Belgium
-State: West Flanders
-City: Roeselare
-Style: Flavored - Fruit
+layout: default
+title: Rodenbach Fruitage
 ---
 
 # Rodenbach Fruitage
 
-| Field         | Value |
-|---------------|-------|
-| **BeerID** | 458256 |
-| **Beer** | Rodenbach Fruitage |
-| **Brewer** | Brouwerij Rodenbach (Swinkels Family Brewers) |
-| **Aroma** | 7.0 |
-| **Appearance** | 4.0 |
-| **Taste** | 6.0 |
-| **Palate** | 4.0 |
-| **Overall** | 12.0 |
-| **MyScore** | 3.3 |
-| **Comments** | Poured red with thin pink lace. Aroma decidedly cherry. Taste is sweet to lightly sour with cherry dominant with a hint of raspberry. A guest ale at Brewdog. |
-| **Date** | 8/29/2023 2:08:46 PM |
-| **Country** | Belgium |
-| **State** | West Flanders |
-| **City** | Roeselare |
-| **Style** | Flavored - Fruit |
+| Field         | Value                                                                                                   |
+|---------------|---------------------------------------------------------------------------------------------------------|
+| **Brewer**    | Brouwerij Rodenbach (Swinkels Family Brewers)                                                                                        |
+| **Aroma**     | 7.0                                                                                         |
+| **Appearance**| 4.0                                                                                    |
+| **Taste**     | 6.0                                                                                         |
+| **Palate**    | 4.0                                                                                        |
+| **Overall**   | 12.0                                                                                       |
+| **MyScore**   | 3.3                                                                                       |
+| **Comments**  | Poured red with thin pink lace. Aroma decidedly cherry. Taste is sweet to lightly sour with cherry dominant with a hint of raspberry. A guest ale at Brewdog.                                                                                      |
+| **Date**      | 8/29/2023 2:08:46 PM                                                                                          |
+| **Country**   | Belgium                                                                                       |
+| **State**     | West Flanders                                                                                         |
+| **City**      | Roeselare                                                                                          |
+| **Style**     | Flavored - Fruit                                                                                         |

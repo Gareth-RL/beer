@@ -1,37 +1,22 @@
 ---
-BeerID: 487765
-Beer: Three Blind Mice Juice Rocket
-Brewer: Three Blind Mice Brewery
-Aroma: 7.0
-Appearance: 4.0
-Taste: 7.0
-Palate: 4.0
-Overall: 14.0
-MyScore: 3.6
-Comments: Poured murky golden body off white broken lace top. Aroma of tropical fruit papaya and pineapple prominent. Taste is medium sweet mango passion fruit and a twist of mandarin. Watery feel gummy texture average carbonation and a light bitter finish. It's been around awhile but my first Nottingham sighting. Edging towards NEIPA.
-Date: 10/17/2023 3:49:38 PM
-Country: England
-State: Cambridgeshire
-City: Little Downham
-Style: ISA - Session IPA
+layout: default
+title: Three Blind Mice Juice Rocket
 ---
 
 # Three Blind Mice Juice Rocket
 
-| Field         | Value |
-|---------------|-------|
-| **BeerID** | 487765 |
-| **Beer** | Three Blind Mice Juice Rocket |
-| **Brewer** | Three Blind Mice Brewery |
-| **Aroma** | 7.0 |
-| **Appearance** | 4.0 |
-| **Taste** | 7.0 |
-| **Palate** | 4.0 |
-| **Overall** | 14.0 |
-| **MyScore** | 3.6 |
-| **Comments** | Poured murky golden body off white broken lace top. Aroma of tropical fruit papaya and pineapple prominent. Taste is medium sweet mango passion fruit and a twist of mandarin. Watery feel gummy texture average carbonation and a light bitter finish. It's been around awhile but my first Nottingham sighting. Edging towards NEIPA. |
-| **Date** | 10/17/2023 3:49:38 PM |
-| **Country** | England |
-| **State** | Cambridgeshire |
-| **City** | Little Downham |
-| **Style** | ISA - Session IPA |
+| Field         | Value                                                                                                   |
+|---------------|---------------------------------------------------------------------------------------------------------|
+| **Brewer**    | Three Blind Mice Brewery                                                                                        |
+| **Aroma**     | 7.0                                                                                         |
+| **Appearance**| 4.0                                                                                    |
+| **Taste**     | 7.0                                                                                         |
+| **Palate**    | 4.0                                                                                        |
+| **Overall**   | 14.0                                                                                       |
+| **MyScore**   | 3.6                                                                                       |
+| **Comments**  | Poured murky golden body off white broken lace top. Aroma of tropical fruit papaya and pineapple prominent. Taste is medium sweet mango passion fruit and a twist of mandarin. Watery feel gummy texture average carbonation and a light bitter finish. It's been around awhile but my first Nottingham sighting. Edging towards NEIPA.                                                                                      |
+| **Date**      | 10/17/2023 3:49:38 PM                                                                                          |
+| **Country**   | England                                                                                       |
+| **State**     | Cambridgeshire                                                                                         |
+| **City**      | Little Downham                                                                                          |
+| **Style**     | ISA - Session IPA                                                                                         |
