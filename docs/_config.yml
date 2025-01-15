@@ -4,7 +4,7 @@ description: My ratings from ratebeer
 timezone: UTC
 lang: en
 author:
-  name: Your Name
+  name: Gareth
   email: your-email@example.com
 url: "https://gareth-rl.github.io"
 baseurl: "/beer"
@@ -15,7 +15,7 @@ plugins:
 header:
   logo:
     text: Beer Ratings
-    url: /
+    url: "{{ site.baseurl }}/"
 sass:
   load_paths:
     - _sass/custom
