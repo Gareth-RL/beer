@@ -2,6 +2,5 @@ title: Beer Ratings from Ratebeer
 description: Exports from my ratebeer records
 theme: jekyll-theme-cayman
 markdown: kramdown
-permalink: pretty
 plugins:
   - jekyll-sitemap
