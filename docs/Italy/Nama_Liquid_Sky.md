@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Nama Liquid Sky
+Appearance: 4.0
+Aroma: 7.0
+Beer: Nama Liquid Sky
+BeerID: 1017377
+Brewer: Nama Brewing
+City: '"Treviglio &#40;BG&#41;"'
+Comments: 'Poured golden body thin lace top.  Aroma of citrus floral hops -- melon
+  and mandarin.  Medium sweet to bitter with grapefruit and papaya added to the fruit
+  mix. Light to medium bodied smooth texture soft carbonation and a bitter finish.  My
+  second West Coast style IPA from an Italian craft brewery today and this one is
+  a lot mellower.  Dangerously session worthy. '
+Country: Italy
+Date: '"7/23/2024 11:48:17 AM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Lombardia
+Style: IPA
+Taste: 7.0
 ---
 
 # Nama Liquid Sky
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1017377 |
 | **Beer** | Nama Liquid Sky |
 | **Brewer** | Nama Brewing |

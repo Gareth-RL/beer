@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Founders All Day IPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: Founders All Day IPA
+BeerID: 141611
+Brewer: Founders Brewing Company (Mahou San Miguel)
+City: Grand Rapids
+Comments: 'Can. Pours golden with white top. Aroma citrus hop grapefruit. Taste medium
+  bitter. Palate thin feel, soft carbonation, bitter, '
+Country: United States
+Date: '"9/10/2017 11:38:05 AM"'
+MyScore: 3.0
+Overall: 13.0
+Palate: 3.0
+State: Michigan
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Founders All Day IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 141611 |
 | **Beer** | Founders All Day IPA |
 | **Brewer** | Founders Brewing Company (Mahou San Miguel) |

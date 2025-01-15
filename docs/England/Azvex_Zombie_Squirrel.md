@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Azvex Zombie Squirrel
+Appearance: 4.0
+Aroma: 7.0
+Beer: Azvex Zombie Squirrel
+BeerID: 1092511
+Brewer: Azvex Brewing Company
+City: Liverpool
+Comments: Poured dark brown body tan lace top. Aroma is primarily coffee malts with
+  hazelnut and cocoa for a praline effect. Taste is medium sweet to bitter with plenty
+  of praline and a nice coffee dusting in the finish. Medium bodied smooth texture
+  soft carbonation and a bitter finish. Nice
+Country: England
+Date: '"5/1/2023 3:35:49 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Merseyside
+Style: Porter - Flavored
+Taste: 8.0
 ---
 
 # Azvex Zombie Squirrel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1092511 |
 | **Beer** | Azvex Zombie Squirrel |
 | **Brewer** | Azvex Brewing Company |

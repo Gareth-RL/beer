@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Little Norse Code
+Appearance: 4.0
+Aroma: 6.0
+Beer: Little Norse Code
+BeerID: 1178028
+Brewer: Little Brewing Co. (prev Littleover Brewery)
+City: Derby
+Comments: 'Poured cloudy golden pale with white lace top. Citrus scent. Medium sweet
+  to bitter with definite orange and grapefruit notes at the start and a bread malt
+  finish. Medium bodied smooth texture average carbonation and a bitter finish. Unremarkable '
+Country: England
+Date: '"2/24/2024 7:06:29 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - Hazy / New England
+Taste: 6.0
 ---
 
 # Little Norse Code
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1178028 |
 | **Beer** | Little Norse Code |
 | **Brewer** | Little Brewing Co. (prev Littleover Brewery) |

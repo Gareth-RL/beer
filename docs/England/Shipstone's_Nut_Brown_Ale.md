@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Shipstone's Nut Brown Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Shipstone''s Nut Brown Ale"'
+BeerID: 392319
+Brewer: '"Shipstone&#39;s Beer Company"'
+City: Old Basford
+Comments: 'Cask. Pours dark chestnut with ruby lights and thin bubbly top broken lacing
+  diminishing. Aroma roasted malts and caramel. Taste slightly watery on the palate
+  but abiding biscuit malt savour. I can well imagine an evening in its company. A
+  memory of a past unrealized. 09/04/23 second sip '
+Country: England
+Date: '"2/10/2017 12:04:36 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Shipstone's Nut Brown Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 392319 |
 | **Beer** | Shipstone's Nut Brown Ale |
 | **Brewer** | Shipstone&#39;s Beer Company |

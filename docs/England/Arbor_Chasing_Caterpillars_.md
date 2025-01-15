@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Arbor Chasing Caterpillars 
+Appearance: 4.0
+Aroma: 7.0
+Beer: 'Arbor Chasing Caterpillars '
+BeerID: 596880
+Brewer: Arbor Ales
+City: Bristol
+Comments: '"Tap at the Overdraught. Pours hazy yellow with broken white lace halo.
+  Aroma is citric, orange peel and pineapple but with pine and floral background notes.
+  Taste is medium sweet to bitter then souring. Palate interfered. It&#39;s a sticky
+  beast although no more than medium bodied, soft carbonation, and a finish that feels
+  like a death sudden but lasting at the same time. Any beer that enables me to wax
+  lyrical, gets an extra point."'
+Country: England
+Date: '"3/30/2018 5:07:45 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Gloucestershire
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Arbor Chasing Caterpillars 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 596880 |
 | **Beer** | Arbor Chasing Caterpillars  |
 | **Brewer** | Arbor Ales |

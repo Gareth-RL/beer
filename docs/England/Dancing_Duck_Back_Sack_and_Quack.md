@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Dancing Duck Back Sack and Quack
+Appearance: 4.0
+Aroma: 6.0
+Beer: Dancing Duck Back Sack and Quack
+BeerID: 425444
+Brewer: Dancing Duck Brewery
+City: Derby
+Comments: Cask. The most exciting thing about this is the name. Aroma muted malts.
+  Pours dark with ruby lights. Tastes caramelized malts and fruity hops. Classed as
+  a smooth mild which makes me wonder about the rough ones. But palatable with a pleasant
+  viscous quality. I’d drink it again.
+Country: England
+Date: '"6/11/2016 10:26:29 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Dancing Duck Back Sack and Quack
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 425444 |
 | **Beer** | Dancing Duck Back Sack and Quack |
 | **Brewer** | Dancing Duck Brewery |

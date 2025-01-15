@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Abbeydale Hibernation
+Appearance: 4.0
+Aroma: 6.0
+Beer: Abbeydale Hibernation
+BeerID: 571944
+Brewer: Abbeydale Brewery
+City: Sheffield
+Comments: 'Poured hazy golden body thin lace top. Aroma of citrus hops. Medium sweet
+  to bitter grapefruit pineapple and lemon notes. Medium bodied smooth texture average
+  carbonation and a bitter finish. Pretty standard NW hop mix. '
+Country: England
+Date: '"3/15/2024 3:06:38 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: South Yorkshire
+Style: Pale Ale
+Taste: 6.0
 ---
 
 # Abbeydale Hibernation
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 571944 |
 | **Beer** | Abbeydale Hibernation |
 | **Brewer** | Abbeydale Brewery |

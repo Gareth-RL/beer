@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Alter Ego S'More Fire
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Alter Ego S''More Fire"'
+BeerID: 796987
+Brewer: Alter Ego Brewing Co.
+City: Alfreton
+Comments: '"Bottle. Poured black bodied with thin tan lacing. Aroma has a hint of
+  marshmallow. Taste is medium sweet with some berry fruits evident. Not much of a
+  transition to anything else, just a fading away and certainly the smoke eluded me.
+  Palate is medium to full due to the clammy texture, carbonation soft to average
+  and a lactose finish. My first from this Heanor outfit, and while this is not a
+  rave review, the beer is pleasant enough to ensure that if I have my way, it will
+  not be the last. It''s certainly seasonal fare."'
+Country: England
+Date: '"11/23/2020 4:05:27 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Stout - Milk / Sweet
+Taste: 6.0
 ---
 
 # Alter Ego S'More Fire
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 796987 |
 | **Beer** | Alter Ego S'More Fire |
 | **Brewer** | Alter Ego Brewing Co. |

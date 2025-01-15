@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Lamplighter Microdose
+Appearance: 3.0
+Aroma: 6.0
+Beer: Lamplighter Microdose
+BeerID: 728253
+Brewer: Lamplighter Brewing Company
+City: Cambridge
+Comments: '"A session IPA that is as cloudy as a NEIPA. A little fruit and herbal
+  hops in the nose but mainly pale malts. Taste is lightly sweet to medium bitter.
+  Palate is medium bodied oily texture soft to average carbonation and a bitter finish.
+  It wouldn''t be my choice for a session, but then again, those are getting rarer.
+  Still, they''re other pales are superior to this one. "'
+Country: United States
+Date: '"5/5/2019 4:39:36 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 4.0
+State: Massachusetts
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Lamplighter Microdose
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 728253 |
 | **Beer** | Lamplighter Microdose |
 | **Brewer** | Lamplighter Brewing Company |

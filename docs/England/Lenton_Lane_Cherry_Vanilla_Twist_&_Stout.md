@@ -1,12 +1,33 @@
 ---
-layout: default
-title: Lenton Lane Cherry Vanilla Twist & Stout
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lenton Lane Cherry Vanilla Twist & Stout
+BeerID: 1064128
+Brewer: Lenton Lane Brewery
+City: Nottingham
+Comments: '"Poured cola black with thin tan lacing. Aroma of cherry more than vanilla
+  as well as dark malts. Taste is sweet to bitter with the vanilla at the front and
+  the cherry lurking through to the back. Palate is medium to watery, smooth apart
+  from a bit of dust in the finish, carbonation average, and the finish, bitter. I
+  am always wary of these flavour boosts to established stouts and porters, especially
+  as I like the original. Predictably, while I admit there is cherry and vanilla here,
+  I prefer the unadorned original. If improvement is needed on the stout, it''s the
+  palate not the taste that needs a boost. 27/03/2024 second sipping and the same
+  opinion."'
+Country: England
+Date: '"11/12/2022 6:14:31 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Stout - Flavored / Pastry
+Taste: 6.0
 ---
 
 # Lenton Lane Cherry Vanilla Twist & Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1064128 |
 | **Beer** | Lenton Lane Cherry Vanilla Twist & Stout |
 | **Brewer** | Lenton Lane Brewery |

@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Bosteels  Adrienne - Limited Release 2019 Single Batch BBB02
+Appearance: 4.0
+Aroma: 6.0
+Beer: Bosteels  Adrienne - Limited Release 2019 Single Batch BBB02
+BeerID: 780629
+Brewer: Brouwerij Bosteels (AB InBev)
+City: Buggenhout
+Comments: '"Poured very yellow pale, clear with full white lace top. Grassy lemony
+  scent. Taste is similarly citric but with a slight sherbet undernote so that the
+  initial taste is sweeter. Short finish. Palate is medium to thin, sticky feel, soft
+  to average carbonation with a short sour/bitter finish. I was not wowed by elder-flower
+  but then I don''t seek it in a beer. I have to admit that my Belgian quotient isn''t
+  that high either and tends towards the darker and more robust ones so this plain
+  pale rather pales by comparison"'
+Country: Belgium
+Date: '"2/20/2020 7:36:26 PM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: East Flanders
+Style: Belgian Ale - Pale / Golden / Single
+Taste: 6.0
 ---
 
 # Bosteels  Adrienne - Limited Release 2019 Single Batch BBB02
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 780629 |
 | **Beer** | Bosteels  Adrienne - Limited Release 2019 Single Batch BBB02 |
 | **Brewer** | Brouwerij Bosteels (AB InBev) |

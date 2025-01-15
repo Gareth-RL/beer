@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Wiper and True Citrus Bay
+Appearance: 4.0
+Aroma: 7.0
+Beer: Wiper and True Citrus Bay
+BeerID: 498006
+Brewer: Wiper and True Brewing Co.
+City: Bristol
+Comments: Listed as Citrus Bay 2. Keg. Aroma caramel malts and grapefruit and pineapples
+  for the hops. Pours dark orange with thin lacing. Marmalade notes. Taste is medium
+  to heavy sweet and richly so given the abv. It makes me wonder where in the scheme
+  of things Imperial ales belong? A treat? End of the evening? Solo tasting?
+Country: England
+Date: '"8/4/2017 6:55:23 AM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Gloucestershire
+Style: IIPA DIPA - Imperial / Double IPA
+Taste: 8.0
 ---
 
 # Wiper and True Citrus Bay
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 498006 |
 | **Beer** | Wiper and True Citrus Bay |
 | **Brewer** | Wiper and True Brewing Co. |

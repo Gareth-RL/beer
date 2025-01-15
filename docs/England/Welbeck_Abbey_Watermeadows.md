@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Welbeck Abbey Watermeadows
+Appearance: 4.0
+Aroma: 5.0
+Beer: Welbeck Abbey Watermeadows
+BeerID: 507444
+Brewer: Welbeck Abbey Brewery
+City: Welbeck
+Comments: 'Poured clear golden white lace wash. Aroma has very light grassy hops.
+  Taste is lightly sweet to bitter with not a lot going on. Bland is too big a word.
+  Although I did detect some tea; Palate is thin watery average to soft carbonation
+  and a bitter finish. Labeled Spring, maybe it will taste better in a month or two '
+Country: England
+Date: '"1/31/2022 5:17:21 PM"'
+MyScore: 2.8
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 5.0
 ---
 
 # Welbeck Abbey Watermeadows
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 507444 |
 | **Beer** | Welbeck Abbey Watermeadows |
 | **Brewer** | Welbeck Abbey Brewery |

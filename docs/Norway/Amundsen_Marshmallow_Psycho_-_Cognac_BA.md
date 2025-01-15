@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Amundsen Marshmallow Psycho - Cognac BA
+Appearance: 4.0
+Aroma: 8.0
+Beer: Amundsen Marshmallow Psycho - Cognac BA
+BeerID: 535005
+Brewer: Amundsen Bryggeri
+City: Oslo
+Comments: '"Tap at the Junkyard Nottingham. Pours dark brown with tan cream top. Aroma
+  has indeed marshmallow of the sort found floating in chocolate. And a shimmer of
+  Alcohol. Taste is intensely sweet like fun fair candy but what is impressive is
+  the offset of the alcohol - no burn at all. Palate is medium bodied, smooth texture,
+  soft carbonation and a long sweet finish &#40;you may need to see a dentist&#41;."'
+Country: Norway
+Date: '"8/2/2018 5:33:55 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Oslo
+Style: Stout - Imperial Flavored / Pastry
+Taste: 7.0
 ---
 
 # Amundsen Marshmallow Psycho - Cognac BA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 535005 |
 | **Beer** | Amundsen Marshmallow Psycho - Cognac BA |
 | **Brewer** | Amundsen Bryggeri |

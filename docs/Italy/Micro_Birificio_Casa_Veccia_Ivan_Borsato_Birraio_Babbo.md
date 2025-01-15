@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Micro Birificio Casa Veccia Ivan Borsato Birraio Babbo
+Appearance: 3.0
+Aroma: 6.0
+Beer: Micro Birificio Casa Veccia Ivan Borsato Birraio Babbo
+BeerID: 888763
+Brewer: Micro Birificio Casa Veccia Ivan Borsato Birraio
+City: Povegliano
+Comments: Cloudy brown body with thin lace top.  Aroma has sweetened malts with a
+  honey note. Taste is medium sweet with the honeyed toffee quality evident. This
+  sours to a harsher alcoholic finish. Palate is medium bodied sticky feel average
+  carbonation and a sour finish. The more I drank the less I liked it.
+Country: Italy
+Date: '"1/6/2021 12:17:29 PM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Veneto
+Style: Flavored - Other
+Taste: 6.0
 ---
 
 # Micro Birificio Casa Veccia Ivan Borsato Birraio Babbo
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 888763 |
 | **Beer** | Micro Birificio Casa Veccia Ivan Borsato Birraio Babbo |
 | **Brewer** | Micro Birificio Casa Veccia Ivan Borsato Birraio |

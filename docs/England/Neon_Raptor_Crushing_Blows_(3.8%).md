@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Neon Raptor Crushing Blows (3.8%)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neon Raptor Crushing Blows (3.8%)
+BeerID: 857711
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: Aroma has plenty of juicy hops yielding the familiar grapefruit, melon and
+  pine notes. Pours a decidedly hazy pale gold with white foam settling to a lasting
+  loose white lacing. Taste is medium sweet to sour with the grapefruit developing
+  a thicker pith; some may dislike the slightly thicker soapy finish. The general
+  palate is medium, oily feel, average carbonation that adds some fizz to the texture
+  and then this thicker finish. I can imagine a session of this on a nice warm day.
+Country: England
+Date: '"9/28/2020 3:55:22 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale - Hazy / New England
+Taste: 7.0
 ---
 
 # Neon Raptor Crushing Blows (3.8%)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 857711 |
 | **Beer** | Neon Raptor Crushing Blows (3.8%) |
 | **Brewer** | Neon Raptor Brewing Co. |

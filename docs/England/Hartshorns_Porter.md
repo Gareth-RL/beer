@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Hartshorns Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Hartshorns Porter
+BeerID: 253251
+Brewer: Hartshorns Brewery
+City: Derby
+Comments: Cask. Pours mahogany with ruby tints and cream tan top. Good lacing. Aroma
+  pleasant caramel malt with toffee . Some licorice and cherry in the taste and for
+  a light to medium bodied ale some good salty savour on the palate. It grows on you.
+  Another one to return to.
+Country: England
+Date: '"3/10/2016 1:41:33 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Derbyshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Hartshorns Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 253251 |
 | **Beer** | Hartshorns Porter |
 | **Brewer** | Hartshorns Brewery |

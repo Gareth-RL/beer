@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Monty's Sunshine
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Monty''s Sunshine"'
+BeerID: 100824
+Brewer: '"Monty&#39;s Brewery"'
+City: Montgomery, Montgomeryshire
+Comments: Pours orange golden body and sizeable, lasting foam top. Aroma has a marmalade,
+  honeyed apricot scent. Taste is medium sweet to bitter with a definite tang in the
+  finish. Palate is medium to thin bodied, slightly grainy in texture, average carbonation
+  and a lasting bitter finish. My first Monty and a decent session ale.
+Country: Wales
+Date: '"9/13/2021 1:47:57 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Powys
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Monty's Sunshine
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 100824 |
 | **Beer** | Monty's Sunshine |
 | **Brewer** | Monty&#39;s Brewery |

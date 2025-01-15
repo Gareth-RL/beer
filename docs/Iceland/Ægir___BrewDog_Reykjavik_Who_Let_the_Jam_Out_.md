@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Ægir / BrewDog Reykjavik Who Let the Jam Out?
+Appearance: 4.0
+Aroma: 7.0
+Beer: Ægir / BrewDog Reykjavik Who Let the Jam Out?
+BeerID: 777584
+Brewer: Ægir Brugghús (Viking Ölgerd)
+City: Reykjavík
+Comments: Lots of berries in the scent. Pours purple with pink lacing. Taste is medium
+  sweet to full sour with some moments of toothpaste with fruit juice. Palate is medium
+  bodied clammy feel soft carbonation and a long sour finish. Some jagged curdling
+  transition points in this.
+Country: Iceland
+Date: '"10/18/2019 3:30:52 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: .nan
+Style: Sour / Wild Beer - Flavored
+Taste: 5.0
 ---
 
 # Ægir / BrewDog Reykjavik Who Let the Jam Out?
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 777584 |
 | **Beer** | Ægir / BrewDog Reykjavik Who Let the Jam Out? |
 | **Brewer** | Ægir Brugghús (Viking Ölgerd) |

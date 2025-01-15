@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Idle Valley Mild Revolution
+Appearance: 4.0
+Aroma: 5.0
+Beer: Idle Valley Mild Revolution
+BeerID: 457712
+Brewer: Idle Valley Brewing
+City: Retford
+Comments: Cask. Pours dark chestnut with cream white head and thick lace. Aroma cooked
+  veg. Taste bread malts. Dull. Enough to stop a revolution.
+Country: England
+Date: '"4/11/2017 11:46:18 AM"'
+MyScore: 2.8
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 5.0
 ---
 
 # Idle Valley Mild Revolution
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 457712 |
 | **Beer** | Idle Valley Mild Revolution |
 | **Brewer** | Idle Valley Brewing |

@@ -1,12 +1,27 @@
 ---
-layout: default
-title: AllGates Florida
+Appearance: 4.0
+Aroma: 4.0
+Beer: AllGates Florida
+BeerID: 351247
+Brewer: Wigan Brew House (prev AllGates)
+City: Wigan
+Comments: Certainly citrusy on the nose. festival end so it looks a bit flat. Golden
+  colour.It has a sharp edge from its medley of hops and it may relish a chilly cellar.
+  A pleasant freshness on the palate and a lingering fullness. Solid.
+Country: England
+Date: '"7/12/2015 9:57:51 AM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Greater Manchester
+Style: ISA - Session IPA
+Taste: 7.0
 ---
 
 # AllGates Florida
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 351247 |
 | **Beer** | AllGates Florida |
 | **Brewer** | Wigan Brew House (prev AllGates) |

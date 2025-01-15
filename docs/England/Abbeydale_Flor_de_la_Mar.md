@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Abbeydale Flor de la Mar
+Appearance: 4.0
+Aroma: 7.0
+Beer: Abbeydale Flor de la Mar
+BeerID: 464917
+Brewer: Abbeydale Brewery
+City: Sheffield
+Comments: Cask. Pungently citrus and sherbet. Pours golden pale with white lace top.
+  It sys pale on the pump clip and boasts of centennial hops but the lager ascription
+  is more a product of distant Spanish holidays. That said, there’s more flavour than
+  the term implies for me. And the finish is soft rather than crisp so forgive the
+  blunder but it’s not an IPA either. But it’s the best of a brief survey.
+Country: England
+Date: '"11/18/2016 12:06:09 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: South Yorkshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Abbeydale Flor de la Mar
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 464917 |
 | **Beer** | Abbeydale Flor de la Mar |
 | **Brewer** | Abbeydale Brewery |

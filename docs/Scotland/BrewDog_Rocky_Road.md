@@ -1,12 +1,30 @@
 ---
-layout: default
-title: BrewDog Rocky Road
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog Rocky Road
+BeerID: 1206688
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: A pastry stout indeed. Aroma of jammy marshmallow.  Pours black body tan
+  halo.  Full sweet with the only light bitterness coming from chocolate notes, but
+  these are eclipsed by raspberry fruit and vanilla candy. Thin, but sticky, average
+  carbonation, and a sweet finish to match the start. One should not complain,  even
+  if the synthetic sweet notes a overwhelming.  It promises just that. And the 6.8%
+  abv slips by.
+Country: Scotland
+Date: '"10/30/2024 3:07:15 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Grampian
+Style: Stout - Flavored / Pastry
+Taste: 6.0
 ---
 
 # BrewDog Rocky Road
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1206688 |
 | **Beer** | BrewDog Rocky Road |
 | **Brewer** | BrewDog |

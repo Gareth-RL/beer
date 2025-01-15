@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Dukeries Black Swan
+Appearance: 5.0
+Aroma: 6.0
+Beer: Dukeries Black Swan
+BeerID: 381256
+Brewer: Dukeries Brewery
+City: Worksop
+Comments: '"Listed as a dark mild. On draught at the Roebuck &#40;JDW&#41;. Pours
+  black cream head. Caramel malt notes in the aroma. A smooth balanced ale with biscuit
+  malt and hoppy bitterness paralleled to the point of cancellation.Modest pleasant
+  carbonation but no great languor on the palate. In short, it glides down like a
+  swan and if itâ€™s night, you may nit even notice its passing. 28/07/17 Cask. Aroma
+  has cereal, resin, leather, woody, raisin, there’s plenty there. A dark ruby body
+  with a tan foam top. Taste is medium bitter with caramel sweetness softening throughout.
+  Palate is  creamy. Not a  great mild but not a bad beer."'
+Country: England
+Date: '"12/11/2015 12:15:43 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Dukeries Black Swan
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 381256 |
 | **Beer** | Dukeries Black Swan |
 | **Brewer** | Dukeries Brewery |

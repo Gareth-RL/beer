@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Cambridge House Lager
+Appearance: 3.0
+Aroma: 7.0
+Beer: Cambridge House Lager
+BeerID: 341120
+Brewer: Cambridge Brewing Company (Castle Island Brewing)
+City: Cambridge
+Comments: '"Aroma is grassy herbal hop besides which the malts pale. Pours a cloudy
+  pale lemon to orange - if it were a urine sample, the horse would not run. But the
+  taste is well what one expects. Of Zwickel lager, that is; my knowledge only stretches
+  so far. It speaks of a crisp bitterness with some light sweetness lest sourness
+  intrudes. A beer for summer, then. And so to the palate: light to medium bodied,
+  slick feel, average carbonation and a crisp finish. So the lager serves the house
+  well enough until the true Franconians arrive "'
+Country: United States
+Date: '"4/27/2019 9:13:31 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Massachusetts
+Style: Zwickelbier / Kellerbier / Landbier
+Taste: 7.0
 ---
 
 # Cambridge House Lager
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 341120 |
 | **Beer** | Cambridge House Lager |
 | **Brewer** | Cambridge Brewing Company (Castle Island Brewing) |

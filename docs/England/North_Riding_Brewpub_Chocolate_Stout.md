@@ -1,12 +1,28 @@
 ---
-layout: default
-title: North Riding Brewpub Chocolate Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: North Riding Brewpub Chocolate Stout
+BeerID: 306267
+Brewer: North Riding Brewpub
+City: Scarborough
+Comments: Poured dark brown almost black body chocolate malt top. Aroma of cocoa nibs
+  and dark malts. Taste is medium sweet to bitter with chocolate throughout. Medium
+  bodied smooth texture average carbonation and a slightly dry finish. 5.5% abv according
+  to the pump clip
+Country: England
+Date: '"1/23/2024 5:15:17 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: North Yorkshire
+Style: Stout
+Taste: 7.0
 ---
 
 # North Riding Brewpub Chocolate Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 306267 |
 | **Beer** | North Riding Brewpub Chocolate Stout |
 | **Brewer** | North Riding Brewpub |

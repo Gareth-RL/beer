@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Whiplash Body Riddle
+Appearance: 3.0
+Aroma: 7.0
+Beer: Whiplash Body Riddle
+BeerID: 527682
+Brewer: Whiplash
+City: Dublin
+Comments: '"Floral soft tropical fruit aroma peach and red grapefruit. Poured hazy
+  golden body loose white foam top. Taste is medium sweet with more of a citric take--so
+  more grapefruit and some light lemon. Palate is medium to light bodied, juicy feel,
+  average to soft carbonation and a light bitter finish with lingering fruitiness.
+  Certainly a full hop range evident with a modest pale malt providing easy drinking.
+  Part of HonestBrew''s St Patrick''s Day sampling."'
+Country: Ireland
+Date: '"3/26/2022 12:31:41 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: County Dublin
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Whiplash Body Riddle
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 527682 |
 | **Beer** | Whiplash Body Riddle |
 | **Brewer** | Whiplash |

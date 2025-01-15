@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Wiper and True Stout Milk Shake
+Appearance: 4.0
+Aroma: 8.0
+Beer: Wiper and True Stout Milk Shake
+BeerID: 255332
+Brewer: Wiper and True Brewing Co.
+City: Bristol
+Comments: '"Aroma of milk chocolate and vanilla latte. Pours dark brown almost black
+  bodied with thin lace top. Taste is medium sweet but there''s a backnote of lactic
+  toothpaste bewilderment. Palate is medium bodied clammy feel average to soft carbonation
+  and a light bitter finish. Still decent despite the taste confusions."'
+Country: England
+Date: '"11/16/2019 6:19:53 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Gloucestershire
+Style: Stout - Milk / Sweet
+Taste: 6.0
 ---
 
 # Wiper and True Stout Milk Shake
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 255332 |
 | **Beer** | Wiper and True Stout Milk Shake |
 | **Brewer** | Wiper and True Brewing Co. |

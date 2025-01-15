@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Batemans / Young Henrys Real Ale
+Appearance: 4.0
+Aroma: 5.0
+Beer: Batemans / Young Henrys Real Ale
+BeerID: 359865
+Brewer: Batemans
+City: Wainfleet
+Comments: Cask. Aroma biscuity malty with hints of spice. Light copper body lasting
+  thin lace top. Taste is balanced with malts at the fore and hops to the rear so
+  one moves from smooth to sharp; mild caramel to acidic bitter, although neither
+  is pronounced. Fine but bland. A safe beer for a session but not one to travel to
+  find.
+Country: England
+Date: '"10/23/2015 11:17:29 AM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Lincolnshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Batemans / Young Henrys Real Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 359865 |
 | **Beer** | Batemans / Young Henrys Real Ale |
 | **Brewer** | Batemans |

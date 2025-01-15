@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Lymestone Cherry Stone
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lymestone Cherry Stone
+BeerID: 240382
+Brewer: Lymestone Brewery
+City: Stone
+Comments: '"Poured light golden body white lace top. Aroma of pale malt and cherry
+  fruit. Medium+ sweetness as the cherry is more evident in the taste but there is
+  a transition to a grainy bitter finish. Medium bodied slightly grainy texture average
+  carbonation and a bitter finish. But, as others note, it''s undeniably artificial
+  in flavouring. Not for the Belgians "'
+Country: England
+Date: '"5/21/2024 10:57:28 AM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Staffordshire
+Style: Flavored - Fruit
+Taste: 7.0
 ---
 
 # Lymestone Cherry Stone
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 240382 |
 | **Beer** | Lymestone Cherry Stone |
 | **Brewer** | Lymestone Brewery |

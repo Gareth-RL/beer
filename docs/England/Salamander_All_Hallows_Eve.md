@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Salamander All Hallows Eve
+Appearance: 4.0
+Aroma: 5.0
+Beer: Salamander All Hallows Eve
+BeerID: 460097
+Brewer: Stubbee Brewery (including Salamander Brewing Co.)
+City: Bradford
+Comments: '"Cask. Scent sour musty yeasty. Pours pale amber white top. Taste soft
+  fruits and bread malts. Slightly resinous finish. It’s not clear what this is aiming
+  for. It is neither an easy drinking session bitter nor an ESB. Tastes like a blonde
+  gone wrong &#40;and not as good as that may sound to some.&#41;"'
+Country: England
+Date: '"11/3/2016 2:14:19 PM"'
+MyScore: 2.7
+Overall: 10.0
+Palate: 3.0
+State: West Yorkshire
+Style: Bitter - Ordinary / Best
+Taste: 5.0
 ---
 
 # Salamander All Hallows Eve
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 460097 |
 | **Beer** | Salamander All Hallows Eve |
 | **Brewer** | Stubbee Brewery (including Salamander Brewing Co.) |

@@ -1,12 +1,31 @@
 ---
-layout: default
-title: BrewDog Bird Brained Barracuda
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog Bird Brained Barracuda
+BeerID: 757146
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: '"Dark malty nose: boozy, coffee licorice. Pours black bodied with tan lace
+  top. Taste is medium sweet to bitter but with the alcohol heat evident throughout.
+  Palate is medium bodied sticky feel soft to average carbonation and a boozy finish.  Too
+  boozy for the palate but I guess it might otherwise be sweeter. 03/05/20 Second
+  sipping from the can. The taste was better in the sense of less heat and hence the
+  palate improved. Maybe the barrel aged ales welcome further confinement; unlike
+  humans."'
+Country: Scotland
+Date: '"8/12/2019 4:03:07 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Grampian
+Style: Porter - Imperial Flavored
+Taste: 8.0
 ---
 
 # BrewDog Bird Brained Barracuda
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 757146 |
 | **Beer** | BrewDog Bird Brained Barracuda |
 | **Brewer** | BrewDog |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Winter Hill Darlin's IPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Winter Hill Darlin''s IPA"'
+BeerID: 408102
+Brewer: Winter Hill Brewing Company
+City: Somerville
+Comments: Tried at the Park restaurant bar near Harvard. Pours a rich amber with a
+  white halo. Aroma has toffee malt but with a sour note that is off-putting. Taste
+  is medium sweet to sour, with toffee evident throughout which for me is unusual
+  in an IPA. Palate is medium bodied, sticky feel, average carbonation and a sour
+  finish. Overall it improves after the initial inhalation.
+Country: United States
+Date: '"7/11/2018 2:12:29 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Massachusetts
+Style: IPA
+Taste: 6.0
 ---
 
 # Winter Hill Darlin's IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 408102 |
 | **Beer** | Winter Hill Darlin's IPA |
 | **Brewer** | Winter Hill Brewing Company |

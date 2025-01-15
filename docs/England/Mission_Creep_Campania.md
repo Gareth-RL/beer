@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Mission Creep Campania
+Appearance: 4.0
+Aroma: 8.0
+Beer: Mission Creep Campania
+BeerID: 724453
+Brewer: Team Toxic
+City: Birkenhead
+Comments: Cask at the Crafty Crow. Pours black with thin tan lace. Aroma bespeaks
+  the name vanilla chocolate and strawberry. Taste is emphatically sweet with strawberry
+  and cream. Light bitter finish. Palate is thin to medium bodied some initial lactic
+  creaminess but it dissipates. Soft carbonation and a light bitter finish. No one
+  buying a Neapolitan ice cream stout should be disappointed but palate wise it lacks.
+  ( God, I am harsh!)
+Country: England
+Date: '"10/28/2019 5:47:07 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Merseyside
+Style: Stout - Milk / Sweet
+Taste: 7.0
 ---
 
 # Mission Creep Campania
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 724453 |
 | **Beer** | Mission Creep Campania |
 | **Brewer** | Team Toxic |

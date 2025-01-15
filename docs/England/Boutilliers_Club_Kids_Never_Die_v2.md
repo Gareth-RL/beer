@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Boutilliers Club Kids Never Die v2
+Appearance: 4.0
+Aroma: 7.0
+Beer: Boutilliers Club Kids Never Die v2
+BeerID: 782559
+Brewer: Boutilliers
+City: Faversham
+Comments: Floral sour yeasty nose pours hazy orange body with white lace. Taste is
+  medium sweet to sour with good fruit  Mango and pomegranate noted. Palate is medium
+  bodied sticky feel average carbonation and a sour finish. Overall it has a lot more
+  character than several saison ales around currently.
+Country: England
+Date: '"11/3/2019 6:08:59 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Kent
+Style: Saison / Farmhouse / Grisette
+Taste: 7.0
 ---
 
 # Boutilliers Club Kids Never Die v2
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 782559 |
 | **Beer** | Boutilliers Club Kids Never Die v2 |
 | **Brewer** | Boutilliers |

@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Little Brewing Epiphany
+Appearance: 4.0
+Aroma: 6.0
+Beer: Little Brewing Epiphany
+BeerID: 578227
+Brewer: Little Brewing Co. (prev Littleover Brewery)
+City: Derby
+Comments: '"Cask at Room with a Brew Nottingham. Pours murky orange brown with little
+  head so I swopped it! Barrel end. But what I hd was lightly citrus hops on the nose
+  and medium sweet to bitter on the tongue. Palate was also medium oily feel average
+  carbonation and bitter finish. So if the dregs see this good, the rest should be
+  superior. Second sipping 22/01/24 Five years later. And a better specimen  Clear
+  golden body thin lace top.  Citrus fruit aroma. Medium sweet to bitter. Medium bodied
+  smooth texture average carbonation and a bitter finish. @Sir John borlase Warren
+  "'
+Country: England
+Date: '"8/9/2018 5:21:00 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Little Brewing Epiphany
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 578227 |
 | **Beer** | Little Brewing Epiphany |
 | **Brewer** | Little Brewing Co. (prev Littleover Brewery) |

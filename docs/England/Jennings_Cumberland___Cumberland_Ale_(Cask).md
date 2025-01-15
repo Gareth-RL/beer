@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Jennings Cumberland / Cumberland Ale (Cask)
+Appearance: 4.0
+Aroma: 5.0
+Beer: Jennings Cumberland / Cumberland Ale (Cask)
+BeerID: 44986
+Brewer: '"Jennings Brewery (Carlsberg Marston&#39;s Brewing Co.)"'
+City: Cockermouth
+Comments: 'Cask. Muted fruit scent. Orange gold body full white top strong lacing.
+  But a really uninspiring ordinary standard taste. Jennings can and should do better.
+  Hell,the water in Cumberland can taste this good. 25/05/18 second helping was slightly
+  better '
+Country: England
+Date: '"2/14/2017 2:06:50 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 4.0
+State: Cumbria
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Jennings Cumberland / Cumberland Ale (Cask)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 44986 |
 | **Beer** | Jennings Cumberland / Cumberland Ale (Cask) |
 | **Brewer** | Jennings Brewery (Carlsberg Marston&#39;s Brewing Co.) |

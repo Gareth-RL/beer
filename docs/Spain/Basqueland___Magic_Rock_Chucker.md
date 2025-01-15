@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Basqueland / Magic Rock Chucker
+Appearance: 4.0
+Aroma: 7.0
+Beer: Basqueland / Magic Rock Chucker
+BeerID: 568348
+Brewer: Basqueland Brewing
+City: Hernani
+Comments: Tap at the Junkyard. Pours cloudy pale orange with halo of thin lace. Aroma
+  is hoppy  floral, spruce, citrus, with tangerine foremost. Taste is medium sweet
+  to lightly bitter. Palate is medium to light body, oily feel, average to lively
+  carbonation, and a light sour finish. Overall a juicy session ale with some APA
+  features.
+Country: Spain
+Date: '"1/22/2018 6:14:16 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Basque Country
+Style: ISA - Session IPA
+Taste: 7.0
 ---
 
 # Basqueland / Magic Rock Chucker
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 568348 |
 | **Beer** | Basqueland / Magic Rock Chucker |
 | **Brewer** | Basqueland Brewing |

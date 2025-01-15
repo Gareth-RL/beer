@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Blue Monkey Primate
+Appearance: 4.0
+Aroma: 6.0
+Beer: Blue Monkey Primate
+BeerID: 775518
+Brewer: Blue Monkey Brewery
+City: Nottingham
+Comments: 'Aroma has classic berry hops and roasted bread malts. Pours copper brown
+  white lace. Taste is medium sweet to bitter with a pleasant fruitiness. Palate is
+  medium bodied oily texture average carbonation and a bitter finish. A classic bitter
+  21/09/23 second sipping. Same result 16/11/24 still session worthy '
+Country: England
+Date: '"10/10/2019 5:39:33 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Blue Monkey Primate
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 775518 |
 | **Beer** | Blue Monkey Primate |
 | **Brewer** | Blue Monkey Brewery |

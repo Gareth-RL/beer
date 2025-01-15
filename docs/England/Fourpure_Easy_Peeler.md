@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Fourpure Easy Peeler
+Appearance: 4.0
+Aroma: 6.0
+Beer: Fourpure Easy Peeler
+BeerID: 594126
+Brewer: Fourpure Brewing Co. (Odyssey Inns)
+City: Bermondsey
+Comments: Poured clear pale yellow body and diminishing white lacing. Aroma has orange
+  peel and grassy notes. Taste is medium sweet with more citric juiciness, some sourness
+  in the transition, and a light bitter finish. Happily have a session. Palate is
+  light to medium bodied slightly sticky texture with average carbonation and a crisp
+  bitter finish. A good session beer for a summer afternoon moreish.
+Country: England
+Date: '"6/20/2020 3:33:27 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Greater London
+Style: ISA - Session IPA
+Taste: 8.0
 ---
 
 # Fourpure Easy Peeler
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 594126 |
 | **Beer** | Fourpure Easy Peeler |
 | **Brewer** | Fourpure Brewing Co. (Odyssey Inns) |

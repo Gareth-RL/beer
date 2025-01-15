@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Magic Rock Telepathy (7.2%)
+Appearance: 3.0
+Aroma: 8.0
+Beer: Magic Rock Telepathy (7.2%)
+BeerID: 520917
+Brewer: Magic Rock Brewing (Odyssey Inns)
+City: Huddersfield
+Comments: Tap. Aroma peach and pineapples. Pours cloudy orange yellow with bubbly
+  circle. Taste has plenty of citrus and tropical fruits to give a strong initial
+  sweetness but this sours pleasantly on the palate to leave a lasting bitter finish
+  on the palate. One for the ladies perhaps?
+Country: England
+Date: '"6/14/2017 9:11:36 AM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: West Yorkshire
+Style: IPA
+Taste: 7.0
 ---
 
 # Magic Rock Telepathy (7.2%)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 520917 |
 | **Beer** | Magic Rock Telepathy (7.2%) |
 | **Brewer** | Magic Rock Brewing (Odyssey Inns) |

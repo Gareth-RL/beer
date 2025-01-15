@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Inveralmond Fortingale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Inveralmond Fortingale
+BeerID: 663482
+Brewer: Inveralmond Brewery (Innis & Gunn)
+City: Perth
+Comments: '"Cask at The Company Inn &#40;JDW&#41;. Pours chestnut brown body and white
+  lace top. Aroma has roasted malts  and light chocolate note. Taste is medium sweet
+  to bitter. Palate is medium bodied, oily texture average carbonation and a bitter
+  hop finish. Overall a decent brown ale."'
+Country: Scotland
+Date: '"10/21/2018 4:47:37 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Tayside
+Style: Brown Ale
+Taste: 7.0
 ---
 
 # Inveralmond Fortingale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 663482 |
 | **Beer** | Inveralmond Fortingale |
 | **Brewer** | Inveralmond Brewery (Innis & Gunn) |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Cambridge Amber
+Appearance: 4.0
+Aroma: 6.0
+Beer: Cambridge Amber
+BeerID: 4479
+Brewer: Cambridge Brewing Company (Castle Island Brewing)
+City: Cambridge
+Comments: '"What is it about amber ales? I rarely find a wow and certainly didn''t
+  here. Aroma is caramel malts. Pours copper body and a smidgen of lace. Taste is
+  medium blah. Palate is medium to light bodied oily texture average carbonation and
+  a bitter finish. It''s not a star "'
+Country: United States
+Date: '"4/27/2019 10:00:11 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Massachusetts
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # Cambridge Amber
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 4479 |
 | **Beer** | Cambridge Amber |
 | **Brewer** | Cambridge Brewing Company (Castle Island Brewing) |

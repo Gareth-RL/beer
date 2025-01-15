@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Bang The Elephant / Totally Brewed Twentieth Century Cocks
+Appearance: 4.0
+Aroma: 7.0
+Beer: Bang The Elephant / Totally Brewed Twentieth Century Cocks
+BeerID: 1098547
+Brewer: Bang The Elephant Brewing
+City: Langley Mill
+Comments: '"Chocolate and coffee scent. Poured black body tan lace top. Taste is medium
+  sweet to bitter with the same mix of sweet dark cocoa and coffee grounds. Medium
+  bodied smooth texture average carbonation and a bitter finish. Very nice<br>Earlier
+  Rating: 4/3/2023 Total Score: 3.4<br>Poured dark brown body tan lace rapidly diminishing.
+  Aroma of caramel toffee and butter. Medium to full sweet with slow transition to
+  a bitter finish. Medium bodied smooth texture average carbonation and a light bitter
+  finish. Does what it says"'
+Country: England
+Date: '"5/2/2023 1:47:46 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # Bang The Elephant / Totally Brewed Twentieth Century Cocks
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1098547 |
 | **Beer** | Bang The Elephant / Totally Brewed Twentieth Century Cocks |
 | **Brewer** | Bang The Elephant Brewing |

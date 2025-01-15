@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Black Iris Divine Elements
+Appearance: 4.0
+Aroma: 8.0
+Beer: Black Iris Divine Elements
+BeerID: 524079
+Brewer: Black Iris Brewery
+City: Nottingham
+Comments: Tap at the Canal House. Aroma resin, roasty, nuts, butterscotch, but winning.
+  Pours pale golden with white lace top. Taste medium to full sweetness especially
+  for an IPA. Palate is full body, thick feel, soft carbonation, long finish. I liked
+  it even if it is way beyond IPA but nowhere near Imperial.
+Country: England
+Date: '"11/11/2017 11:38:40 AM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA
+Taste: 7.0
 ---
 
 # Black Iris Divine Elements
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 524079 |
 | **Beer** | Black Iris Divine Elements |
 | **Brewer** | Black Iris Brewery |

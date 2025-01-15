@@ -1,12 +1,31 @@
 ---
-layout: default
-title: RedWillow Perceptionless
+Appearance: 4.0
+Aroma: 7.0
+Beer: RedWillow Perceptionless
+BeerID: 471908
+Brewer: RedWillow Brewery
+City: Macclesfield
+Comments: Aroma has the usual tropical fruit harvest with mango and pineapple and
+  papaya evident amidst the mandarin. Pours the equally prerequisite murky orange
+  but with decent lacing albeit ephemeral. Taste is medium sweet to sour. So not as
+  sweet as the nose might anticipate. Palate is medium bodied sticky feel average
+  carbonation and a bitter finish that has a little too much acidity. So it had me
+  and then lost me with the aftertaste. Fussy bugger, as my old mother would say (all
+  too frequently).
+Country: England
+Date: '"4/15/2019 2:05:57 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 3.0
+State: Cheshire
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # RedWillow Perceptionless
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 471908 |
 | **Beer** | RedWillow Perceptionless |
 | **Brewer** | RedWillow Brewery |

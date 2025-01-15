@@ -1,12 +1,28 @@
 ---
-layout: default
-title: BrewDog Alice Porter (6.2%)
+Appearance: 4.0
+Aroma: 8.0
+Beer: BrewDog Alice Porter (6.2%)
+BeerID: 132458
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: Tap at Brewdog Nottingham. Pours dark brown with tan lace top. Aroma is
+  vanilla and caramelized malt. Taste is medium sweet to bitter with coffee notes.
+  Palate is medium bodied, oily texture, average carbonation, bitter finish. A very
+  solid porter, even if the vanilla falters.
+Country: Scotland
+Date: '"6/29/2018 11:55:19 AM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Grampian
+Style: Porter
+Taste: 7.0
 ---
 
 # BrewDog Alice Porter (6.2%)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 132458 |
 | **Beer** | BrewDog Alice Porter (6.2%) |
 | **Brewer** | BrewDog |

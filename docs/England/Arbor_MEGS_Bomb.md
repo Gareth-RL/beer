@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Arbor MEGS Bomb
+Appearance: 4.0
+Aroma: 6.0
+Beer: Arbor MEGS Bomb
+BeerID: 400179
+Brewer: Arbor Ales
+City: Bristol
+Comments: Cask at The Crown Beeston. Pours amber gold with white foam top. Aroma has
+  floral citrus hop. Taste is medium to light bitter sweet. Taste like a pale rather
+  than a blonde to me. Palate is medium bodied, oily texture average carbonation and
+  a soft finish. Pleasant enough.
+Country: England
+Date: '"5/27/2018 2:36:21 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Gloucestershire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Arbor MEGS Bomb
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 400179 |
 | **Beer** | Arbor MEGS Bomb |
 | **Brewer** | Arbor Ales |

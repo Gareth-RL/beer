@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Frome Morello Bordello
+Appearance: 4.0
+Aroma: 6.0
+Beer: Frome Morello Bordello
+BeerID: 737548
+Brewer: Frome Brewing Co. (prev Milk Street Brewery)
+City: Frome
+Comments: '"Some cherry but muted chocolate on the nose. Pours black with thin tan
+  lace.  Taste is medium sweet with good fruitiness. Still background chocolate. Hence
+  the light bitter finish. Medium bodied smooth texture if watery bitter finish and
+  average carbonation which doesn''t help the chocolate.  So the taste is its best
+  feature "'
+Country: England
+Date: '"6/3/2019 5:13:33 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Somerset
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # Frome Morello Bordello
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 737548 |
 | **Beer** | Frome Morello Bordello |
 | **Brewer** | Frome Brewing Co. (prev Milk Street Brewery) |

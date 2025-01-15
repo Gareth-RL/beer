@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Leeds Midnight Bell
+Appearance: 4.0
+Aroma: 8.0
+Beer: Leeds Midnight Bell
+BeerID: 77331
+Brewer: Leeds Brewery
+City: Leeds
+Comments: Tap. Pours reddish chestnut rather than black. Aroma has chocolate but something
+  else that has kipper in it. Tastes sweet almost bubble gum. This is strongest n
+  the finish. An interesting mild. Worth a second visit.
+Country: England
+Date: '"1/14/2016 12:44:16 PM"'
+MyScore: 3.5
+Overall: 12.0
+Palate: 4.0
+State: West Yorkshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Leeds Midnight Bell
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 77331 |
 | **Beer** | Leeds Midnight Bell |
 | **Brewer** | Leeds Brewery |

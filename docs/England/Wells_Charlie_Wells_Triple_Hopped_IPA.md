@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Wells Charlie Wells Triple Hopped IPA
+Appearance: .nan
+Aroma: .nan
+Beer: Wells Charlie Wells Triple Hopped IPA
+BeerID: 383206
+Brewer: Eagle Brewery (Damm)
+City: Bedford
+Comments: ' '
+Country: England
+Date: '"11/15/2017 4:01:22 PM"'
+MyScore: 3.0
+Overall: .nan
+Palate: .nan
+State: Bedfordshire
+Style: Pale Ale - American (APA)
+Taste: .nan
 ---
 
 # Wells Charlie Wells Triple Hopped IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 383206 |
 | **Beer** | Wells Charlie Wells Triple Hopped IPA |
 | **Brewer** | Eagle Brewery (Damm) |

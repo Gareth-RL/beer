@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Ashover Thor Cake 
+Appearance: 4.0
+Aroma: 8.0
+Beer: 'Ashover Thor Cake '
+BeerID: 508572
+Brewer: Ashover Brewery
+City: Clay Cross
+Comments: How spicy do you like your brown ale? All the ingredients are present in
+  the scent. Poured deep copper brown body with off white lace. Taste is medium sweet
+  to lightly bitter but the spice is ever present. Palate is medium to light bodied
+  smooth texture average carbonation and a light bitter finish. Spicing up a brown
+  ale? Whatever next!
+Country: England
+Date: '"12/3/2021 4:11:35 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Flavored - Other
+Taste: 7.0
 ---
 
 # Ashover Thor Cake 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 508572 |
 | **Beer** | Ashover Thor Cake  |
 | **Brewer** | Ashover Brewery |

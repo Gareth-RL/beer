@@ -1,12 +1,34 @@
 ---
-layout: default
-title: BrewDog Dogma
+Appearance: 4.0
+Aroma: 8.0
+Beer: BrewDog Dogma
+BeerID: 167684
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: '"Tap at the Brew Dog Nottingham. Pours black body tan foam top. Aroma richly
+  roasted malts dark fruits, coffee and chocolate cake. Taste is medium sweet to bitter.
+  Palate is medium to full bodied, sticky texture, soft to average carbonation, and
+  a long finish. A Scotch ale worthy of the title. 24 May 2020 a different beast from
+  the can. pours copper bodied with white lace. I must have confused my dogmas. Aroma
+  is a blend of grainy malts with bread and light caramel in the mix; too intricate
+  and nuanced for my hay fevered nose. Taste is not as sweet as a honeyed beer might
+  imply, but medium bitter up front, honey centred and then bitter finished. Palate
+  is medium, smooth soft carbonation and a bitter finish. As the Scots say: this''ll
+  do me."'
+Country: Scotland
+Date: '"4/26/2018 3:42:57 PM"'
+MyScore: 3.8
+Overall: 14.0
+Palate: 4.0
+State: Grampian
+Style: Scotch Ale / Wee Heavy
+Taste: 8.0
 ---
 
 # BrewDog Dogma
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 167684 |
 | **Beer** | BrewDog Dogma |
 | **Brewer** | BrewDog |

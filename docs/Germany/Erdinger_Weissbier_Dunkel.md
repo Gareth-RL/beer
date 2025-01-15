@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Erdinger Weissbier Dunkel
+Appearance: 4.0
+Aroma: 5.0
+Beer: Erdinger Weissbier Dunkel
+BeerID: 2469
+Brewer: Erdinger Weißbräu
+City: Erding
+Comments: Tap. Aroma mildly malted hints of toffee. Pours chestnut brown with tan
+  top. Taste has only a subdued wheat flavour with malts predominant and a gentle
+  finish although I found mine carbonated too much.
+Country: Germany
+Date: '"11/9/2016 1:46:22 PM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Bavaria
+Style: Weissbier - Dunkelweizen
+Taste: 6.0
 ---
 
 # Erdinger Weissbier Dunkel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 2469 |
 | **Beer** | Erdinger Weissbier Dunkel |
 | **Brewer** | Erdinger Weißbräu |

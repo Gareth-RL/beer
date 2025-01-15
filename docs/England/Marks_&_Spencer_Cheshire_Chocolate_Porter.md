@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Marks & Spencer Cheshire Chocolate Porter
+Appearance: 3.0
+Aroma: 6.0
+Beer: Marks & Spencer Cheshire Chocolate Porter
+BeerID: 113459
+Brewer: Marks & Spencer Stores UK
+City: Paddington
+Comments: '"My supermarket habit in Italy extended to the purchase of this once home.
+  (probably a mistake). Poured dark copper brown with a fizzy diminishing head. Aroma
+  has milk chocolate cocoa scent. Medium sweet with no real transition to bitterness;
+  instead it rather fades away. Medium bodied, watery texture, fizzy, and a nondescript
+  finish. It''s a shame it is not a smaller bottle. I am also puzzled by the attribution
+  to Greater London since it insists that it is brewed at Robinson''s of Stockport."'
+Country: England
+Date: '"8/30/2023 2:10:14 PM"'
+MyScore: 2.8
+Overall: 11.0
+Palate: 3.0
+State: Greater London
+Style: Porter - Flavored
+Taste: 5.0
 ---
 
 # Marks & Spencer Cheshire Chocolate Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 113459 |
 | **Beer** | Marks & Spencer Cheshire Chocolate Porter |
 | **Brewer** | Marks & Spencer Stores UK |

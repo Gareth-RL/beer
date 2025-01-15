@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Squawk Belgian Witbier
+Appearance: 4.0
+Aroma: 7.0
+Beer: Squawk Belgian Witbier
+BeerID: 629289
+Brewer: Squawk Brewing Co.
+City: Ardwick
+Comments: Tap at The Overdraught Nottingham. Pours cloudy yellow gold with white lace
+  top. Aroma has spice and yeast. Taste has medium sweet to bitter. Palate is medium
+  or more in terms of body, slick feel, lively carbonation, and a bitter finish. This
+  is less yeasty than many witbier. But it is a tricky style.
+Country: England
+Date: '"6/16/2018 6:43:32 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Greater Manchester
+Style: Witbier / Belgian White Ale
+Taste: 7.0
 ---
 
 # Squawk Belgian Witbier
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 629289 |
 | **Beer** | Squawk Belgian Witbier |
 | **Brewer** | Squawk Brewing Co. |

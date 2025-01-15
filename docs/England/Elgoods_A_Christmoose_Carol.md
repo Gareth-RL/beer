@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Elgoods A Christmoose Carol
+Appearance: 4.0
+Aroma: 5.0
+Beer: Elgoods A Christmoose Carol
+BeerID: 786529
+Brewer: Elgoods Brewery
+City: Wisbech
+Comments: 'Poured copper body thin lace.  Aroma malt  hops. Medium sweet to bitter
+  but with a souring finish.  Medium bodied oily texture average carbonation.  Not
+  session worthy nor worthy of the season '
+Country: England
+Date: '"11/20/2024 3:55:29 PM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Cambridgeshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Elgoods A Christmoose Carol
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 786529 |
 | **Beer** | Elgoods A Christmoose Carol |
 | **Brewer** | Elgoods Brewery |

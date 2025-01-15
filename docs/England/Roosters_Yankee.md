@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Roosters Yankee
+Appearance: 4.0
+Aroma: 5.0
+Beer: Roosters Yankee
+BeerID: 5715
+Brewer: Roosters Brewing
+City: Harrogate
+Comments: 'Cask. Aroma a little fruity hops, where the Turkish delight went is anyone’s
+  guess. Mine is a copywriter’s imagination. Pours golden white top, steady lacing.
+  Tastes bitter from the start with a sharp citric rind flavour atop a plain biscuit
+  base. Palate no more than medium with a strong carbonated finish. I won’t be having
+  a second '
+Country: England
+Date: '"2/18/2016 12:15:08 PM"'
+MyScore: 2.7
+Overall: 10.0
+Palate: 3.0
+State: North Yorkshire
+Style: Blonde Ale / Golden Ale
+Taste: 5.0
 ---
 
 # Roosters Yankee
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 5715 |
 | **Beer** | Roosters Yankee |
 | **Brewer** | Roosters Brewing |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Gösser Beer (Export)
+Appearance: 4.0
+Aroma: 5.0
+Beer: Gösser Beer (Export)
+BeerID: 9516
+Brewer: Gösser (Brau Union - Heineken)
+City: Leoben
+Comments: '"Poured a golden body with white foam top. Aroma of pale bread malts and
+  straw hops. Lightly sweet with grassy hop and a sour mash finish. Medium bodied,
+  mouth coating average carbonation, bitter/sour finish. Another supermarket special
+  and it ticks another lager that I will not seek out again. Still on the beach in
+  Bibione and there are lots of Austrians here. Maybe that''s why it''s here"'
+Country: Austria
+Date: '"7/16/2024 3:06:24 PM"'
+MyScore: 2.7
+Overall: 10.0
+Palate: 3.0
+State: .nan
+Style: Pale Lager - International / Premium
+Taste: 5.0
 ---
 
 # Gösser Beer (Export)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 9516 |
 | **Beer** | Gösser Beer (Export) |
 | **Brewer** | Gösser (Brau Union - Heineken) |

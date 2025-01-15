@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Welbeck Abbey Henrietta Grande
+Appearance: 3.0
+Aroma: 6.0
+Beer: Welbeck Abbey Henrietta Grande
+BeerID: 321644
+Brewer: Welbeck Abbey Brewery
+City: Welbeck
+Comments: Cask. Aroma grassy hops . Pours honey gold with lively foam that settles
+  to a cream head with lace wash. Slightly nutty and bready tastes for a blonde as
+  I associate the now ubiquitous Golden style with a crisp hop edge. But it has a
+  definite hop finish and is solid enough with earthy bitter nites to finish.
+Country: England
+Date: '"9/30/2016 7:12:51 AM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Welbeck Abbey Henrietta Grande
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 321644 |
 | **Beer** | Welbeck Abbey Henrietta Grande |
 | **Brewer** | Welbeck Abbey Brewery |

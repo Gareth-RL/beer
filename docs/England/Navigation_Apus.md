@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Navigation Apus
+Appearance: 4.0
+Aroma: 9.0
+Beer: Navigation Apus
+BeerID: 245977
+Brewer: Navigation Brewery
+City: Nottingham
+Comments: Cask. A rich pineapple and mango scent. Pours pale gold with a white top
+  which may confuse English IPA drinkers. The taste foregrounds the fruits with tangerine
+  added to the tropical fruits but this is followed by a hoppy bitter finish with
+  grassy lingering notes on the palate. So a well constructed American ale which is
+  an easy way to imbibe 5.5% without noticing. So one for the weekend rather than
+  midweek.
+Country: England
+Date: '"1/28/2016 11:44:48 AM"'
+MyScore: 3.5
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 7.0
 ---
 
 # Navigation Apus
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 245977 |
 | **Beer** | Navigation Apus |
 | **Brewer** | Navigation Brewery |

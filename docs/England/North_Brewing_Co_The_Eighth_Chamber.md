@@ -1,12 +1,29 @@
 ---
-layout: default
-title: North Brewing Co The Eighth Chamber
+Appearance: 4.0
+Aroma: 7.0
+Beer: North Brewing Co The Eighth Chamber
+BeerID: 930658
+Brewer: North Brewing Co (England)
+City: Leeds
+Comments: Can to take away. Pours amber golden body frothy lace top. Aroma of citrus,
+  melon and pine. Taste is medium sweet with some orange marmalade notes and hints
+  of grapefruit. This eases the transition to a medium bitter finish. Palate is also
+  medium bodied, average carbonation, a little drying in the mouth and a bitter finish.
+  By my reckoning a very solid American style IPA
+Country: England
+Date: '"8/12/2021 4:42:31 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: West Yorkshire
+Style: IPA
+Taste: 7.0
 ---
 
 # North Brewing Co The Eighth Chamber
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 930658 |
 | **Beer** | North Brewing Co The Eighth Chamber |
 | **Brewer** | North Brewing Co (England) |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Round Corner Love, Lager & Horse Racing
+Appearance: 4.0
+Aroma: 7.0
+Beer: Round Corner Love, Lager & Horse Racing
+BeerID: 1141925
+Brewer: Round Corner Brewing
+City: Melton Mowbray
+Comments: 'Poured golden body white lace diminished rapidly to halo. Aroma of roasted
+  malt and spicy hops. Taste is lightly sweet to bitter with a surprising sweet spice
+  finish. Medium bodied grainy texture average carbonation and a spiced finish. I
+  liked it but I know too little of Marzen lager to judge well '
+Country: England
+Date: '"9/18/2023 2:59:06 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Leicestershire
+Style: Märzen / Oktoberfest Bier
+Taste: 7.0
 ---
 
 # Round Corner Love, Lager & Horse Racing
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1141925 |
 | **Beer** | Round Corner Love, Lager & Horse Racing |
 | **Brewer** | Round Corner Brewing |

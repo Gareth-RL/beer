@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Cantillon Vigneronne ( - 2018)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Cantillon Vigneronne ( - 2018)
+BeerID: 6074
+Brewer: Cantillon
+City: Brussels
+Comments: Tap at Brewdog Nottingha,. Pours light orange clear body with no lace or
+  head. Aroma is grapey. Taste is sour to muted sour. Palate is medium bodied, slick
+  texture, soft to average carbonation, light sour grape finish. There is an art to
+  this, and I am removed from it.
+Country: Belgium
+Date: '"7/2/2018 4:40:14 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Brussels Capital Region
+Style: Lambic - Flavored
+Taste: 7.0
 ---
 
 # Cantillon Vigneronne ( - 2018)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 6074 |
 | **Beer** | Cantillon Vigneronne ( - 2018) |
 | **Brewer** | Cantillon |

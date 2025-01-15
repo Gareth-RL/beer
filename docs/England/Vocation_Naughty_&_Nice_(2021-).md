@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Vocation Naughty & Nice (2021-)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Vocation Naughty & Nice (2021-)
+BeerID: 934132
+Brewer: Vocation Brewery
+City: Cragg Vale
+Comments: '"@TheCrownBeeston. Poured dark brown body tan lace top. Strong chocolate
+  vanilla scent. Full sweet as expected but mellows along the praline front. Never
+  cloying or over sweet although it comes close. Medium body at most, lighter feel,
+  average to soft carbonation and a light bitter chocolate finish. It''s a very drinkable
+  chocolate stout."'
+Country: England
+Date: '"11/3/2023 12:24:35 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: West Yorkshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Vocation Naughty & Nice (2021-)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 934132 |
 | **Beer** | Vocation Naughty & Nice (2021-) |
 | **Brewer** | Vocation Brewery |

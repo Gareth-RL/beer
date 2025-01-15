@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Camerons Tontine
+Appearance: 4.0
+Aroma: 6.0
+Beer: Camerons Tontine
+BeerID: 254475
+Brewer: Camerons Brewery (UK)
+City: Hartlepool
+Comments: Aroma caramel malts and berry fruit with a hint of nut.   Pours dark coffee
+  with tan cream. Taste is medium bitter with some licorice root and almond nuttiness.
+  Palate is medium bodied clammy feel average carbonation and a bitter finish. Not
+  sweet enough for a milk stout and not full enough for a dry. A hybrid and overpriced
+  here at £4.50 a pint. This is Nottingham for goodness sake.
+Country: England
+Date: '"4/11/2019 3:22:39 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Durham
+Style: Stout - Milk / Sweet
+Taste: 7.0
 ---
 
 # Camerons Tontine
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 254475 |
 | **Beer** | Camerons Tontine |
 | **Brewer** | Camerons Brewery (UK) |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Vibrant Forest Zuur Buckthorn
+Appearance: 4.0
+Aroma: 6.0
+Beer: Vibrant Forest Zuur Buckthorn
+BeerID: 565488
+Brewer: Vibrant Forest Brewery
+City: Hardley
+Comments: '"Tap @the crafty crow tap takeover. An additional sour with buckthorn.
+  Aroma floral, herbs, hay, skunky. Pours cloudy pale yellow with white top. Taste
+  medium full sour with bitter notes. Palate is medium to full, carbonation average
+  to, lively, carbonation. Sticky feel. astringent, long finish. Hopefully palate
+  cleansing&#033;"'
+Country: England
+Date: '"11/5/2017 11:17:15 AM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Hampshire
+Style: Sour / Wild Beer - Flavored
+Taste: 6.0
 ---
 
 # Vibrant Forest Zuur Buckthorn
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 565488 |
 | **Beer** | Vibrant Forest Zuur Buckthorn |
 | **Brewer** | Vibrant Forest Brewery |

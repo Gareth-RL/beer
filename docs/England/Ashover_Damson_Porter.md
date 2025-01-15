@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Ashover Damson Porter
+Appearance: 4.0
+Aroma: 8.0
+Beer: Ashover Damson Porter
+BeerID: 223702
+Brewer: Ashover Brewery
+City: Clay Cross
+Comments: Cask. Aroma is a delicious blend of coffee and fruit. Pours dark with beige
+  cream top. Broken lace. It tastes understandably fruity with the plum notes strongly
+  foregrounded but there is more there if you can detect it. Caramel malts and berry
+  hops to name just two. Palate is medium bodied but creamy. Ranks alongside Titanic.
+Country: England
+Date: '"11/29/2016 12:15:26 PM"'
+MyScore: 3.5
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Ashover Damson Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 223702 |
 | **Beer** | Ashover Damson Porter |
 | **Brewer** | Ashover Brewery |

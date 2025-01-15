@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Jester King Hoppy 6 Grain Saison
+Appearance: 4.0
+Aroma: 8.0
+Beer: Jester King Hoppy 6 Grain Saison
+BeerID: 907690
+Brewer: Jester King Brewery
+City: Austin
+Comments: '"A hit in the USA and Denmark and Israel apparently. Not sure if the UK
+  palate will love it Grainy herbal aroma. Murky golden body white foam lace with
+  yeast evidence.  Light lemony sweet souring to veg notes. Medium bodied oily texture
+  average to soft carbonation and a sour grain finish. But it''s very in the style."'
+Country: United States
+Date: '"5/1/2024 2:59:21 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Texas
+Style: Saison / Farmhouse / Grisette
+Taste: 6.0
 ---
 
 # Jester King Hoppy 6 Grain Saison
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 907690 |
 | **Beer** | Jester King Hoppy 6 Grain Saison |
 | **Brewer** | Jester King Brewery |

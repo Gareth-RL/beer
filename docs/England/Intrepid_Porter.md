@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Intrepid Porter
+Appearance: 4.0
+Aroma: 6.0
+Beer: Intrepid Porter
+BeerID: 316085
+Brewer: Intrepid Brewing Co.
+City: Bradwell
+Comments: '"Cask. @the organ grinder. Abv given as 5.1% so maybe a new brew. Aroma
+  is dark malty with a spicy note. Pours very dark with creamy tan top. Taste is medium
+  sweet to bitter. Palate is medium to full bodied, carbonation soft, texture creamy,
+  and the finish bitter and long. Overall a solid porter., although modest rather
+  than intrepid."'
+Country: England
+Date: '"11/3/2017 11:41:55 AM"'
+MyScore: 3.3
+Overall: 14.0
+Palate: 3.0
+State: Derbyshire
+Style: Porter
+Taste: 6.0
 ---
 
 # Intrepid Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 316085 |
 | **Beer** | Intrepid Porter |
 | **Brewer** | Intrepid Brewing Co. |

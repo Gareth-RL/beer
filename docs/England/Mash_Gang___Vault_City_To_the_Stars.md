@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Mash Gang / Vault City To the Stars
+Appearance: 4.0
+Aroma: 6.0
+Beer: Mash Gang / Vault City To the Stars
+BeerID: 1163450
+Brewer: Mash Gang
+City: City
+Comments: '"Poured hazy pink with lace. Aroma of bubble gum and berries. Taste is
+  medium sweet with watermelon and raspberry jam. Medium bodied slightly sticky texture
+  average carbonation and a light finish. More fruit pop than beer but hey, it kept
+  me occupied until the pizza was ready next door. @ Good Fellow George "'
+Country: England
+Date: '"4/22/2024 7:10:22 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Greater London
+Style: Low / No Alcohol Beer - Pale
+Taste: 7.0
 ---
 
 # Mash Gang / Vault City To the Stars
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1163450 |
 | **Beer** | Mash Gang / Vault City To the Stars |
 | **Brewer** | Mash Gang |

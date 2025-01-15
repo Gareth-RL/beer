@@ -1,12 +1,27 @@
 ---
-layout: default
-title: De Molen Havik & Feestdagen
+Appearance: 4.0
+Aroma: 6.0
+Beer: De Molen Havik & Feestdagen
+BeerID: 789403
+Brewer: Brouwerij De Molen (Swinkels Family Brewers)
+City: Bodegraven
+Comments: 'Pours amber bodied with thin off white lace top. Aroma has caramel malts
+  and berry hop fruits. Taste is medium sweet and a dry bitter finish. Palate is medium
+  bodied oily texture average carbonation and a drying finish.  Easy drinking. '
+Country: Netherlands
+Date: '"12/4/2019 6:52:56 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: South Holland
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # De Molen Havik & Feestdagen
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 789403 |
 | **Beer** | De Molen Havik & Feestdagen |
 | **Brewer** | Brouwerij De Molen (Swinkels Family Brewers) |

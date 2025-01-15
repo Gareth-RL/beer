@@ -1,12 +1,29 @@
 ---
-layout: default
-title: La Virgen Pino
+Appearance: 4.0
+Aroma: 5.0
+Beer: La Virgen Pino
+BeerID: 776388
+Brewer: Cervezas La Virgen (AB Inbev)
+City: Las Rozas
+Comments: Aroma has more malt than piney resinous hops despite what the label claims.
+  It pours a golden orange with thin white lace. Taste was also not your traditional
+  lager style even allowing for the maltiness of the Vienna variant. Medium to light
+  bitter. Palate was medium bodied only texture average carbonation and a light finish.
+  To be generous this would be easy drinking but disappointing.
+Country: Spain
+Date: '"11/27/2019 7:38:32 PM"'
+MyScore: 3.1
+Overall: 13.0
+Palate: 3.0
+State: Community of Madrid
+Style: Amber Lager - International / Vienna
+Taste: 6.0
 ---
 
 # La Virgen Pino
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 776388 |
 | **Beer** | La Virgen Pino |
 | **Brewer** | Cervezas La Virgen (AB Inbev) |

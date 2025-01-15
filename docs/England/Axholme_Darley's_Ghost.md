@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Axholme Darley's Ghost
+Appearance: 3.0
+Aroma: 6.0
+Beer: '"Axholme Darley''s Ghost"'
+BeerID: 390471
+Brewer: Axholme Brewing Company
+City: Grimsby
+Comments: Cask. Lightly spiced although this is more in the taste than the scent.
+  Aroma softly fruity. Pours copper bubbly top. Broken lacing. Taste has allspice
+  in there for the Christmas season but otherwise smoothly balanced malt biscuit and
+  hop fruits. The fruit lingers. Not bad but surely the repentant Marley deserves
+  better if Scrooge did?
+Country: England
+Date: '"1/21/2016 1:28:09 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 4.0
+State: Lincolnshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Axholme Darley's Ghost
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 390471 |
 | **Beer** | Axholme Darley's Ghost |
 | **Brewer** | Axholme Brewing Company |

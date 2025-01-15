@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Franziskaner Hefe-Weissbier / Weissbier Naturtrub
+Appearance: 3.0
+Aroma: 7.0
+Beer: Franziskaner Hefe-Weissbier / Weissbier Naturtrub
+BeerID: 1088
+Brewer: Spaten-Franziskaner-Bräu
+City: München
+Comments: 'Poured quite cloudy orange body white foam fading lace top. Aroma of banana
+  and spice in the classic style. Medium sweet to bitter with a strong spice element
+  cloves. Medium bodied smooth texture average carbonation and a light bitter finish
+  with lingering bread flavours. Amazed I have not rated before and certainly a good
+  supermarket choice '
+Country: Germany
+Date: '"8/4/2023 10:49:24 AM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Bavaria
+Style: Weissbier - Hefeweizen
+Taste: 7.0
 ---
 
 # Franziskaner Hefe-Weissbier / Weissbier Naturtrub
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1088 |
 | **Beer** | Franziskaner Hefe-Weissbier / Weissbier Naturtrub |
 | **Brewer** | Spaten-Franziskaner-Bräu |

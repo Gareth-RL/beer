@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Almasty Chocolate & Caramel Stout
+Appearance: 4.0
+Aroma: 8.0
+Beer: Almasty Chocolate & Caramel Stout
+BeerID: 666865
+Brewer: Almasty Brewing Co.
+City: Shiremoor
+Comments: Tap at the Junkyard. A definite chocolate and caramel with vanilla and ground
+  coffee notes. Pours dark brown body and tan foam top. Taste is medium sweet to bitter.
+  Palate is medium bodied slightly thin for a stout but creamy texture, soft to average
+  carbonation and a bitter finish. Overall a sweet and flavorsome stout
+Country: England
+Date: '"11/4/2018 10:52:39 AM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Tyne &amp; Wear
+Style: Stout
+Taste: 7.0
 ---
 
 # Almasty Chocolate & Caramel Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 666865 |
 | **Beer** | Almasty Chocolate & Caramel Stout |
 | **Brewer** | Almasty Brewing Co. |

@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Banks's / Ishii Orihime Pale Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Banks''s / Ishii Orihime Pale Ale"'
+BeerID: 1228614
+Brewer: '"Banks&#39;s Beer (Carlsberg Marston&#39;s Brewing Co.)"'
+City: Wolverhampton
+Comments: Poured amber body white lace top. Aroma of biscuit malts and floral hops.  Light
+  sweet to medium bitter with a sour finish. Medium bodied slightly grainy texture
+  average carbonation and a sour finish.  Not for me.
+Country: England
+Date: '"10/11/2024 2:39:52 PM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 4.0
+State: West Midlands
+Style: Pale Ale
+Taste: 5.0
 ---
 
 # Banks's / Ishii Orihime Pale Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1228614 |
 | **Beer** | Banks's / Ishii Orihime Pale Ale |
 | **Brewer** | Banks&#39;s Beer (Carlsberg Marston&#39;s Brewing Co.) |

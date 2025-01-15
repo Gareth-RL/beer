@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Greene King / Nethergate Blood Hound
+Appearance: 4.0
+Aroma: 7.0
+Beer: Greene King / Nethergate Blood Hound
+BeerID: 1228654
+Brewer: Greene King Brewery
+City: Bury St. Edmunds
+Comments: 'Poured dark brown, almost black body with tan cream lace top.  Aroma of
+  chocolate orange. Medium sweet with more orange and milky chocolate.  Medium bodied
+  but watery texture average carbonation and a bitter finish.  Synthetic but balanced
+  overall '
+Country: England
+Date: '"10/11/2024 2:54:03 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Suffolk
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Greene King / Nethergate Blood Hound
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1228654 |
 | **Beer** | Greene King / Nethergate Blood Hound |
 | **Brewer** | Greene King Brewery |

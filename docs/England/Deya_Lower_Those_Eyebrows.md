@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Deya Lower Those Eyebrows
+Appearance: 3.0
+Aroma: 8.0
+Beer: Deya Lower Those Eyebrows
+BeerID: 554551
+Brewer: Deya Brewing Company
+City: Cheltenham
+Comments: '"Tap at Brew Dog. Pours hazy golden with white lace top. Aroma is key and
+  it&#39;s this beer&#39;s standout feature: There&#39;s papaya and mango atop a mandarin
+  orange lychee platform. Sadly the taste is relatively disappointing being a mediocre
+  bitter and the palate similarly doesn&#39;t match the aromatic intro. It&#39;s medium  to
+  light bodied, oily texture, soft carbonation and what the manual describes as an
+  abrupt finish and as guys all over the world know that is not a good sign. But it
+  remains a  lot for a. 3.8% beer."'
+Country: England
+Date: '"1/2/2018 11:47:05 AM"'
+MyScore: 3.5
+Overall: 15.0
+Palate: 3.0
+State: Gloucestershire
+Style: Pale Ale
+Taste: 6.0
 ---
 
 # Deya Lower Those Eyebrows
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 554551 |
 | **Beer** | Deya Lower Those Eyebrows |
 | **Brewer** | Deya Brewing Company |

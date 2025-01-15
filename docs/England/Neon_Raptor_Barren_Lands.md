@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Neon Raptor Barren Lands
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neon Raptor Barren Lands
+BeerID: 789427
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: Aroma has tropical fruit hops. Pours cloudy golden body with white lace
+  top in the New England style. Taste is medium sweet to bitter with a smooth transition
+  and a bitter finish. Palate is medium bodied clammy feel soft to average carbonation
+  and a bitter finish. Session worthy. And heavily hopped considering the abv.
+Country: England
+Date: '"12/1/2019 4:04:11 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale - Hazy / New England
+Taste: 8.0
 ---
 
 # Neon Raptor Barren Lands
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 789427 |
 | **Beer** | Neon Raptor Barren Lands |
 | **Brewer** | Neon Raptor Brewing Co. |

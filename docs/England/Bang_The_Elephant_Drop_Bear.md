@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Bang The Elephant Drop Bear
+Appearance: 3.0
+Aroma: 7.0
+Beer: Bang The Elephant Drop Bear
+BeerID: 1182078
+Brewer: Bang The Elephant Brewing
+City: Langley Mill
+Comments: 'Poured cloudy pale golden body white lace top. Aroma of pineapple and citrus.
+  Medium sweet to bitter with grapefruit and pineapple contesting and souring. Medium
+  bodied grainy texture average carbonation and a mineral finish. Described as a Pacific
+  Extra Pale. Taken at Brew Tavern the reinvention of Beerheadz by the station with
+  all keg taps and a Kernel tap takeover to start. Not a bargain booze emporium '
+Country: England
+Date: '"3/15/2024 2:48:39 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Bang The Elephant Drop Bear
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1182078 |
 | **Beer** | Bang The Elephant Drop Bear |
 | **Brewer** | Bang The Elephant Brewing |

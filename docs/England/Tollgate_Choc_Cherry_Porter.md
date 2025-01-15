@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Tollgate Choc Cherry Porter
+Appearance: 4.0
+Aroma: 6.0
+Beer: Tollgate Choc Cherry Porter
+BeerID: 599452
+Brewer: Tollgate Brewery
+City: Ashby-de-la-Zouch
+Comments: Cask. Pours chestnut with ruby lights and a tan cream top. Aroma has dark
+  malts, cherry and vanilla notes. Taste is sweet to lightly sour but the cherry lingers.
+  Palate is medium bodied, creamy texture, soft carbonation, and a long finish. Not
+  sure the vanilla adds much although like the cherry it gives it an artificial after
+  taste.
+Country: England
+Date: '"3/11/2018 3:52:02 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter - Flavored
+Taste: 6.0
 ---
 
 # Tollgate Choc Cherry Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 599452 |
 | **Beer** | Tollgate Choc Cherry Porter |
 | **Brewer** | Tollgate Brewery |

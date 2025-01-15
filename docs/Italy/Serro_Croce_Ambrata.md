@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Serro Croce Ambrata
+Appearance: 4.0
+Aroma: 7.0
+Beer: Serro Croce Ambrata
+BeerID: 246932
+Brewer: Birrificio Serro Croce
+City: Monteverde
+Comments: Bottle. Poured cloudy fizzy red brown body with loose foamy yeasty head.
+  Aroma yeasty malt loaf.  Medium sweet with some caramel and dark stone fruit notes.
+  About a third of the pour was foam so over carbonated, light to medium bodied grainy
+  texture and lightly souring in the finish. This is a hard beer to grade. Aroma and
+  initial taste are strong pluses but it has suffered in the bottle and finish and
+  fizz speak against it.
+Country: Italy
+Date: '"12/28/2022 12:04:28 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 3.0
+State: Campania
+Style: Red Ale / International Amber Ale
+Taste: 7.0
 ---
 
 # Serro Croce Ambrata
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 246932 |
 | **Beer** | Serro Croce Ambrata |
 | **Brewer** | Birrificio Serro Croce |

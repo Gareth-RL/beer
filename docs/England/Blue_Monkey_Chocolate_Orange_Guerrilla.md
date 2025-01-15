@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Blue Monkey Chocolate Orange Guerrilla
+Appearance: 4.0
+Aroma: 6.0
+Beer: Blue Monkey Chocolate Orange Guerrilla
+BeerID: 259166
+Brewer: Blue Monkey Brewery
+City: Nottingham
+Comments: '"As some may know, gorillas need protection. And the splendid Guerilla
+  Stout needs guarding from flavouring that is brazen and emphatic. Chocolate yes.
+  Amaretto maybe but orange! Get back in the trees. Leave it to Terrys.  And it does
+  little for the palate either.. Still it''s Guerilla. 03/12/24 second sipping.  5
+  years on and Xmas brings it back. Very orange. Protect your gorillas "'
+Country: England
+Date: '"6/7/2019 6:10:48 PM"'
+MyScore: 3.1
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Stout
+Taste: 5.0
 ---
 
 # Blue Monkey Chocolate Orange Guerrilla
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 259166 |
 | **Beer** | Blue Monkey Chocolate Orange Guerrilla |
 | **Brewer** | Blue Monkey Brewery |

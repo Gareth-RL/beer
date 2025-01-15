@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Neon Raptor Trampled Under Foot
+Appearance: 3.0
+Aroma: 7.0
+Beer: Neon Raptor Trampled Under Foot
+BeerID: 858866
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: Poured murky cloudy orange grapefruit juice mix with spotty lace. Aroma
+  is heady citrus with grapefruit predominant. Taste is medium sweet souring swiftly
+  to a sharp bitter finish. Palate is medium bodied, slight chalky feel but generally
+  smooth, average to soft carbonation, and a definitely bitter drying finish. Definitely
+  a hopfest with Citra and Mosaic delivering all they have alongside the rest of the
+  quartet. A reminder of summer as autumn races towards us, and a reminder of why
+  I missed Nottingham in Venice!
+Country: England
+Date: '"9/24/2020 4:04:10 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IIPA DIPA - Imperial / Double Hazy (NEIPA)
+Taste: 8.0
 ---
 
 # Neon Raptor Trampled Under Foot
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 858866 |
 | **Beer** | Neon Raptor Trampled Under Foot |
 | **Brewer** | Neon Raptor Brewing Co. |

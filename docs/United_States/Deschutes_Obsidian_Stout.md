@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Deschutes Obsidian Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Deschutes Obsidian Stout
+BeerID: 2138
+Brewer: Deschutes Brewery
+City: Bend
+Comments: '"Bottle. Aroma roasted malts with coffee grounds finish. Pours black with
+  tan creamy head &#40;thickness depends on how steady your hand is&#41;. The flavours
+  may be robustly malty with a sweetness that may edge it to the stout/porter border.
+  But it draws appeal from both. Splendid."'
+Country: United States
+Date: '"9/29/2016 12:56:05 PM"'
+MyScore: 3.8
+Overall: 16.0
+Palate: 4.0
+State: Oregon
+Style: Stout
+Taste: 7.0
 ---
 
 # Deschutes Obsidian Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 2138 |
 | **Beer** | Deschutes Obsidian Stout |
 | **Brewer** | Deschutes Brewery |

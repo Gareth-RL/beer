@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Abomination Rotting Earth (Red Label)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Abomination Rotting Earth (Red Label)
+BeerID: 698985
+Brewer: Abomination Brewing Company
+City: North Haven
+Comments: A double New England IPA by the looks of things. Aroma is grapefruit and
+  orange with dank malts. As a result the taste is so fruity that the  abv will sneak
+  by your conscience. Palate is medium bodied sticky feel soft carbonation and a long
+  sweet finish like juice. A perilous thing for young chaps and chappesses at parties.
+Country: United States
+Date: '"4/28/2019 7:11:43 PM"'
+MyScore: 3.5
+Overall: 12.0
+Palate: 4.0
+State: Connecticut
+Style: IIPA DIPA - Imperial / Double Hazy (NEIPA)
+Taste: 8.0
 ---
 
 # Abomination Rotting Earth (Red Label)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 698985 |
 | **Beer** | Abomination Rotting Earth (Red Label) |
 | **Brewer** | Abomination Brewing Company |

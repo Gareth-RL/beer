@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Brew Age Bienenstich
+Appearance: 3.0
+Aroma: 6.0
+Beer: Brew Age Bienenstich
+BeerID: 465251
+Brewer: Brew Age
+City: Vienna
+Comments: '"Bottle. Poured amber honey body with any lacing diminishing rapidly to
+  a loose fizz. Aroma has the expected honey note amid some herbal grassy hops and
+  bread malts. Taste is sweet with the honey accentuating the toffee malt but it does
+  transition smoothly to a light bitter finish. Palate is medium bodied, slightly
+  sticky texture, average to above carbonation, and a light bitter. It''s a bit gassy
+  in my view. It confirms my preference for Bock over lager which is growing exponentially,
+  but it is pleasant without ever threatening to be anything more."'
+Country: Austria
+Date: '"11/16/2020 2:33:39 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: .nan
+Style: Flavored - Other
+Taste: 6.0
 ---
 
 # Brew Age Bienenstich
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 465251 |
 | **Beer** | Brew Age Bienenstich |
 | **Brewer** | Brew Age |

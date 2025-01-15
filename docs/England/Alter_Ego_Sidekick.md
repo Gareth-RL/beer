@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Alter Ego Sidekick
+Appearance: 3.0
+Aroma: 6.0
+Beer: Alter Ego Sidekick
+BeerID: 731809
+Brewer: Alter Ego Brewing Co.
+City: Alfreton
+Comments: Poured cloudy pale but clearing body with white foam lace. Light hoppy scent.
+  Melon. Taste is pretty bland light melon and grapefruit with bitter finish. Palate
+  is light to medium bodied grainy texture average carbonation and a light bitter
+  finish. Okay but forgettable
+Country: England
+Date: '"2/7/2022 12:18:02 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Alter Ego Sidekick
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 731809 |
 | **Beer** | Alter Ego Sidekick |
 | **Brewer** | Alter Ego Brewing Co. |

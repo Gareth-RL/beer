@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Little Earth Project / Solvay Society Echoes of Summer
+Appearance: 4.0
+Aroma: 7.0
+Beer: Little Earth Project / Solvay Society Echoes of Summer
+BeerID: 783586
+Brewer: Little Earth Project
+City: Sudbury
+Comments: Aroma has apple cherry and funk. Pours dark amber body with off white lace
+  top. Taste is medium sweet to sour and the sour plum finish lingered. Palate is
+  medium bodied sticky feel soft to average carbonation and a long sour finish.. interesting
+  but a third is ample.
+Country: England
+Date: '"11/19/2019 6:04:27 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Suffolk
+Style: Sour Flemish Ale - Flanders Red / Oud Bruin
+Taste: 7.0
 ---
 
 # Little Earth Project / Solvay Society Echoes of Summer
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 783586 |
 | **Beer** | Little Earth Project / Solvay Society Echoes of Summer |
 | **Brewer** | Little Earth Project |

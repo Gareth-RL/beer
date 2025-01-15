@@ -1,12 +1,29 @@
 ---
-layout: default
-title: B&T Edwin Taylor's Extra Stout
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"B&T Edwin Taylor''s Extra Stout"'
+BeerID: 26288
+Brewer: B&T Brewery
+City: Shefford
+Comments: Tap from the barrel. Aroma is somewhere between smokehouse and outhouse
+  with the malts roasted either crispy bacon or cheese and onion. Pours black coffee
+  with broken flecks of lace. Tastes sour licorice and bitter coffee. As some one
+  who likes most stout and porter I have to say this one is a taste I’ve yet to acquire.
+  But the third taste was better than the first.
+Country: England
+Date: '"10/11/2016 9:48:03 AM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Bedfordshire
+Style: Stout
+Taste: 7.0
 ---
 
 # B&T Edwin Taylor's Extra Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 26288 |
 | **Beer** | B&T Edwin Taylor's Extra Stout |
 | **Brewer** | B&T Brewery |

@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Greene King House Ale / Landlord's Choice (Name varies)
+Appearance: 4.0
+Aroma: 5.0
+Beer: '"Greene King House Ale / Landlord''s Choice (Name varies)"'
+BeerID: 216273
+Brewer: Greene King Brewery
+City: Bury St. Edmunds
+Comments: '"Cask. Aroma is modest some grass, some tea, some faint hint of malt but
+  frankly I don’t like beers that have no excuse for making me work this hard on olfactory
+  functions. It pours honey brown amber with white scummy top. And better still the
+  taste goes well with the chicken and mushroom pie I ordered. Some herbal notes.
+  Overall a beer that was better than it first appeared even if the GK brand machine
+  showed all its sinister features by deciding to delude drinkers that a place specific
+  beer ws actually one big corporate ale. The beer is fine only the concept stinks&#033;"'
+Country: England
+Date: '"11/16/2016 12:29:55 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 4.0
+State: Suffolk
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Greene King House Ale / Landlord's Choice (Name varies)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 216273 |
 | **Beer** | Greene King House Ale / Landlord's Choice (Name varies) |
 | **Brewer** | Greene King Brewery |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Buxton Myrcia
+Appearance: 3.0
+Aroma: 7.0
+Beer: Buxton Myrcia
+BeerID: 490157
+Brewer: Buxton Brewery
+City: Buxton
+Comments: Tap at the Junkyard. Aroma has cereal, herbs, dough, definitely a  wholegrain
+  pale. Even an oatmeal one. Pours murky cloudy yellow orange with broken diminishing
+  lacing. Taste is lightly bitter. Palate is slightly above medium bodied due to sticky
+  texture, soft to average carbonation, and a bitter finish. Is it as good as the
+  collaboration? Better raters can judge.
+Country: England
+Date: '"2/7/2018 5:55:44 PM"'
+MyScore: 3.4
+Overall: 14.0
+Palate: 3.0
+State: Derbyshire
+Style: ISA - Session IPA
+Taste: 7.0
 ---
 
 # Buxton Myrcia
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 490157 |
 | **Beer** | Buxton Myrcia |
 | **Brewer** | Buxton Brewery |

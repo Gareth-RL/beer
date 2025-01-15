@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Black Iris Drop the Anchor
+Appearance: 4.0
+Aroma: 7.0
+Beer: Black Iris Drop the Anchor
+BeerID: 317244
+Brewer: Black Iris Brewery
+City: Nottingham
+Comments: '"Poured dark brown tan lace top. Aroma of roasted malts and herbal and
+  citrus hops. That''s the trick that impressed me. Medium sweet to bitter more dark
+  malty flavours and a finish that blended licorice and pine. Medium bodied grainy
+  texture average carbonation and a long bitter finish "'
+Country: England
+Date: '"9/5/2023 4:20:25 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA - Black / Brown / Cascadian Dark
+Taste: 7.0
 ---
 
 # Black Iris Drop the Anchor
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 317244 |
 | **Beer** | Black Iris Drop the Anchor |
 | **Brewer** | Black Iris Brewery |

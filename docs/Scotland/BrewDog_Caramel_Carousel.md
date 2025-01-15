@@ -1,12 +1,30 @@
 ---
-layout: default
-title: BrewDog Caramel Carousel
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog Caramel Carousel
+BeerID: 681417
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: '"Poured Dark brown tan lace top. Aroma dark malts some caramel and chocolate
+  noted. Taste is medium sweet to bitter with more caramel and some berry notes. Palate
+  is medium bodied sticky feel soft carbonation and a bitter finish. A decent dark
+  imperial if modest for the abv. Second sipping during lockdown and noted as King''s
+  Shilling.  No lace on a brown pouring.  Still a maltbread and caramel scent.  Still
+  makes me appreciate my Macpherson ancestry."'
+Country: Scotland
+Date: '"11/12/2019 4:00:07 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Grampian
+Style: Scotch Ale / Wee Heavy
+Taste: 8.0
 ---
 
 # BrewDog Caramel Carousel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 681417 |
 | **Beer** | BrewDog Caramel Carousel |
 | **Brewer** | BrewDog |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Castle Rock / Abstract Jungle Mocha 47 Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Castle Rock / Abstract Jungle Mocha 47 Porter
+BeerID: 573793
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: Cask at the Canal House. Pours dark brown with ruby notes and a creamy tan
+  top. Aroma has caramel, coffee, herbs, woody, notes. Taste is medium to light sweet
+  to bitter. Palate is medium, texture creamy, carbonation average to soft, finish
+  is bitter. Overall a quaffable porter.
+Country: England
+Date: '"12/5/2017 11:47:52 AM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Castle Rock / Abstract Jungle Mocha 47 Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 573793 |
 | **Beer** | Castle Rock / Abstract Jungle Mocha 47 Porter |
 | **Brewer** | Castle Rock Brewery |

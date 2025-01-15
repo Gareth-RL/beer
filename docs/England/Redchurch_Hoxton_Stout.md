@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Redchurch Hoxton Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Redchurch Hoxton Stout
+BeerID: 157789
+Brewer: Redchurch Brewery
+City: Harlow
+Comments: '"Tap @the canalhouse. Pours dark chocolate with creamy tan top. Aroma has
+  chocolate dark malts and cold coffee. Taste s medium sweet with bitter chocolate
+  notes, but not as rich as I hoped. Palate no more than medium texture oily, carbonation
+  soft with a bitter finish that is more ashy than languorous. It won&#39;t feature
+  in my top 10."'
+Country: England
+Date: '"11/10/2017 9:46:30 AM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Essex
+Style: Stout
+Taste: 6.0
 ---
 
 # Redchurch Hoxton Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 157789 |
 | **Beer** | Redchurch Hoxton Stout |
 | **Brewer** | Redchurch Brewery |

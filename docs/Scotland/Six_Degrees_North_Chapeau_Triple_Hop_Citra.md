@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Six Degrees North Chapeau Triple Hop Citra
+Appearance: 3.0
+Aroma: 7.0
+Beer: Six Degrees North Chapeau Triple Hop Citra
+BeerID: 586906
+Brewer: Six Degrees North Brewery
+City: Laurencekirk, Kincardineshire
+Comments: Tap at the Junkyard Nottingham. Pours cloudy caramel gold with thin white
+  lace. Aroma has spice, banana and bread. Taste is medium to full bitter with light
+  sweet sour notes in the background. Palate is medium bodied, sticky texture, average
+  to soft carbonation, and a long bitter finish. At some points it tasted like an
+  APA that went astray.
+Country: Scotland
+Date: '"4/5/2018 4:34:03 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Grampian
+Style: Belgian Ale - Strong Pale
+Taste: 7.0
 ---
 
 # Six Degrees North Chapeau Triple Hop Citra
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 586906 |
 | **Beer** | Six Degrees North Chapeau Triple Hop Citra |
 | **Brewer** | Six Degrees North Brewery |

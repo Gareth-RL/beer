@@ -1,12 +1,27 @@
 ---
-layout: default
-title: CRAK / Sleeping Village After Sauna
+Appearance: 4.0
+Aroma: 6.0
+Beer: CRAK / Sleeping Village After Sauna
+BeerID: 715582
+Brewer: CRAK Brewery
+City: '"Campodarsego &#40;PD&#41;"'
+Comments: 'Can from One for the Road Mestre. Poured golden with white foam top diminishing
+  to halo. Taste is medium sweet to bitter with drying finish. Medium bodied grainy
+  texture average carbonation and a bitter finish. Solid enough '
+Country: Italy
+Date: '"7/24/2022 11:22:39 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Veneto
+Style: Pilsener / Pils / Pilsner
+Taste: 6.0
 ---
 
 # CRAK / Sleeping Village After Sauna
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 715582 |
 | **Beer** | CRAK / Sleeping Village After Sauna |
 | **Brewer** | CRAK Brewery |

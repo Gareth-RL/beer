@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Maypole Mayfly
+Appearance: .nan
+Aroma: .nan
+Beer: Maypole Mayfly
+BeerID: 282221
+Brewer: Maypole Brewery
+City: Newark
+Comments: ' '
+Country: England
+Date: '"5/4/2017 7:01:02 AM"'
+MyScore: 1.0
+Overall: .nan
+Palate: .nan
+State: Nottinghamshire
+Style: Bitter - Ordinary / Best
+Taste: .nan
 ---
 
 # Maypole Mayfly
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 282221 |
 | **Beer** | Maypole Mayfly |
 | **Brewer** | Maypole Brewery |

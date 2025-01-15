@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Founders KBS (Kentucky Breakfast Stout)
+Appearance: 4.0
+Aroma: 8.0
+Beer: Founders KBS (Kentucky Breakfast Stout)
+BeerID: 40544
+Brewer: Founders Brewing Company (Mahou San Miguel)
+City: Grand Rapids
+Comments: Tap. Aroma coffee, chocolate, caramel, nuts, raisin, and of course the Bourbon.
+  Pours dark with a thin tan circle atop. The sweet vanilla fruitcake burst is a little
+  overpowering but it seems a nice way to conclude this portion of my US trip. I can
+  see why imperial stouts dominate the ratings and equally why they are beers realistically
+  taken on their own. A festive tipple. After these 10oz, nothing further could cope.
+Country: United States
+Date: '"4/28/2017 5:29:12 PM"'
+MyScore: 4.0
+Overall: 16.0
+Palate: 4.0
+State: Michigan
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # Founders KBS (Kentucky Breakfast Stout)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 40544 |
 | **Beer** | Founders KBS (Kentucky Breakfast Stout) |
 | **Brewer** | Founders Brewing Company (Mahou San Miguel) |

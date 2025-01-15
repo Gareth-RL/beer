@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Slater's Maravilla
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Slater''s Maravilla"'
+BeerID: 154532
+Brewer: '"Slater&#39;s Ales"'
+City: Stafford
+Comments: '"Cask. Aroma has some berry fruits but nothing remarkable. Pours a nice
+  amber clear body with off white lacing. But the taste is the thing. There are raspberry
+  notes but they inhabit a bland desert of medium sweetness and light sourness. It
+  could have been a sour but it certainly isn&#39;t. It&#39;s a blah, with thin to
+  medium body flat carbonation and a slightly slick feel amidst a banal finish "'
+Country: England
+Date: '"9/29/2017 11:58:36 AM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Staffordshire
+Style: Flavored - Fruit
+Taste: 5.0
 ---
 
 # Slater's Maravilla
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 154532 |
 | **Beer** | Slater's Maravilla |
 | **Brewer** | Slater&#39;s Ales |

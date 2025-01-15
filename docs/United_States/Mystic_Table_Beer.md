@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Mystic Table Beer
+Appearance: 4.0
+Aroma: 7.0
+Beer: Mystic Table Beer
+BeerID: 213044
+Brewer: Mystic Brewery
+City: Chelsea
+Comments: Tap. Grassy herbal scent with yeasty notes. Pours pale yellow gold with
+  thin white top, trifling lace. There are lemon, salty, spicy flavours. Medium sweet
+  medium bitterness, lightly sour, in the finish. Body is light to medium. Texture
+  is slick like heather. Reasonably lively carbonation with a gentle languorous finish.
+  Set a place for the table.
+Country: United States
+Date: '"4/23/2017 4:29:21 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Massachusetts
+Style: Saison / Farmhouse / Grisette
+Taste: 6.0
 ---
 
 # Mystic Table Beer
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 213044 |
 | **Beer** | Mystic Table Beer |
 | **Brewer** | Mystic Brewery |

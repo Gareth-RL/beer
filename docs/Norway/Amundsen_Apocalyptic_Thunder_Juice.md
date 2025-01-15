@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Amundsen Apocalyptic Thunder Juice
+Appearance: 4.0
+Aroma: 7.0
+Beer: Amundsen Apocalyptic Thunder Juice
+BeerID: 512900
+Brewer: Amundsen Bryggeri
+City: Oslo
+Comments: Tap at the Junkyard Nottingham. Pours cloudy yellow pale with white top.
+  Aroma citrus fruit and pale malts and oats. Taste is medium sweet to sour. Palate
+  is medium bodied, creamy texture, average to soft carbonation, and a  souring finish.
+  The epitome of NEIPA but not the drink with which I would face apocalypse. My plan
+  is to get the 4 horsemen drunk.... 21/09/21 second sipping. Lost a point for texture.
+Country: Norway
+Date: '"4/21/2018 12:10:15 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Oslo
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Amundsen Apocalyptic Thunder Juice
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 512900 |
 | **Beer** | Amundsen Apocalyptic Thunder Juice |
 | **Brewer** | Amundsen Bryggeri |

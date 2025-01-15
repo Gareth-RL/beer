@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Totally Brewed Brewer's Stroop
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Totally Brewed Brewer''s Stroop"'
+BeerID: 744950
+Brewer: Totally Brewed
+City: Nottingham
+Comments: Described as a waffle stout which may explain the maple syrup on the nose.
+  Pours black with thin lace. Taste is medium sweet to lightly bitter with caramelized
+  malts to the fore. Palate is no more than medium, sticky feel, average to soft carbonation,
+  bitter finish. Fair enough but not on a par with Voodoo.
+Country: England
+Date: '"6/27/2019 5:47:20 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Totally Brewed Brewer's Stroop
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 744950 |
 | **Beer** | Totally Brewed Brewer's Stroop |
 | **Brewer** | Totally Brewed |

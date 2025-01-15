@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Cheshire Brewhouse A Little Lupy &quot;Citra&quot;
+Appearance: 4.0
+Aroma: 6.0
+Beer: Cheshire Brewhouse A Little Lupy &quot;Citra&quot;
+BeerID: 344950
+Brewer: Cheshire Brewhouse
+City: Congleton
+Comments: '"On cask it''s Single Hop Citrus. Poured golden body with thin lace top.
+  Aroma of light citrus. Taste is medium to light sweet to medium bitter with some
+  drying finish. Palate is medium bodied oily texture average to watery carbonation
+  (which is rare in cask). Overall, a golden bitter with a deepening bitter finish.
+  I sometimes think brewers learn more than drinkers from a single hop ale."'
+Country: England
+Date: '"2/22/2020 6:58:00 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Cheshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Cheshire Brewhouse A Little Lupy &quot;Citra&quot;
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 344950 |
 | **Beer** | Cheshire Brewhouse A Little Lupy &quot;Citra&quot; |
 | **Brewer** | Cheshire Brewhouse |

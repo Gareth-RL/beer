@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Grainstore Spring Time
+Appearance: 4.0
+Aroma: 5.0
+Beer: Grainstore Spring Time
+BeerID: 32801
+Brewer: Grainstore Brewery (Rutland Brewing Co.)
+City: Oakham
+Comments: Cask. Lightly scented with floral notes. Pours golden with loose white head
+  that laces. My second bland beer in a row. There are hop fruits in the tail of this
+  and some resinous texture on the tongue but overall disappointing. 12/05/24 second
+  sipping 8 years later and grade inflation takes it over the 2 9
+Country: England
+Date: '"4/2/2016 11:22:29 AM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 4.0
+State: Rutland
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Grainstore Spring Time
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 32801 |
 | **Beer** | Grainstore Spring Time |
 | **Brewer** | Grainstore Brewery (Rutland Brewing Co.) |

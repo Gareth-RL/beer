@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Pentrich A Comet Appears
+Appearance: 4.0
+Aroma: 6.0
+Beer: Pentrich A Comet Appears
+BeerID: 902705
+Brewer: Pentrich Brewing Co.
+City: Pentrich
+Comments: 'Poured cloudy yellow white lace lasting.  Aroma mango and citrus and pineapple.
+  Medium sweet to bitter pineapple grapefruit and pale malts.  Medium bodied smooth
+  texture average carbonation and a light bitter finish.  Good '
+Country: England
+Date: '"10/7/2024 2:49:10 PM"'
+MyScore: 3.4
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Pentrich A Comet Appears
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 902705 |
 | **Beer** | Pentrich A Comet Appears |
 | **Brewer** | Pentrich Brewing Co. |

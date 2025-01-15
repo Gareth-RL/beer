@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Rudolph's Rum & Raisins
+Appearance: 3.0
+Aroma: 4.0
+Beer: '"Lincoln Green Rudolph''s Rum & Raisins"'
+BeerID: 978566
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: '"It''s supposed to be a seasonal ale with rum and raisin. I was expecting
+  a dark porter but got what looks like an ESB. Not much sign of rum or raisins. Taste
+  is medium sweet to bitter with maybe a hint of dark fruits in the finish. Palate
+  is medium bodied tacky feel average carbonation and a souring finish. Disappointing"'
+Country: England
+Date: '"12/16/2021 4:56:36 PM"'
+MyScore: 2.7
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Lincoln Green Rudolph's Rum & Raisins
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 978566 |
 | **Beer** | Lincoln Green Rudolph's Rum & Raisins |
 | **Brewer** | Lincoln Green Brewing Co. |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Paulaner Oktoberfest Bier (Wiesn Bier)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Paulaner Oktoberfest Bier (Wiesn Bier)
+BeerID: 646
+Brewer: Paulaner Brauerei
+City: München
+Comments: '"Tap @The Canal House Nottingham. Pours pale yellow gold with lasting white
+  lace. Aroma floral hops honeyed malt. Taste is medium sweet to lightly sour. Palate
+  medium bodied, slick feel, soft to average carbonation and a sweet honey finish.
+  Easy drinking and should be more available in the UK than it is. 23/09/23 second
+  sipping 5 years later. Still one of my favourite lagers."'
+Country: Germany
+Date: '"11/5/2018 5:42:03 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Bavaria
+Style: Märzen / Oktoberfest Bier
+Taste: 7.0
 ---
 
 # Paulaner Oktoberfest Bier (Wiesn Bier)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 646 |
 | **Beer** | Paulaner Oktoberfest Bier (Wiesn Bier) |
 | **Brewer** | Paulaner Brauerei |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Baladin Open Amber
+Appearance: 4.0
+Aroma: 7.0
+Beer: Baladin Open Amber
+BeerID: 276767
+Brewer: Le Baladin
+City: Piozzo
+Comments: '"Apr 13 2018 in Torino. Ruby colored beer. Nice malt aroma and agreeable
+  taste. Medium bodied with a pleasant finish. Not bad at all. 21/12/24 bottle left
+  over from summer. I liked it better second sipping.  Rich malt flavour.  I could
+  do without the 7.5% abv, but heyho it''s almost Xmas."'
+Country: Italy
+Date: '"4/13/2018 3:39:48 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Piemonte
+Style: Red Ale / International Amber Ale
+Taste: 7.0
 ---
 
 # Baladin Open Amber
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 276767 |
 | **Beer** | Baladin Open Amber |
 | **Brewer** | Le Baladin |

@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Magic Rock Common Grounds (Kentucky Bourbon BA)
+Appearance: .nan
+Aroma: .nan
+Beer: Magic Rock Common Grounds (Kentucky Bourbon BA)
+BeerID: 495776
+Brewer: Magic Rock Brewing (Odyssey Inns)
+City: Huddersfield
+Comments: ' '
+Country: England
+Date: '"6/14/2017 9:26:52 AM"'
+MyScore: 2.0
+Overall: .nan
+Palate: .nan
+State: West Yorkshire
+Style: Porter - Flavored
+Taste: .nan
 ---
 
 # Magic Rock Common Grounds (Kentucky Bourbon BA)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 495776 |
 | **Beer** | Magic Rock Common Grounds (Kentucky Bourbon BA) |
 | **Brewer** | Magic Rock Brewing (Odyssey Inns) |

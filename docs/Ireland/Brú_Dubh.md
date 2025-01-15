@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Brú Dubh
+Appearance: 4.0
+Aroma: 6.0
+Beer: Brú Dubh
+BeerID: 250915
+Brewer: Brú Brewery (Ireland)
+City: Trim
+Comments: 'Cask. Pours ruby black with thick cream head. Aroma lasted malts and toasted
+  bread. Tastes similarly with sweet caramel to the fore on a biscuity base with some
+  saltiness at the end. No more than medium bodied as today’s stout are wont to be.
+  It’s chief charm today was that it was free on St Patrick’s Day to anyone wearing
+  the green. Thanks to my scarf '
+Country: Ireland
+Date: '"3/17/2016 1:36:28 PM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: County Meath
+Style: Stout - Dry / Irish
+Taste: 6.0
 ---
 
 # Brú Dubh
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 250915 |
 | **Beer** | Brú Dubh |
 | **Brewer** | Brú Brewery (Ireland) |

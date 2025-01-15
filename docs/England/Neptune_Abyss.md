@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Neptune Abyss
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neptune Abyss
+BeerID: 375189
+Brewer: Neptune Brewery
+City: Liverpool
+Comments: Poured dark brown almost black body with foamy tan lace top. Nice aroma
+  of mocha malts. Medium sweet to bitter with more chocolate and coffee grounds along
+  the way and a background hop fruitiness. Light to medium bodied smooth texture average
+  carbonation and a long finish. A decent stout.
+Country: England
+Date: '"12/11/2023 4:05:09 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Merseyside
+Style: Stout - Oatmeal
+Taste: 7.0
 ---
 
 # Neptune Abyss
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 375189 |
 | **Beer** | Neptune Abyss |
 | **Brewer** | Neptune Brewery |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Verdant Light Bulb
+Appearance: 4.0
+Aroma: 7.0
+Beer: Verdant Light Bulb
+BeerID: 469572
+Brewer: Verdant Brewing Co
+City: Kernick
+Comments: 'Tap. . Light citrus. Pale yellow. Over carbonation. Yellow gold. Medium
+  sweet bitter finish with buttery notes. Meh. 11/24/17 Tap. Pours pale hazy orange
+  with thin scummy top. Aroma is light orange and lemon floral notes. Taste is medium
+  bitter. Palate is medium bodied, sticky texture, average to lively carbonation (more
+  than it needs). Finish is despondent and the final remark remains true. 16/09/23
+  third mistake '
+Country: England
+Date: '"7/26/2017 9:50:03 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Cornwall
+Style: Pale Ale - Hazy / New England
+Taste: 6.0
 ---
 
 # Verdant Light Bulb
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 469572 |
 | **Beer** | Verdant Light Bulb |
 | **Brewer** | Verdant Brewing Co |

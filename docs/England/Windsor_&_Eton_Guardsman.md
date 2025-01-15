@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Windsor & Eton Guardsman
+Appearance: 4.0
+Aroma: 7.0
+Beer: Windsor & Eton Guardsman
+BeerID: 124528
+Brewer: Windsor & Eton Brewery
+City: Windsor
+Comments: 'Poured copper amber body with off-white foam. More malt than hop on the
+  nose, with bread from the former and hedgerow from the latter. Taste is medium sweet
+  to bitter with a little languor in the finish. Palate is medium bodied, average
+  to lively carbonation, some biscuit mouth-coating lengthening the bitter finish.
+  I made a point of sampling quite a few Bitters on my return to England and most
+  disappointed a palate primed by too many New World pales and dark malty stouts.
+  But this one is balanced in a good way. '
+Country: England
+Date: '"9/5/2021 5:54:33 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Berkshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Windsor & Eton Guardsman
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 124528 |
 | **Beer** | Windsor & Eton Guardsman |
 | **Brewer** | Windsor & Eton Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Fat Cat Marmalade Cat
+Appearance: 4.0
+Aroma: 6.0
+Beer: Fat Cat Marmalade Cat
+BeerID: 66352
+Brewer: Fat Cat Brewery (UK)
+City: Norwich
+Comments: Cask at the Organ Grinder. Pours orange amber with white lace top mainly
+  lasting. Aroma is pale cereal malt spruce, floral, hops.  Taste is light to medium
+  sweet but medium bitter in the finish. Palate medium bodied, sticky feel, average
+  carbonation, and a bitter finish. My best bitter in a  while.
+Country: England
+Date: '"1/19/2018 5:41:11 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Norfolk
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 7.0
 ---
 
 # Fat Cat Marmalade Cat
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 66352 |
 | **Beer** | Fat Cat Marmalade Cat |
 | **Brewer** | Fat Cat Brewery (UK) |

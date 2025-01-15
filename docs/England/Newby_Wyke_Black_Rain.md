@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Newby Wyke Black Rain
+Appearance: 4.0
+Aroma: 7.0
+Beer: Newby Wyke Black Rain
+BeerID: 1170025
+Brewer: Newby Wyke Brewery
+City: Grantham
+Comments: 'Poured dark brown body off white lace top. Roasted malt scent nutty coffee.
+  Medium sweet to bitter with toffee malt and berry hops and a bitter finish. Medium
+  bodied smooth texture average carbonation and a drying souring finish. Good except
+  for the sour after taste '
+Country: England
+Date: '"1/19/2024 4:21:20 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Lincolnshire
+Style: Porter
+Taste: 6.0
 ---
 
 # Newby Wyke Black Rain
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1170025 |
 | **Beer** | Newby Wyke Black Rain |
 | **Brewer** | Newby Wyke Brewery |

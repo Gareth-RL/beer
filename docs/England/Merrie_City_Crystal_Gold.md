@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Merrie City Crystal Gold
+Appearance: 4.0
+Aroma: 5.0
+Beer: Merrie City Crystal Gold
+BeerID: 377362
+Brewer: Westgate Brewery (prev Clarks Brewery)
+City: Wakefield
+Comments: Cask. Pours light amber gold with white top. Reasonable lacing. Downhill
+  from there. Aroma nondescript hops. Taste sour fruit. Medium body and slightly tacky
+  finish. I’m sure crystal hops have been more successfully used elsewhere.
+Country: England
+Date: '"4/9/2017 6:39:16 AM"'
+MyScore: 2.7
+Overall: 11.0
+Palate: 3.0
+State: West Yorkshire
+Style: Blonde Ale / Golden Ale
+Taste: 4.0
 ---
 
 # Merrie City Crystal Gold
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 377362 |
 | **Beer** | Merrie City Crystal Gold |
 | **Brewer** | Westgate Brewery (prev Clarks Brewery) |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Castle Rock Session IPA 2.0 v1.7
+Appearance: 3.0
+Aroma: 6.0
+Beer: Castle Rock Session IPA 2.0 v1.7
+BeerID: 496014
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: '"Citrus marmalade nose. Hazy pale orange body scummy lace top. Taste is
+  medium sweet to lightly bitter and sour with some biscuity notes. Palate is medium
+  bodied, oily texture average carbonation and a murky finish slipping between bitter
+  and sour as it subsides. Bottom line is I wouldn''t fancy a session of this."'
+Country: England
+Date: '"1/31/2019 4:30:43 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Castle Rock Session IPA 2.0 v1.7
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 496014 |
 | **Beer** | Castle Rock Session IPA 2.0 v1.7 |
 | **Brewer** | Castle Rock Brewery |

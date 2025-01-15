@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Neon Raptor Night Drive Radio
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neon Raptor Night Drive Radio
+BeerID: 796861
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: '"Aroma has some citrus and pineapple but less than some of their other
+  NEIPAs. But murky golden, thin lace in classic style. Taste is medium sweet to bitter
+  but some mineral notes in the finish. Palate is medium bodied clammy feel soft carbonation
+  and a chalky finish. In the taproom it''s listed as a session IPA but I would definitely
+  prefer a session of Virtual Paradise which is their DDH 4.5% pale."'
+Country: England
+Date: '"2/16/2020 5:36:36 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Neon Raptor Night Drive Radio
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 796861 |
 | **Beer** | Neon Raptor Night Drive Radio |
 | **Brewer** | Neon Raptor Brewing Co. |

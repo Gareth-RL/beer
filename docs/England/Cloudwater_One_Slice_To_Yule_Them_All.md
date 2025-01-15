@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Cloudwater One Slice To Yule Them All
+Appearance: 4.0
+Aroma: 8.0
+Beer: Cloudwater One Slice To Yule Them All
+BeerID: 794621
+Brewer: Cloudwater Brew Co
+City: Manchester
+Comments: '"It almost lost a point for a dreadful pun on a non Xmas theme, but that''s
+  hardly the spirit of the season. I think you should reward a brewer who achieves
+  what she sets out to achieve, and this is a Xmas pudding of a stout.. Aroma has
+  dark fruit and marzipan and spice. Taste is rich and sweet. Like the pudding itself
+  is small slice may suffice.  Palate is medium bodied at least with a treacly feel
+  and soft carbonation. The finish is long and cake infused. I struggled to finish
+  a third but that''s just my intrinsic wimpiness."'
+Country: England
+Date: '"1/15/2020 3:07:10 PM"'
+MyScore: 4.2
+Overall: 18.0
+Palate: 4.0
+State: Greater Manchester
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # Cloudwater One Slice To Yule Them All
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 794621 |
 | **Beer** | Cloudwater One Slice To Yule Them All |
 | **Brewer** | Cloudwater Brew Co |

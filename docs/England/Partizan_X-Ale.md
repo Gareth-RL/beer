@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Partizan X-Ale
+Appearance: 3.0
+Aroma: 7.0
+Beer: Partizan X-Ale
+BeerID: 246002
+Brewer: Partizan Brewing
+City: Market Harborough
+Comments: '"X+ale 1885. Modern mild apparently smells lightly of toffee malt and citrus
+  hops.  Pours hazy golden with thin lace Halo. Taste is medium sweet to lightly bitter.
+  Palate is medium at most, oily texture soft to average carbonation and a light fruity
+  finish. I don''t think these hops are mild suited."'
+Country: England
+Date: '"6/16/2019 3:59:13 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Leicestershire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Partizan X-Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 246002 |
 | **Beer** | Partizan X-Ale |
 | **Brewer** | Partizan Brewing |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Blue Monkey Chocolate Guerrilla
+Appearance: 4.0
+Aroma: 10.0
+Beer: Blue Monkey Chocolate Guerrilla
+BeerID: 250895
+Brewer: Blue Monkey Brewery
+City: Nottingham
+Comments: Cask. Enough cocoa in the aroma to justify the name. This guerrilla comes
+  out swinging. Pours dark with ruby notes and thin tan head. Tastes more like Frys
+  Turkish Delight than it does of Belgian truffles. So some might find the sweetness
+  too much. But a SIBA gold medal suggests that some discerning palates disagree.
+  As a specialty beer impressive although in being so it buries some stout qualities.
+  7/11/23 not tried since 2016, but my earlier review stands.
+Country: England
+Date: '"2/5/2016 12:04:07 PM"'
+MyScore: 3.7
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Stout
+Taste: 8.0
 ---
 
 # Blue Monkey Chocolate Guerrilla
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 250895 |
 | **Beer** | Blue Monkey Chocolate Guerrilla |
 | **Brewer** | Blue Monkey Brewery |

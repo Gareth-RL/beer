@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Lytham Stout
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lytham Stout
+BeerID: 118537
+Brewer: Lytham Brewery
+City: Kirkham
+Comments: '"Cask at the Sir John Borlase Warren Nottingham. Pours dark chestnut with
+  ruby lights and tan lace. Aroma has coffee dark malts and berry hops. Taste is medium
+  sweet to sour. Palate is medium to light body edging watery which is not great in
+  a stout. Texture is oily and tongue curling which is also unusual. Finish is blunt.
+  I note that it hasn&#39;t troubled a reviewer in a while and it troubles this one
+  since I like stout."'
+Country: England
+Date: '"4/23/2018 5:42:29 PM"'
+MyScore: 2.8
+Overall: 10.0
+Palate: 3.0
+State: Lancashire
+Style: Stout
+Taste: 5.0
 ---
 
 # Lytham Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 118537 |
 | **Beer** | Lytham Stout |
 | **Brewer** | Lytham Brewery |

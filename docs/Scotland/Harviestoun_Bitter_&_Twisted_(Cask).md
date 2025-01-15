@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Harviestoun Bitter & Twisted (Cask)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Harviestoun Bitter & Twisted (Cask)
+BeerID: 11691
+Brewer: Harviestoun Brewery
+City: Alva, Stirlingshire
+Comments: Cask. Pours golden with white lace top. Aroma modestly hop fruits. Taste
+  has biscuity malts with a lemon hop finish and some sourness on the palate. Unspectacular.
+Country: Scotland
+Date: '"3/24/2017 7:57:00 AM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Central Scotland
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Harviestoun Bitter & Twisted (Cask)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 11691 |
 | **Beer** | Harviestoun Bitter & Twisted (Cask) |
 | **Brewer** | Harviestoun Brewery |

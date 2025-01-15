@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Dancing Duck Gold
+Appearance: 4.0
+Aroma: 6.0
+Beer: Dancing Duck Gold
+BeerID: 138115
+Brewer: Dancing Duck Brewery
+City: Derby
+Comments: 'Cask. Aroma must citrus fruits Pours amber golden, white top. Broken lacing.
+  Tastes softly fruity at first with bitterness growing. The overall effect is a pale
+  that hits its mark '
+Country: England
+Date: '"6/11/2016 9:28:21 AM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Derbyshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Dancing Duck Gold
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 138115 |
 | **Beer** | Dancing Duck Gold |
 | **Brewer** | Dancing Duck Brewery |

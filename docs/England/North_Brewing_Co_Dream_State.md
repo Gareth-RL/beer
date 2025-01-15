@@ -1,12 +1,30 @@
 ---
-layout: default
-title: North Brewing Co Dream State
+Appearance: 4.0
+Aroma: 7.0
+Beer: North Brewing Co Dream State
+BeerID: 787569
+Brewer: North Brewing Co (England)
+City: Leeds
+Comments: Poured cola black with no head to speak of. Aroma is of dark stone fruits,
+  nuts and molasses with a  definite booziness. Taste is medium sweet with some coffee
+  and chocolate notes, again some dark fruitiness to the fore and a little treacly
+  licorice at the back. Palate is medium to full bodied, sticky texture soft to average
+  carbonation and a long finish. Overall an agreeable winter warmer and tasty enough
+  for a wet spring afternoon.
+Country: England
+Date: '"4/29/2020 2:39:38 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: West Yorkshire
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # North Brewing Co Dream State
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 787569 |
 | **Beer** | North Brewing Co Dream State |
 | **Brewer** | North Brewing Co (England) |

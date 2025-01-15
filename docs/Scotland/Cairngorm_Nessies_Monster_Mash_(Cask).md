@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Cairngorm Nessies Monster Mash (Cask)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Cairngorm Nessies Monster Mash (Cask)
+BeerID: 46112
+Brewer: Cairngorm Brewery Co.
+City: Aviemore,
+Comments: 'The Roebuck cask. Poured brown body off white lace top. Malt bread scent.
+  Taste is lightly sweet but more emphatically bitter with a long twig finish. Medium
+  bodied mouth coating average carbonation and a long bitter finish. A bitter indeed '
+Country: Scotland
+Date: '"1/25/2024 12:02:40 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Highlands and Western Isles
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Cairngorm Nessies Monster Mash (Cask)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 46112 |
 | **Beer** | Cairngorm Nessies Monster Mash (Cask) |
 | **Brewer** | Cairngorm Brewery Co. |

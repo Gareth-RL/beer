@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Brixton Atlantic APA
+Appearance: 4.0
+Aroma: 7.0
+Beer: Brixton Atlantic APA
+BeerID: 259382
+Brewer: Brixton Brewery (Heineken UK)
+City: Brixton
+Comments: '"Poured hazy golden body thin fading lace. Peach mango pineapple scent.
+  Medium sweet to bitter with lots of fruit. Medium bodied, fizzy on the tongue, average
+  carbonation, and a light bitter finish. Despite the gassy feeling, it''s a refreshing
+  pale. 07/06/24 second sipping and i still approve the scent and taste albeit i also
+  picked up some chlorophenol in there.  And way too fizzy "'
+Country: England
+Date: '"10/6/2023 5:11:05 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Greater London
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Brixton Atlantic APA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 259382 |
 | **Beer** | Brixton Atlantic APA |
 | **Brewer** | Brixton Brewery (Heineken UK) |

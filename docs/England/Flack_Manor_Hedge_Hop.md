@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Flack Manor Hedge Hop
+Appearance: 4.0
+Aroma: 6.0
+Beer: Flack Manor Hedge Hop
+BeerID: 276891
+Brewer: '"Flack&#39;s Brewery (prev Flack Manor Brewery)"'
+City: Romsey
+Comments: 'Poured amber body off white lace top. Aroma of citrus hops and light roasted
+  malts. Medium sweet to bitter with bread malt with a smear of lemon marmalade. Medium
+  bodied smooth texture average carbonation and a bitter finish. A decent bitter and
+  a Hampshire tick in Nottingham '
+Country: England
+Date: '"2/20/2024 3:50:05 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Hampshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Flack Manor Hedge Hop
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 276891 |
 | **Beer** | Flack Manor Hedge Hop |
 | **Brewer** | Flack&#39;s Brewery (prev Flack Manor Brewery) |

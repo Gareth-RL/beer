@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Navigation Eclipse
+Appearance: 4.0
+Aroma: 4.0
+Beer: Navigation Eclipse
+BeerID: 297258
+Brewer: Navigation Brewery
+City: Nottingham
+Comments: Cask at the taphouse. Pours black with tan head. Aroma of caramelized malt.
+  Taste has fruit and licorice with some biscuity notes lurking.Smooth but with a
+  pleasant lasting edge on the palate. More porter than stout. And not to much abv
+  to prevent tasting a few. I commend it to the house.
+Country: England
+Date: '"9/15/2015 12:27:33 PM"'
+MyScore: 3.3
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Navigation Eclipse
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 297258 |
 | **Beer** | Navigation Eclipse |
 | **Brewer** | Navigation Brewery |

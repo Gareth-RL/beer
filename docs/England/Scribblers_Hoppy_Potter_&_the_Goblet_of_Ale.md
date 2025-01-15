@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Scribblers Hoppy Potter & the Goblet of Ale
+Appearance: 4.0
+Aroma: 7.0
+Beer: Scribblers Hoppy Potter & the Goblet of Ale
+BeerID: 292705
+Brewer: Scribblers Ales
+City: Nottingham
+Comments: 'Cask. Aroma fruity including peach. Pour pale amber with thin white top.
+  Taste has some biscuit malt that moderates the fruity sweetness and leads to a pleasant
+  bitter finish. Another session ale from a consistent brewery '
+Country: England
+Date: '"12/3/2016 7:21:42 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Scribblers Hoppy Potter & the Goblet of Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 292705 |
 | **Beer** | Scribblers Hoppy Potter & the Goblet of Ale |
 | **Brewer** | Scribblers Ales |

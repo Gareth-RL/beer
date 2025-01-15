@@ -1,12 +1,29 @@
 ---
-layout: default
-title: 4T's Chocolate & Fudge Stout Detectives
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"4T''s Chocolate & Fudge Stout Detectives"'
+BeerID: 591994
+Brewer: '"4T&#39;s Brewery"'
+City: Warrington
+Comments: '"Poured dark brown body tan cream top. Aroma of chocolate caramel fudge.
+  Medium sweet with milky chocolate and caramel to begin and coffee malt to finish.
+  Rich. Medium to full bodied smooth texture average carbonation and a bitter finish.
+  It delivers but I can''t imagine having a second Lion@Basford. 09/08/24 and lo a
+  second sipping this time at Partizan  "'
+Country: England
+Date: '"3/17/2024 2:47:52 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Cheshire
+Style: Stout
+Taste: 7.0
 ---
 
 # 4T's Chocolate & Fudge Stout Detectives
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 591994 |
 | **Beer** | 4T's Chocolate & Fudge Stout Detectives |
 | **Brewer** | 4T&#39;s Brewery |

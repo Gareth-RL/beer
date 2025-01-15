@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Wiper and True / Birrificio del Ducato Later Song
+Appearance: 4.0
+Aroma: 7.0
+Beer: Wiper and True / Birrificio del Ducato Later Song
+BeerID: 563691
+Brewer: Wiper and True Brewing Co.
+City: Bristol
+Comments: Tap at the Junkyard. Pours hazy caramel amber with broken lace top. Aroma
+  similarly strong on caramelized malt not sure I could detect apricot but dried fruit
+  certainly. Taste is medium sweet in a sustained vanilla caramel kind of way. A single
+  sustained note but a pure one. Palate is medium bodied, lightly creamy texture,
+  soft carbonation, and a lazy lasting finish that melts away. Definitely a  beer
+  I enjoyed more as I sipped.
+Country: England
+Date: '"1/12/2018 8:16:49 PM"'
+MyScore: 3.8
+Overall: 16.0
+Palate: 4.0
+State: Gloucestershire
+Style: Strong Ale - English
+Taste: 7.0
 ---
 
 # Wiper and True / Birrificio del Ducato Later Song
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 563691 |
 | **Beer** | Wiper and True / Birrificio del Ducato Later Song |
 | **Brewer** | Wiper and True Brewing Co. |

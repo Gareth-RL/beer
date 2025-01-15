@@ -1,12 +1,29 @@
 ---
-layout: default
-title: RentOn Jacaranda
+Appearance: 4.0
+Aroma: 7.0
+Beer: RentOn Jacaranda
+BeerID: 573800
+Brewer: RentOn
+City: '"Fano &#40;PU&#41;"'
+Comments: Poured a lively slightly cloudy amber body with a white foam that settled
+  to a thin lacing. Aroma of caramel malt and citric floral hops. Taste is medium
+  sweet to bitter with a swift transition and a long bitter finish; the hops dominate
+  but there is still some roast malt evident. Medium bodied, smooth texture, average
+  carbonation, long bitter finish. Overall an APA that could easily pass for an IPA
+Country: Italy
+Date: '"7/16/2023 8:48:09 AM"'
+MyScore: 3.2
+Overall: 11.0
+Palate: 4.0
+State: Marche
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # RentOn Jacaranda
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 573800 |
 | **Beer** | RentOn Jacaranda |
 | **Brewer** | RentOn |

@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Hofbräu München Schwarze Weisse
+Appearance: 3.0
+Aroma: 7.0
+Beer: Hofbräu München Schwarze Weisse
+BeerID: 10135
+Brewer: Staatliches Hofbräuhaus München
+City: München
+Comments: '"Bottle Ali supermarket Mestre. Poured brown body with full foam tan top.
+  No lager straight glass to hand and the Belgian chalice filled with foam. Aroma
+  has ripe banana caramel malt and yeast esters. Taste is medium sweet with more toffee
+  banana. But there''s too much fizz. Light to medium bodied but texture is marred
+  by overcarbonation and slightly metallic finish. I am toying with the idea of sampling
+  the standards from the supermarket since at 1.69 a bottle it''s very affordable
+  compared to 6-8 euros for the craft and the latter are hit-and-miss."'
+Country: Germany
+Date: '"7/26/2023 10:37:35 AM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: Bavaria
+Style: Weissbier - Dunkelweizen
+Taste: 7.0
 ---
 
 # Hofbräu München Schwarze Weisse
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 10135 |
 | **Beer** | Hofbräu München Schwarze Weisse |
 | **Brewer** | Staatliches Hofbräuhaus München |

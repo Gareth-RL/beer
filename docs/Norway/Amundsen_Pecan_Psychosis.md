@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Amundsen Pecan Psychosis
+Appearance: 4.0
+Aroma: 8.0
+Beer: Amundsen Pecan Psychosis
+BeerID: 568645
+Brewer: Amundsen Bryggeri
+City: Oslo
+Comments: Tap at the Junkyard Nottingham. Pours black with tan cream top. Aroma is
+  richly nutted and toffee vanilla flavored with chocolate and coffee malt notes.
+  Taste is initially very sweet indeed but then the alcohol kicks in to offset this.
+  The palate is full to medium bodied , sticky texture, soft carbonation and an alcoholic
+  finish like a spirit shot. Overall like most imperials with Bourbon, it is formidable
+  but a third is more than enough.
+Country: Norway
+Date: '"10/1/2018 4:57:47 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Oslo
+Style: Stout - Imperial Flavored / Pastry
+Taste: 7.0
 ---
 
 # Amundsen Pecan Psychosis
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 568645 |
 | **Beer** | Amundsen Pecan Psychosis |
 | **Brewer** | Amundsen Bryggeri |

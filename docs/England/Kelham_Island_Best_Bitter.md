@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Kelham Island Best Bitter
+Appearance: 3.0
+Aroma: 6.0
+Beer: Kelham Island Best Bitter
+BeerID: 12730
+Brewer: Kelham Island Brewery
+City: Sheffield
+Comments: Cask. Aroma nutty malt fruity hop. Brewery claims it’s straw coloured bu
+  mine was amber and I would not want anything to do with brown straw. Thin off white
+  top. Strong sheet lacing. Taste had strong biscuity malts to the fore there’s fruit
+  in the languor which is also floury. Once lots of beer tasted like this, but fortunately
+  times have changed.
+Country: England
+Date: '"7/4/2016 11:29:09 AM"'
+MyScore: 2.8
+Overall: 10.0
+Palate: 3.0
+State: South Yorkshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Kelham Island Best Bitter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 12730 |
 | **Beer** | Kelham Island Best Bitter |
 | **Brewer** | Kelham Island Brewery |

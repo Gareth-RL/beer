@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Northern Monk / J. Wakefield  Blues Run The Game (Patrons Project 15.01)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Northern Monk / J. Wakefield  Blues Run The Game (Patrons Project 15.01)
+BeerID: 687331
+Brewer: Northern Monk Brew Co.
+City: Leeds
+Comments: Pours raspberry with pink halo. But the aroma has herbal notes and malts.
+  Taste is juicy fruit sweet to sour and sweet again. Palate is medium bodied, sticky
+  texture, soft to average carbonation, and a sweet finish. A summer party piece.
+Country: England
+Date: '"1/15/2019 4:48:50 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: West Yorkshire
+Style: IPA - Sour / Wild
+Taste: 7.0
 ---
 
 # Northern Monk / J. Wakefield  Blues Run The Game (Patrons Project 15.01)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 687331 |
 | **Beer** | Northern Monk / J. Wakefield  Blues Run The Game (Patrons Project 15.01) |
 | **Brewer** | Northern Monk Brew Co. |

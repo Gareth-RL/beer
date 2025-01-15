@@ -1,12 +1,27 @@
 ---
-layout: default
-title: AllGates Patchcroft Mosaic
+Appearance: 4.0
+Aroma: 7.0
+Beer: AllGates Patchcroft Mosaic
+BeerID: 373856
+Brewer: Wigan Brew House (prev AllGates)
+City: Wigan
+Comments: Cask. Aroma of grapefruit and lemon zest. Pours copper with lace top. Fruit
+  on the tongue too with quite a delicate hoppiness. Well carbonated with a light
+  grassy finish.
+Country: England
+Date: '"11/8/2015 11:28:40 AM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 3.0
+State: Greater Manchester
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # AllGates Patchcroft Mosaic
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 373856 |
 | **Beer** | AllGates Patchcroft Mosaic |
 | **Brewer** | Wigan Brew House (prev AllGates) |

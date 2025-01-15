@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Castle Rock Hyperfocus
+Appearance: 4.0
+Aroma: 6.0
+Beer: Castle Rock Hyperfocus
+BeerID: 1190407
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: 'Poured golden body white lace top. Light hoppy scent. Medium sweet to bitter
+  with not a lot of action to report. Medium bodied smooth texture average carbonation
+  and a pine finish. Dull '
+Country: England
+Date: '"5/27/2024 3:53:06 PM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Castle Rock Hyperfocus
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1190407 |
 | **Beer** | Castle Rock Hyperfocus |
 | **Brewer** | Castle Rock Brewery |

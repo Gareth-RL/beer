@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Lincoln Green Gg (Geordium Grandsonium)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lincoln Green Gg (Geordium Grandsonium)
+BeerID: 541743
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: '"Cask. Aroma has cereal, roasty, herbs, bubblegum an interesting combo.
+  Pours dark with ruby lights. Thin white lace top with broken lacing. Light sweetness
+  with a building medium to strong bitterness. Carbonation light. Long finish. A good
+  solid ale from a. Very proud Grandpa. &#40;&#40;he seems determined to drink most
+  of the barrel himself.&#41;"'
+Country: England
+Date: '"8/10/2017 12:58:00 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Lincoln Green Gg (Geordium Grandsonium)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 541743 |
 | **Beer** | Lincoln Green Gg (Geordium Grandsonium) |
 | **Brewer** | Lincoln Green Brewing Co. |

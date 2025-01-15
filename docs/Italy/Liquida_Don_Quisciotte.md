@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Liquida Don Quisciotte
+Appearance: 3.0
+Aroma: 7.0
+Beer: Liquida Don Quisciotte
+BeerID: 839880
+Brewer: Liquida
+City: '"Ostellato &#40;FE&#41;"'
+Comments: Can from One For the Road in Mestre. Poured hazy golden body thin lace diminishing
+  to halo. Aroma has pineapple and resinous hops. Taste is lightly sweet but thanks
+  to the strong pine note it is mainly bitter with a long finish. Medium to light
+  bodied, smooth texture, soft carbonation and the long bitter finish. Certainly refreshing
+  but I did wonder if I would want a second of the same.
+Country: Italy
+Date: '"8/23/2023 3:25:57 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Emilia-Romagna
+Style: IPA
+Taste: 7.0
 ---
 
 # Liquida Don Quisciotte
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 839880 |
 | **Beer** | Liquida Don Quisciotte |
 | **Brewer** | Liquida |

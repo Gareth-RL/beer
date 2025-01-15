@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Kompaan 39 Bloedbroeder
+Appearance: 4.0
+Aroma: 7.0
+Beer: Kompaan 39 Bloedbroeder
+BeerID: 233928
+Brewer: Kompaan
+City: The Hague
+Comments: Poured dark brown body with tan lace top. Aroma has roasted malts with coffee
+  and chocolate notes and little berry fruit. Taste is medium sweet but with a drying
+  licorice bitterness. Palate is medium bodied, at most, some stickiness, average
+  carbonation, and a bitter finish. Like others I cannot detect the port in either
+  the scent or the taste but would dub this a porter rather than a stout in overall
+  feel. It clearly has fans out there but I was less than overwhelmed.
+Country: Netherlands
+Date: '"4/6/2020 5:48:21 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: South Holland
+Style: Stout - Imperial
+Taste: 7.0
 ---
 
 # Kompaan 39 Bloedbroeder
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 233928 |
 | **Beer** | Kompaan 39 Bloedbroeder |
 | **Brewer** | Kompaan |

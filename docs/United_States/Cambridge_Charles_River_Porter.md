@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Cambridge Charles River Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Cambridge Charles River Porter
+BeerID: 4480
+Brewer: Cambridge Brewing Company (Castle Island Brewing)
+City: Cambridge
+Comments: '"Aroma of dark caramelized malt, with a whiff of booziness. Pours dark
+  brown with tan lace halo. Taste is medium sweet to bitter but there''s a fortified
+  wine backnote. Palate is medium sweet but the hop bitterness kicks in quickly -
+  a bit like a rabbit-punch. Overall I think robust porter covers it."'
+Country: United States
+Date: '"4/27/2019 10:25:04 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Massachusetts
+Style: Porter
+Taste: 7.0
 ---
 
 # Cambridge Charles River Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 4480 |
 | **Beer** | Cambridge Charles River Porter |
 | **Brewer** | Cambridge Brewing Company (Castle Island Brewing) |

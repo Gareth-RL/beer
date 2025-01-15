@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Brew York Haze Of Thunder (4.6%)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Brew York Haze Of Thunder (4.6%)
+BeerID: 767503
+Brewer: Brew York
+City: York
+Comments: '"Poured hazy copper with decided murk beneath a broken lace top. Aroma
+  is citrus lemon and tangerine. Taste is medium sweet to sour with tangerine and
+  grapefruit noted. Medium bodied average to soft carbonation and a bitter finish.
+  I won''t go for a second helping"'
+Country: England
+Date: '"11/15/2021 5:33:55 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: North Yorkshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Brew York Haze Of Thunder (4.6%)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 767503 |
 | **Beer** | Brew York Haze Of Thunder (4.6%) |
 | **Brewer** | Brew York |

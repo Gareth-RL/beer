@@ -1,12 +1,28 @@
 ---
-layout: default
-title: BrewDog 90 Day Bock
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog 90 Day Bock
+BeerID: 1012656
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: 'Poured amber body thin lace diminishing to halo. Aroma of slightly roasted
+  malts breast with hint of caramel.  Taste medium sweet to bitter pleasant malted
+  flavours but a bit monotone. Palate medium bodied smooth texture average carbonation
+  and a light finish. This is my kind of lager but there are better examples '
+Country: Scotland
+Date: '"12/14/2022 4:16:40 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Grampian
+Style: Bock - Doppelbock
+Taste: 6.0
 ---
 
 # BrewDog 90 Day Bock
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1012656 |
 | **Beer** | BrewDog 90 Day Bock |
 | **Brewer** | BrewDog |

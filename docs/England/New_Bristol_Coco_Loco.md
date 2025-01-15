@@ -1,12 +1,28 @@
 ---
-layout: default
-title: New Bristol Coco Loco
+Appearance: 4.0
+Aroma: 6.0
+Beer: New Bristol Coco Loco
+BeerID: 767257
+Brewer: New Bristol Brewery
+City: Bristol
+Comments: Pours cloudy orange golden with white lace foam. Aroma has plenty of citrus
+  grapefruit lemon zest. Taste is medium sweet to bitter with the latter quite drying.
+  Coconut was promised but it eluded me. Palate is medium bodied sticky feel average
+  to soft carbonation and a long finish.
+Country: England
+Date: '"9/13/2019 3:23:55 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Gloucestershire
+Style: IPA - Flavored
+Taste: 6.0
 ---
 
 # New Bristol Coco Loco
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 767257 |
 | **Beer** | New Bristol Coco Loco |
 | **Brewer** | New Bristol Brewery |

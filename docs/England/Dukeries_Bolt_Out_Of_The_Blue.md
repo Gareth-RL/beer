@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Dukeries Bolt Out Of The Blue
+Appearance: 4.0
+Aroma: 7.0
+Beer: Dukeries Bolt Out Of The Blue
+BeerID: 295417
+Brewer: Dukeries Brewery
+City: Worksop
+Comments: Cask. Pours amber, white top. Aroma caramel malts with yeasty undertones.
+  Taste predictably of cereal biscuit in the fore with sharper hops behind. Well balanced.
+  Light to medium on the palate. Solid, if not sensational.
+Country: England
+Date: '"11/18/2015 12:01:25 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Dukeries Bolt Out Of The Blue
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 295417 |
 | **Beer** | Dukeries Bolt Out Of The Blue |
 | **Brewer** | Dukeries Brewery |

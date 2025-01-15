@@ -1,12 +1,28 @@
 ---
-layout: default
-title: North Riding / Five Towns Rum & Raisin Dark Mild
+Appearance: 4.0
+Aroma: 7.0
+Beer: North Riding / Five Towns Rum & Raisin Dark Mild
+BeerID: 414237
+Brewer: North Riding Brewery
+City: Snainton
+Comments: Poured dark brown body tan cream lace top.  Aroma of rum and raisin, wyb.
+  Medium sweet to lightly bitter plenty of fruit in the toffee malt. Medium bodied
+  smooth texture average carbonation and a light bitter finish.  I am a sucker for
+  a sweet malty brew.
+Country: England
+Date: '"6/3/2024 11:45:41 AM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: North Yorkshire
+Style: Mild Ale
+Taste: 8.0
 ---
 
 # North Riding / Five Towns Rum & Raisin Dark Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 414237 |
 | **Beer** | North Riding / Five Towns Rum & Raisin Dark Mild |
 | **Brewer** | North Riding Brewery |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Stancill Tom's Mild
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Stancill Tom''s Mild"'
+BeerID: 258781
+Brewer: Stancill Brewery
+City: Sheffield
+Comments: Poured dark brown chestnut body tan lace top. Aroma dark malt nutty coffee
+  notes. Medium sweet to bitter with hedgerow fruits and a nice roasted malt throughout.
+  Medium bodied smooth texture average carbonation and a light bitter finish. One
+  to look out for in future Mild Trails.  30/11/24 second sipping thanks to a surprise
+  reappearance at the Navigation.
+Country: England
+Date: '"5/25/2024 3:12:58 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: South Yorkshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Stancill Tom's Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 258781 |
 | **Beer** | Stancill Tom's Mild |
 | **Brewer** | Stancill Brewery |

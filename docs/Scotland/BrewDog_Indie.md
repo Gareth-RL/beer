@@ -1,12 +1,31 @@
 ---
-layout: default
-title: BrewDog Indie
+Appearance: 4.0
+Aroma: 6.0
+Beer: BrewDog Indie
+BeerID: 583070
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: '"Reputation is a perilous thing. Brewdog Nottingham. BD has gone beyond
+  session pale by the success of Punk, so this is likely to suffer. And it&#39;s nondescript.
+  Aroma is a muted medley of citrus floral herbal hop with nothing standing out. Pours
+  golden with a swirl. Taste is medium bitter with a  definite blandness. Palate is
+  medium bodied, oily texture, bitter crisp finish. Lots of breweries turn this sort
+  out in cask and call it blonde and it sinks as well. But for Brewdog it&#39;s a
+  howler."'
+Country: Scotland
+Date: '"4/5/2018 5:15:17 PM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: Grampian
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # BrewDog Indie
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 583070 |
 | **Beer** | BrewDog Indie |
 | **Brewer** | BrewDog |

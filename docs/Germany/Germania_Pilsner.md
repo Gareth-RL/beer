@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Germania Pilsner
+Appearance: 4.0
+Aroma: 5.0
+Beer: Germania Pilsner
+BeerID: 17661
+Brewer: Frankenthaler Brauhaus (Eichbaum)
+City: Frankenthal
+Comments: '"33ml can. I am still working my way through cheap German lagers at the
+  supermarket in a Venetia-Friuli beach resort. Golden body full foam head. Aroma
+  of grassy straw hops and pale malt. Medium sweet to bitter with a definite straw
+  and metallic quality (I won''t knowingly buy this again). Medium bodied, metallic
+  coating in the mouth, gassy and a sour finish. I don''t like lager at the best of
+  times, but this is the kind of beer that gives Pilsner a bad name."'
+Country: Germany
+Date: '"7/14/2024 2:03:59 PM"'
+MyScore: 2.3
+Overall: 8.0
+Palate: 2.0
+State: Rhineland-Palatinate
+Style: Pilsener / Pils / Pilsner
+Taste: 4.0
 ---
 
 # Germania Pilsner
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 17661 |
 | **Beer** | Germania Pilsner |
 | **Brewer** | Frankenthaler Brauhaus (Eichbaum) |

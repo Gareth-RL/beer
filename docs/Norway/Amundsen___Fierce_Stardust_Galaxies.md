@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Amundsen / Fierce Stardust Galaxies
+Appearance: 3.0
+Aroma: 5.0
+Beer: Amundsen / Fierce Stardust Galaxies
+BeerID: 740811
+Brewer: Amundsen Bryggeri
+City: Oslo
+Comments: '"Aroma has very little frankly. Pours the regulation NEIPA cloudy yellow
+  gold with white lace but doesn''t deliver. Taste is medium sweet to bitter but on
+  a lemon spectrum. Palate is medium bodied clammy feel average carbonation and a
+  chalky finish. Frankly given the brewers involved both stellar on occasion it is
+  a big disappointment "'
+Country: Norway
+Date: '"7/3/2019 4:46:35 PM"'
+MyScore: 2.9
+Overall: 12.0
+Palate: 3.0
+State: Oslo
+Style: IPA - Hazy (NEIPA)
+Taste: 6.0
 ---
 
 # Amundsen / Fierce Stardust Galaxies
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 740811 |
 | **Beer** | Amundsen / Fierce Stardust Galaxies |
 | **Brewer** | Amundsen Bryggeri |

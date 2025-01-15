@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Lying Authority
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lincoln Green Lying Authority
+BeerID: 1149022
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: 'Poured clear brown amber body off white lace top. Roasted biscuit malts
+  and light hedgerow hops. Medium sweet to bitter with sweet malts and a light hop
+  finish. Nicely balanced is the phrase. Medium bodied smooth texture average carbonation
+  and a bitter finish. Session worthy '
+Country: England
+Date: '"10/17/2023 3:34:41 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Red Ale / International Amber Ale
+Taste: 7.0
 ---
 
 # Lincoln Green Lying Authority
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1149022 |
 | **Beer** | Lincoln Green Lying Authority |
 | **Brewer** | Lincoln Green Brewing Co. |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Almasty Hazelnut & Vanilla Stout
+Appearance: 3.0
+Aroma: 6.0
+Beer: Almasty Hazelnut & Vanilla Stout
+BeerID: 672796
+Brewer: Almasty Brewing Co.
+City: Shiremoor
+Comments: Tap at The Junkyard Nottingham. Pours a murky brown with fleeting tan lace
+  halo. Aroma has roasted vanilla malts and the hazelnut is evident in the taste.
+  Taste itself is medium sweet to lightly bitter with almost a berry note. Palate
+  is medium bodied sticky feel soft to average carbonation and a hazelnut finish.
+  Despite delivering the flavours on the tin, this is missing something.
+Country: England
+Date: '"11/4/2018 3:47:09 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Tyne &amp; Wear
+Style: Stout
+Taste: 7.0
 ---
 
 # Almasty Hazelnut & Vanilla Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 672796 |
 | **Beer** | Almasty Hazelnut & Vanilla Stout |
 | **Brewer** | Almasty Brewing Co. |

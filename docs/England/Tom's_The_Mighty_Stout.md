@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Tom's The Mighty Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Tom''s The Mighty Stout"'
+BeerID: 703131
+Brewer: '"Tom&#39;s Tap and Brewhouse"'
+City: Crewe
+Comments: 'Rich dark malt scent. Poured dark brown body thin tan lace top. Taste medium
+  sweet to bitter chocolate and berry fruits. A hint of treacle. Medium bodied at
+  most watery texture average carbonation and a grainy malt finish. A lot more flavour
+  than some oatmeal stouts I have encountered recently '
+Country: England
+Date: '"2/8/2023 6:45:25 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Cheshire
+Style: Stout
+Taste: 8.0
 ---
 
 # Tom's The Mighty Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 703131 |
 | **Beer** | Tom's The Mighty Stout |
 | **Brewer** | Tom&#39;s Tap and Brewhouse |

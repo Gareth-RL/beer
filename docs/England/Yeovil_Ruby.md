@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Yeovil Ruby
+Appearance: 4.0
+Aroma: 6.0
+Beer: Yeovil Ruby
+BeerID: 97959
+Brewer: Yeovil Ales
+City: Lufton
+Comments: Hallmark aroma for the cask ale apparently is caramel malts Reddish brown
+  no head to speak of. Despite hints of dark fruit in the scent it is not overly sweet.
+  And there is a growing bitterness on the palate. Personally I found the palate more
+  watery than smooth. However one has to make allowance for a pour from the barrel
+  at a festival. I would certainly drink it again.
+Country: England
+Date: '"10/12/2015 12:44:04 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Somerset
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Yeovil Ruby
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 97959 |
 | **Beer** | Yeovil Ruby |
 | **Brewer** | Yeovil Ales |

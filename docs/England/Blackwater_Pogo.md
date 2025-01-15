@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Blackwater Pogo
+Appearance: .nan
+Aroma: .nan
+Beer: Blackwater Pogo
+BeerID: 285918
+Brewer: Salopian Brewery
+City: Hadnall
+Comments: ' '
+Country: England
+Date: '"10/29/2016 12:56:32 PM"'
+MyScore: 1.0
+Overall: .nan
+Palate: .nan
+State: Shropshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: .nan
 ---
 
 # Blackwater Pogo
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 285918 |
 | **Beer** | Blackwater Pogo |
 | **Brewer** | Salopian Brewery |

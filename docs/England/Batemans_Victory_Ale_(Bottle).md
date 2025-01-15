@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Batemans Victory Ale (Bottle)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Batemans Victory Ale (Bottle)
+BeerID: 4674
+Brewer: Batemans
+City: Wainfleet
+Comments: Poured amber honey body with fading thin white lace. Aroma had toffee malt
+  and berry fruits with a hint of twiglet. Taste is medium sweet to bitter with malt
+  lingering amidst a bitter hop finish. Palate is medium bodied, some stickiness,
+  average carbonation and a bitter finish. Overall, this was better than I expected
+  as a mass bottled ESB, and I note that decades ago even some of the cognoscenti
+  liked it well enough.
+Country: England
+Date: '"7/28/2020 1:19:26 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Lincolnshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Batemans Victory Ale (Bottle)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 4674 |
 | **Beer** | Batemans Victory Ale (Bottle) |
 | **Brewer** | Batemans |

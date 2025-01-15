@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Bajön Euforia
+Appearance: 4.0
+Aroma: 7.0
+Beer: Bajön Euforia
+BeerID: 1020438
+Brewer: Birrificio Bajön
+City: Porto Corsini
+Comments: '"Poured clear golden body thin white lace.  Aroma of tropical hops with
+  grapefruit mango and pineapple but quite pithy. Medium sweet to bitter with grapefruit
+  constant and gathering the pith. Medium bodied smooth texture average carbonation
+  and a bitter finish.  It''s a dry hopped pale with quite a puckering finish "'
+Country: Italy
+Date: '"1/4/2025 12:34:58 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Emilia-Romagna
+Style: IPA
+Taste: 6.0
 ---
 
 # Bajön Euforia
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1020438 |
 | **Beer** | Bajön Euforia |
 | **Brewer** | Birrificio Bajön |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Derventio Lucretius
+Appearance: 4.0
+Aroma: 9.0
+Beer: Derventio Lucretius
+BeerID: 134589
+Brewer: Derventio Brewery
+City: Darley Abbey
+Comments: '"Cask. Dark with coffee froth. The aroma is the thing for this beer - pungently
+  sweet vanilla and cherries like a marshmallow. Unless you are a kriek fan already
+  you will approach the taste with trepidation and it’s certainly a sweet beer with
+  the possibility that it was brewed in a sweets jar. But it’s not overwhelming. In
+  fact it seems light for a stout with a 5 5%abv. That said I’ll take a half next
+  time&#033;"'
+Country: England
+Date: '"11/18/2015 12:22:04 PM"'
+MyScore: 3.5
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Derventio Lucretius
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 134589 |
 | **Beer** | Derventio Lucretius |
 | **Brewer** | Derventio Brewery |

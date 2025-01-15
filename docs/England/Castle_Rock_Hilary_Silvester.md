@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Castle Rock Hilary Silvester
+Appearance: 4.0
+Aroma: 6.0
+Beer: Castle Rock Hilary Silvester
+BeerID: 582539
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: Cask at the Sir John Gervase Warren. Pours chestnut brown body and white
+  lace top. Aroma has roasted malts and floral hops. Taste is medium bitter lightly
+  sweet. Palate is medium bodied, soft carbonation, and a soft finish that goes with
+  the oily texture. Classed as a red ale. Palatable and good but otherwise unremarkable.
+  A local brew for a local lady.
+Country: England
+Date: '"1/7/2018 2:31:45 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # Castle Rock Hilary Silvester
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 582539 |
 | **Beer** | Castle Rock Hilary Silvester |
 | **Brewer** | Castle Rock Brewery |

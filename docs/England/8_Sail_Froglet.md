@@ -1,12 +1,29 @@
 ---
-layout: default
-title: 8 Sail Froglet
+Appearance: 4.0
+Aroma: 6.0
+Beer: 8 Sail Froglet
+BeerID: 859237
+Brewer: 8 Sail Brewery
+City: Heckington
+Comments: '"Poured golden body white lace top. Aroma of gooseberry hops and pale malt
+  . Medium sweet to bitte: rapid transition so the main impression is bitter from
+  both malt and grassy hops. Medium bodied smooth texture average carbonation and
+  a bitter finish. Nothing wrong with it but little memorable either apart from a
+  hint of NZ hop."'
+Country: England
+Date: '"2/29/2024 5:01:03 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Lincolnshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # 8 Sail Froglet
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 859237 |
 | **Beer** | 8 Sail Froglet |
 | **Brewer** | 8 Sail Brewery |

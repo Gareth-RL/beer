@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Brampton Mild
+Appearance: 4.0
+Aroma: 6.0
+Beer: Brampton Mild
+BeerID: 87808
+Brewer: Brampton Brewery
+City: Chesterfield
+Comments: '"Tap at Nottingham beer festival. Aroma richly malty, caramel notes. Pours
+  chestnut dark with thin top. Tastes of toffee and biscuit. Overall a good mild for
+  the winter. 13/06/20 second sipping with sons. They found lots of chocolate in the
+  nose. Ruby lights in the dark brown body. Taste is predominantly bitter, toasted
+  malt, dark fruits. Medium to heavy, mouth-coating, emphatic and cloying, average
+  carbonation, and a bitter, reasonably long finish. It doesn''t bottle well apparently  and
+  could be good as a winter warmer."'
+Country: England
+Date: '"10/13/2016 10:28:05 AM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Brampton Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 87808 |
 | **Beer** | Brampton Mild |
 | **Brewer** | Brampton Brewery |

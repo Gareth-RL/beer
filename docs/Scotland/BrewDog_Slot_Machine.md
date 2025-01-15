@@ -1,12 +1,31 @@
 ---
-layout: default
-title: BrewDog Slot Machine
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog Slot Machine
+BeerID: 552966
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: '"Tap @brewdog Nottingham. Pours dark amber brown with definite ruby lights
+  &#40;hold it to the light&#41;. Off white lace top. Aroma is cereal, bread, toast,
+  herbs, dough, raisin, woody, an excellent combination of roasted malts and hoppy
+  fruits. The grapefruit and mandarin are registered later. Taste is medium sweet
+  to bitter and maybe even a sour tang. It fizzes. Palate has no more than medium
+  body, oily feel, average carbonation, long finish, that ultimately might be sour.
+  A beer that rewards reflection."'
+Country: Scotland
+Date: '"11/6/2017 11:25:35 AM"'
+MyScore: 3.8
+Overall: 17.0
+Palate: 3.0
+State: Grampian
+Style: IPA - Rye
+Taste: 7.0
 ---
 
 # BrewDog Slot Machine
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 552966 |
 | **Beer** | BrewDog Slot Machine |
 | **Brewer** | BrewDog |

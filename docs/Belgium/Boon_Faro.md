@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Boon Faro
+Appearance: 4.0
+Aroma: 6.0
+Beer: Boon Faro
+BeerID: 71253
+Brewer: Brouwerij F. Boon
+City: Lembeek
+Comments: '"Bottle. Aroma of fermenting apples . Pours clear amber body with rapidly
+  diminishing thin head. Taste is medium to heavy sweet to sour, may well testify
+  to the &quot;addition of candisyrup &#40;sic&#41; before bottling.&quot; Palate
+  is light to medium body, texture sticky, carbonation soft to flat, and the finish
+  is less a linger more a stain. Overall, another beer type that will need to win
+  me over."'
+Country: Belgium
+Date: '"5/29/2018 1:15:57 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Flemish Brabant
+Style: Lambic - Faro
+Taste: 6.0
 ---
 
 # Boon Faro
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 71253 |
 | **Beer** | Boon Faro |
 | **Brewer** | Brouwerij F. Boon |

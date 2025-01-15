@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Lenton Lane 200 Not Out
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lenton Lane 200 Not Out
+BeerID: 811633
+Brewer: Lenton Lane Brewery
+City: Nottingham
+Comments: Poured golden body with white lace top. Aroma of mandarin orange and lemon.
+  Taste is medium sweet to bitter with light peach and plum notes. Palate is medium
+  bodied, oily texture, average carbonation and a bitter finish. Pleasant enough without
+  ever threatening to be memorable so the incredibly soft citrus finish promised clearly
+  eluded this drinker. A glorious May afternoon with blue sky, warm sun and a gentle
+  breeze should make you forget the ills of the world and embrace the pleasures of
+  a decent IPA.
+Country: England
+Date: '"5/28/2020 2:36:50 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA
+Taste: 6.0
 ---
 
 # Lenton Lane 200 Not Out
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 811633 |
 | **Beer** | Lenton Lane 200 Not Out |
 | **Brewer** | Lenton Lane Brewery |

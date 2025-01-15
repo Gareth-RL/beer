@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Priors Well Mosaic
+Appearance: 4.0
+Aroma: 6.0
+Beer: Priors Well Mosaic
+BeerID: 548298
+Brewer: Priors Well Brewery
+City: Mansfield
+Comments: Cask. Pours clear very golden with white top and the aroma is skunky, heading
+  towards cat. I suspect it is a bitter and I was misled by the colour and the choice
+  of hop. However the taste is classic English bitter for all those who like a twiggy
+  finish and a sticky texture then seek it out.
+Country: England
+Date: '"9/2/2017 1:07:08 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Priors Well Mosaic
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 548298 |
 | **Beer** | Priors Well Mosaic |
 | **Brewer** | Priors Well Brewery |

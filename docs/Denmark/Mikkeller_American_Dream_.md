@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Mikkeller American Dream 
+Appearance: 4.0
+Aroma: 7.0
+Beer: 'Mikkeller American Dream '
+BeerID: 110815
+Brewer: Mikkeller
+City: Copenhagen
+Comments: '"Can. Poured orange golden body with scummy lace top. Aroma has toffee
+  malts and citric and piney hops. Taste is medium to full bitter with a drying finish.
+  I guess it was the dry mouth bitterness that put me off it. It''s a double hopped
+  lager rather than a pale ale. And it''s mixture doesn''t end there. It''s by a Danish
+  brewer mimicking an American style of European origin and made in Belgium. Bought
+  in Sainsbury''s Nottingham and it won''t be again."'
+Country: Denmark
+Date: '"12/18/2020 6:46:30 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 3.0
+State: .nan
+Style: Pale Lager - Hoppy / India (IPL)
+Taste: 7.0
 ---
 
 # Mikkeller American Dream 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 110815 |
 | **Beer** | Mikkeller American Dream  |
 | **Brewer** | Mikkeller |

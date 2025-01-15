@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Totally Brewed See you at Six
+Appearance: 4.0
+Aroma: 7.0
+Beer: Totally Brewed See you at Six
+BeerID: 786359
+Brewer: Totally Brewed
+City: Nottingham
+Comments: So of the six types of bean - 2 of coffee, Tonka, vanilla, cocoa, and jelly
+  - only Tonka greets the nose. Poured dark mahogany body with tan lace top. Taste
+  is sweet with vanilla and cocoa joining Tonka and I guess jelly beans are there
+  in spirit. Palate is medium to light bodied sticky feel soft carbonation. Light
+  bitter finish. There may be too many beans in the mix. Not a patch on the Voodoo
+  they do so well.
+Country: England
+Date: '"11/16/2019 6:41:12 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Stout - Flavored / Pastry
+Taste: 6.0
 ---
 
 # Totally Brewed See you at Six
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 786359 |
 | **Beer** | Totally Brewed See you at Six |
 | **Brewer** | Totally Brewed |

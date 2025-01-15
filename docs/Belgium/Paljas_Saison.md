@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Paljas Saison
+Appearance: 4.0
+Aroma: 7.0
+Beer: Paljas Saison
+BeerID: 328563
+Brewer: De Leite
+City: Oostkamp - Ruddervoorde
+Comments: Poured golden bodied with white lace diminishing. Aroma has lemon rind and
+  yeast. Taste is medium sweet to bitter with fruit pastille notes. Palate is medium,
+  slightly grainy texture, high carbonation, and a bitter finish. With the rain pouring
+  outside on an April grey day, it is hardly the season for a Saison but this seems
+  to capture the balance of the generic elements. Perhaps a slightly longer bitter
+  finish than some.
+Country: Belgium
+Date: '"4/11/2021 11:01:22 AM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: West Flanders
+Style: Saison / Farmhouse / Grisette
+Taste: 7.0
 ---
 
 # Paljas Saison
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 328563 |
 | **Beer** | Paljas Saison |
 | **Brewer** | De Leite |

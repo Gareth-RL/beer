@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Scribblers Dark Lord
+Appearance: 4.0
+Aroma: 7.0
+Beer: Scribblers Dark Lord
+BeerID: 771655
+Brewer: Scribblers Ales
+City: Nottingham
+Comments: Aroma of dark malt coffee and chocolate noted. Pours ruby chestnut with
+  scummy lace top. Taste is caramel malts with fruit notes so medium sweet to lightly
+  bitter. Palate is thin to medium bodied oily texture average carbonation and a bitter
+  finish. Tastes like a porter but feels like a Mild 29/01/20 second sipping my kind
+  of thing.
+Country: England
+Date: '"9/28/2019 3:24:12 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 8.0
 ---
 
 # Scribblers Dark Lord
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 771655 |
 | **Beer** | Scribblers Dark Lord |
 | **Brewer** | Scribblers Ales |

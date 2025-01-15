@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Sambrooks Red Ale
+Appearance: 4.0
+Aroma: 7.0
+Beer: Sambrooks Red Ale
+BeerID: 316769
+Brewer: Sambrooks Brewery
+City: Wandsworth
+Comments: Cask. Pours chestnut brown with white cream top. Solid lacing. Aroma Satsuma
+  and mango. Flavours in the taste are soft fruits at the fore with a growing hoppy
+  bitterness in the tail. The palate is medium bodied with some slight soapy residue
+  in the aftertaste. Not bad overall and certainly captures some American red characteristics.
+Country: England
+Date: '"3/23/2016 10:44:51 AM"'
+MyScore: 3.2
+Overall: 11.0
+Palate: 3.0
+State: Greater London
+Style: Red Ale / International Amber Ale
+Taste: 7.0
 ---
 
 # Sambrooks Red Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 316769 |
 | **Beer** | Sambrooks Red Ale |
 | **Brewer** | Sambrooks Brewery |

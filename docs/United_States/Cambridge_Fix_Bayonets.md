@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Cambridge Fix Bayonets
+Appearance: 4.0
+Aroma: 6.0
+Beer: Cambridge Fix Bayonets
+BeerID: 726650
+Brewer: Cambridge Brewing Company (Castle Island Brewing)
+City: Cambridge
+Comments: Light spice in the scent. Pours murky pale golden with halo of diminishing
+  lace. Taste is medium sweet to lightly bitter. A pleasant fruitiness with gentle
+  souring (these farmers are the soft handed sort). Palate is light to medium bodied
+  oily texture average carbonation and a drying finish. Overall it might keep Grisette
+  happy.
+Country: United States
+Date: '"4/30/2019 11:07:25 PM"'
+MyScore: 3.6
+Overall: 15.0
+Palate: 4.0
+State: Massachusetts
+Style: Saison / Farmhouse / Grisette
+Taste: 7.0
 ---
 
 # Cambridge Fix Bayonets
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 726650 |
 | **Beer** | Cambridge Fix Bayonets |
 | **Brewer** | Cambridge Brewing Company (Castle Island Brewing) |

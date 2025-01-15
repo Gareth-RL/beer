@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Beer Works Contender IPA
+Appearance: .nan
+Aroma: .nan
+Beer: Beer Works Contender IPA
+BeerID: 312243
+Brewer: Beer Works
+City: Boston
+Comments: '"@Boston beer works Fenway.  Pours cloudy orange with no top to speak of.  Aroma
+  has tropical fruit mango papaya red grapefruit. Taste medium sweet to bitter.  Palate
+  is medium bodied,  sticky feel,  average carbonation and a bitter finish. So A7
+  App 4 T 7 P4 and O 13 = 3.5."'
+Country: United States
+Date: '"7/8/2018 4:33:47 PM"'
+MyScore: 3.0
+Overall: .nan
+Palate: .nan
+State: Massachusetts
+Style: IPA
+Taste: .nan
 ---
 
 # Beer Works Contender IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 312243 |
 | **Beer** | Beer Works Contender IPA |
 | **Brewer** | Beer Works |

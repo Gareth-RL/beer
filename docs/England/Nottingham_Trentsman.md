@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Nottingham Trentsman
+Appearance: 4.0
+Aroma: 6.0
+Beer: Nottingham Trentsman
+BeerID: 398887
+Brewer: Nottingham Brewery
+City: Nottingham
+Comments: 'Poured golden body white lace top. Aroma of hedgerow hops. Medium sweet
+  to bitter light malt and pine hops. Medium bodied grainy texture average carbonation
+  and a bitter finish. Standard fare '
+Country: England
+Date: '"4/21/2024 2:52:42 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Nottingham Trentsman
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 398887 |
 | **Beer** | Nottingham Trentsman |
 | **Brewer** | Nottingham Brewery |

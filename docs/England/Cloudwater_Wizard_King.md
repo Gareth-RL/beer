@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Cloudwater Wizard King
+Appearance: 4.0
+Aroma: 8.0
+Beer: Cloudwater Wizard King
+BeerID: 587210
+Brewer: Cloudwater Brew Co
+City: Manchester
+Comments: Tap at the Overdraught Nottingham. Much to enjoy but maybe over sweet. Aroma
+  has coffee chocolate dark fruit on the nose with Christmas cake and alcohol spice
+  in the mouth. Taste is full sweet with not enough bitter notes to counter. Palate
+  is rich with a lush creamy texture soft carbonation and a long boozy finish. It
+  might be better in a shot glass with dessert.
+Country: England
+Date: '"4/23/2018 5:19:00 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Greater Manchester
+Style: Stout - Imperial
+Taste: 7.0
 ---
 
 # Cloudwater Wizard King
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 587210 |
 | **Beer** | Cloudwater Wizard King |
 | **Brewer** | Cloudwater Brew Co |

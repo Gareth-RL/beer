@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Mikkeller Drink'in Berliner Cucumber
+Appearance: 3.0
+Aroma: 7.0
+Beer: '"Mikkeller Drink''in Berliner Cucumber"'
+BeerID: 465432
+Brewer: Mikkeller
+City: Copenhagen
+Comments: Tap. I think the abv 2.7% and effort to keep the cucumber scent and flavours
+  boosted the score for me. Aroma has cucumber pickle and lemon. Pours cloudy ultra
+  pale yellow with green tint. White lace top . Taste is tart. Cucumber sandwich with
+  milk on the side. An experiment that edges towards Gose. And one that is worth tasting
+  Once.
+Country: Denmark
+Date: '"6/10/2017 7:13:22 AM"'
+MyScore: 3.3
+Overall: 14.0
+Palate: 3.0
+State: .nan
+Style: Berliner Weisse - Flavored / Catharina Sour
+Taste: 6.0
 ---
 
 # Mikkeller Drink'in Berliner Cucumber
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 465432 |
 | **Beer** | Mikkeller Drink'in Berliner Cucumber |
 | **Brewer** | Mikkeller |

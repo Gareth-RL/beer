@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Lost And Grounded Sharp Shooter
+Appearance: .nan
+Aroma: .nan
+Beer: Lost And Grounded Sharp Shooter
+BeerID: 550323
+Brewer: Lost And Grounded Brewers
+City: Bristol
+Comments: ' '
+Country: England
+Date: '"11/14/2017 11:05:24 AM"'
+MyScore: 3.0
+Overall: .nan
+Palate: .nan
+State: Gloucestershire
+Style: Sour / Wild Beer
+Taste: .nan
 ---
 
 # Lost And Grounded Sharp Shooter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 550323 |
 | **Beer** | Lost And Grounded Sharp Shooter |
 | **Brewer** | Lost And Grounded Brewers |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Northern Monk Parsnip & Black Pepper Dunkelweiss
+Appearance: 3.0
+Aroma: 6.0
+Beer: Northern Monk Parsnip & Black Pepper Dunkelweiss
+BeerID: 380923
+Brewer: Northern Monk Brew Co.
+City: Leeds
+Comments: Tap. Aroma muted in terms of spice and fruit but some malt. Appearance s
+  copper with thin lace and some yeasty scum. Taste is sweet but more in a caramel
+  than fruit way and there’s a lot of carbonation on the palate. This may have suffered
+  by comparison with the excellent abbey ale that preceded it.
+Country: England
+Date: '"1/8/2016 11:32:19 AM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: West Yorkshire
+Style: Weissbier - Dunkelweizen
+Taste: 7.0
 ---
 
 # Northern Monk Parsnip & Black Pepper Dunkelweiss
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 380923 |
 | **Beer** | Northern Monk Parsnip & Black Pepper Dunkelweiss |
 | **Brewer** | Northern Monk Brew Co. |

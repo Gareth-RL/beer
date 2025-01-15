@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Wentwell D5
+Appearance: .nan
+Aroma: .nan
+Beer: Wentwell D5
+BeerID: 361148
+Brewer: Wentwell Brewery
+City: Derby
+Comments: ' '
+Country: England
+Date: '"9/25/2016 6:13:00 AM"'
+MyScore: 1.0
+Overall: .nan
+Palate: .nan
+State: Derbyshire
+Style: Bitter - Ordinary / Best
+Taste: .nan
 ---
 
 # Wentwell D5
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 361148 |
 | **Beer** | Wentwell D5 |
 | **Brewer** | Wentwell Brewery |

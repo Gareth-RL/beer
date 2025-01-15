@@ -1,12 +1,29 @@
 ---
-layout: default
-title: BrewDog Black Heart
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog Black Heart
+BeerID: 1083564
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: '"Poured black body tan lace top. Aroma of roasted ashy malts. Medium sweet
+  to bitter with a long finish. Medium to light body smooth texture average carbonation
+  and a bitter finish. It''s symptomatic of Brewdog''s direction that this is a self
+  proclaimed Guinness substitute. In those terms it''s okay but I don''t like Guinness
+  "'
+Country: Scotland
+Date: '"12/15/2023 2:43:30 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Grampian
+Style: Stout - Dry / Irish
+Taste: 6.0
 ---
 
 # BrewDog Black Heart
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1083564 |
 | **Beer** | BrewDog Black Heart |
 | **Brewer** | BrewDog |

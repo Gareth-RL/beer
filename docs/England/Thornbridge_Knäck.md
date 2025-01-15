@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Thornbridge Knäck
+Appearance: 4.0
+Aroma: 6.0
+Beer: Thornbridge Knäck
+BeerID: 977237
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: 'Poured dark brown body tan thin lace. Aroma dark malt light chocolate and
+  toffee. Medium sweet to bitter with pleasant dark malts throughout more malt loaf
+  than chocolate. Medium bodied smooth texture average carbonation and a light bitter
+  finish. Firmly in the Mild camp '
+Country: England
+Date: '"1/17/2024 4:09:27 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Thornbridge Knäck
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 977237 |
 | **Beer** | Thornbridge Knäck |
 | **Brewer** | Thornbridge Brewery |

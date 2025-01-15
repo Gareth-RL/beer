@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Shardlow Reverend Eatons Ale
+Appearance: 4.0
+Aroma: 5.0
+Beer: Shardlow Reverend Eatons Ale
+BeerID: 25362
+Brewer: Shardlow Brewing
+City: Cavendish Bridge, Leicester
+Comments: Cask. Some stewed fruit and yeast in the scent. Pours honey brown with thin
+  top. It seems to be here to make the other beers taste good since it’s the blandest
+  thing on the menu. This is the downside of trying new ale. You can have a run of
+  indifferent pints. The aftertaste is tolerable but it really should be preceded
+  by a taste..
+Country: England
+Date: '"4/3/2016 10:18:55 AM"'
+MyScore: 2.1
+Overall: 5.0
+Palate: 3.0
+State: Leicestershire
+Style: Bitter - Ordinary / Best
+Taste: 4.0
 ---
 
 # Shardlow Reverend Eatons Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 25362 |
 | **Beer** | Shardlow Reverend Eatons Ale |
 | **Brewer** | Shardlow Brewing |

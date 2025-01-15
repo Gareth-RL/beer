@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Neptune Banda
+Appearance: 3.0
+Aroma: 6.0
+Beer: Neptune Banda
+BeerID: 1081531
+Brewer: Neptune Brewery
+City: Liverpool
+Comments: 'Brown body scummy off white top. Malty toffeeenose. Medium sweet to abruptly
+  bitter medium bodied smooth texture and souring finish '
+Country: England
+Date: '"1/23/2023 3:25:07 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 4.0
+State: Merseyside
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Neptune Banda
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1081531 |
 | **Beer** | Neptune Banda |
 | **Brewer** | Neptune Brewery |

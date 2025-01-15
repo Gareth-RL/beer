@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Wilde Child Parallel Commonality
+Appearance: 4.0
+Aroma: 6.0
+Beer: Wilde Child Parallel Commonality
+BeerID: 1099551
+Brewer: Wilde Child Brewing Co
+City: Leeds
+Comments: 'Light scent of peach and mango. Poured pale golden thin lace swirl. Taste
+  is medium sweet to bitter again light fruitiness. Thin to medium bodied smooth texture
+  average carbonation and a bitter finish. Unremarkable '
+Country: England
+Date: '"4/7/2023 2:01:15 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: West Yorkshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Wilde Child Parallel Commonality
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1099551 |
 | **Beer** | Wilde Child Parallel Commonality |
 | **Brewer** | Wilde Child Brewing Co |

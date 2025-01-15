@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Red Dog Vic Secret
+Appearance: 4.0
+Aroma: 7.0
+Beer: Red Dog Vic Secret
+BeerID: 1143320
+Brewer: Red Dog Ales
+City: Ilkeston
+Comments: '"Poured amber thin lace top. peachy hop scent. Medium sweet to bitter fruity
+  continues. Medium bodied smooth texture average carbonation and a bitter finish.
+  Easy drinking pale single hop @mistrollinginn Derby Rd"'
+Country: England
+Date: '"9/24/2023 3:59:30 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - Australian / New Zealand
+Taste: 6.0
 ---
 
 # Red Dog Vic Secret
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1143320 |
 | **Beer** | Red Dog Vic Secret |
 | **Brewer** | Red Dog Ales |

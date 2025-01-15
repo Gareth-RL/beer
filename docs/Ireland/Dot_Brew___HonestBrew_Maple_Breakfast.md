@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Dot Brew / HonestBrew Maple Breakfast
+Appearance: 4.0
+Aroma: 7.0
+Beer: Dot Brew / HonestBrew Maple Breakfast
+BeerID: 976637
+Brewer: Dot Brew
+City: Dublin
+Comments: '"Poured dark brown body with diminishing tan head. Aroma has chocolate
+  and coffee but surprisingly little maple syrup. Taste is light to medium sweet to
+  light bitter with maybe a hint of syrup at the back end of the swallow. Palate is
+  light to medium bodied, smooth texture, soft to average carbonation, and a light
+  bitter finish. Ideal for those among you who are abstemious with your maple syrup
+  on your breakfast pancakes. Can from HonestBrew for St Patrick''s Day"'
+Country: Ireland
+Date: '"3/20/2022 12:15:24 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: County Dublin
+Style: Stout - Milk / Sweet
+Taste: 6.0
 ---
 
 # Dot Brew / HonestBrew Maple Breakfast
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 976637 |
 | **Beer** | Dot Brew / HonestBrew Maple Breakfast |
 | **Brewer** | Dot Brew |

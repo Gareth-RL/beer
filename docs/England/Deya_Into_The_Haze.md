@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Deya Into The Haze
+Appearance: 3.0
+Aroma: 8.0
+Beer: Deya Into The Haze
+BeerID: 496473
+Brewer: Deya Brewing Company
+City: Cheltenham
+Comments: Tap at the Junkyard. Pours hazy pale-yellow with white froth. Aroma is tropical
+  fruit pineapples grapefruit papaya. Taste is juicy sweet with peach and a light
+  bitter finish. Palate is medium + in terms of body, sticky texture, average to lively
+  carbonation, and a modest bitter tang. A fruit juice of a beer.
+Country: England
+Date: '"1/9/2018 6:03:55 PM"'
+MyScore: 3.6
+Overall: 15.0
+Palate: 3.0
+State: Gloucestershire
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Deya Into The Haze
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 496473 |
 | **Beer** | Deya Into The Haze |
 | **Brewer** | Deya Brewing Company |

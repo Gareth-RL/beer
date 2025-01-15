@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Home Ales Little John Proper Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Home Ales Little John Proper Ale
+BeerID: 405453
+Brewer: Watneys Beer Co. (prev Brands Reunited)
+City: Holborn
+Comments: Cask. Pours bright amber copper with white lace top. Hop fruits predominate
+  in the aroma. Taste has berry fruit and biscuit malt. A well balanced bitter tried
+  during tap takeover at the Hop Merchant in a deserted and very windy city centre.
+  Second sipping. 22/10/19  still balanced like a wrestling match between hop and
+  malts and some injury to each.
+Country: England
+Date: '"2/23/2017 7:11:58 AM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Greater London
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Home Ales Little John Proper Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 405453 |
 | **Beer** | Home Ales Little John Proper Ale |
 | **Brewer** | Watneys Beer Co. (prev Brands Reunited) |

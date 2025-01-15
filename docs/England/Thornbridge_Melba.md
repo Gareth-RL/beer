@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Thornbridge Melba
+Appearance: 4.0
+Aroma: 8.0
+Beer: Thornbridge Melba
+BeerID: 216765
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: Tap. Pours hazy yellow with thin white lace. Aroma is richly peachy with
+  herbs, lurking. Distinctive. Taste is medium sweet with a growing sour finish. Palate
+  is medium bodied sticky texture, soft carbonation, long finish. I wish I had it
+  available for picnics but it has brought a whiff of summer to an autumnal Nottingham
+  evening.
+Country: England
+Date: '"10/17/2017 11:16:20 AM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 3.0
+State: Derbyshire
+Style: IPA - Flavored
+Taste: 7.0
 ---
 
 # Thornbridge Melba
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 216765 |
 | **Beer** | Thornbridge Melba |
 | **Brewer** | Thornbridge Brewery |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: BrewDog Confectionist Perfectionist
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog Confectionist Perfectionist
+BeerID: 777179
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: Aroma has chocolate malt and vanilla marshmallow. Poured black bodied with
+  tan lace. Taste is fully sweet with a fruity tang. Not for the non sweet toothed.
+  Palate is medium bodied sticky feel soft to average carbonation and a long light
+  bitter finish. Decent dessert stout 16/07/20 second sipping as I pace myself through
+  the pandemic. I got it right the first time but they handle the carbonation in the
+  can well.
+Country: Scotland
+Date: '"11/23/2019 4:47:15 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Grampian
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # BrewDog Confectionist Perfectionist
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 777179 |
 | **Beer** | BrewDog Confectionist Perfectionist |
 | **Brewer** | BrewDog |

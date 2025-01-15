@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Brentwood Marvellous Maple Mild
+Appearance: 3.0
+Aroma: 6.0
+Beer: Brentwood Marvellous Maple Mild
+BeerID: 106245
+Brewer: Brentwood Brewing Co.
+City: Pilgrims Hatch
+Comments: Pours dark wth strong tan head that produces a wash rather than lacing.
+  Aroma roasted malt. Taste some fruit but mainly more dark malt and I did not detect
+  the maple. Soft carbonation and no real finish. A bit bleh. 09/26/23 second sipping
+  detected some maple. Oddly this sours rather than sweetens.
+Country: England
+Date: '"4/22/2016 2:27:58 PM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Essex
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Brentwood Marvellous Maple Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 106245 |
 | **Beer** | Brentwood Marvellous Maple Mild |
 | **Brewer** | Brentwood Brewing Co. |

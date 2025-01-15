@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Weetwood Eastgate Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Weetwood Eastgate Ale
+BeerID: 26188
+Brewer: Weetwood Ales
+City: Tarporley
+Comments: Cask. Mildly hoppy. Pours amber gold with white top. Taste is mellow and
+  fruity. Easy drinking.
+Country: England
+Date: '"3/10/2017 2:34:43 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 4.0
+State: Cheshire
+Style: Bitter - Ordinary / Best
+Taste: 5.0
 ---
 
 # Weetwood Eastgate Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 26188 |
 | **Beer** | Weetwood Eastgate Ale |
 | **Brewer** | Weetwood Ales |

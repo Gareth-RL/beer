@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Harboe Bjørne Bryg (Stark)
+Appearance: 3.0
+Aroma: 5.0
+Beer: Harboe Bjørne Bryg (Stark)
+BeerID: 6420
+Brewer: Harboes Bryggeri
+City: Skælskør
+Comments: '"Poured golden body, with thin diminishing lace. Aroma of bread malt and
+  herbal hop. Medium sweet to bitter with light fruit notes. Medium body, oily texture
+  average carbonation and a bitter finish. An odd nondescript lager: not a great ad
+  for either Danish or Italian brewing. None of the usual Pilsener characteristics"'
+Country: Denmark
+Date: '"12/27/2024 3:12:12 PM"'
+MyScore: 2.7
+Overall: 10.0
+Palate: 3.0
+State: .nan
+Style: Pale Lager - International / Premium
+Taste: 6.0
 ---
 
 # Harboe Bjørne Bryg (Stark)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 6420 |
 | **Beer** | Harboe Bjørne Bryg (Stark) |
 | **Brewer** | Harboes Bryggeri |

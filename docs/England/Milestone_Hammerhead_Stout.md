@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Milestone Hammerhead Stout
+Appearance: 4.0
+Aroma: 6.0
+Beer: Milestone Hammerhead Stout
+BeerID: 71709
+Brewer: Milestone Brewing
+City: Newark
+Comments: 'Cask. Aroma earthy with muted chocolate malt notes. Pours dark brown almost
+  black with tan lacing. Taste has lots of roasted malt flavours with some berry sweetness
+  as well. A chocolate finish on the palate . It improves as you go along.  Second
+  sipping 29/09/19 the chocolate malts came through strongly both in the initial sweetness
+  and the bitter finish. It seems not to take to the bottle judging by reviewers elsewhere.  '
+Country: England
+Date: '"3/2/2017 6:26:19 AM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Stout
+Taste: 6.0
 ---
 
 # Milestone Hammerhead Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 71709 |
 | **Beer** | Milestone Hammerhead Stout |
 | **Brewer** | Milestone Brewing |

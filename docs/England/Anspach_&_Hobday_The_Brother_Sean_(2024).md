@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Anspach & Hobday The Brother Sean (2024)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Anspach & Hobday The Brother Sean (2024)
+BeerID: 1181520
+Brewer: Anspach & Hobday
+City: Croydon
+Comments: 'Poured dark brown body tan lace top. Aroma meaty and malty. Medium sweet
+  to bitter some chocolate and coffee along the way but there are other flavours that
+  make this different -smoked meat, for instance. And a cola tang in the finish. Medium
+  bodied grainy texture average carbonation and that tang in the finish. You would
+  never confuse Sean with Patrick. Maybe Johannes '
+Country: England
+Date: '"3/12/2024 4:56:06 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Greater London
+Style: Stout - Imperial
+Taste: 7.0
 ---
 
 # Anspach & Hobday The Brother Sean (2024)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1181520 |
 | **Beer** | Anspach & Hobday The Brother Sean (2024) |
 | **Brewer** | Anspach & Hobday |

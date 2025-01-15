@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Twisted Angel Clockwork Bitter 
+Appearance: 4.0
+Aroma: 6.0
+Beer: 'Twisted Angel Clockwork Bitter '
+BeerID: 634737
+Brewer: Twisted Angel Brewing
+City: Beverley
+Comments: '"Cask at Beerheadz Nottingham. Aroma has cereal, nuts, on the malt side
+  and floral herbal hop. Pours a rich amber brown with white lace top. Taste is medium
+  sweet from the roasted malts and bitter from the hop. Palate is medium bodied, oily
+  texture, average carbonation, and a bitter finish. I suspect my palate is changing
+  - it&#39;s been a while since I had a bitter that excited it. So don&#39;t let my
+  waning faculties deter you."'
+Country: England
+Date: '"7/4/2018 2:32:21 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: East Yorkshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Twisted Angel Clockwork Bitter 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 634737 |
 | **Beer** | Twisted Angel Clockwork Bitter  |
 | **Brewer** | Twisted Angel Brewing |

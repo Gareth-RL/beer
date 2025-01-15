@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Polly's Brew Pale Ale Amarillo Centennial
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Polly''s Brew Pale Ale Amarillo Centennial"'
+BeerID: 748197
+Brewer: '"Polly&#39;s Brew Co."'
+City: Mold, Flintshire
+Comments: Pleasant floral and pale citrus note. Pours golden with thin broken lacing.
+  Taste is medium sweet to bitter. Palate is medium bodied oily texture average carbonation
+  and a bitter finish. Solid hoppy pale.
+Country: Wales
+Date: '"7/8/2019 2:49:55 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Clwyd
+Style: Pale Ale
+Taste: 7.0
 ---
 
 # Polly's Brew Pale Ale Amarillo Centennial
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 748197 |
 | **Beer** | Polly's Brew Pale Ale Amarillo Centennial |
 | **Brewer** | Polly&#39;s Brew Co. |

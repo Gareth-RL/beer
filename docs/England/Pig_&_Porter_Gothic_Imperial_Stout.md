@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Pig & Porter Gothic Imperial Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Pig & Porter Gothic Imperial Stout
+BeerID: 322464
+Brewer: Pig & Porter Brewing Co.
+City: Tunbridge Wells
+Comments: 'Can. Pours dark brown almost black with a tan halo but little head. Aroma
+  is   dark roasted malts with a hint of smoke and coffee. Taste is medium sweet to
+  bitter with slightly ashy finish. Palate is medium bodied, sticky texture, soft
+  carbonation, and a bitter finish. Admittedly remote farmhouses, and a sense of foreboding
+  may have added to the enjoyment but they are not always guaranteed. This is a solid
+  stout on the nether end of imperial heading towards porter. But it went down well. '
+Country: England
+Date: '"8/17/2018 6:46:43 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Kent
+Style: Stout
+Taste: 7.0
 ---
 
 # Pig & Porter Gothic Imperial Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 322464 |
 | **Beer** | Pig & Porter Gothic Imperial Stout |
 | **Brewer** | Pig & Porter Brewing Co. |

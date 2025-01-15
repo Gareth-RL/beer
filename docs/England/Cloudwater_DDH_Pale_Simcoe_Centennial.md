@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Cloudwater DDH Pale Simcoe Centennial
+Appearance: 4.0
+Aroma: 7.0
+Beer: Cloudwater DDH Pale Simcoe Centennial
+BeerID: 620565
+Brewer: Cloudwater Brew Co
+City: Manchester
+Comments: 'Keg at The Junkyard Nottingham. Pours hazy golden with thin lace halo.
+  Aroma has a lot of tropical buzz but the flaked oats lurk as well. Mostly in the
+  texture to be fair. Taste is juicy, medium sweet to bitter. Palate is medium bodied
+  with a sticky to creamy oat texture, soft to average carbonation, and a bitter finish.
+  Very nice '
+Country: England
+Date: '"5/28/2018 4:12:59 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Greater Manchester
+Style: Pale Ale - American (APA)
+Taste: 8.0
 ---
 
 # Cloudwater DDH Pale Simcoe Centennial
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 620565 |
 | **Beer** | Cloudwater DDH Pale Simcoe Centennial |
 | **Brewer** | Cloudwater Brew Co |

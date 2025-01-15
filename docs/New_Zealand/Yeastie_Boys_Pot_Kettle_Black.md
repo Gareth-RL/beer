@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Yeastie Boys Pot Kettle Black
+Appearance: 4.0
+Aroma: 6.0
+Beer: Yeastie Boys Pot Kettle Black
+BeerID: 122854
+Brewer: Yeastie Boys
+City: Wellington
+Comments: 'Bottle. Aroma is malty caramel with chocolate notes. Pours dark brown with
+  ruby notes and atan creamy top. Tastes of creamy toffee malt and hop fruit. A great
+  blend with a soft finish. 5/10/19 second sipping on tap. Aroma still caramel malts.
+  Only alteration would be palate- medium bodied oily texture average carbonation
+  and a bitter finish. '
+Country: New Zealand
+Date: '"11/8/2016 3:58:12 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Wellington
+Style: IPA - Black / Brown / Cascadian Dark
+Taste: 7.0
 ---
 
 # Yeastie Boys Pot Kettle Black
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 122854 |
 | **Beer** | Yeastie Boys Pot Kettle Black |
 | **Brewer** | Yeastie Boys |

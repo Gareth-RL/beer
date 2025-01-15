@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Springhead Ginger Pig
+Appearance: 4.0
+Aroma: 7.0
+Beer: Springhead Ginger Pig
+BeerID: 124475
+Brewer: Springhead Brewery
+City: Laneham
+Comments: Cask. The aroma is herbal probably rosemary but there is ginger in there.
+  Pours golden with thin lace top. The ginger predominates in an increasingly mealy
+  flavour which with the light carbonation does bring the inevitable ginger beer comparison.
+  There’s also an acrid residue on the palate. To be fair you get what you should
+  expect from Ginger Pig, but this little piggy will not be taking any home.
+Country: England
+Date: '"4/10/2016 10:59:07 AM"'
+MyScore: 3.0
+Overall: 10.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Flavored - Other
+Taste: 6.0
 ---
 
 # Springhead Ginger Pig
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 124475 |
 | **Beer** | Springhead Ginger Pig |
 | **Brewer** | Springhead Brewery |

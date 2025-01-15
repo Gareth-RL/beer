@@ -1,12 +1,29 @@
 ---
-layout: default
-title: New Hokkaido Yabai Tanuki Hazy IPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: New Hokkaido Yabai Tanuki Hazy IPA
+BeerID: 924864
+Brewer: New Hokkaido Beverage Company
+City: Bozeman
+Comments: Poured pale hazy straw body with foam top. Aroma of citrus - lemon/lime/
+  and pine. Taste is medium sweet to lightly bitter. Understated for a NEIPA. Palate
+  is light to medium bodied with average carbonation and a light bitter finish. What
+  it does well is maintain a light freshness without the over emphasis on juice common
+  to NEIPA and without the chalky finish
+Country: United States
+Date: '"12/12/2021 3:44:00 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Montana
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # New Hokkaido Yabai Tanuki Hazy IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 924864 |
 | **Beer** | New Hokkaido Yabai Tanuki Hazy IPA |
 | **Brewer** | New Hokkaido Beverage Company |

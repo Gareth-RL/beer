@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Lost Industry / Heist Black ForHeist Gateau
+Appearance: 4.0
+Aroma: 8.0
+Beer: Lost Industry / Heist Black ForHeist Gateau
+BeerID: 523443
+Brewer: Lost Industry Brewing
+City: Sheffield
+Comments: Tap. Aroma very definite chocolate and cherry notes. Very dark with a deep
+  tan top. Taste is medium sweet light bitter sour finish . Full bodied soft carbonation,
+  rich creamy feel and a luxuriant finish. Overall a dessert beer.
+Country: England
+Date: '"10/15/2017 11:12:30 AM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: South Yorkshire
+Style: Stout - Milk / Sweet
+Taste: 7.0
 ---
 
 # Lost Industry / Heist Black ForHeist Gateau
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 523443 |
 | **Beer** | Lost Industry / Heist Black ForHeist Gateau |
 | **Brewer** | Lost Industry Brewing |

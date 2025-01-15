@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Colchester Anne Downes
+Appearance: 4.0
+Aroma: 6.0
+Beer: Colchester Anne Downes
+BeerID: 172925
+Brewer: Colchester Brewery
+City: Colchester
+Comments: Cask. Pours dark copper body white lace top. Aroma has caramelized malts.
+  Taste is medium to light sweet, sour. Palate medium to full, oily feel, soft carbonation,
+  sour finish.. Overall, a bitter with slightly more texture than some.
+Country: England
+Date: '"10/16/2017 12:30:17 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Essex
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Colchester Anne Downes
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 172925 |
 | **Beer** | Colchester Anne Downes |
 | **Brewer** | Colchester Brewery |

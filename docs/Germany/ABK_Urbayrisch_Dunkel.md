@@ -1,12 +1,27 @@
 ---
-layout: default
-title: ABK Urbayrisch Dunkel
+Appearance: 4.0
+Aroma: 6.0
+Beer: ABK Urbayrisch Dunkel
+BeerID: 64149
+Brewer: ABK Betriebsgesellschaft der Aktienbrauerei Kaufbeuren
+City: Kaufbeuren
+Comments: 'Poured dark copper body off white lace top. Aroma of roasted bread malts
+  sweet malts spice. Taste is medium sweet to bitter more caramel and spiced fruits..
+  Medium body smooth texture average carbonation and a spiced finish. A decent Dunkel '
+Country: Germany
+Date: '"10/9/2023 1:07:26 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Bavaria
+Style: Dark Lager - Dunkel / Tmavý
+Taste: 6.0
 ---
 
 # ABK Urbayrisch Dunkel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 64149 |
 | **Beer** | ABK Urbayrisch Dunkel |
 | **Brewer** | ABK Betriebsgesellschaft der Aktienbrauerei Kaufbeuren |

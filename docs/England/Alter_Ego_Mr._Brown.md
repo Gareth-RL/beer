@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Alter Ego Mr. Brown
+Appearance: 3.0
+Aroma: 6.0
+Beer: Alter Ego Mr. Brown
+BeerID: 777103
+Brewer: Alter Ego Brewing Co.
+City: Alfreton
+Comments: Poured reddish amber body, off white foamy head (another can that misbehaved).
+  Aroma of caramel malt with background hops. Medium sweet to bitter with a similar
+  mix some toffee and a little autumnal fruit. Medium bodied, oily texture, lively
+  carbonation, and a bitter finish. Overall a decent bitter but probably better on
+  draft.
+Country: England
+Date: '"9/14/2024 6:05:38 PM"'
+MyScore: 3.3
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Alter Ego Mr. Brown
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 777103 |
 | **Beer** | Alter Ego Mr. Brown |
 | **Brewer** | Alter Ego Brewing Co. |

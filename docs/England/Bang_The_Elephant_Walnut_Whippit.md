@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Bang The Elephant Walnut Whippit
+Appearance: 4.0
+Aroma: 7.0
+Beer: Bang The Elephant Walnut Whippit
+BeerID: 1175636
+Brewer: Bang The Elephant Brewing
+City: Langley Mill
+Comments: '"Poured dark brown body thin tan lace top. Aroma milky chocolate caramel
+  and nut (as expected). Like its inspiration it''s sweet with more sugar than nut
+  flavours but in an age of pastry stout, it''s not out of place. Thin, watery texture
+  average carbonation and a light bitter finish struggling through the sweetness."'
+Country: England
+Date: '"2/13/2024 4:58:29 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Stout - Milk / Sweet
+Taste: 6.0
 ---
 
 # Bang The Elephant Walnut Whippit
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1175636 |
 | **Beer** | Bang The Elephant Walnut Whippit |
 | **Brewer** | Bang The Elephant Brewing |

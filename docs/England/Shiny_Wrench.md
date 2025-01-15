@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Shiny Wrench
+Appearance: 4.0
+Aroma: 8.0
+Beer: Shiny Wrench
+BeerID: 216003
+Brewer: Shiny Brewing
+City: Little Eaton
+Comments: 'Tap. As pungent a malty stout as one could wish. Coffee predominates with
+  licorice lurking. Taste takes a while to unpack from its mild malt loaf beginnings
+  but alongside its molasses there’s dark fruit and just a hint of cough syrup. The
+  biscuit remains on the palate like a sleeping hound. Good stuff. But one to end
+  the evening 05/98/24 second sipping 7years later.  Still full of malty goodness
+  but not taking my own advice as there is another beer to follow '
+Country: England
+Date: '"7/6/2016 1:48:31 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Shiny Wrench
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 216003 |
 | **Beer** | Shiny Wrench |
 | **Brewer** | Shiny Brewing |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Totally Brewed The Rhino Said "I know!..."
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Totally Brewed The Rhino Said \"I know!...\""'
+BeerID: 643502
+Brewer: Totally Brewed
+City: Nottingham
+Comments: '"Tap @ The Overdraught Nottingham. Pours hazy orange with white lace halo
+  top. Aroma is richly fruity raspberry and strawberry with lactic sour edge. Taste
+  is medium sweet to light sour possibly not sour enough. Palate is medium bodied,
+  smooth texture, average carbonation and a lactose finish. A good beginning does
+  not a story make."'
+Country: England
+Date: '"7/31/2018 3:57:26 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Sour / Wild Beer
+Taste: 5.0
 ---
 
 # Totally Brewed The Rhino Said "I know!..."
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 643502 |
 | **Beer** | Totally Brewed The Rhino Said "I know!..." |
 | **Brewer** | Totally Brewed |

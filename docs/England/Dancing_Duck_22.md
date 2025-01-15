@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Dancing Duck 22
+Appearance: 4.0
+Aroma: 7.0
+Beer: Dancing Duck 22
+BeerID: 138114
+Brewer: Dancing Duck Brewery
+City: Derby
+Comments: Hoppy fruits predominate marginally in the aroma. A copper coloured bitter
+  with thin top and broken lace. A nicely balanced brew with fruits again to the fire
+  but the biscuit malt foundations ever present. A very reliable session beer from
+  a brewer who deserves her accolades.
+Country: England
+Date: '"1/31/2016 11:48:12 AM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Dancing Duck 22
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 138114 |
 | **Beer** | Dancing Duck 22 |
 | **Brewer** | Dancing Duck Brewery |

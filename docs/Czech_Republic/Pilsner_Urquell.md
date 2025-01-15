@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Pilsner Urquell
+Appearance: 4.0
+Aroma: 6.0
+Beer: Pilsner Urquell
+BeerID: 717
+Brewer: Plzeňský Prazdroj (Asahi)
+City: Pilsen
+Comments: '"Bottle via Honest Brew because I thought at least try it even if lager
+  is not my thing. Poured deep yellow body thin white lace. Aroma was modestly pale
+  malted and grassy hops. Taste is medium sweet to bitter with some lingering malt
+  in the hop finish. Palate is medium bodied, reasonably smooth, average carbonation,
+  and a bitter finish. It''s certainly more drinkable than many a lager I''ve encountered
+  but it is not in any way memorable"'
+Country: Czech Republic
+Date: '"4/2/2022 11:04:21 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Plzen Region
+Style: Pilsener - Bohemian / Czech
+Taste: 6.0
 ---
 
 # Pilsner Urquell
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 717 |
 | **Beer** | Pilsner Urquell |
 | **Brewer** | Plzeňský Prazdroj (Asahi) |

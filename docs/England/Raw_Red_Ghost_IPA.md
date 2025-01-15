@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Raw Red Ghost IPA
+Appearance: 4.0
+Aroma: 8.0
+Beer: Raw Red Ghost IPA
+BeerID: 143546
+Brewer: Silver Brewhouse (prev Raw) [Industrial Ales] [Funky Hop Donkey]
+City: Chesterfield
+Comments: Cask. Aroma is richly malt but with enough hop fruit to signal the pale
+  direction of the taste. Pours reddish copper with off white top. Taste has molasses
+  malt notes and berry hop fruits. Medium bodied with soft carbonation and an interestingly
+  sour finish. A successful variant of the Grey.
+Country: England
+Date: '"4/15/2017 10:35:03 AM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: IPA
+Taste: 7.0
 ---
 
 # Raw Red Ghost IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 143546 |
 | **Beer** | Raw Red Ghost IPA |
 | **Brewer** | Silver Brewhouse (prev Raw) [Industrial Ales] [Funky Hop Donkey] |

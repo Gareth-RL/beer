@@ -1,12 +1,28 @@
 ---
-layout: default
-title: 4T's Passion Storm
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"4T''s Passion Storm"'
+BeerID: 803265
+Brewer: '"4T&#39;s Brewery"'
+City: Warrington
+Comments: '"Poured pale golden body white lace. Aroma of passion fruit. Sweet to lightly
+  bitter with more of the obviously artificial flavour of passion fruit. But you get
+  what it''s going for. Medium bodied lightly textured average carbonation and a bitter
+  finish. A summer ale."'
+Country: England
+Date: '"9/14/2023 4:44:20 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Cheshire
+Style: Pale Ale - Flavored
+Taste: 7.0
 ---
 
 # 4T's Passion Storm
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 803265 |
 | **Beer** | 4T's Passion Storm |
 | **Brewer** | 4T&#39;s Brewery |

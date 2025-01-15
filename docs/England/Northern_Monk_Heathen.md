@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Northern Monk Heathen
+Appearance: 4.0
+Aroma: 7.0
+Beer: Northern Monk Heathen
+BeerID: 417500
+Brewer: Northern Monk Brew Co.
+City: Leeds
+Comments: '"Not sure why this rating has been private due to no description but the
+  possibilities are endless. It''s a fruity NEIPA so that is what you smell tropical
+  fruit. And it pours regulation cloudy hazy golden pale body with white lace diminishing.
+  Taste is medium sweet to lightly bitter with a fruit note evident throughout. Palate
+  is medium bodied sticky feel average to soft carbonation and a long finish. Let''s
+  hear it for the heathens? Best said with a Southern evangelical drawl."'
+Country: England
+Date: '"11/11/2017 10:20:16 AM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: West Yorkshire
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Northern Monk Heathen
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 417500 |
 | **Beer** | Northern Monk Heathen |
 | **Brewer** | Northern Monk Brew Co. |

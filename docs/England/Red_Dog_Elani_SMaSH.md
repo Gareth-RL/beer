@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Red Dog Elani SMaSH
+Appearance: 4.0
+Aroma: 5.0
+Beer: Red Dog Elani SMaSH
+BeerID: 1213471
+Brewer: Red Dog Ales
+City: Ilkeston
+Comments: '"Poured pale golden body thin lace top.  Pineapple mango aroma. Light fruit
+  and a bitter finish.  Light body oily average carbonation and a bitter finish.  As
+  with many single hop beers, it''s a bit one-dimensional. Mist rolling Inn"'
+Country: England
+Date: '"7/26/2024 3:22:46 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Red Dog Elani SMaSH
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1213471 |
 | **Beer** | Red Dog Elani SMaSH |
 | **Brewer** | Red Dog Ales |

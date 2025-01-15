@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Castle Rock Henry Normal
+Appearance: 3.0
+Aroma: 6.0
+Beer: Castle Rock Henry Normal
+BeerID: 512190
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: 'Cask. Served to me on the mild trail and called a golden mild but I wonder.
+  The aroma was fruity and floral with the dark side of the spectrum very lightly
+  hinted indeed. Taste was medium sweet with a soft bitter finish. If this is mild
+  then it has evolved far from the drink I know. But I certainly agree with CR that
+  it is understated. '
+Country: England
+Date: '"5/9/2017 5:24:26 AM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Castle Rock Henry Normal
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 512190 |
 | **Beer** | Castle Rock Henry Normal |
 | **Brewer** | Castle Rock Brewery |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Grafton Sir Lancelot
+Appearance: 4.0
+Aroma: 6.0
+Beer: Grafton Sir Lancelot
+BeerID: 316510
+Brewer: Grafton Brewing
+City: Worksop
+Comments: Cask. Pours golden the lace top. Soft fruity scent. Yeasty. I can’t lie.
+  The taste is underwhelming. In a beer culture awash with pales and hoppy ales, I
+  have been making an effort to be broad-minded. At least until the mild trail starts
+  but a pale like this confirms all my prejudices. If this is Lancelot Arthur can
+  give Guinevere free rein.
+Country: England
+Date: '"4/10/2016 11:18:11 AM"'
+MyScore: 2.9
+Overall: 10.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Grafton Sir Lancelot
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 316510 |
 | **Beer** | Grafton Sir Lancelot |
 | **Brewer** | Grafton Brewing |

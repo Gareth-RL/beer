@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Avery White Rascal
+Appearance: 4.0
+Aroma: 7.0
+Beer: Avery White Rascal
+BeerID: 22967
+Brewer: Avery Brewing Company (Mahou San Miguel)
+City: Boulder
+Comments: Pours cloudy pale gold with white lace diminishing.  The aroma has spicy
+  coriander notes. Taste has the banana notes of a classic wheat beer. Sweet predominantly
+  with a light bitter finish. Palate is medium bodied clammy feel average carbonation
+  and a soft bitter finish. I liked it but I wish American bars served smaller offerings.
+Country: United States
+Date: '"5/4/2019 8:39:19 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Colorado
+Style: Witbier / Belgian White Ale
+Taste: 7.0
 ---
 
 # Avery White Rascal
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 22967 |
 | **Beer** | Avery White Rascal |
 | **Brewer** | Avery Brewing Company (Mahou San Miguel) |

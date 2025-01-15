@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Otus Pozzo Bianco
+Appearance: 4.0
+Aroma: 7.0
+Beer: Otus Pozzo Bianco
+BeerID: 595339
+Brewer: Otus
+City: '"Seriate &#40;BG&#41;"'
+Comments: Floral hops and pale malts in the scent. Poured golden with white foam that
+  settled to a broker lace. Taste is medium sweet with light drying bitterness. Palate
+  is medium bodied clean feel average carbonation and a bitter finish. A lager for
+  surr
+Country: Italy
+Date: '"12/17/2019 7:08:22 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Lombardia
+Style: Pilsener / Pils / Pilsner
+Taste: 6.0
 ---
 
 # Otus Pozzo Bianco
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 595339 |
 | **Beer** | Otus Pozzo Bianco |
 | **Brewer** | Otus |

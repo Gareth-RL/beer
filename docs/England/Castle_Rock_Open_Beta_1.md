@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Castle Rock Open Beta 1
+Appearance: 4.0
+Aroma: 6.0
+Beer: Castle Rock Open Beta 1
+BeerID: 491075
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: Cask. Pale malts on the nose. Pours amber with thin white top. Taste has
+  bread and biscuit malt and sweet hops. Easy drinking with a soft finish.
+Country: England
+Date: '"2/26/2017 10:59:31 AM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Castle Rock Open Beta 1
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 491075 |
 | **Beer** | Castle Rock Open Beta 1 |
 | **Brewer** | Castle Rock Brewery |

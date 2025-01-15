@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Arbor Boomtown Brown
+Appearance: 4.0
+Aroma: 7.0
+Beer: Arbor Boomtown Brown
+BeerID: 384029
+Brewer: Arbor Ales
+City: Bristol
+Comments: Tap. A lively third. It took four attempts to fill with modest froth. Strong
+  peach and grapefruit aroma. Taste has toffee malt but buried beneath the hop fruits
+  with grapefruit overpowering all contenders. This makes it an American rather British
+  brown ale and hence you can charge more for it. But worth it.
+Country: England
+Date: '"1/29/2017 12:12:07 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Gloucestershire
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Arbor Boomtown Brown
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 384029 |
 | **Beer** | Arbor Boomtown Brown |
 | **Brewer** | Arbor Ales |

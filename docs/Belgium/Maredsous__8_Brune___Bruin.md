@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Maredsous  8 Brune / Bruin
+Appearance: 4.0
+Aroma: 6.0
+Beer: Maredsous  8 Brune / Bruin
+BeerID: 2526
+Brewer: Duvel Moortgat
+City: Breendonk-Puurs
+Comments: Bottle. Pours reddish brown with lasting form top. Aroma bready cereal malts
+  with some vegetable herbal notes. Taste is medium bitter to sour with light raisin
+  sweet background elements. Palate edges towards full bodied average to lively carbonation
+  thick texture and a languorous sour to bitter finish. A Trappist to stay quiet about.
+Country: Belgium
+Date: '"10/22/2017 10:19:09 AM"'
+MyScore: 3.4
+Overall: 14.0
+Palate: 4.0
+State: Antwerp
+Style: Dubbel
+Taste: 6.0
 ---
 
 # Maredsous  8 Brune / Bruin
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 2526 |
 | **Beer** | Maredsous  8 Brune / Bruin |
 | **Brewer** | Duvel Moortgat |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Gorilla Monkey Magic
+Appearance: 4.0
+Aroma: 6.0
+Beer: Gorilla Monkey Magic
+BeerID: 881915
+Brewer: Gorilla Brewing (Mad Ape Ales)
+City: Mexborough
+Comments: 'Poured brown with foam lace top.  Aroma of stone fruit, spice, and cereal.
+  Not the usual Weisse.  Medium sweet to bitter with slight marmalade note alongside
+  banana and grain and yeast. Odd. Medium bodied slightly oily texture average carbonation
+  and a bitter spice finish.  Weird. They are better at stouts. Bottle from brewery '
+Country: England
+Date: '"9/23/2024 12:20:39 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: South Yorkshire
+Style: Smoked - Other
+Taste: 6.0
 ---
 
 # Gorilla Monkey Magic
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 881915 |
 | **Beer** | Gorilla Monkey Magic |
 | **Brewer** | Gorilla Brewing (Mad Ape Ales) |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Allende IPA India Pale Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Allende IPA India Pale Ale
+BeerID: 390183
+Brewer: Cerveceria Allende
+City: San Miguel de Allende
+Comments: Bottle. Poured amber body with thick foam lace top. Aroma has bready malts
+  and a light citrus hop. Taste is medium sweet to bitter with a little caramel from
+  the malt and some sour hop but none of the crisp brightness that I associate with
+  IPA. Palate is medium bodied, grainy texture, over carbonated, and a bitter souring
+  bread finish. Not Mexico finest.
+Country: Mexico
+Date: '"6/27/2022 11:44:06 AM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Guanajuato
+Style: IPA
+Taste: 6.0
 ---
 
 # Allende IPA India Pale Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 390183 |
 | **Beer** | Allende IPA India Pale Ale |
 | **Brewer** | Cerveceria Allende |

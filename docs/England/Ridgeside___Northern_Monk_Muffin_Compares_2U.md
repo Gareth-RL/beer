@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Ridgeside / Northern Monk Muffin Compares 2U
+Appearance: 4.0
+Aroma: 8.0
+Beer: Ridgeside / Northern Monk Muffin Compares 2U
+BeerID: 602998
+Brewer: Ridgeside Brewery
+City: Leeds
+Comments: The label given you fair warning that this is a blueberry muffins inspired
+  stout. So the aroma of blueberry lactose and bread delivers. Pours dark body diminishing
+  tan lace. Taste is sweet to sour, although the blueberry muffins sweetness is never
+  removed. Palate is thin to medium bodied sticky texture soft to average carbonation
+  and a long finish. A novelty beer. Cleverly done but now I have tried it, I no longer
+  want it.
+Country: England
+Date: '"2/28/2019 4:19:19 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 3.0
+State: West Yorkshire
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Ridgeside / Northern Monk Muffin Compares 2U
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 602998 |
 | **Beer** | Ridgeside / Northern Monk Muffin Compares 2U |
 | **Brewer** | Ridgeside Brewery |

@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Magic Rock / Kissmeyer Salty Kiss
+Appearance: 4.0
+Aroma: 4.0
+Beer: Magic Rock / Kissmeyer Salty Kiss
+BeerID: 204494
+Brewer: Magic Rock Brewing (Odyssey Inns)
+City: Huddersfield
+Comments: Tap. Basement funk and sock.pours lemon gold and tastes like a lemon Alco
+  pop. But it’s certainly fruity and salty. For my palate it’s a beer to go in the&quot;live
+  and learn&quot; column of life. £2.40 for a half. Oh that hurt.
+Country: England
+Date: '"7/6/2016 1:15:56 PM"'
+MyScore: 2.9
+Overall: 12.0
+Palate: 3.0
+State: West Yorkshire
+Style: Gose - Flavored
+Taste: 6.0
 ---
 
 # Magic Rock / Kissmeyer Salty Kiss
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 204494 |
 | **Beer** | Magic Rock / Kissmeyer Salty Kiss |
 | **Brewer** | Magic Rock Brewing (Odyssey Inns) |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Reservoir Dogs Conqueror 
+Appearance: 4.0
+Aroma: 7.0
+Beer: 'Reservoir Dogs Conqueror '
+BeerID: 344494
+Brewer: Reservoir Dogs
+City: Nova Gorica
+Comments: Can from One for the Road Mestre. Poured orange golden body with loose broken
+  white lacing. Aroma is citric with a light herbal hop backnote. Taste is medium
+  sweet to bitter with a smooth transition and the bitterness largely in the after
+  taste since the fruit persists. Palate is medium to thin in body, smooth in texture,
+  average carbonation, bitter finish. A very sessionable session IPA.
+Country: Slovenia
+Date: '"8/27/2022 11:48:36 AM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: .nan
+Style: ISA - Session IPA
+Taste: 7.0
 ---
 
 # Reservoir Dogs Conqueror 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 344494 |
 | **Beer** | Reservoir Dogs Conqueror  |
 | **Brewer** | Reservoir Dogs |

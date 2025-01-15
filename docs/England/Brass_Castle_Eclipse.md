@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Brass Castle Eclipse
+Appearance: 4.0
+Aroma: 6.0
+Beer: Brass Castle Eclipse
+BeerID: 210543
+Brewer: Brass Castle Brewery
+City: Malton
+Comments: Aroma of dark malts and berry hops. Pours dark brown body with tan foam
+  lace. Taste is medium sweet malt to bitter hop with a sharp drying finish. Palate
+  is medium bodied oily texture average carbonation and a crisp finish. Overall, its
+  different elements clashed for me. It could have been a dry bitter IPA without the
+  interference of dark malts.
+Country: England
+Date: '"7/2/2019 5:18:54 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: North Yorkshire
+Style: IPA - Black / Brown / Cascadian Dark
+Taste: 6.0
 ---
 
 # Brass Castle Eclipse
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 210543 |
 | **Beer** | Brass Castle Eclipse |
 | **Brewer** | Brass Castle Brewery |

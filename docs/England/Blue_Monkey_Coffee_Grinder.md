@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Blue Monkey Coffee Grinder
+Appearance: 4.0
+Aroma: 6.0
+Beer: Blue Monkey Coffee Grinder
+BeerID: 392534
+Brewer: Blue Monkey Brewery
+City: Nottingham
+Comments: Cask. New to the Organ Grinder list. Simply referred to as very dark on
+  the pump. Pours black with tan cream head. Not much in the aroma save mixed roasted
+  malts The coffee is there in the taste but not dramatically. Lacks the body or texture
+  of a stout, unlike the Guerrilla so I would class it as Porter or strong Mild. Smooth
+  enough with a slight bitter kick like coffee grounds in the end.
+Country: England
+Date: '"1/31/2016 11:08:45 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Blue Monkey Coffee Grinder
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 392534 |
 | **Beer** | Blue Monkey Coffee Grinder |
 | **Brewer** | Blue Monkey Brewery |

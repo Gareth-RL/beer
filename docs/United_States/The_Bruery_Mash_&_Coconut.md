@@ -1,12 +1,29 @@
 ---
-layout: default
-title: The Bruery Mash & Coconut
+Appearance: 4.0
+Aroma: 7.0
+Beer: The Bruery Mash & Coconut
+BeerID: 279182
+Brewer: The Bruery
+City: Placentia
+Comments: '"There''s some coconut in the soft malty nose. Pours rich amber with ruby
+  tint. Thin lace. Taste is medium to full sweetness with a light bitter finish. Not
+  much vanilla for a BBA save a sweet boost.. Palate is silky smooth as you like with
+  not a hint of the 13% you are ingesting (parental advisory). Not the best of their
+  range by a margin, but hey...."'
+Country: United States
+Date: '"9/17/2019 5:03:10 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: California
+Style: Brown Ale - Imperial
+Taste: 8.0
 ---
 
 # The Bruery Mash & Coconut
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 279182 |
 | **Beer** | The Bruery Mash & Coconut |
 | **Brewer** | The Bruery |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: 4T's Squirrel's Heaven
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"4T''s Squirrel''s Heaven"'
+BeerID: 621203
+Brewer: '"4T&#39;s Brewery"'
+City: Warrington
+Comments: '"Aroma of coffee chocolate malts and peanut. Pours black with tan lace
+  top. Taste is medium sweet to lightly bitter. Palate is medium bodied clammy feel
+  soft to average carbonation and a bitter finish. Could be smoother and fuller to
+  convey peanut butter qualities to the stout. @Sir John Borlase Warren.  18/09/24
+  second sipping still a decent pastry stout that lacks the body to give it humph.
+  "'
+Country: England
+Date: '"10/4/2019 1:26:10 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Cheshire
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # 4T's Squirrel's Heaven
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 621203 |
 | **Beer** | 4T's Squirrel's Heaven |
 | **Brewer** | 4T&#39;s Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Black Iris / Twisted Barrel Ale Ride The Lightning
+Appearance: 4.0
+Aroma: 7.0
+Beer: Black Iris / Twisted Barrel Ale Ride The Lightning
+BeerID: 616765
+Brewer: Black Iris Brewery
+City: Nottingham
+Comments: Tap at The Junkyard. Pours hazy golden with thin white lace. Aroma has lemon
+  and grapefruit pith. Taste is similar juicy but bitter and crisp. Palate is medium
+  bodied, a bit tongue drying in its acidity, average carbonation, and a bitter astringent
+  finish. A summer palate cleanser.
+Country: England
+Date: '"5/15/2018 4:25:37 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Wheat Ale
+Taste: 7.0
 ---
 
 # Black Iris / Twisted Barrel Ale Ride The Lightning
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 616765 |
 | **Beer** | Black Iris / Twisted Barrel Ale Ride The Lightning |
 | **Brewer** | Black Iris Brewery |

@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Bristol Beer Factory Beam Me Up
+Appearance: 4.0
+Aroma: 7.0
+Beer: Bristol Beer Factory Beam Me Up
+BeerID: 709954
+Brewer: Bristol Beer Factory
+City: Bristol
+Comments: '"Aroma has lots of little fruity threads melon, passionfruit maybe random
+  little peeler. None of them robust and some determined to take subtlety to the point
+  of obtuseness. My nose is naive, don''t bully it.  Appearance is clarity itself.
+  Think healthy urine sample save for the 2mm of white lace. Taste is medium sweet
+  with the fruit enveloping the bitterness rather than preceding it. Palate is medium
+  bodied, oily texture average carbonation and the finish is bitter but light with
+  fruit still bobbing back. I am tempted to go higher but ultimately it touches some
+  fine qualities but does not grasp them."'
+Country: England
+Date: '"9/13/2019 3:55:37 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Gloucestershire
+Style: Pale Ale - Australian / New Zealand
+Taste: 7.0
 ---
 
 # Bristol Beer Factory Beam Me Up
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 709954 |
 | **Beer** | Bristol Beer Factory Beam Me Up |
 | **Brewer** | Bristol Beer Factory |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Van Pur Premium 5.0%
+Appearance: 4.0
+Aroma: 5.0
+Beer: Van Pur Premium 5.0%
+BeerID: 53547
+Brewer: Van Pur
+City: Warszawa
+Comments: 'Poured golden body white lace top.  Aroma of pale malt and herbal hop.  Medium
+  sweet to bitter with a certain syrupy blandness.  Medium bodied smooth texture average
+  carbonation and a light bitter finish.  A reminder of why I am unimpressed by lager.
+  From the local Mestre supermarket in Italy '
+Country: Poland
+Date: '"12/27/2024 12:39:44 PM"'
+MyScore: 2.9
+Overall: 10.0
+Palate: 4.0
+State: Masovian
+Style: Pale Lager - American
+Taste: 6.0
 ---
 
 # Van Pur Premium 5.0%
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 53547 |
 | **Beer** | Van Pur Premium 5.0% |
 | **Brewer** | Van Pur |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Eichbaum Pilsener
+Appearance: 3.0
+Aroma: 5.0
+Beer: Eichbaum Pilsener
+BeerID: 31731
+Brewer: Privatbrauerei Eichbaum Mannheim
+City: Mannheim
+Comments: Can from a supermarket in Bibione, a resort east of Venice. Poured pale
+  gold with thin lace. Aroma of dry grassy hop and metal. Taste is medium sweet to
+  bitter with a crisp dry herbal finish, Obviously the Germans and northern Europeans
+  are scathing in much the same way we condescend to the megabrew bitters in the UK
+  but it did not lower my already low opinion of lager. Light to medium bodied, smooth
+  but fizzy, and a crisp finish. And I will add that the day was hot.
+Country: Germany
+Date: '"8/18/2023 2:58:10 PM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 4.0
+State: Baden-Württemberg
+Style: Pilsener / Pils / Pilsner
+Taste: 6.0
 ---
 
 # Eichbaum Pilsener
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 31731 |
 | **Beer** | Eichbaum Pilsener |
 | **Brewer** | Privatbrauerei Eichbaum Mannheim |

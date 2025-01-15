@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Milestone Wicked Witch
+Appearance: 4.0
+Aroma: 6.0
+Beer: Milestone Wicked Witch
+BeerID: 109572
+Brewer: Milestone Brewing
+City: Newark
+Comments: '"Poured copper body off white lace top.  Aroma of roasted malts. Medium
+  sweet to bitter a little caramel and a little berry hop, but  it''s an unassuming
+  Brown ale. Medium bodied smooth texture average carbonation and a bitter finish.
+  Forgettable "'
+Country: England
+Date: '"10/29/2024 5:38:53 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Milestone Wicked Witch
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 109572 |
 | **Beer** | Milestone Wicked Witch |
 | **Brewer** | Milestone Brewing |

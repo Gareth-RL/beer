@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Du Bocq Tête de Mort Triple Amber
+Appearance: 4.0
+Aroma: 8.0
+Beer: Du Bocq Tête de Mort Triple Amber
+BeerID: 985044
+Brewer: Brasserie Du Bocq
+City: Purnode-Yvoir
+Comments: Poured dark brown body with ruby lights and tan foam. Aroma of caramel malts
+  and spicy yeast . Caramel dark fruits banana all detected. Medium sweet caramel
+  malts and fig date plum with a spiced boozy finish.  Medium bodied oily texture
+  average to soft carbonation spicy finish.  After a week of substandard lager, this
+  hit the spot. But 8.1% is more than I need in this heat. Bottle from Iperlando supermarket
+  Mestre
+Country: Belgium
+Date: '"7/21/2024 10:38:47 AM"'
+MyScore: 3.8
+Overall: 14.0
+Palate: 4.0
+State: Namur
+Style: Tripel
+Taste: 8.0
 ---
 
 # Du Bocq Tête de Mort Triple Amber
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 985044 |
 | **Beer** | Du Bocq Tête de Mort Triple Amber |
 | **Brewer** | Brasserie Du Bocq |

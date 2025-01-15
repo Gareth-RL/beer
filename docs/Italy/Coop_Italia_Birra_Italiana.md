@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Coop Italia Birra Italiana
+Appearance: 3.0
+Aroma: 4.0
+Beer: Coop Italia Birra Italiana
+BeerID: 654369
+Brewer: Coop Italia
+City: '"Casalecchio Di Reno &#40;BO&#41;"'
+Comments: It was on offer. Pours clear golden with frothy white lace. Aroma slightly
+  beer like. Taste is very similar to beer. Texture is harmless. Overall, I could
+  drink a lot of this without feeling that I had drunk anything at all. And it is
+  hot out there.
+Country: Italy
+Date: '"6/30/2021 9:06:00 AM"'
+MyScore: 2.5
+Overall: 10.0
+Palate: 3.0
+State: Emilia-Romagna
+Style: Pilsener / Pils / Pilsner
+Taste: 5.0
 ---
 
 # Coop Italia Birra Italiana
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 654369 |
 | **Beer** | Coop Italia Birra Italiana |
 | **Brewer** | Coop Italia |

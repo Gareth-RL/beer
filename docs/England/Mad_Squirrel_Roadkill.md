@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Mad Squirrel Roadkill
+Appearance: 4.0
+Aroma: 8.0
+Beer: Mad Squirrel Roadkill
+BeerID: 493635
+Brewer: Mad Squirrel
+City: Hemel Hempstead
+Comments: Aroma of pineapples lychee tangerine and grapefruit so not what you would
+  call understated. Pours pale gold with white lace top. Taste is sweet (above medium)
+  but this subsides to a light bitterness in a long finish although the tropical hops
+  never leave entirely. Palate is medium bodied oily texture average carbonation and
+  a long light bitter finish. Impressed. Better than expected.
+Country: England
+Date: '"1/28/2019 6:14:11 PM"'
+MyScore: 4.0
+Overall: 15.0
+Palate: 4.0
+State: Hertfordshire
+Style: IPA
+Taste: 9.0
 ---
 
 # Mad Squirrel Roadkill
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 493635 |
 | **Beer** | Mad Squirrel Roadkill |
 | **Brewer** | Mad Squirrel |

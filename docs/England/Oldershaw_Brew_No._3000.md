@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Oldershaw Brew No. 3000
+Appearance: 4.0
+Aroma: 7.0
+Beer: Oldershaw Brew No. 3000
+BeerID: 520299
+Brewer: Zest Brewery (prev Oldershaw Brewery)
+City: Barkston
+Comments: Cask. Aroma lightly malted hops fruits with marmalade smear. Pours orange
+  dark amber with off white lace top. Taste is medium bitter with sour finish. Any
+  sweet is forward and fleeting. Carbonation light and this may explain the indeterminate
+  finish. Basically it dies. Not precisely the accolade associated with a 3000th brew
+  but I have memories of bygone days when a large number if not 3000 of these would
+  have kept the chatter going.
+Country: England
+Date: '"6/12/2017 11:48:33 AM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: Lincolnshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Oldershaw Brew No. 3000
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 520299 |
 | **Beer** | Oldershaw Brew No. 3000 |
 | **Brewer** | Zest Brewery (prev Oldershaw Brewery) |

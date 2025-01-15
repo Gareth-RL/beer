@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Birra Monte Baldo Tratto Spino
+Appearance: 3.0
+Aroma: 6.0
+Beer: Birra Monte Baldo Tratto Spino
+BeerID: 701206
+Brewer: Birra Monte Baldo
+City: '"Caprino Veronese &#40;VR&#41;"'
+Comments: '"Poured brown amber slightly cloudy body with off white foamy head. Aroma
+  has roasted malts  light coffee and toffee nutty notes. Taste is medium sweet  with
+  a hoppy backbone producing a bitter finish.  Palate is medium bodied oily texture
+  but over carbonated (it''s not an easy pouring beer). It''s not going to displace
+  Newcastle Brown but it may complement a lasagne better."'
+Country: Italy
+Date: '"9/4/2020 1:01:00 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 4.0
+State: Veneto
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Birra Monte Baldo Tratto Spino
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 701206 |
 | **Beer** | Birra Monte Baldo Tratto Spino |
 | **Brewer** | Birra Monte Baldo |

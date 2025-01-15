@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Sainsbury's Christmas Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Sainsbury''s Christmas Porter"'
+BeerID: 969317
+Brewer: '"Sainsbury''s"'
+City: Holborn
+Comments: Bottle. Pours dark body tan cream top. Aroma of dark fruits and chocolate
+  malt. Taste is medium sweet to bitter with spicy seasonal notes. Palate is medium
+  bodied, smooth texture, average carbonation, and a bitter finish. It certainly belongs
+  to the annual experiment to create a brew with a seasonal flavour. With most, including
+  this, the question is whether the flavours added improve the beer. I enjoy a dark
+  porter with stone fruits and chocolate flavours, but whether nutmeg or cinnamon
+  enhance that is debateable.
+Country: England
+Date: '"11/10/2022 6:07:32 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Greater London
+Style: Porter - Flavored
+Taste: 6.0
 ---
 
 # Sainsbury's Christmas Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 969317 |
 | **Beer** | Sainsbury's Christmas Porter |
 | **Brewer** | Sainsbury's |

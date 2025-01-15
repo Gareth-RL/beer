@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Neon Raptor Carol
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neon Raptor Carol
+BeerID: 977253
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: '"Can from Raptor taproom. Pours pale hazy golden with loose off white foam
+  top. Aroma is the predictable gamut of tropical fruits--grapefruit in the lead,
+  with pineapple and papaya coming alongside and expect a late dash from citrus since
+  the going is juicy to pithy. Taste is medium sweet to sharply bitter as that citrus
+  pith wraps itself around the palate. Certainly a refreshing IPA and as the brewer
+  readily concedes, it''s little to do with Christmas so get thee merry gentlemen
+  and don''t forget to wash those socks by night."'
+Country: England
+Date: '"1/15/2022 7:43:34 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Neon Raptor Carol
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 977253 |
 | **Beer** | Neon Raptor Carol |
 | **Brewer** | Neon Raptor Brewing Co. |

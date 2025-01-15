@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Neon Raptor Endangered
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neon Raptor Endangered
+BeerID: 438079
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: Tap at the Neon Raptor Taproom Nottingham. Pours black with tan lacing.
+  Aroma has vanilla from the barrel and some chocolate malt although the Bourbon is
+  less pronounced than in other aged brews. Taste is medium sweet to lightly bitter.
+  Palate is medium to full bodied, smooth texture, soft to average carbonation and
+  a bitter finish. Overall, pleasant but not as rich as some aged porters.
+Country: England
+Date: '"9/22/2018 3:41:33 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Neon Raptor Endangered
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 438079 |
 | **Beer** | Neon Raptor Endangered |
 | **Brewer** | Neon Raptor Brewing Co. |

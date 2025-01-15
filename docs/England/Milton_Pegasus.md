@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Milton Pegasus
+Appearance: 4.0
+Aroma: 6.0
+Beer: Milton Pegasus
+BeerID: 1256
+Brewer: Milton Brewery
+City: Waterbeach
+Comments: '"Cask. Pours light amber gold with white lace top. Aroma is hop fruits
+  of the non-citric kind. Taste is medium bitter with light sweetness initially. Palate
+  is medium to light body, average to soft carbonation, tacky feel &#40;whatever the
+  opposite of smooth is&#41;, finish is not short but not languid "'
+Country: England
+Date: '"10/25/2017 12:35:11 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Cambridgeshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Milton Pegasus
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1256 |
 | **Beer** | Milton Pegasus |
 | **Brewer** | Milton Brewery |

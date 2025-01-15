@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Thornbridge Peverel
+Appearance: 4.0
+Aroma: 7.0
+Beer: Thornbridge Peverel
+BeerID: 419394
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: Pours very pale with Lace top. Aroma is predictably hoppy but not the explosive
+  tropical scent that the marketing guy experienced. More cocaine needed. Taste is
+  medium sweet to bitter. Palate is medium to thin bodied oily texture soft to average
+  carbonation and a slightly souring finish. Overall good from a brewery that does
+  great.
+Country: England
+Date: '"8/31/2018 5:32:16 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Thornbridge Peverel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 419394 |
 | **Beer** | Thornbridge Peverel |
 | **Brewer** | Thornbridge Brewery |

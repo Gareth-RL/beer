@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Tiny Rebel Paradise City
+Appearance: 4.0
+Aroma: 7.0
+Beer: Tiny Rebel Paradise City
+BeerID: 809992
+Brewer: Tiny Rebel
+City: Rogerstone, Newport
+Comments: Poured murky golden body with thin lace top. Aroma has lemon and pine notes.
+  Taste is medium sweet to grainy bitter which is an interesting transition as I tend
+  to drink sweet malt beers that move to hop bitterness. Palate is medium bodied clammy
+  feel soft to average carbonation and a light mineral finish. The last was a disappointment
+  since the rest was session worthy
+Country: Wales
+Date: '"2/17/2020 6:12:42 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Gwent
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Tiny Rebel Paradise City
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 809992 |
 | **Beer** | Tiny Rebel Paradise City |
 | **Brewer** | Tiny Rebel |

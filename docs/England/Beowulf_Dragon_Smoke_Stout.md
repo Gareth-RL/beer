@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Beowulf Dragon Smoke Stout
+Appearance: 4.0
+Aroma: 9.0
+Beer: Beowulf Dragon Smoke Stout
+BeerID: 4260
+Brewer: Beowulf Brewing
+City: Brownhills
+Comments: 'Cask. Aroma roasted malts, coffee and smoky notes. Pours black with cream
+  tan head. Great taste with caramelized malts and some chocolate at the front and
+  a smoked bitterness at the tail. The last few stouts I’ve encountered have been
+  disappointing in terms of weight on the palate but this one is happily medium to
+  full with a pleasant languor. Excellent '
+Country: England
+Date: '"2/8/2016 12:36:01 PM"'
+MyScore: 4.0
+Overall: 13.0
+Palate: 5.0
+State: Staffordshire
+Style: Stout
+Taste: 9.0
 ---
 
 # Beowulf Dragon Smoke Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 4260 |
 | **Beer** | Beowulf Dragon Smoke Stout |
 | **Brewer** | Beowulf Brewing |

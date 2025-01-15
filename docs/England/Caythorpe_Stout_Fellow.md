@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Caythorpe Stout Fellow
+Appearance: 3.0
+Aroma: 5.0
+Beer: Caythorpe Stout Fellow
+BeerID: 40376
+Brewer: Caythorpe Brewery
+City: Caythorpe
+Comments: Cask. Pours brown with thin tan foam top. Don’t be misled by the name, it’s
+  a brown ale not a stout. Hence the relatively thin watery taste.but with some yeasty
+  malts on the tongue and a fruity finish. Not outstanding by any means but might
+  do better as a brown fellow rather than a stout one.
+Country: England
+Date: '"11/29/2015 10:51:52 AM"'
+MyScore: 2.8
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Caythorpe Stout Fellow
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 40376 |
 | **Beer** | Caythorpe Stout Fellow |
 | **Brewer** | Caythorpe Brewery |

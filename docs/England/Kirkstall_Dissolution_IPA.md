@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Kirkstall Dissolution IPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: Kirkstall Dissolution IPA
+BeerID: 157651
+Brewer: Kirkstall Brewery
+City: Leeds
+Comments: '"Pours amber gold body with white lace top. Aroma of pale malt and light
+  citrus hops. Taste is medium sweet to Bitter with some biscuit evident in the finish.
+  Palate is medium, texture is oily carbonation average, and bitter finish edging
+  from IPA to ESB. A very English ale from god''s own country. Keans Head Nottingham
+  cask Second sipping 10/05/2024 decent and a substitute as the White Lion Beeston
+  had no mild but was on the Trail 06/09/24 just back from Italy and in the mood for
+  an English beer. This fits the bill. The Roebuck inn"'
+Country: England
+Date: '"8/15/2021 3:40:42 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: West Yorkshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Kirkstall Dissolution IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 157651 |
 | **Beer** | Kirkstall Dissolution IPA |
 | **Brewer** | Kirkstall Brewery |

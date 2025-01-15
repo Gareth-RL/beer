@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Grainstore Metatarsal
+Appearance: 4.0
+Aroma: 6.0
+Beer: Grainstore Metatarsal
+BeerID: 64164
+Brewer: Grainstore Brewery (Rutland Brewing Co.)
+City: Oakham
+Comments: '"Brought back for the Euros. Since we don''t win anything we commemorate
+  injuries. Golden body white lace top.  Aroma of hop fruits.  Medium sweet to bitter
+  but with an unpleasant sour aftertaste.  Medium bodied oily texture average carbonation
+  and long finish (see above). It doesn''t bode well "'
+Country: England
+Date: '"6/14/2024 11:08:36 AM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 4.0
+State: Rutland
+Style: Bitter - Ordinary / Best
+Taste: 5.0
 ---
 
 # Grainstore Metatarsal
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 64164 |
 | **Beer** | Grainstore Metatarsal |
 | **Brewer** | Grainstore Brewery (Rutland Brewing Co.) |

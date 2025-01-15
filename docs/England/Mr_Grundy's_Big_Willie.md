@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Mr Grundy's Big Willie
+Appearance: 3.0
+Aroma: 6.0
+Beer: '"Mr Grundy''s Big Willie"'
+BeerID: 216341
+Brewer: Black Hole Brewery
+City: Little Eaton
+Comments: There is the scent of beer - malt hops yeast. No real distinction. Malt
+  biscuit. Hops citric. Yeast earthy. Honey coloured with no head to speak of. Taste
+  smooth balanced. Sweet notes to the fore. Salty background that causes sweetness
+  to linger and masks the bitterness. It’s helped by the slightly pleasanter atmosphere
+  in a pub without shrieking or smashing glass. Yet it’s still a Wetherspoons.
+Country: England
+Date: '"9/5/2015 12:05:17 PM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 4.0
+State: Derbyshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Mr Grundy's Big Willie
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 216341 |
 | **Beer** | Mr Grundy's Big Willie |
 | **Brewer** | Black Hole Brewery |

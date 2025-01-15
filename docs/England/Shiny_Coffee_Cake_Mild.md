@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Shiny Coffee Cake Mild
+Appearance: 4.0
+Aroma: 7.0
+Beer: Shiny Coffee Cake Mild
+BeerID: 735449
+Brewer: Shiny Brewing
+City: Little Eaton
+Comments: Aroma has coffee chocolate nibs scent. Pours dark brown body cream tan top.  Looks
+  good enough but the taste is medium sweet with background bitterness but neither
+  as rich nor as complex as I had hoped. Palate is medium bodied, creamy feel, average
+  to soft carbonation and a bitter finish. It gives Mild a good name.
+Country: England
+Date: '"5/28/2019 4:04:37 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Shiny Coffee Cake Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 735449 |
 | **Beer** | Shiny Coffee Cake Mild |
 | **Brewer** | Shiny Brewing |

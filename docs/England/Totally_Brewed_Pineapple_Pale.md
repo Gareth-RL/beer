@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Totally Brewed Pineapple Pale
+Appearance: 4.0
+Aroma: 7.0
+Beer: Totally Brewed Pineapple Pale
+BeerID: 643514
+Brewer: Totally Brewed
+City: Nottingham
+Comments: '"Tap at The Overdraught Nottingham. Pours lightly hazy yellow gold with
+  white lace top. Aroma has to my infinite lack of surprise - pineapple &#40;the bit
+  closer to the rind with more sourness&#41;. Some nose out there will detect lychee,
+  gooseberry or plum, but for these unpretentious nostrils it&#39;s pineapple. Taste
+  is more of a challenge since the medium sweetness is bubble gum like and pineapple
+  bubble gum has yet to be a thing. Hence palate is medium bodied sticky feel average
+  carbonation and a long slightly souring finish. A well named beer that does what
+  it says on the tin."'
+Country: England
+Date: '"8/6/2018 3:31:06 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Totally Brewed Pineapple Pale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 643514 |
 | **Beer** | Totally Brewed Pineapple Pale |
 | **Brewer** | Totally Brewed |

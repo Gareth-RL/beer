@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Gipsy Hill Drifter
+Appearance: 4.0
+Aroma: 6.0
+Beer: Gipsy Hill Drifter
+BeerID: 416772
+Brewer: Gipsy Hill Brewing Company
+City: West Norwood
+Comments: '"At Brewdog Nottingham. Pours cloudy orange brown with white lace top.
+  Aroma has caramel malt and citrus hops &#40;in my opinion they are not getting along&#41;.
+  Taste is medium sweet to bitter. Palate is medium bodied, thin to medium, maybe,
+  texture oily, carbonation soft to average, and a bitter finish . The Americans have
+  nothing to fear."'
+Country: England
+Date: '"8/12/2018 4:09:11 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Greater London
+Style: IPA - Hazy (NEIPA)
+Taste: 6.0
 ---
 
 # Gipsy Hill Drifter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 416772 |
 | **Beer** | Gipsy Hill Drifter |
 | **Brewer** | Gipsy Hill Brewing Company |

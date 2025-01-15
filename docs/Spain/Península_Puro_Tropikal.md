@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Península Puro Tropikal
+Appearance: 4.0
+Aroma: 7.0
+Beer: Península Puro Tropikal
+BeerID: 582580
+Brewer: Cervecera Península
+City: Alcobendas
+Comments: '"Poured clear golden body with dissipating white lace. Aroma has mango,
+  satsuma and grapefruit notes with some background graininess. Taste is medium sweet
+  with some caramel malt evident, slow transition to a light sweetness but the sweet
+  malt persists in a way that I don''t associate with IPAs as a rule. Palate is medium
+  bodied, oily texture, average carbonation, and after some delay, a bitter finish.
+  While one can quibble about its qualities as an IPA, it remains a very nicely flavoured
+  and presented beer that I can imagine would taste even better in the Castilian sunshine.
+  In the cloudy gloom of my basement flat, it''s refreshing. "'
+Country: Spain
+Date: '"7/11/2020 2:59:13 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Community of Madrid
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Península Puro Tropikal
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 582580 |
 | **Beer** | Península Puro Tropikal |
 | **Brewer** | Cervecera Península |

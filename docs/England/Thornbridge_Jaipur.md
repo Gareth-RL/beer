@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Thornbridge Jaipur
+Appearance: 3.0
+Aroma: 6.0
+Beer: Thornbridge Jaipur
+BeerID: 48795
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: '"Tried at the Great Central Railway beer festival 2018. Amazed that I have
+  no review on file given its ubiquitous presence in local Indian restaurants. And
+  it may well be better in the bottle. Here it had a grassy spruce hop scent. Poured
+  a pale gold with no head to speak of. Was very sweet and fruity but had a lasting
+  bitter finish. The palate was medium bodied crisp texture and average carbonation
+  with a souring finish. Given it was the strongest beer at the festival&#045;&#045;a
+  disappointment."'
+Country: England
+Date: '"9/22/2018 3:28:57 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: IPA
+Taste: 8.0
 ---
 
 # Thornbridge Jaipur
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 48795 |
 | **Beer** | Thornbridge Jaipur |
 | **Brewer** | Thornbridge Brewery |

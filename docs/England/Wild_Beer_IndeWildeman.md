@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Wild Beer IndeWildeman
+Appearance: 3.0
+Aroma: 6.0
+Beer: Wild Beer IndeWildeman
+BeerID: 411404
+Brewer: '"Wild Beer (Curious Brewing - St. Peter&#39;s)"'
+City: Shepton Mallet
+Comments: '"Cask. Modestly citrus un scent. Pours cloudy orange, white foam top. Taste
+  has similarly fruits to the fore with some malt for ballast. I’m a little bewildered
+  by it since it is so ordinary and average. It’s most memorable feature on this occasion
+  is its iciness. Does a farmhouse pale require intense refrigeration? &#40;thought
+  not...&#41;"'
+Country: England
+Date: '"11/6/2016 5:59:18 AM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Somerset
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Wild Beer IndeWildeman
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 411404 |
 | **Beer** | Wild Beer IndeWildeman |
 | **Brewer** | Wild Beer (Curious Brewing - St. Peter&#39;s) |

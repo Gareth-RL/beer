@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Norfolk Brewhouse Moon Gazer Triskele 
+Appearance: 4.0
+Aroma: 7.0
+Beer: 'Norfolk Brewhouse Moon Gazer Triskele '
+BeerID: 858670
+Brewer: Norfolk Brewhouse [Moon Gazer]
+City: Fakenham
+Comments: Bottle. Poured dark brown with ruby lights and foamy tan cream top. Aroma
+  has orange for sure amid the dark malts as well as smoke and some spice. The taste
+  is bitter throughout but with some fruit and dark chocolate intruding along the
+  way but for me the peaty bitter taste predominated. Medium bodied, smooth texture,
+  average carbonation and a long bitter finish. Overall, the infusion of orange and
+  coriander into a dark porter worked better than I expected, and the oak smoke was
+  more evident too. Good stuff.
+Country: England
+Date: '"11/24/2022 6:16:30 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Norfolk
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # Norfolk Brewhouse Moon Gazer Triskele 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 858670 |
 | **Beer** | Norfolk Brewhouse Moon Gazer Triskele  |
 | **Brewer** | Norfolk Brewhouse [Moon Gazer] |

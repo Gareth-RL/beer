@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Emperor's Black & Blue (2023)
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Emperor''s Black & Blue (2023)"'
+BeerID: 1118278
+Brewer: '"Emperor&#39;s Brewery"'
+City: Coalville
+Comments: Poured dark brown body tan lace top. . Aroma of vanilla and blueberries.
+  Medium sweet with plenty of fruit and chocolate malts. Medium bodied smooth texture
+  average to soft carbonation and a bitter finish. The empire strikes back
+Country: England
+Date: '"10/30/2023 3:56:24 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Leicestershire
+Style: Stout - Imperial
+Taste: 8.0
 ---
 
 # Emperor's Black & Blue (2023)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1118278 |
 | **Beer** | Emperor's Black & Blue (2023) |
 | **Brewer** | Emperor&#39;s Brewery |

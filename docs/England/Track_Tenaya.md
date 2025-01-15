@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Track Tenaya
+Appearance: 4.0
+Aroma: 7.0
+Beer: Track Tenaya
+BeerID: 578542
+Brewer: Track Brewing Co.
+City: Manchester
+Comments: '"Aroma has a lemon grapefruit zest liveliness. Pours a hazy yellow pale
+  orange with loose lacing. Taste is medium sweet to bitter with a spectrum of fruits
+  to cross and a slight fizz in the finish. Palate is light to medium bodied sticky
+  feel soft to average carbonation and a fruit gum finish. I confess it: it amused
+  me."'
+Country: England
+Date: '"3/25/2019 6:10:44 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Greater Manchester
+Style: IIPA DIPA - Imperial / Double IPA
+Taste: 8.0
 ---
 
 # Track Tenaya
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 578542 |
 | **Beer** | Track Tenaya |
 | **Brewer** | Track Brewing Co. |

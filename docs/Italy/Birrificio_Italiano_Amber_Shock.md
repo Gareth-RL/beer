@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Birrificio Italiano Amber Shock
+Appearance: 4.0
+Aroma: 7.0
+Beer: Birrificio Italiano Amber Shock
+BeerID: 11486
+Brewer: Birrificio Italiano
+City: '"Lurago Marinone &#40;CO&#41;"'
+Comments: 'Poured dark amber brown body tan lace. Aroma of dark malts caramel stone
+  fruits. Medium sweet to bitter with more toffee and a hint of dates. Some spice
+  in the finish. Medium bodied smooth texture average carbonation and a spiced bitter
+  finish. A rich and pleasant brew. '
+Country: Italy
+Date: '"12/26/2023 11:56:11 AM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Lombardia
+Style: Bock - Doppelbock
+Taste: 7.0
 ---
 
 # Birrificio Italiano Amber Shock
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 11486 |
 | **Beer** | Birrificio Italiano Amber Shock |
 | **Brewer** | Birrificio Italiano |

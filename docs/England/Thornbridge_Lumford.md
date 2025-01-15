@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Thornbridge Lumford
+Appearance: 4.0
+Aroma: 7.0
+Beer: Thornbridge Lumford
+BeerID: 122521
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: Cask. Pleasant aroma of grapefruit and gooseberry. Pours golden with thin
+  cream top. Tastes predictably citric with hints of grassy hops as well. A summer
+  ale in my view with no great fullness. It leaves the palate embittered rather than
+  washed. I guess that’s one way to prompt the next mouthful. It will move me to another
+  beer. Too dry for my taste.
+Country: England
+Date: '"9/18/2015 12:43:59 PM"'
+MyScore: 2.7
+Overall: 10.0
+Palate: 1.0
+State: Derbyshire
+Style: Pale Ale - Australian / New Zealand
+Taste: 5.0
 ---
 
 # Thornbridge Lumford
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 122521 |
 | **Beer** | Thornbridge Lumford |
 | **Brewer** | Thornbridge Brewery |

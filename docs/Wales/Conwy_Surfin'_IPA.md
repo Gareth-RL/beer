@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Conwy Surfin' IPA
+Appearance: 3.0
+Aroma: 7.0
+Beer: '"Conwy Surfin'' IPA"'
+BeerID: 252893
+Brewer: Conwy Brewery
+City: Llysfaen, Caernarfonshire
+Comments: There’s a grapefruit aroma but not as pungent as some. There’s a golden
+  body with a nice white cap that laces down. And there’s a pink grapefruit taste
+  in the first swallow that confirms your nose still works and I agree that on a hot
+  day it slakes the thirst but there it ends. This is a step above lager and a step
+  below pale ale in complexity. I confess that my prejudices for the malty range of
+  spectrum is confirmed by moments like this.
+Country: Wales
+Date: '"7/16/2015 1:06:52 PM"'
+MyScore: 2.5
+Overall: 10.0
+Palate: 2.0
+State: Clwyd
+Style: Pale Ale - American (APA)
+Taste: 3.0
 ---
 
 # Conwy Surfin' IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 252893 |
 | **Beer** | Conwy Surfin' IPA |
 | **Brewer** | Conwy Brewery |

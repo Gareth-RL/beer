@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Mikkeller Single Hop Simcoe IPA
+Appearance: 4.0
+Aroma: 7.0
+Beer: Mikkeller Single Hop Simcoe IPA
+BeerID: 93054
+Brewer: Mikkeller
+City: Copenhagen
+Comments: '"Can. Pours orange gold, Lively off white foam head &#40;if you pour it
+  badly in a tulip glass. Aroma apricot grassy resinous and yeasty. Taste is medium
+  sweet to full bitter taste. Palate is medium bodied, lively to average carbonation,
+  sticky, feel, long bitter finish. Slightly befuddled by the Belgian brewery attribution
+  for a Danish beer. But a pleasant pale."'
+Country: Denmark
+Date: '"11/4/2017 8:08:57 AM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: .nan
+Style: IPA
+Taste: 7.0
 ---
 
 # Mikkeller Single Hop Simcoe IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 93054 |
 | **Beer** | Mikkeller Single Hop Simcoe IPA |
 | **Brewer** | Mikkeller |

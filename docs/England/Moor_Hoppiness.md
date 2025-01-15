@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Moor Hoppiness
+Appearance: 4.0
+Aroma: 7.0
+Beer: Moor Hoppiness
+BeerID: 113882
+Brewer: Moor Beer Co.
+City: Bristol
+Comments: Tap. Pours clear orange honey gold with white lace top. Aroma peach and
+  melon with pine notes. Taste is medium bitter to sour, grainy. Palate is the upper
+  edge of medium with a sticky feel, soft carbonation, and a sour finish. It would
+  taste better in warm sunshine I suspect.
+Country: England
+Date: '"11/25/2017 11:24:58 AM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 3.0
+State: Gloucestershire
+Style: IPA
+Taste: 7.0
 ---
 
 # Moor Hoppiness
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 113882 |
 | **Beer** | Moor Hoppiness |
 | **Brewer** | Moor Beer Co. |

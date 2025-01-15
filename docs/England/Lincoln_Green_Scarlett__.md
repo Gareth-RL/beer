@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Scarlett  
+Appearance: 4.0
+Aroma: 8.0
+Beer: 'Lincoln Green Scarlett  '
+BeerID: 174089
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: '"Cask. Pours polished copper. Thin top. Aroma toffee malt. Taste of biscuit
+  with hints of plum and fig. Full flavoured but light on the palate - some hops in
+  the end. A very pleasant surprise it should be as regularly available as Hood or
+  Marion. And it&#39;s back at least for Xmas "'
+Country: England
+Date: '"11/2/2015 1:20:31 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 8.0
 ---
 
 # Lincoln Green Scarlett  
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 174089 |
 | **Beer** | Lincoln Green Scarlett   |
 | **Brewer** | Lincoln Green Brewing Co. |

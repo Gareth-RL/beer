@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Bone Machine Øl of the Mountain King
+Appearance: 3.0
+Aroma: 6.0
+Beer: Bone Machine Øl of the Mountain King
+BeerID: 666648
+Brewer: Bone Machine Brew Co
+City: Hull
+Comments: Aroma has a resinous tannic fruit quality between plum and cherry wine.
+  Pours cola dark and murky. Not much head apart from fleeting bubbles. Taste is medium
+  to light body, slick feel, average carbonation and a palate caking fruit finish
+  (but not in a good way). Overall not sure what to make of it other than avoid it.
+Country: England
+Date: '"2/3/2019 1:26:20 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: East Yorkshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Bone Machine Øl of the Mountain King
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 666648 |
 | **Beer** | Bone Machine Øl of the Mountain King |
 | **Brewer** | Bone Machine Brew Co |

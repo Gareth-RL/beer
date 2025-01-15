@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Siren Orange Boom (4.0%)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Siren Orange Boom (4.0%)
+BeerID: 444699
+Brewer: Siren Craft Brew
+City: Finchampstead
+Comments: Aroma citric but edging toward tangerine or lemon rather than orange. Colour
+  is pale golden with thin lace top. Taste is medium sweet to sour. Palate is medium
+  bodied oily texture soft to average carbonation and a sour finish. Fruity and refreshing
+Country: England
+Date: '"10/18/2019 3:25:41 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Berkshire
+Style: Berliner Weisse - Flavored / Catharina Sour
+Taste: 7.0
 ---
 
 # Siren Orange Boom (4.0%)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 444699 |
 | **Beer** | Siren Orange Boom (4.0%) |
 | **Brewer** | Siren Craft Brew |

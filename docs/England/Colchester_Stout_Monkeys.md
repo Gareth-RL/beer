@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Colchester Stout Monkeys
+Appearance: 4.0
+Aroma: 7.0
+Beer: Colchester Stout Monkeys
+BeerID: 794641
+Brewer: Colchester Brewery
+City: Colchester
+Comments: An oatmeal stout with plenty of coffee in the scent. Dark mahogany body
+  with tan lace top. Taste is medium sweet but with a growing bitter finish. Palate
+  is medium bodied sticky feel average to soft carbonation and a long finish. It grew
+  on me even if I thought it was spelt Monkies. Or is that the Pop group?
+Country: England
+Date: '"12/15/2019 6:28:42 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Essex
+Style: Stout - Milk / Sweet
+Taste: 7.0
 ---
 
 # Colchester Stout Monkeys
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 794641 |
 | **Beer** | Colchester Stout Monkeys |
 | **Brewer** | Colchester Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Kirkstall Black Band Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Kirkstall Black Band Porter
+BeerID: 146483
+Brewer: Kirkstall Brewery
+City: Leeds
+Comments: Light coffee dark malt scent. Poured dark with ruby lights. Off white lace
+  top. Taste is medium sweet to bitter with light sour finish. Palate is medium bodied
+  sticky feel average carbonation and a bitter finish. I can imagine a session of
+  this. I might not seek it but it could happen.
+Country: England
+Date: '"11/19/2019 6:31:08 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: West Yorkshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Kirkstall Black Band Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 146483 |
 | **Beer** | Kirkstall Black Band Porter |
 | **Brewer** | Kirkstall Brewery |

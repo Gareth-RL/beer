@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Serious Russet
+Appearance: 4.0
+Aroma: 7.0
+Beer: Serious Russet
+BeerID: 646490
+Brewer: Serious Brewing
+City: Rochdale
+Comments: Cask at Beerheadz Nottingham. Appropriately the aroma has a bit of apple,
+  nut and spicy hop. Pours reddish amber with a pale tan top. Taste is medium sweet
+  to lightly sour. Palate is medium bodied, sticky texture, average to soft carbonation
+  and a sour finish. An interesting brew
+Country: England
+Date: '"8/9/2018 1:02:15 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Greater Manchester
+Style: Brown Ale
+Taste: 7.0
 ---
 
 # Serious Russet
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 646490 |
 | **Beer** | Serious Russet |
 | **Brewer** | Serious Brewing |

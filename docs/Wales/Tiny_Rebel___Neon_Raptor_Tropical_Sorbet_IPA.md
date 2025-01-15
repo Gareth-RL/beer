@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Tiny Rebel / Neon Raptor Tropical Sorbet IPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: Tiny Rebel / Neon Raptor Tropical Sorbet IPA
+BeerID: 704363
+Brewer: Tiny Rebel
+City: Rogerstone, Newport
+Comments: Aroma has funky citrus. Pours hazy pale broken lace. Taste is medium sour.
+  Palate is medium bodied, sticky feel average carbonation and a bitter finish. Certainly
+  a refresher.
+Country: Wales
+Date: '"2/14/2019 4:29:51 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Gwent
+Style: IPA - Sour / Wild
+Taste: 7.0
 ---
 
 # Tiny Rebel / Neon Raptor Tropical Sorbet IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 704363 |
 | **Beer** | Tiny Rebel / Neon Raptor Tropical Sorbet IPA |
 | **Brewer** | Tiny Rebel |

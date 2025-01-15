@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Blond Brothers Sub Smoked 
+Appearance: 4.0
+Aroma: 6.0
+Beer: 'Blond Brothers Sub Smoked '
+BeerID: 1047477
+Brewer: Blond Brothers
+City: '"San Donà di Piave &#40;VE&#41;"'
+Comments: '"Bottle. Bought because I have never tried a Grodziskie beer, although
+  it''s a gamble to see if this Italian microbrewery can produce a good German/Polish
+  wheat beer.  Pours pale yellow with lace halo. Aroma has a little smoke and a hint
+  of green apple. Taste is medium sweet to lightly sour with the smokiness lurking
+  in the background and coming through in the finish (sub indeed). Palate is light
+  to medium bodied smooth, soft to average carbonation, and the lightly smoked finish.
+  Overall, it strikes me as a beer that can be enjoyed in a summer beer garden, and
+  given the strength, it is sessionable. I did not detect the Sicilian rock salt."'
+Country: Italy
+Date: '"9/12/2022 12:02:13 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Veneto
+Style: Grodziskie / Grätzer / Lichtenhainer
+Taste: 6.0
 ---
 
 # Blond Brothers Sub Smoked 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1047477 |
 | **Beer** | Blond Brothers Sub Smoked  |
 | **Brewer** | Blond Brothers |

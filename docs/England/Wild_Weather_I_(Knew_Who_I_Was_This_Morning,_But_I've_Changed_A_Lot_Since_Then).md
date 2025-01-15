@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Wild Weather I (Knew Who I Was This Morning, But I've Changed A Lot Since Then)
+Appearance: 4.0
+Aroma: 8.0
+Beer: '"Wild Weather I (Knew Who I Was This Morning, But I''ve Changed A Lot Since
+  Then)"'
+BeerID: 609577
+Brewer: Wild Weather Ales
+City: Aldermaston Stoke
+Comments: '"Tap at Beerheadz Nottingham. Pours dark with brown creamy tan top. Aroma
+  has coffee, chocolate, malts with an alcohol buzz. Taste is medium sweet to lightly
+  bitter. Palate is medium at most in terms of body &#40;my one serious misgiving&#41;,
+  but smooth if thin, carbonation soft, and a bitter finish. So a very good imperial
+  in terms of taste and smoothing out the burn of the abv, but a tad watery."'
+Country: England
+Date: '"8/30/2018 2:42:06 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Berkshire
+Style: Stout - Imperial
+Taste: 7.0
 ---
 
 # Wild Weather I (Knew Who I Was This Morning, But I've Changed A Lot Since Then)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 609577 |
 | **Beer** | Wild Weather I (Knew Who I Was This Morning, But I've Changed A Lot Since Then) |
 | **Brewer** | Wild Weather Ales |

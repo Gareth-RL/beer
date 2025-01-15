@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lab Culture No 001 Galilale Galilei
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lab Culture No 001 Galilale Galilei
+BeerID: 715342
+Brewer: Lab Culture Brewery
+City: Redditch
+Comments: Aroma resinous pine and fruit. Pours hazy brown golden body with thin lace
+  top. Taste is medium sweet to bitter with a definite rich caramel and resinous note.
+  Palate is medium bodied sticky feel average carbonation and a long finish. I wonder
+  if Galileo was a beer drinker at all or did he stick to il vino?
+Country: England
+Date: '"7/1/2019 3:47:00 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Worcestershire
+Style: IPA
+Taste: 7.0
 ---
 
 # Lab Culture No 001 Galilale Galilei
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 715342 |
 | **Beer** | Lab Culture No 001 Galilale Galilei |
 | **Brewer** | Lab Culture Brewery |

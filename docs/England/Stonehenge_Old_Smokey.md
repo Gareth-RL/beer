@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Stonehenge Old Smokey
+Appearance: 4.0
+Aroma: 5.0
+Beer: Stonehenge Old Smokey
+BeerID: 5740
+Brewer: Stonehenge Ales
+City: Salisbury
+Comments: Cask. Dark brown. Thick tan head. Earthy aroma. Pleasantl, swet caramel
+  malt foreground with one raisin notes within. No chocolate or coffee conspicuous
+  and the licorice is understated. Given the dark character and abv, the body is medium
+  rather than full, and more watery than resinous on the palate. If this is a January
+  -February seasonal ale, I may regret drinking it in late September on draft.
+Country: England
+Date: '"9/30/2015 1:30:36 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Wiltshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Stonehenge Old Smokey
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 5740 |
 | **Beer** | Stonehenge Old Smokey |
 | **Brewer** | Stonehenge Ales |

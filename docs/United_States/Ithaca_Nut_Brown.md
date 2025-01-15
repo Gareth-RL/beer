@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Ithaca Nut Brown
+Appearance: 4.0
+Aroma: 7.0
+Beer: Ithaca Nut Brown
+BeerID: 3512
+Brewer: Ithaca Beer Co.
+City: Ithaca
+Comments: Cask. Pours a light mahogany, more chestnut brown with thin lace top. Aroma
+  nutty malt. The taste has a decent mix of caramel and roasted malts . No chocolate
+  in the fore in my view but a definite growing sweetness with just a hint of bubble
+  gum at the end. Overall a solid brown ale offering.
+Country: United States
+Date: '"5/27/2016 12:26:56 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 3.0
+State: New York
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Ithaca Nut Brown
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 3512 |
 | **Beer** | Ithaca Nut Brown |
 | **Brewer** | Ithaca Beer Co. |

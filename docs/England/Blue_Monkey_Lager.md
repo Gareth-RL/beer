@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Blue Monkey Lager
+Appearance: 4.0
+Aroma: 5.0
+Beer: Blue Monkey Lager
+BeerID: 605706
+Brewer: Blue Monkey Brewery
+City: Nottingham
+Comments: '"The scent won''t sell it. Clear golden body with thin lace top. Grainy
+  sweet taste with souring rather than crisp finish. Palate is medium bodied oily
+  texture average carbonation and a sour finish. Not a great lager by some margin.
+  As to why? There''s a big student market in Nottingham 75k and an even bigger bottled
+  lager market. Let''s hope it and the gin cross-subsidize more interesting beers."'
+Country: England
+Date: '"2/7/2020 4:37:09 PM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Pale Lager - American
+Taste: 6.0
 ---
 
 # Blue Monkey Lager
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 605706 |
 | **Beer** | Blue Monkey Lager |
 | **Brewer** | Blue Monkey Brewery |

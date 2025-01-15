@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Camerons Brown Dog
+Appearance: 4.0
+Aroma: 6.0
+Beer: Camerons Brown Dog
+BeerID: 609381
+Brewer: Camerons Brewery (UK)
+City: Hartlepool
+Comments: '"Cask at the Head of Steam Nottingham. Pours clear brown chestnut with
+  off white lace top. Aroma has slightly plummy fruits and biscuit malts. Taste is
+  medium sweet to bitter with a finish akin to instant coffee bitterness. Palate is
+  medium bodied, oily texture, average carbonation, and a bitter finish of sorts.
+  There are too few great brown ales&#045;&#045;still."'
+Country: England
+Date: '"5/20/2018 2:41:16 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Durham
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Camerons Brown Dog
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 609381 |
 | **Beer** | Camerons Brown Dog |
 | **Brewer** | Camerons Brewery (UK) |

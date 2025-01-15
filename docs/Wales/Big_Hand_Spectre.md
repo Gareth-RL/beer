@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Big Hand Spectre
+Appearance: 4.0
+Aroma: 7.0
+Beer: Big Hand Spectre
+BeerID: 488089
+Brewer: Big Hand Brewing Co. (Wrexham)
+City: Wrexham
+Comments: Pours dark brown almost black with tan bubbly top. Aroma has caramelized
+  malt and coffee, although I have tasted stronger; more filter than espresso. Taste
+  is medium sweet with a lightly sour and bitter finish; maybe even a little saltiness.
+  Palate is medium body, oily feel, flat, with a bitter, finish. Overall a nice one
+  to start the Nottingham beer festival. 26/02/19 second sipping. Cask. Aroma is stronger
+  but otherwise the festival pour was a good guide.
+Country: Wales
+Date: '"10/11/2017 1:10:27 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Clwyd
+Style: Stout - Dry / Irish
+Taste: 7.0
 ---
 
 # Big Hand Spectre
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 488089 |
 | **Beer** | Big Hand Spectre |
 | **Brewer** | Big Hand Brewing Co. (Wrexham) |

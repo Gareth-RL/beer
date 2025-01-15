@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Great Oakley Abbey Stout
+Appearance: 5.0
+Aroma: 7.0
+Beer: Great Oakley Abbey Stout
+BeerID: 104220
+Brewer: Great Oakley Brewery
+City: Towcester
+Comments: '"Cask at The Overdraught Nottingham. Pours rich black brown body and full
+  creamy tan head, a model stout in looks. Aroma is predictably malty with some licorice
+  and charcoal notes. Taste is largely unvarying bitterness with perhaps a hint of
+  berry in the fore and ash in the finish. Palate is medium bodied sticky rather than
+  creamy, average carbonation, and a bitter finish. So flawed in terms of smoothness
+  in the swallow. Nonetheless it&#39;s far better than I expected considering how
+  many full thin stouts there are. Towcester is giving Dublin a run for their money."'
+Country: England
+Date: '"5/30/2018 3:05:29 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Northamptonshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Great Oakley Abbey Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 104220 |
 | **Beer** | Great Oakley Abbey Stout |
 | **Brewer** | Great Oakley Brewery |

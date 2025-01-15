@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Marble Damage Plan
+Appearance: 4.0
+Aroma: 8.0
+Beer: Marble Damage Plan
+BeerID: 397184
+Brewer: Marble Beers
+City: Salford
+Comments: Tap. Aroma has a tropical medley with pineapple and mango evident pours
+  golden with white lacing. Taste is richly malted but with a fruity accompaniment.
+  Quite full bodied for a simple IPA. Soft carbonation and a sour finish. I liked
+  it even it would see me under the table after a couple of pints.
+Country: England
+Date: '"6/15/2017 11:36:19 AM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 3.0
+State: Greater Manchester
+Style: IPA
+Taste: 7.0
 ---
 
 # Marble Damage Plan
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 397184 |
 | **Beer** | Marble Damage Plan |
 | **Brewer** | Marble Beers |

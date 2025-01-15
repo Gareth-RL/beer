@@ -1,12 +1,28 @@
 ---
-layout: default
-title: North Brewing Co Full Fathom 5
+Appearance: 4.0
+Aroma: 7.0
+Beer: North Brewing Co Full Fathom 5
+BeerID: 414493
+Brewer: North Brewing Co (England)
+City: Leeds
+Comments: '"Poured black body tan lace. Aroma of coffee grounds and roasted malts.
+  Taste is medium sweet to bitter with some coconut at the front but far more coffee
+  right through to the bitter finish. Light to medium bodied slightly sticky texture
+  average to soft carbonation and a bitter finish. And it''s back up to 6.5%."'
+Country: England
+Date: '"9/15/2023 1:36:35 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: West Yorkshire
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # North Brewing Co Full Fathom 5
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 414493 |
 | **Beer** | North Brewing Co Full Fathom 5 |
 | **Brewer** | North Brewing Co (England) |

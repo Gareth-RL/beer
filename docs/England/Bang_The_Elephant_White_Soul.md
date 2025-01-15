@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Bang The Elephant White Soul
+Appearance: 4.0
+Aroma: 6.0
+Beer: Bang The Elephant White Soul
+BeerID: 885854
+Brewer: Bang The Elephant Brewing
+City: Langley Mill
+Comments: Poured hazy copper body with white lace top. Aroma is strawberry vanilla
+  ice cream and obviously not something found in nature. Taste is medium sweet to
+  bitter with a chemical syrupy finish. The more I drank the less I liked it.  Palate
+  medium bodied soft carbonation but the aftertaste is hard to shake.  More pastry
+  IPA.
+Country: England
+Date: '"12/6/2021 4:41:18 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: Stout - Flavored / Pastry
+Taste: 6.0
 ---
 
 # Bang The Elephant White Soul
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 885854 |
 | **Beer** | Bang The Elephant White Soul |
 | **Brewer** | Bang The Elephant Brewing |

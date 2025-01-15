@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Lexington Brewing Kentucky Bourbon Barrel Ale
+Appearance: 4.0
+Aroma: 7.0
+Beer: Lexington Brewing Kentucky Bourbon Barrel Ale
+BeerID: 38441
+Brewer: Lexington Brewing & Distilling Co. (Alltech)
+City: Lexington
+Comments: Tap. Aroma is firmly Bourbon but below that lurks caramel malts and vanilla.
+  Given that mine was emphatically brown I am bemused by the term golden in other
+  reviews as my wedding band will never be this red. A circle of white bubbles topped
+  the ale. Taste is toffee with an alcoholic kick. If salted caramel or Werther’s
+  Original ever lay in a barrel in Kentucky then their popularity might sour. And
+  children might stumble. Carbonation soft Body full. Palate loaded. No horse in this
+  race.
+Country: United States
+Date: '"4/26/2017 6:18:51 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Kentucky
+Style: Strong Ale - American
+Taste: 7.0
 ---
 
 # Lexington Brewing Kentucky Bourbon Barrel Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 38441 |
 | **Beer** | Lexington Brewing Kentucky Bourbon Barrel Ale |
 | **Brewer** | Lexington Brewing & Distilling Co. (Alltech) |

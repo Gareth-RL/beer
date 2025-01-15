@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Thornbridge Saint Petersburg
+Appearance: 4.0
+Aroma: 7.0
+Beer: Thornbridge Saint Petersburg
+BeerID: 55938
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: tap at the Derby Winter Beer festival. A bold way to start given the abv
+  but it had just won best stout in the festival. Caramel and molasses aroma. Pours
+  dark mahogany with broken lace. Taste has licorice notes and chocolate in the back
+  ground in a satisfying malty stout. One can see why it is a winner
+Country: England
+Date: '"2/16/2017 1:45:00 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Stout - Imperial
+Taste: 7.0
 ---
 
 # Thornbridge Saint Petersburg
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 55938 |
 | **Beer** | Thornbridge Saint Petersburg |
 | **Brewer** | Thornbridge Brewery |

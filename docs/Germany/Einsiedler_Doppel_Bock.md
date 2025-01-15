@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Einsiedler Doppel Bock
+Appearance: 4.0
+Aroma: 7.0
+Beer: Einsiedler Doppel Bock
+BeerID: 31741
+Brewer: Einsiedler Brauhaus
+City: Chemnitz
+Comments: '"Poured dark brown body tan foam lace top. Aroma of dark malt loaf and
+  raisins. Medium sweet to bitter with some treacle toffee in the foreground and a
+  hint of alcohol in the finish but no burn. Medium bodied smooth texture and a slightly
+  spiced bitter finish. A tasty doppelbock and it''s a shame that it is 7.8% and 500ml;
+  these days I only manage thirds."'
+Country: Germany
+Date: '"3/9/2024 4:14:10 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Saxony
+Style: Bock - Doppelbock
+Taste: 7.0
 ---
 
 # Einsiedler Doppel Bock
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 31741 |
 | **Beer** | Einsiedler Doppel Bock |
 | **Brewer** | Einsiedler Brauhaus |

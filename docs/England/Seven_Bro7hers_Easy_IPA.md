@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Seven Bro7hers Easy IPA
+Appearance: 3.0
+Aroma: 8.0
+Beer: Seven Bro7hers Easy IPA
+BeerID: 848406
+Brewer: Seven Bro7hers Brewery
+City: Salford
+Comments: Rich fruity aroma with pineapple satsuma and melon notes. Pours hazy golden
+  body with loose white lacing. Taste is medium sweet with a smooth transition to
+  a pleasant lasting bitter finish. Medium bodied, average carbonation[for can], smooth
+  and a long finish. I can certainly imagine a session of this, although sadly not
+  any time soon!
+Country: England
+Date: '"10/30/2020 3:48:34 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Greater Manchester
+Style: ISA - Session IPA
+Taste: 8.0
 ---
 
 # Seven Bro7hers Easy IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 848406 |
 | **Beer** | Seven Bro7hers Easy IPA |
 | **Brewer** | Seven Bro7hers Brewery |

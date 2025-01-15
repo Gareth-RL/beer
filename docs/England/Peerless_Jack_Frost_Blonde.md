@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Peerless Jack Frost Blonde
+Appearance: 4.0
+Aroma: 6.0
+Beer: Peerless Jack Frost Blonde
+BeerID: 162631
+Brewer: Peerless Brewing Co.
+City: Birkenhead
+Comments: Poured clear golden body thin lace top.  Aroma bread malt and herbal hop.
+  Medium sweet to bitter lemon and light spice. Thin watery texture average carbonation
+  and a bitter finish. Apart from the spice, chilly.
+Country: England
+Date: '"11/20/2024 2:48:06 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Merseyside
+Style: Flavored - Other
+Taste: 6.0
 ---
 
 # Peerless Jack Frost Blonde
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 162631 |
 | **Beer** | Peerless Jack Frost Blonde |
 | **Brewer** | Peerless Brewing Co. |

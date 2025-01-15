@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lune Brew LB401 Stout - 8 Malt
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lune Brew LB401 Stout - 8 Malt
+BeerID: 1153318
+Brewer: Lune Brew Co.
+City: Lancaster
+Comments: '"Poured cola brown body thin lace top. Aroma of roasted malts coffee notes.
+  Medium sweet to bitter with more of the same. Thin, watery texture average carbonation
+  and a bitter finish. Decent enough.  22/05/2024 second sipping confirmed the coffee
+  and the score. @Good Fellow George "'
+Country: England
+Date: '"3/6/2024 7:18:24 PM"'
+MyScore: 3.3
+Overall: 14.0
+Palate: 3.0
+State: Lancashire
+Style: Stout
+Taste: 6.0
 ---
 
 # Lune Brew LB401 Stout - 8 Malt
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1153318 |
 | **Beer** | Lune Brew LB401 Stout - 8 Malt |
 | **Brewer** | Lune Brew Co. |

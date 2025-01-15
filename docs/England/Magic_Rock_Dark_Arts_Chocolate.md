@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Magic Rock Dark Arts Chocolate
+Appearance: 4.0
+Aroma: 8.0
+Beer: Magic Rock Dark Arts Chocolate
+BeerID: 512530
+Brewer: Magic Rock Brewing (Odyssey Inns)
+City: Huddersfield
+Comments: '"Tap. Wow&#033; Aroma coffee. Chocolate. Caramel malts even a hint of whiskey.
+  Pours black with thin tan top.. Taste is richly chocolate imbued but settles to
+  a medium sweetness Medium to full bodied. Soft to nil carbonation. Finish is somewhere
+  between oily and creamy on the palate. My colleague love it and I was impressed."'
+Country: England
+Date: '"6/15/2017 12:18:32 PM"'
+MyScore: 4.2
+Overall: 18.0
+Palate: 4.0
+State: West Yorkshire
+Style: Stout - Flavored / Pastry
+Taste: 8.0
 ---
 
 # Magic Rock Dark Arts Chocolate
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 512530 |
 | **Beer** | Magic Rock Dark Arts Chocolate |
 | **Brewer** | Magic Rock Brewing (Odyssey Inns) |

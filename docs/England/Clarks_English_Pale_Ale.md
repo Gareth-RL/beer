@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Clarks English Pale Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Clarks English Pale Ale
+BeerID: 551329
+Brewer: Westgate Brewery (prev Clarks Brewery)
+City: Wakefield
+Comments: Barrel pour at Great Central Railway beer festival. Amber gold body with
+  no lace just a ring of bubbles. Aroma is roasted malts. A light pine or herbal note
+  perhaps but the pale malts are to the fore. Taste is medium bitter and medium sour
+  with a light fleeting sweetness in there .somewhere . Palate is medium bodied, oily
+  feel, flat, long finish. The marquee is swaying in the wind - Lord knows how it
+  will cope with a train passing.
+Country: England
+Date: '"9/14/2017 8:20:35 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: West Yorkshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Clarks English Pale Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 551329 |
 | **Beer** | Clarks English Pale Ale |
 | **Brewer** | Westgate Brewery (prev Clarks Brewery) |

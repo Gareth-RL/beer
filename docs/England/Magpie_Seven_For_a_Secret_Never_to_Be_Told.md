@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Magpie Seven For a Secret Never to Be Told
+Appearance: 4.0
+Aroma: 6.0
+Beer: Magpie Seven For a Secret Never to Be Told
+BeerID: 440931
+Brewer: Magpie Brewery
+City: Nottingham
+Comments: '"Aroma of pale malt and hops fruits. Pours pale amber with thin lace. Taste
+  is lightly sweet to medium bitter. Some caramel malts. Texture is medium bodied
+  watery to oily texture, soft to average carbonation and a bitter finish. Surprised
+  I have never reviewed it before and I will be surprised to do so again. Doesn''t
+  deliver as a 5% should."'
+Country: England
+Date: '"8/15/2019 4:56:16 PM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Magpie Seven For a Secret Never to Be Told
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 440931 |
 | **Beer** | Magpie Seven For a Secret Never to Be Told |
 | **Brewer** | Magpie Brewery |

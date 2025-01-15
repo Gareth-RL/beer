@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Bartrams Cherry Stout
+Appearance: 3.0
+Aroma: 6.0
+Beer: Bartrams Cherry Stout
+BeerID: 39627
+Brewer: Bartrams Brewery
+City: Rougham
+Comments: Gravity. Pours dark hazy because unfined. Some mildly chocolate nutty notes
+  but don’t assume Belgian style cherriness. Taste is similarly more nut than fruit
+Country: England
+Date: '"10/13/2016 12:59:51 PM"'
+MyScore: 3.1
+Overall: 13.0
+Palate: 3.0
+State: Suffolk
+Style: Stout - Flavored / Pastry
+Taste: 6.0
 ---
 
 # Bartrams Cherry Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 39627 |
 | **Beer** | Bartrams Cherry Stout |
 | **Brewer** | Bartrams Brewery |

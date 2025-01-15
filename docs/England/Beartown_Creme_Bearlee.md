@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Beartown Creme Bearlee
+Appearance: 4.0
+Aroma: 7.0
+Beer: Beartown Creme Bearlee
+BeerID: 576489
+Brewer: Beartown Brewery
+City: Congleton
+Comments: Aroma has coffee malts and vanilla. Pours dark body and creamy tan lace
+  top. Taste is medium to full sweet with bitter finish. Palate is medium bodied sticky
+  texture average carbonation and a long bitter finish. Very good sweet cask stout.
+  17/11/19 second sipping still sweet toffee dominant.
+Country: England
+Date: '"3/8/2019 5:32:41 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Cheshire
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Beartown Creme Bearlee
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 576489 |
 | **Beer** | Beartown Creme Bearlee |
 | **Brewer** | Beartown Brewery |

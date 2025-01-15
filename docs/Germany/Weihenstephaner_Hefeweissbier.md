@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Weihenstephaner Hefeweissbier
+Appearance: 3.0
+Aroma: 7.0
+Beer: Weihenstephaner Hefeweissbier
+BeerID: 1156
+Brewer: Bayerische Staatsbrauerei Weihenstephan
+City: Freising
+Comments: '"Tap at Brew Dog Nottingham. Pours golden with white lacing. Aroma has
+  the promised banana and vanilla for me. So yeast ripens a banana. Taste is medium
+  sweet to lightly nothing if lightly bitter. Palate is medium bodied, slick texture,
+  average carbonation, and a soft sticky finish of no great consequence. Dimly  I
+  recall this tasting better on hit days in the American South. On cold evenings in
+  the east Midlands it''s not the same. 22/02/23 the same as before 30/09/24 ditto"'
+Country: Germany
+Date: '"1/24/2018 6:59:40 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Bavaria
+Style: Weissbier - Hefeweizen
+Taste: 7.0
 ---
 
 # Weihenstephaner Hefeweissbier
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1156 |
 | **Beer** | Weihenstephaner Hefeweissbier |
 | **Brewer** | Bayerische Staatsbrauerei Weihenstephan |

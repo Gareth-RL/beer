@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Mighty Oak The Old Man And The Sea
+Appearance: 4.0
+Aroma: 6.0
+Beer: Mighty Oak The Old Man And The Sea
+BeerID: 792053
+Brewer: Mighty Oak Brewing Co.
+City: Maldon
+Comments: Poured dark brown with thin tan lace. Lightly scented some dark roasted
+  malt evident. Taste is lightly sweet to medium bitter with both chocolate and coffee
+  malt working to enhance the latter. Palate is medium to light bodied, smooth, average
+  carbonation, with maybe a little ash in the finish. Overall, a well-made stout although
+  not as creamy or as rich as some available.
+Country: England
+Date: '"2/18/2022 4:43:59 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Essex
+Style: Stout
+Taste: 7.0
 ---
 
 # Mighty Oak The Old Man And The Sea
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 792053 |
 | **Beer** | Mighty Oak The Old Man And The Sea |
 | **Brewer** | Mighty Oak Brewing Co. |

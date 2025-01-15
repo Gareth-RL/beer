@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Torrside Sentinel
+Appearance: 4.0
+Aroma: 7.0
+Beer: Torrside Sentinel
+BeerID: 870134
+Brewer: Torrside Brewing
+City: New Mills
+Comments: Poured dark reddish chestnut body with tan foam lacing. Pungent aroma of
+  bread malts and bitter fruity hops. Taste is lightly sweet, medium bitter with a
+  souring tang. Fairly described as a hoppy porter as the hop bitterness wins out
+  over the roasted malts. Palate is medium bodied, carbonation is average, smooth
+  texture but a definite dry hop finish. A good thirst quenching porter from a brewery
+  I hope to drink more of.
+Country: England
+Date: '"10/29/2020 12:50:13 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter
+Taste: 8.0
 ---
 
 # Torrside Sentinel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 870134 |
 | **Beer** | Torrside Sentinel |
 | **Brewer** | Torrside Brewing |

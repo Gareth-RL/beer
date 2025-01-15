@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Amundsen / Wild Beer Wild Beast
+Appearance: 4.0
+Aroma: 6.0
+Beer: Amundsen / Wild Beer Wild Beast
+BeerID: 524710
+Brewer: Amundsen Bryggeri
+City: Oslo
+Comments: Tap at the Keans Head. Pours raspberry rosé with thin lace. Aroma has floral,
+  earthy, qualities with musky fruit. Taste is medium to light sweet to sour. Palate
+  light to medium body, soft to average carbonation, slick feel, sour finish. I had
+  no expectations and they were met.
+Country: Norway
+Date: '"11/11/2017 9:16:26 AM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: Oslo
+Style: Saison / Farmhouse - Flavored
+Taste: 7.0
 ---
 
 # Amundsen / Wild Beer Wild Beast
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 524710 |
 | **Beer** | Amundsen / Wild Beer Wild Beast |
 | **Brewer** | Amundsen Bryggeri |

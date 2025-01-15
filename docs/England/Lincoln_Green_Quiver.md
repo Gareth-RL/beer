@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Quiver
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lincoln Green Quiver
+BeerID: 418159
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: Cask. Pours golden with white lacing. A little malt in the nose as well
+  hop fruit. Taste wise it has neither the citrus nor crisp bitter edge of a pale
+  nor the roasted malts of a dark mild. But it’s a soft easy drinking if bland hybrid.
+  Nit sure if it fills a need.
+Country: England
+Date: '"5/14/2016 6:40:20 AM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Lincoln Green Quiver
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 418159 |
 | **Beer** | Lincoln Green Quiver |
 | **Brewer** | Lincoln Green Brewing Co. |

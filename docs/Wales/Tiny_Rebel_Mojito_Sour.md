@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Tiny Rebel Mojito Sour
+Appearance: 4.0
+Aroma: 6.0
+Beer: Tiny Rebel Mojito Sour
+BeerID: 530214
+Brewer: Tiny Rebel
+City: Rogerstone, Newport
+Comments: Cask. Aroma herbs, hay but the scent is in the swallow. Pours pale gold
+  white lace. Taste medium sweetness, initially but ultimately medium to heavily sour,.
+  Refreshingly there are hints of mint and lime.
+Country: Wales
+Date: '"7/15/2017 8:35:56 AM"'
+MyScore: 3.6
+Overall: 15.0
+Palate: 4.0
+State: Gwent
+Style: Sour / Wild Beer - Flavored
+Taste: 7.0
 ---
 
 # Tiny Rebel Mojito Sour
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 530214 |
 | **Beer** | Tiny Rebel Mojito Sour |
 | **Brewer** | Tiny Rebel |

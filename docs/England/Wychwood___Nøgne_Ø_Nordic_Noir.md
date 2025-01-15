@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Wychwood / Nøgne Ø Nordic Noir
+Appearance: 3.0
+Aroma: 6.0
+Beer: Wychwood / Nøgne Ø Nordic Noir
+BeerID: 359944
+Brewer: '"Wychwood Brewery (Carlsberg Marston&#39;s Brewing Co.)"'
+City: Witney
+Comments: Cask. Aroma with hints of coffee and chocolate. Pours dark body and thin
+  tan cream head. Certainly a smooth taste with some licorice sweetness but no great
+  body. It needs some caramel or toasted malts to bolster what is there.What malts
+  there are are too subtle for their own good. A bit disappointing.
+Country: England
+Date: '"10/18/2015 11:19:11 AM"'
+MyScore: 2.9
+Overall: 12.0
+Palate: 3.0
+State: Oxfordshire
+Style: Stout - Milk / Sweet
+Taste: 5.0
 ---
 
 # Wychwood / Nøgne Ø Nordic Noir
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 359944 |
 | **Beer** | Wychwood / Nøgne Ø Nordic Noir |
 | **Brewer** | Wychwood Brewery (Carlsberg Marston&#39;s Brewing Co.) |

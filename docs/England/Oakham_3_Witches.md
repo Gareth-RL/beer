@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Oakham 3 Witches
+Appearance: 4.0
+Aroma: 6.0
+Beer: Oakham 3 Witches
+BeerID: 53720
+Brewer: Oakham Ales
+City: Peterborough
+Comments: '"Cask at the Falcon. The liveliest Halloween pub&#40;but barely a dozen
+  souls&#41; . Aroma has toast, grass, resin, notes. It pours golden with white top.
+  Like all Oakham ale hoppy. Slightly spicy on the tongue but predominantly sweet
+  to bitter with the spicy twist  palate no more than medium, slick feel, soft carbonation  spicy
+  finish. I suspect that the Citra sells better. Bring on the 4 warlocks."'
+Country: England
+Date: '"10/31/2017 1:54:35 PM"'
+MyScore: 3.3
+Overall: 14.0
+Palate: 3.0
+State: Cambridgeshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Oakham 3 Witches
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 53720 |
 | **Beer** | Oakham 3 Witches |
 | **Brewer** | Oakham Ales |

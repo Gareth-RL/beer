@@ -1,12 +1,31 @@
 ---
-layout: default
-title: De Halve Maan Brugse Zot
+Appearance: 4.0
+Aroma: 6.0
+Beer: De Halve Maan Brugse Zot
+BeerID: 48109
+Brewer: Huisbrouwerij De Halve Maan
+City: Brugge
+Comments: '"Poured amber body with white lace. Aroma has hop fruit and yeast esters.
+  Taste is medium sweet to bitter with some spice notes. Texture is medium bodied,
+  oily feel offset by lively carbonation. Bitter finish. Beers are like friends; some
+  you get along with from the start, some grow on you, some you wonder why you ever
+  got to know them. This one will remain an acquaintance. Too gassy for me and the
+  yeast probably doesn''t help on that score. 11/27/23 two years after sampling in
+  Italy and only resipped because my original Belgian blonde was dodgy. Still fizzy."'
+Country: Belgium
+Date: '"3/7/2021 12:02:05 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: West Flanders
+Style: Belgian Ale - Pale / Golden / Single
+Taste: 6.0
 ---
 
 # De Halve Maan Brugse Zot
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 48109 |
 | **Beer** | De Halve Maan Brugse Zot |
 | **Brewer** | Huisbrouwerij De Halve Maan |

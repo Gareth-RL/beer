@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Roosters Rakau Pale Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Roosters Rakau Pale Ale
+BeerID: 408832
+Brewer: Roosters Brewing
+City: Harrogate
+Comments: Pours straw gold with citrus nose. Taste is medium sweet to bitter with
+  grapefruit note. Palate is medium bodied oily texture average carbonation and dry
+  finish.
+Country: England
+Date: '"10/19/2019 3:58:30 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 4.0
+State: North Yorkshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Roosters Rakau Pale Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 408832 |
 | **Beer** | Roosters Rakau Pale Ale |
 | **Brewer** | Roosters Brewing |

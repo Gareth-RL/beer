@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Lincoln Green Probably
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lincoln Green Probably
+BeerID: 781330
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: Grassy floral hops and pale malt. Poured golden body with white lace. Taste
+  is medium sweet to bitter. Palate medium bodied oily texture average carbonation
+  smooth finish. Needed to be drier and crisper to own the Pilsener name.
+Country: England
+Date: '"10/30/2019 5:55:25 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Pilsener / Pils / Pilsner
+Taste: 6.0
 ---
 
 # Lincoln Green Probably
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 781330 |
 | **Beer** | Lincoln Green Probably |
 | **Brewer** | Lincoln Green Brewing Co. |

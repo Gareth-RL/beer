@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Wiper and True KaleiDIPA
+Appearance: 4.0
+Aroma: 8.0
+Beer: Wiper and True KaleiDIPA
+BeerID: 566312
+Brewer: Wiper and True Brewing Co.
+City: Bristol
+Comments: '"Tap at the Lincolnshire Poacher  &#40;to my surprise.&#41;. Pours cloudy
+  golden scummy top. Aroma has mango and peach, even a hint of papaya and guava for
+  those who care. Taste is medium sweet to lightly sour. Palate is medium bodied,
+  sticky, full feel, average carbonation, and a.long finish. Clearly it can induce
+  euphoria in Somerset, but at the prices charged for a third in Nottingham, even
+  an elixir needs to be special."'
+Country: England
+Date: '"1/11/2018 9:10:33 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Gloucestershire
+Style: IIPA DIPA - Imperial / Double IPA
+Taste: 7.0
 ---
 
 # Wiper and True KaleiDIPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 566312 |
 | **Beer** | Wiper and True KaleiDIPA |
 | **Brewer** | Wiper and True Brewing Co. |

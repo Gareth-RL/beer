@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Neon Raptor Barnum Brown
+Appearance: 3.0
+Aroma: 6.0
+Beer: Neon Raptor Barnum Brown
+BeerID: 987355
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: '"Poured dark brown amber body with murky lacing. Aroma is hoppy rather
+  than malty Simcoe and Centennial evident. Taste is medium sour heading to bitter
+  with grapefruit pith playing it''s part. Palate is light to medium bodied average
+  carbonation drying mouth feel. Overall like no brown ale I ever had before!"'
+Country: England
+Date: '"1/23/2022 4:35:54 PM"'
+MyScore: 3.4
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Brown Ale
+Taste: 7.0
 ---
 
 # Neon Raptor Barnum Brown
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 987355 |
 | **Beer** | Neon Raptor Barnum Brown |
 | **Brewer** | Neon Raptor Brewing Co. |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Test Dun Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Test Dun Stout
+BeerID: 663001
+Brewer: Test Brewing
+City: Broughton
+Comments: '"Nottingham Beer Festival 2018. Aroma is dark malt with strong chocolate
+  notes. Pours a dark body and off white lace. The taste is medium sweet to bitter.
+  Palate is medium bodied oily texture soft carbonation and a light bitter finish.
+  Overall a chocolate porter with definite chocolate. yum&#033;"'
+Country: England
+Date: '"10/18/2018 5:10:58 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Hampshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Test Dun Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 663001 |
 | **Beer** | Test Dun Stout |
 | **Brewer** | Test Brewing |

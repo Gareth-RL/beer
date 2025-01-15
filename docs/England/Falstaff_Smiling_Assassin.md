@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Falstaff Smiling Assassin
+Appearance: 4.0
+Aroma: 5.0
+Beer: Falstaff Smiling Assassin
+BeerID: 40882
+Brewer: Falstaff Brewery
+City: Derby
+Comments: '"Cask. Aroma is pretty nondeScr&#105;pt. Earthy malty sweaty but not greatly
+  appealin. Amber body thin lacing. Taste is sour with soft carbonation. I left it
+  unfinished."'
+Country: England
+Date: '"2/21/2016 11:28:13 AM"'
+MyScore: 2.3
+Overall: 5.0
+Palate: 3.0
+State: Derbyshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Falstaff Smiling Assassin
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 40882 |
 | **Beer** | Falstaff Smiling Assassin |
 | **Brewer** | Falstaff Brewery |

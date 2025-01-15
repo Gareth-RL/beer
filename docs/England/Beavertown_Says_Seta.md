@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Beavertown Says Seta
+Appearance: 3.0
+Aroma: 6.0
+Beer: Beavertown Says Seta
+BeerID: 575330
+Brewer: Beavertown Brewery (Heineken)
+City: Tottenham Hale
+Comments: Tap at Brew Dog. Pours cloudy golden with rapidly fading lacing. Aroma is
+  lactic and fruity. Taste is granny smith apples smeared with yoghurt, which might
+  surprise the average Berliner. More a sour. Palate is light to medium bodied, slick
+  feel, average carbonation, and a  sour languid finish. It will not knowingly cross
+  my lips again.
+Country: England
+Date: '"12/12/2017 11:57:40 AM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Greater London
+Style: Berliner Weisse - Flavored / Catharina Sour
+Taste: 6.0
 ---
 
 # Beavertown Says Seta
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 575330 |
 | **Beer** | Beavertown Says Seta |
 | **Brewer** | Beavertown Brewery (Heineken) |

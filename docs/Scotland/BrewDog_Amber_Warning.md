@@ -1,12 +1,29 @@
 ---
-layout: default
-title: BrewDog Amber Warning
+Appearance: 4.0
+Aroma: 6.0
+Beer: BrewDog Amber Warning
+BeerID: 1121734
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: '"A sign of the times. The first time I have had to enter a Brewdog beer
+  on Ratebeer. Pours amber body thin lace top. Aroma toffee malt. Taste is medium
+  sweet to lightly bitter plenty of sweet malt before the transition to lightly bitter
+  finish. Thin to medium bodied smooth texture average carbonation and a bitter finish.
+  It won''t displace outstanding Red ales but it will serve."'
+Country: Scotland
+Date: '"6/30/2023 4:33:04 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Grampian
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # BrewDog Amber Warning
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1121734 |
 | **Beer** | BrewDog Amber Warning |
 | **Brewer** | BrewDog |

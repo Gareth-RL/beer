@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Salopian Lux Nova
+Appearance: 4.0
+Aroma: 6.0
+Beer: Salopian Lux Nova
+BeerID: 580806
+Brewer: Salopian Brewery
+City: Hadnall
+Comments: '"Pours pale gold with generous white foam top and lacing. Aroma is lightly
+  citric, pine and spice notes, although I couldn&#39;t distinguish the coriander
+  or clove. Taste is medium sweet to bitter with a  light wheat sweet quality dominant.
+  Palate is light to medium bodied, slick texture, average carbonation, and a light
+  bitter finish. Maybe the lux in the title is a pun... Light and refreshing "'
+Country: England
+Date: '"1/30/2018 6:25:00 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Shropshire
+Style: Wheat Ale
+Taste: 7.0
 ---
 
 # Salopian Lux Nova
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 580806 |
 | **Beer** | Salopian Lux Nova |
 | **Brewer** | Salopian Brewery |

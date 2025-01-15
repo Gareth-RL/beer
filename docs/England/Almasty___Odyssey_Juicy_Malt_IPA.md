@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Almasty / Odyssey Juicy Malt IPA
+Appearance: 4.0
+Aroma: 7.0
+Beer: Almasty / Odyssey Juicy Malt IPA
+BeerID: 572540
+Brewer: Almasty Brewing Co.
+City: Shiremoor
+Comments: '"Cask. At Kean&#39; Head. Pours amber with off white top. Aroma has cereal,
+  hay, bread, grass, spruce, leaves, woody, notes. Taste is medium bitter to sour
+  with a back note of light sweetness. Palate is medium bodied, slick texture, soft
+  to average carbonation, and a bitter finish. The name sums it: Juicy malt, lugubrious
+  rather than crisp."'
+Country: England
+Date: '"11/30/2017 12:24:02 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 3.0
+State: Tyne &amp; Wear
+Style: IPA
+Taste: 7.0
 ---
 
 # Almasty / Odyssey Juicy Malt IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 572540 |
 | **Beer** | Almasty / Odyssey Juicy Malt IPA |
 | **Brewer** | Almasty Brewing Co. |

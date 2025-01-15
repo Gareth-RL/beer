@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Milestone St. Georges Legend
+Appearance: .nan
+Aroma: .nan
+Beer: Milestone St. Georges Legend
+BeerID: 72341
+Brewer: Milestone Brewing
+City: Newark
+Comments: ' '
+Country: England
+Date: '"5/12/2017 8:53:52 AM"'
+MyScore: 1.0
+Overall: .nan
+Palate: .nan
+State: Nottinghamshire
+Style: Mild Ale
+Taste: .nan
 ---
 
 # Milestone St. Georges Legend
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 72341 |
 | **Beer** | Milestone St. Georges Legend |
 | **Brewer** | Milestone Brewing |

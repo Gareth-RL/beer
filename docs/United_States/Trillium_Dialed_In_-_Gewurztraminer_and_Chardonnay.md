@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Trillium Dialed In - Gewurztraminer and Chardonnay
+Appearance: 4.0
+Aroma: 7.0
+Beer: Trillium Dialed In - Gewurztraminer and Chardonnay
+BeerID: 423348
+Brewer: Trillium Brewing Company
+City: Boston
+Comments: Tap at Bay 34. Pours like orange juice with a lace halo. Aroma has citrus
+  hop with maybe a muted grape note. Taste is medium sweet or more with a light sour
+  finish. Palate is medium bodied, smooth feel which is impressive, average carbonation
+  and a sour finish. Overall I can sense the skill of moving up the abv as smoothly
+  as a Ferrari accelerates but it still is too sweet and one-dimensional for me.
+Country: United States
+Date: '"7/10/2018 1:57:54 AM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Massachusetts
+Style: IPA - Flavored
+Taste: 7.0
 ---
 
 # Trillium Dialed In - Gewurztraminer and Chardonnay
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 423348 |
 | **Beer** | Trillium Dialed In - Gewurztraminer and Chardonnay |
 | **Brewer** | Trillium Brewing Company |

@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Matlock Wolds Farm 100CC
+Appearance: 4.0
+Aroma: 7.0
+Beer: Matlock Wolds Farm 100CC
+BeerID: 364542
+Brewer: Matlock Wolds Farm Brewery
+City: Matlock
+Comments: Bottle delivered by Adventure Beer Company which seems to be offering a
+  wider range of east Midlands ales. Pours clear golden body with full white foam
+  lace top. Aroma has some bread malts but the citrus hops are there too. This is
+  more pronounced in the taste with grapefruit and orange evident. Hence the initial
+  sweetness is rapidly supplanted by a growing hoppy bitterness. I am somewhat wary
+  when a local cask producer ventures towards the American styles, but taken as a
+  golden ale as much as an American pale, this is very drinkable. If only it were
+  possible to have a sociable session --ideally with some sunshine!
+Country: England
+Date: '"11/12/2020 12:48:07 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Matlock Wolds Farm 100CC
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 364542 |
 | **Beer** | Matlock Wolds Farm 100CC |
 | **Brewer** | Matlock Wolds Farm Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Ghost Grendel
+Appearance: 4.0
+Aroma: 7.0
+Beer: Ghost Grendel
+BeerID: 498997
+Brewer: Ghost Brew Co.
+City: Baildon
+Comments: Tap. Pours hazy orange gold with white lacing. Aroma is cereal, bread but
+  a sip brings banana that will not let you go. Taste also has spice but is sweet
+  to lightly sour beneath the definite spicy note. Palate is medium bodied sticky,
+  soft carbonation, long finish. I recommend it as a beer if not as a Kristallweizen.
+Country: England
+Date: '"10/25/2017 1:13:46 PM"'
+MyScore: 3.6
+Overall: 15.0
+Palate: 3.0
+State: West Yorkshire
+Style: Weissbier - Kristallweizen
+Taste: 7.0
 ---
 
 # Ghost Grendel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 498997 |
 | **Beer** | Ghost Grendel |
 | **Brewer** | Ghost Brew Co. |

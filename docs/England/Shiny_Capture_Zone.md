@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Shiny Capture Zone
+Appearance: 4.0
+Aroma: 7.0
+Beer: Shiny Capture Zone
+BeerID: 1170257
+Brewer: Shiny Brewing
+City: Little Eaton
+Comments: '"Poured hazy pale golden body white lace top. Mango and grapefruit aroma
+  with other fruits lurking. Medium sweet to clammy bitter with the chalkiness that''s
+  the bane of NEIPA for me. Light to medium bodied smooth texture and a chalky finish.
+  Enjoy the fruits "'
+Country: England
+Date: '"1/20/2024 3:49:09 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: Pale Ale - Hazy / New England
+Taste: 7.0
 ---
 
 # Shiny Capture Zone
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1170257 |
 | **Beer** | Shiny Capture Zone |
 | **Brewer** | Shiny Brewing |

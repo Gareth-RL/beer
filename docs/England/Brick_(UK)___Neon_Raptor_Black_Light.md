@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Brick (UK) / Neon Raptor Black Light
+Appearance: 4.0
+Aroma: 8.0
+Beer: Brick (UK) / Neon Raptor Black Light
+BeerID: 953973
+Brewer: Brick Brewery (UK)
+City: Deptford
+Comments: Pours dark brown with tan lace, diminishing. Aroma has dark fruits, roasted
+  malts, chocolate and citrus notes. Taste is medium sweet with more fruit, some pine
+  hops and a firm platform of roasted malt. Palate is medium bodied, velvety texture,
+  average to soft carbonation, and a bitter finish. I was not sure what to expect
+  from this black IPA but whatever it is, I like it.
+Country: England
+Date: '"12/20/2021 6:17:58 PM"'
+MyScore: 4.0
+Overall: 16.0
+Palate: 4.0
+State: Greater London
+Style: IPA - Black / Brown / Cascadian Dark
+Taste: 8.0
 ---
 
 # Brick (UK) / Neon Raptor Black Light
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 953973 |
 | **Beer** | Brick (UK) / Neon Raptor Black Light |
 | **Brewer** | Brick Brewery (UK) |

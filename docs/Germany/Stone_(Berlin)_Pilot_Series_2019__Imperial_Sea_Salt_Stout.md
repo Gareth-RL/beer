@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Stone (Berlin) Pilot Series 2019: Imperial Sea Salt Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Stone (Berlin) Pilot Series 2019: Imperial Sea Salt Stout"'
+BeerID: 710428
+Brewer: Stone Brewing - Berlin (Sapporo)
+City: Berlin
+Comments: '"It seems to suit the UK raters. Better than the Scandinavian ones. Aroma
+  is dark licorice malts deep roasted. Pours black with decent tan lace. Taste is
+  medium sweet but this transitions quickly to bitter with aniseed herbal notes along
+  the way; if there''s coffee it''s licquered. Palate is medium bodied, and the salt
+  for me lightened the texture and gave the soft carbonation a fizz. Pondering the
+  finish, I guess there light caramel. So the boys from Berlin did good!"'
+Country: Germany
+Date: '"6/17/2019 5:58:06 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Berlin
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # Stone (Berlin) Pilot Series 2019: Imperial Sea Salt Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 710428 |
 | **Beer** | Stone (Berlin) Pilot Series 2019: Imperial Sea Salt Stout |
 | **Brewer** | Stone Brewing - Berlin (Sapporo) |

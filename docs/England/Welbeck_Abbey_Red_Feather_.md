@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Welbeck Abbey Red Feather 
+Appearance: 4.0
+Aroma: 7.0
+Beer: 'Welbeck Abbey Red Feather '
+BeerID: 150275
+Brewer: Welbeck Abbey Brewery
+City: Welbeck
+Comments: Cask. A deep copper ale with a full foam top. Sweet aroma with toffee notes.
+  Taste has some fruit and a backbone of bitter but the biscuit and caramel flavours
+  predominate. On the palate it’s medium to full bodied with a slick feel and lively
+  carbonation. This may detract from its appeal as a session bitter. Certainly it
+  has quelled my urge for a second. But give me a minute... 18/02/24 over 8 years
+  so due a second sipping. Much the same but I have mellowed and hence the score has
+  gone up from 3.3 to 3.5. pleasantly malty.
+Country: England
+Date: '"9/20/2015 3:51:26 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Welbeck Abbey Red Feather 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 150275 |
 | **Beer** | Welbeck Abbey Red Feather  |
 | **Brewer** | Welbeck Abbey Brewery |

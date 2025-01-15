@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Track / Blackjack / Pomona Island Unfair Funfair
+Appearance: 4.0
+Aroma: 6.0
+Beer: Track / Blackjack / Pomona Island Unfair Funfair
+BeerID: 635398
+Brewer: Track Brewing Co.
+City: Manchester
+Comments: '"Tap @Junkyard Nottingham. Pours pale yellow gold with white lace top.
+  Aroma has tangerine pith and light floral notes. Taste is medium sweet to sour.
+  Palate is medium bodied, oily texture, average carbonation, light sour finish. The
+  repetition of the word &#39;fair&#39; sums it up."'
+Country: England
+Date: '"7/31/2018 1:01:39 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Greater Manchester
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Track / Blackjack / Pomona Island Unfair Funfair
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 635398 |
 | **Beer** | Track / Blackjack / Pomona Island Unfair Funfair |
 | **Brewer** | Track Brewing Co. |

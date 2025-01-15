@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Scribblers One Special Brew Over the Cuckoo's Nest
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Scribblers One Special Brew Over the Cuckoo''s Nest"'
+BeerID: 466437
+Brewer: Scribblers Ales
+City: Nottingham
+Comments: 'Cask. A variant on One Brew over the. cuckoos nest. More hops and an extra
+  kick. Pours amber with lace top. Yeasty earthy aroma. Taste has biscuit malts but
+  the hops have it with a lasting bitter finish.. Good stuff '
+Country: England
+Date: '"11/25/2016 12:04:45 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Scribblers One Special Brew Over the Cuckoo's Nest
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 466437 |
 | **Beer** | Scribblers One Special Brew Over the Cuckoo's Nest |
 | **Brewer** | Scribblers Ales |

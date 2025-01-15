@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Thornbridge Kipling
+Appearance: 4.0
+Aroma: 6.0
+Beer: Thornbridge Kipling
+BeerID: 63578
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: '"I eat a kiwi a day and so far their scent alludes me. So a de&#083;cription
+  of them in abundance puzzles me. Admittedly it’s a fruity scent headed vaguely towards
+  citrus. A golden pale ale with thin top. The mouthful is certainly fruity rather
+  than malty as one would expect. But it is not astringent as some hoppy ales are.
+  Phrased differently it not crisp or sharp. The edge is on the back of the palate.
+  Overall, good but."'
+Country: England
+Date: '"10/7/2015 1:39:30 PM"'
+MyScore: 3.0
+Overall: 10.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - Australian / New Zealand
+Taste: 6.0
 ---
 
 # Thornbridge Kipling
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 63578 |
 | **Beer** | Thornbridge Kipling |
 | **Brewer** | Thornbridge Brewery |

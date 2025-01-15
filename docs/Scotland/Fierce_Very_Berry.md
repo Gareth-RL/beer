@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Fierce Very Berry
+Appearance: 5.0
+Aroma: 9.0
+Beer: Fierce Very Berry
+BeerID: 514537
+Brewer: Fierce Beer Co
+City: Dyce, Aberdeenshire
+Comments: '"Tap. Never was a beer more aptly named. Aroma is berrific. Raspberry and
+  blackberries compete for attention. Pours red to cloudy purple with a white halo.
+  Taste has a medium sweetness to offset the mounting sourness. It reminded me of
+  Vimto popsicles from childhood &#40;so very middle class&#41;. Palate medium body,
+  sticky, lively, long finish, astringent, but this doesn&#39;t capture it. For a
+  novice like me, a revelation."'
+Country: Scotland
+Date: '"9/8/2017 12:10:25 PM"'
+MyScore: 4.2
+Overall: 17.0
+Palate: 4.0
+State: Grampian
+Style: Sour / Wild Beer - Flavored
+Taste: 7.0
 ---
 
 # Fierce Very Berry
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 514537 |
 | **Beer** | Fierce Very Berry |
 | **Brewer** | Fierce Beer Co |

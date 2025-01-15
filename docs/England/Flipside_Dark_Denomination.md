@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Flipside Dark Denomination
+Appearance: 4.0
+Aroma: 7.0
+Beer: Flipside Dark Denomination
+BeerID: 154677
+Brewer: Flipside Brewery
+City: Nottingham
+Comments: '"Cask. Aroma is mainly roasted malt. But there’s a hint of fruit. Pours
+  chestnut with ruby lights. Thin lace. Taste has some plum says my tongue &#40;poor
+  bewildered creature&#41; lain upon a biscuit base with fruit skins a plenty in the
+  aftertaste. Medium to full with some viscous wash on the palate. Not bad but compared
+  to the stout and the porter, this Flipside ale leaves me ambivalent. But they have
+  refurbished the Lord Roberts nicely "'
+Country: England
+Date: '"5/16/2016 11:34:37 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Flipside Dark Denomination
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 154677 |
 | **Beer** | Flipside Dark Denomination |
 | **Brewer** | Flipside Brewery |

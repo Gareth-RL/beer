@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Alphabet Flat White
+Appearance: 4.0
+Aroma: 6.0
+Beer: Alphabet Flat White
+BeerID: 315048
+Brewer: Alphabet Brewing Co.
+City: Ardwick
+Comments: Tap at the Crafty Crow. Pours amber orange honey body and thin off white
+  lace top. Aroma has herbs, nuts, with toffee notes. Taste is medium sweet that lingers
+  to a diminishing bitter finish. Palate is medium bodied, oily texture, average carbonation,
+  and a long finish, even if muddled. Just as a flat white is a spoiled coffee that
+  is neither cappuccino nor Americano, but tastes fine, this is neither stout nor
+  breakfast.
+Country: England
+Date: '"11/29/2017 12:59:53 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Greater Manchester
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Alphabet Flat White
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 315048 |
 | **Beer** | Alphabet Flat White |
 | **Brewer** | Alphabet Brewing Co. |

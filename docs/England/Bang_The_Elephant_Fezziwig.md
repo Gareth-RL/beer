@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Bang The Elephant Fezziwig
+Appearance: 4.0
+Aroma: 7.0
+Beer: Bang The Elephant Fezziwig
+BeerID: 698820
+Brewer: Bang The Elephant Brewing
+City: Langley Mill
+Comments: '"Aroma of spice and dark malt. Pours chestnut with tan top. Taste is medium
+  bitter with light spice notes (the chai is not too intrusive). Palate is medium
+  bodied oily texture average carbonation and a spicy finish. Advertised as a winter
+  warmer and certainly this is the weather for it. But I can''t say it convinced me
+  that chai was what beer had been missing."'
+Country: England
+Date: '"1/28/2019 5:44:06 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Flavored - Other
+Taste: 7.0
 ---
 
 # Bang The Elephant Fezziwig
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 698820 |
 | **Beer** | Bang The Elephant Fezziwig |
 | **Brewer** | Bang The Elephant Brewing |

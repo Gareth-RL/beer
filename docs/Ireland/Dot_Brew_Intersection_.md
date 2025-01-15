@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Dot Brew Intersection 
+Appearance: 4.0
+Aroma: 6.0
+Beer: 'Dot Brew Intersection '
+BeerID: 712959
+Brewer: Dot Brew
+City: Dublin
+Comments: Can from HonestBrew. Poured orange amber with a full white foam top. Aroma
+  is malt dominant with hints of caramel malt and grapefruit hop. Taste is medium
+  sweet to bitter with the malt backbone evident, although the grapefruit citrus notes
+  are also in there but more as a confusion than a complement; not sure they combine
+  well. Palate is medium bodied, smooth texture, slightly gummy aftertaste after average
+  carbonation and a bitter fruit finish. decent enough but not an intersection I would
+  seek out.
+Country: Ireland
+Date: '"4/5/2022 11:37:01 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: County Dublin
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # Dot Brew Intersection 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 712959 |
 | **Beer** | Dot Brew Intersection  |
 | **Brewer** | Dot Brew |

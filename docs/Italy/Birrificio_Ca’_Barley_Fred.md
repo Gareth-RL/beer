@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Birrificio Ca’ Barley Fred
+Appearance: 4.0
+Aroma: 6.0
+Beer: Birrificio Ca’ Barley Fred
+BeerID: 742083
+Brewer: Birrificio Ca’ Barley
+City: '"Sernaglia della Battaglia &#40;TV&#41;"'
+Comments: Poured dark amber with thin broken off white lacing. Musty, barley caramel
+  scent. Taste is medium sweet to lightly sour. Some toffee initially, and a little
+  background hop fruits. Texture is medium bodied, slightly sticky feel, soft to average
+  carbonation, and a souring after-taste. Decent in some ways but not a great example
+  of the style of beer.
+Country: Italy
+Date: '"6/28/2021 9:28:03 AM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Veneto
+Style: Amber Lager - International / Vienna
+Taste: 6.0
 ---
 
 # Birrificio Ca’ Barley Fred
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 742083 |
 | **Beer** | Birrificio Ca’ Barley Fred |
 | **Brewer** | Birrificio Ca’ Barley |

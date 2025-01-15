@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Oldershaw Heavenly Blonde
+Appearance: 4.0
+Aroma: 7.0
+Beer: Oldershaw Heavenly Blonde
+BeerID: 147488
+Brewer: Zest Brewery (prev Oldershaw Brewery)
+City: Barkston
+Comments: 'Cask. the Falcon Inn. Aroma grapefruit and melon. And you cannot get paler
+  thin top broken lace. Tastes similarly of hoppy fruits but sweet at the front and
+  bitter in the finish. A second tasting and much better than the first. Obviously
+  a reward for perseverance '
+Country: England
+Date: '"11/24/2015 1:15:00 PM"'
+MyScore: 3.0
+Overall: 10.0
+Palate: 3.0
+State: Lincolnshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Oldershaw Heavenly Blonde
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 147488 |
 | **Beer** | Oldershaw Heavenly Blonde |
 | **Brewer** | Zest Brewery (prev Oldershaw Brewery) |

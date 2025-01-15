@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Lincoln Green I Mustache You a Question
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lincoln Green I Mustache You a Question
+BeerID: 1157453
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: 'Poured golden body thin white lace. Floral hop aroma. Medium sweet to bitter
+  with nice fruit notes and pale malt. Medium bodied smooth texture average carbonation
+  and a bitter finish. Pleasant enough even without a moustache '
+Country: England
+Date: '"11/22/2023 7:19:25 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale
+Taste: 6.0
 ---
 
 # Lincoln Green I Mustache You a Question
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1157453 |
 | **Beer** | Lincoln Green I Mustache You a Question |
 | **Brewer** | Lincoln Green Brewing Co. |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Magpie Belong To Earth
+Appearance: 4.0
+Aroma: 7.0
+Beer: Magpie Belong To Earth
+BeerID: 732005
+Brewer: Magpie Brewery
+City: Nottingham
+Comments: 'The sherbet effect is in both aroma and taste, enhancing the fruity sweetness
+  or aggravating it depending on your point of view. Aroma has mango and pineapple.
+  Pours a hazy golden with white lacing. Taste is medium sweet to lightly sour. Palate
+  is medium bodied clammy feel, average carbonation and a light sour finish. Decent. '
+Country: England
+Date: '"6/9/2019 5:31:38 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Magpie Belong To Earth
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 732005 |
 | **Beer** | Magpie Belong To Earth |
 | **Brewer** | Magpie Brewery |

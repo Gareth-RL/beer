@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Northern Monk Dark Neapolitan
+Appearance: 4.0
+Aroma: 8.0
+Beer: Northern Monk Dark Neapolitan
+BeerID: 572811
+Brewer: Northern Monk Brew Co.
+City: Leeds
+Comments: '"Tap at the Junkyard. Pours murky brown with ample tan foam top that produces
+  a definite sheet of lacing. Aroma for me was more evident in the drinking than the
+  initial sniff but that maybe a residual effect of a recent flight.  But the vanilla
+  and pistachio found their way through my befuddled senses and maybe at the end I
+  imagined a cherry note &#40;stranger things have happened.&#41; Taste is medium
+  sweet with a little sourness at the very end. Palate is medium bodied sticky texture,
+  average to soft carbonation, and a fruity lingering. What more do you want?"'
+Country: England
+Date: '"1/2/2018 11:09:54 AM"'
+MyScore: 3.9
+Overall: 16.0
+Palate: 4.0
+State: West Yorkshire
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # Northern Monk Dark Neapolitan
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 572811 |
 | **Beer** | Northern Monk Dark Neapolitan |
 | **Brewer** | Northern Monk Brew Co. |

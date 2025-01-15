@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Beavertown Says Praline
+Appearance: 4.0
+Aroma: 8.0
+Beer: Beavertown Says Praline
+BeerID: 611956
+Brewer: Beavertown Brewery (Heineken)
+City: Tottenham Hale
+Comments: Keg at The Crafty Crow Nottingham. Pours dark amber with off white lace.
+  Aroma has caramel chocolate nuts and coffee hmm sounds like a praline? Taste is
+  medium bitter and sweet but there is more bitterness than I anticipated. Palate
+  is medium bodied, creamy texture, soft to average carbonation, and a bitter finish.
+  Nicely done.
+Country: England
+Date: '"6/12/2018 6:17:39 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Greater London
+Style: Brown Ale
+Taste: 7.0
 ---
 
 # Beavertown Says Praline
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 611956 |
 | **Beer** | Beavertown Says Praline |
 | **Brewer** | Beavertown Brewery (Heineken) |

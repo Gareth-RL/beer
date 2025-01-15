@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Coop Italia Fior Fiore Doppio Malto Rossa
+Appearance: 4.0
+Aroma: 6.0
+Beer: Coop Italia Fior Fiore Doppio Malto Rossa
+BeerID: 196866
+Brewer: Coop Italia
+City: '"Casalecchio Di Reno &#40;BO&#41;"'
+Comments: '"Poured reddish amber body off white lace top.  Aroma of bread malt and
+  herbal hop. Medium sweet to bitter some caramel malt and then a souring finish.
+  But given other reviewers'' comments, it is not as bad as I feared. Medium bodied
+  oily texture average carbonation and a sour mash finish. Given the price, there
+  are worse beers for more money Coop in Mestre Italy "'
+Country: Italy
+Date: '"9/4/2024 12:52:42 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Emilia-Romagna
+Style: Bock - Dunkler Bock
+Taste: 6.0
 ---
 
 # Coop Italia Fior Fiore Doppio Malto Rossa
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 196866 |
 | **Beer** | Coop Italia Fior Fiore Doppio Malto Rossa |
 | **Brewer** | Coop Italia |

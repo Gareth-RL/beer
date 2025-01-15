@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Wiper and True Milk Shake (Cask - 4.8%)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Wiper and True Milk Shake (Cask - 4.8%)
+BeerID: 1095694
+Brewer: Wiper and True Brewing Co.
+City: Bristol
+Comments: 'So many batches. This one is 4.8%. milky coffee scent. Black body thin
+  loose foam top. Medium sweet to bitter with lactic front and chocolate finish. Medium
+  bodied slightly grainy texture average carbonation and a bitter finish. Unable to
+  compare with earlier versions but good enough for me '
+Country: England
+Date: '"3/23/2023 5:47:36 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Gloucestershire
+Style: Stout - Milk / Sweet
+Taste: 7.0
 ---
 
 # Wiper and True Milk Shake (Cask - 4.8%)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1095694 |
 | **Beer** | Wiper and True Milk Shake (Cask - 4.8%) |
 | **Brewer** | Wiper and True Brewing Co. |

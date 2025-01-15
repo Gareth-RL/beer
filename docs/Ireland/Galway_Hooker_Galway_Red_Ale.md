@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Galway Hooker Galway Red Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Galway Hooker Galway Red Ale
+BeerID: 1135429
+Brewer: Galway Hooker Brewery
+City: Co Galway
+Comments: '"Poured amber body off white lace top. Aroma of biscuit malts and berry
+  hops. Medium sweet to lightly bitter. Hoppy finish. Medium bodied grainy floury
+  feel soft to average carbonation and a bitter finish. A good example of the average
+  for Irish brewing. And that''s the strange thing "'
+Country: Ireland
+Date: '"10/9/2023 1:50:26 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: County Galway
+Style: Red Ale - Irish
+Taste: 6.0
 ---
 
 # Galway Hooker Galway Red Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1135429 |
 | **Beer** | Galway Hooker Galway Red Ale |
 | **Brewer** | Galway Hooker Brewery |

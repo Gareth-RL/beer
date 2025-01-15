@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Mikkeller Hallo Ich Bin Berliner Weisse - Mango 
+Appearance: 4.0
+Aroma: 7.0
+Beer: 'Mikkeller Hallo Ich Bin Berliner Weisse - Mango '
+BeerID: 527513
+Brewer: Mikkeller
+City: Copenhagen
+Comments: 'Tap at Brew Dog. Pours green yellow with thin diminishing lacing. Aroma
+  is mango funky. Taste is lightly sweet to sour with the stress on light. Palate
+  is similarly light, texture watery, carbonation soft, and finish brief. I can imagine
+  a summer occasion where these fruit sours would serve, but not February in Nottingham  '
+Country: Denmark
+Date: '"2/2/2018 4:08:53 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: .nan
+Style: Berliner Weisse - Flavored / Catharina Sour
+Taste: 6.0
 ---
 
 # Mikkeller Hallo Ich Bin Berliner Weisse - Mango 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 527513 |
 | **Beer** | Mikkeller Hallo Ich Bin Berliner Weisse - Mango  |
 | **Brewer** | Mikkeller |

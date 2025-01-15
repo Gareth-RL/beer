@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Crafty Devil Fairytale of Cardiff
+Appearance: 4.0
+Aroma: 6.0
+Beer: Crafty Devil Fairytale of Cardiff
+BeerID: 572721
+Brewer: Crafty Devil Brewing
+City: Cardiff
+Comments: Tap at Brew Dog. Pours dark brown with tan circle top. Aroma is After Eight
+  mint. Taste is pretty much the same. Palate is medium bodied, creamy round the edges,
+  carbonation average when soft would suffice, finish is long and slightly cloying.
+  Overall it depends what a wafer thin mint denotes to you. In Cardiff it signifies
+  Christmas.
+Country: Wales
+Date: '"12/9/2017 11:17:16 AM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: South Glamorgan
+Style: Stout - Milk / Sweet
+Taste: 6.0
 ---
 
 # Crafty Devil Fairytale of Cardiff
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 572721 |
 | **Beer** | Crafty Devil Fairytale of Cardiff |
 | **Brewer** | Crafty Devil Brewing |

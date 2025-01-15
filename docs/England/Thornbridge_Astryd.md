@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Thornbridge Astryd
+Appearance: 4.0
+Aroma: 7.0
+Beer: Thornbridge Astryd
+BeerID: 726852
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: Aroma floral citrus hops. Pours pale yellow hazy golden with broken white
+  lace top. Taste is medium sweet and juicy with a light bitter finish. Palate is
+  thin to medium bodied oily texture average carbonation and a light fruity finish.
+  Flavoursome for the abv.
+Country: England
+Date: '"8/21/2019 6:10:37 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - Hazy / New England
+Taste: 7.0
 ---
 
 # Thornbridge Astryd
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 726852 |
 | **Beer** | Thornbridge Astryd |
 | **Brewer** | Thornbridge Brewery |

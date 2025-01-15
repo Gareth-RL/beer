@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Everards / Bagby Back Garden
+Appearance: 4.0
+Aroma: 5.0
+Beer: Everards / Bagby Back Garden
+BeerID: 488962
+Brewer: Everards
+City: Enderby
+Comments: '"Cask. What aroma there is is grain. Better to look at than drink, having
+  an orange gold body and white top. Taste is beer identikit: malt tick, hops tick
+  and water big tick. Light bodied with a soft sweet finish. Quite the opposite of
+  crisp. He came 3,000 miles and died/ To make a beer o’er which we cried. I hope
+  Emerson forgives me."'
+Country: England
+Date: '"4/9/2017 6:22:35 AM"'
+MyScore: 2.8
+Overall: 11.0
+Palate: 3.0
+State: Leicestershire
+Style: Blonde Ale / Golden Ale
+Taste: 5.0
 ---
 
 # Everards / Bagby Back Garden
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 488962 |
 | **Beer** | Everards / Bagby Back Garden |
 | **Brewer** | Everards |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Acorn Life Begins
+Appearance: 4.0
+Aroma: 6.0
+Beer: Acorn Life Begins
+BeerID: 773642
+Brewer: Acorn Brewery
+City: Wombwell
+Comments: 'Light aroma of hops and malt. Pours dark amber heading towards chestnut
+  body with lace top.. Taste is medium sweet with good fruit and growing bitter finish;
+  quite a subtle transition. Palatte is medium bodied oily texture average carbonation
+  and a bitter finish. But the best cask amber of JDW festival so far '
+Country: England
+Date: '"10/15/2019 4:22:29 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: South Yorkshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Acorn Life Begins
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 773642 |
 | **Beer** | Acorn Life Begins |
 | **Brewer** | Acorn Brewery |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Brampton Curse of the Bambino
+Appearance: 4.0
+Aroma: 5.0
+Beer: Brampton Curse of the Bambino
+BeerID: 834732
+Brewer: Brampton Brewery
+City: Chesterfield
+Comments: light hoppy aroma some pine but its scent wont win you. Brown copper body
+  and white lace top, mostly lasting. Dry crisp bitter taste and according to my son
+  lugubrious but moreish. Biscuit malt and strong hoppy but not as sharp as many IPA.
+  Medium bodied, smooth velvety feel despite the average or above carbonation in the
+  bottled form, decent bitter finish. The offspring recognised that it was not an
+  APA as most understand it, but they really liked it and I record their judgment
+Country: England
+Date: '"6/6/2020 4:44:38 PM"'
+MyScore: 3.4
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Brampton Curse of the Bambino
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 834732 |
 | **Beer** | Brampton Curse of the Bambino |
 | **Brewer** | Brampton Brewery |

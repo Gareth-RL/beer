@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Boundary Forever Ago
+Appearance: 3.0
+Aroma: 7.0
+Beer: Boundary Forever Ago
+BeerID: 474862
+Brewer: Boundary Brewing (Northern Ireland)
+City: Belfast
+Comments: '"Tap at Brew Dog. Pours murky brown orange with diminishing lace top. Aroma
+  has butterscotch malts and citrus hops but lime and grapefruit pith lurk in the
+  murk. Taste is medium sweet to bitter with a light sour finish. Palate is medium
+  bodied, sticky texture, average or more carbonation &#40;more than it needed&#41;.
+  The maltiness is distinctive in this IPA. But it clouds like an APA and fizzes like
+  a lager."'
+Country: Northern Ireland
+Date: '"3/18/2018 6:30:58 PM"'
+MyScore: 3.4
+Overall: 14.0
+Palate: 3.0
+State: County Antrim
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Boundary Forever Ago
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 474862 |
 | **Beer** | Boundary Forever Ago |
 | **Brewer** | Boundary Brewing (Northern Ireland) |

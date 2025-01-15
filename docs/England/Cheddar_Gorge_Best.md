@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Cheddar Gorge Best
+Appearance: 4.0
+Aroma: 6.0
+Beer: Cheddar Gorge Best
+BeerID: 69732
+Brewer: Cheddar Ales
+City: Cheddar
+Comments: Poured clear copper body with slightly broken white lace. No great scent
+  by bread malts overpower a hint of dry fruits. Taste is classic bitter by which
+  I mean old fashioned rather than cherished. Biscuit bitter finish. Palate is medium
+  bodied average carbonation smooth enough and said finish which Proust like stirs
+  memories of 1970s pubs. The most pleasing thing might be that it adds to my meagre
+  Somerset beer total.
+Country: England
+Date: '"9/22/2021 12:17:40 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Somerset
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Cheddar Gorge Best
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 69732 |
 | **Beer** | Cheddar Gorge Best |
 | **Brewer** | Cheddar Ales |

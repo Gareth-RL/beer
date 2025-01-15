@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Neon Raptor Fly the Nest 
+Appearance: 4.0
+Aroma: 7.0
+Beer: 'Neon Raptor Fly the Nest '
+BeerID: 651442
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: Tap at the Neon Raptor taproom Nottingham. Pours hazy pale with thin lace
+  top. Aroma has tropical citrus hop and pale malt. Taste is medium sweet to lightly
+  bitter and sour in the finish. Palate is medium bodied, sticky feel, average to
+  soft carbonation and a lightly sour finish. A collaboration with Cuckoo and very
+  easy drinking.
+Country: England
+Date: '"8/29/2018 8:07:05 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: ISA - Session IPA
+Taste: 7.0
 ---
 
 # Neon Raptor Fly the Nest 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 651442 |
 | **Beer** | Neon Raptor Fly the Nest  |
 | **Brewer** | Neon Raptor Brewing Co. |

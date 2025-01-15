@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Mikkeller Koppi Coffee IPA Citra & Santa Barbara
+Appearance: 4.0
+Aroma: 7.0
+Beer: Mikkeller Koppi Coffee IPA Citra & Santa Barbara
+BeerID: 380240
+Brewer: Mikkeller
+City: Copenhagen
+Comments: '"Tap at the Kean&#39;s Head. Pours amber with some lacing albeit diminishing.
+  Aroma more toffee malt than coffee. But on tasting I guess it depends on how you
+  take your coffee. Some notes which played against the hoppy spectrum is subtle and
+  intriguing. Taste is medium medium sweet and bitter almost simultaneously. Palate
+  is medium bodied, sticky feel, average carbonation, and a murky finish edging towards
+  bitter rather than sour. Obviously huge in Scandinavia but it has not made me someone
+  on the prowl for coffee IPA."'
+Country: Denmark
+Date: '"12/17/2017 11:24:04 AM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: .nan
+Style: IPA - Flavored
+Taste: 7.0
 ---
 
 # Mikkeller Koppi Coffee IPA Citra & Santa Barbara
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 380240 |
 | **Beer** | Mikkeller Koppi Coffee IPA Citra & Santa Barbara |
 | **Brewer** | Mikkeller |

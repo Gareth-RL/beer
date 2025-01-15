@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Cloudwater DIPA Citra Cryo
+Appearance: 4.0
+Aroma: 8.0
+Beer: Cloudwater DIPA Citra Cryo
+BeerID: 627447
+Brewer: Cloudwater Brew Co
+City: Manchester
+Comments: '"Tap at The Crafty Crow Nottingham. Aroma has a rich caramel malt block
+  amidst a citrus hop fest. . Pours a murky marmalade orange with white lace halo.
+  Taste is medium sweet to spicy with a definite tang. Palate is medium bodied sticky
+  feel soft carbonation and a spicy finish. The best I have had on my return from
+  Italy. But could I drink a pint ? &#40;not these days&#41;."'
+Country: England
+Date: '"8/1/2018 6:59:42 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Greater Manchester
+Style: IIPA DIPA - Imperial / Double Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Cloudwater DIPA Citra Cryo
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 627447 |
 | **Beer** | Cloudwater DIPA Citra Cryo |
 | **Brewer** | Cloudwater Brew Co |

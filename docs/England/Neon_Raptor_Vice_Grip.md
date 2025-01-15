@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Neon Raptor Vice Grip
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neon Raptor Vice Grip
+BeerID: 790225
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: Mango pineapple guava etc in the scent. Pours cloudy orange golden body
+  with thin lace in the New England style. Taste is initially fruity sweet but quickly
+  sours to a sharp bitterness but retaining the fruity backnote. Palate is medium
+  bodied clammy feel soft to average carbonation and a slightly chalky bitter finish.
+  Refreshing and full of crushable fruit flavours. Good stuff.
+Country: England
+Date: '"12/1/2019 4:13:09 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale - Hazy / New England
+Taste: 7.0
 ---
 
 # Neon Raptor Vice Grip
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 790225 |
 | **Beer** | Neon Raptor Vice Grip |
 | **Brewer** | Neon Raptor Brewing Co. |

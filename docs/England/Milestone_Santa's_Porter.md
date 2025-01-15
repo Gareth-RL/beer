@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Milestone Santa's Porter
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Milestone Santa''s Porter"'
+BeerID: 380577
+Brewer: Milestone Brewing
+City: Newark
+Comments: Cask at Joseph Else. Pours very dark coffee with thick cream head. Aroma
+  licorice and caramelized malts. Taste is predictably malty to the fringe of cough
+  syrup but with some biscuit and fruit hop flavours to temper the medicinal. No great
+  languor on the palate just a smooth wash with some carbonation at the end. It looks
+  suitably wintry, and tastes aptly dark, but Santa’s taste is less subtle than mine.
+  11/12/23 second sipping as it gets another outing at JDW. Still malty in a licorice
+  cough syrup kinda way.
+Country: England
+Date: '"12/7/2015 12:53:49 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Porter
+Taste: 6.0
 ---
 
 # Milestone Santa's Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 380577 |
 | **Beer** | Milestone Santa's Porter |
 | **Brewer** | Milestone Brewing |

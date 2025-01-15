@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Beerbliotek Perhaps, Blue Ribbon
+Appearance: .nan
+Aroma: .nan
+Beer: Beerbliotek Perhaps, Blue Ribbon
+BeerID: 517933
+Brewer: Beerbliotek
+City: Göteborg
+Comments: ' '
+Country: Sweden
+Date: '"11/11/2017 10:15:31 AM"'
+MyScore: 3.0
+Overall: .nan
+Palate: .nan
+State: Västra Götaland
+Style: Sour / Wild Beer
+Taste: .nan
 ---
 
 # Beerbliotek Perhaps, Blue Ribbon
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 517933 |
 | **Beer** | Beerbliotek Perhaps, Blue Ribbon |
 | **Brewer** | Beerbliotek |

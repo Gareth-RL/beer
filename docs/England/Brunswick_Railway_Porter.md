@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Brunswick Railway Porter
+Appearance: 4.0
+Aroma: 6.0
+Beer: Brunswick Railway Porter
+BeerID: 31570
+Brewer: Brunswick Brewing Co.
+City: Derby
+Comments: Given how long this local porter has been around I am bemused to find I
+  have never rated it. Poured dark brown with red lights and tan cream lace top. Taste
+  is medium sweet to bitter with dark malt evident edging towards licorice rather
+  than caramel. Palate is medium bodied oily texture average carbonation and a bitter
+  finish. Certainly a porter I could drink, although not one I will seek out. 2nd
+  sipping 20)01)21. Unchanged
+Country: England
+Date: '"1/17/2020 6:03:25 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Brunswick Railway Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 31570 |
 | **Beer** | Brunswick Railway Porter |
 | **Brewer** | Brunswick Brewing Co. |

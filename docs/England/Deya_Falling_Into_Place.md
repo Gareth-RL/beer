@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Deya Falling Into Place
+Appearance: 3.0
+Aroma: 8.0
+Beer: Deya Falling Into Place
+BeerID: 572479
+Brewer: Deya Brewing Company
+City: Cheltenham
+Comments: Tap at the Canal House. Pours cloudy yellow gold with scummy white lace
+  top. Aroma is pineapple and grapefruit and that plus mango gives the juiciness in
+  the mouth. Taste is medium sweet to sour. Palate medium bodied, creamy texture,
+  soft to average carbonation, long finish but the sourness cuts effectively against
+  the creamy texture to crisp things. Not bad at all.
+Country: England
+Date: '"1/19/2018 1:25:06 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Gloucestershire
+Style: IIPA DIPA - Imperial / Double Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Deya Falling Into Place
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 572479 |
 | **Beer** | Deya Falling Into Place |
 | **Brewer** | Deya Brewing Company |

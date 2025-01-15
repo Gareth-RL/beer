@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Exhibit 'A' The Cat's Meow
+Appearance: 4.0
+Aroma: 8.0
+Beer: '"Exhibit ''A'' The Cat''s Meow"'
+BeerID: 455337
+Brewer: '"Exhibit ''A'' Brewing Company"'
+City: Framingham
+Comments: Aroma has the regulation tropical medley mango and peach amid the citrus.
+  Pours the equally classic murk of NEIPAs. Taste is fully fruited more mango and
+  a slice of pineapple but the sour transition ends in an all too familiar chalky
+  bitterness. Palate is medium bodied clammy feel soft to average carbonation and
+  a chalk bitter finish. Pity.
+Country: United States
+Date: '"3/4/2020 11:53:44 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 3.0
+State: Massachusetts
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Exhibit 'A' The Cat's Meow
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 455337 |
 | **Beer** | Exhibit 'A' The Cat's Meow |
 | **Brewer** | Exhibit 'A' Brewing Company |

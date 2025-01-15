@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Stone (Berlin) Pilot Series 2017: Imperial Amber Ale
+Appearance: 3.0
+Aroma: 7.0
+Beer: '"Stone (Berlin) Pilot Series 2017: Imperial Amber Ale"'
+BeerID: 492773
+Brewer: Stone Brewing - Berlin (Sapporo)
+City: Berlin
+Comments: Tap. Caramel malts and burnt sugar. Pours red amber with thin lace top.
+  Taste is lightly sweet initially, medium bitter on the swallow and sour at the end
+  with a lasting oily finish on the palate. I could not see myself drinking a pint
+  of this but it is an amber ale on steroids.
+Country: Germany
+Date: '"6/9/2017 6:54:25 AM"'
+MyScore: 3.5
+Overall: 15.0
+Palate: 3.0
+State: Berlin
+Style: Red Ale - Imperial
+Taste: 7.0
 ---
 
 # Stone (Berlin) Pilot Series 2017: Imperial Amber Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 492773 |
 | **Beer** | Stone (Berlin) Pilot Series 2017: Imperial Amber Ale |
 | **Brewer** | Stone Brewing - Berlin (Sapporo) |

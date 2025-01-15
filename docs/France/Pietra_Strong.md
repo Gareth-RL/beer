@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Pietra Strong
+Appearance: 4.0
+Aroma: 6.0
+Beer: Pietra Strong
+BeerID: 22338
+Brewer: Brasserie Pietra
+City: Furiani
+Comments: '"Bottle unexpectedly picked up in E-ataly, the food mart for Italian food
+  and drink in Trieste. Poured hazy amber chestnut. Off white lacing.  Aroma is bready
+  malts and chestnuts. Taste is medium sweet to bitter; again, there''s more a light
+  maltloaf taste rather than a sweet chestnut one and the hops are buried. Palate
+  is medium bodied grainy average carbonation and a bitter finish. An oddity, which
+  may be out of production for now but if Corsica is now Italian, Napoleon needs to
+  be told."'
+Country: France
+Date: '"9/21/2022 10:38:36 AM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Corsica
+Style: Amber Lager - International / Vienna
+Taste: 5.0
 ---
 
 # Pietra Strong
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 22338 |
 | **Beer** | Pietra Strong |
 | **Brewer** | Brasserie Pietra |

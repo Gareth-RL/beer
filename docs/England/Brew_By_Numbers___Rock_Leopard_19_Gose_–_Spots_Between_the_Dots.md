@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Brew By Numbers / Rock Leopard 19 Gose – Spots Between the Dots
+Appearance: 3.0
+Aroma: 7.0
+Beer: Brew By Numbers / Rock Leopard 19 Gose – Spots Between the Dots
+BeerID: 951399
+Brewer: Brew By Numbers
+City: Greenwich
+Comments: '"You either gose or you don''t. Pink purple with diminishing pink froth.
+  Aroma has berries and watermelon. Taste is more blackcurrant than plum for me. Sour
+  yes. Palate is medium bodied average to soft carbonation and a souring finish. In
+  the words of the prophet, I''ll get me coat!"'
+Country: England
+Date: '"10/20/2021 4:14:02 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Greater London
+Style: Gose - Flavored
+Taste: 6.0
 ---
 
 # Brew By Numbers / Rock Leopard 19 Gose – Spots Between the Dots
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 951399 |
 | **Beer** | Brew By Numbers / Rock Leopard 19 Gose – Spots Between the Dots |
 | **Brewer** | Brew By Numbers |

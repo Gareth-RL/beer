@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Hogs Back Farnham White
+Appearance: 4.0
+Aroma: 5.0
+Beer: Hogs Back Farnham White
+BeerID: 388989
+Brewer: Hogs Back Brewery
+City: Tongham
+Comments: Cask. Pours clear golden with white top. Aroma lightly hop fruits. Taste
+  is lightly sweet and then medium bitter. Palate is light to medium bodied, sticky
+  feel, bitter finish even touch of carbonation cannot add much life. Forgotten already.
+Country: England
+Date: '"10/22/2017 11:12:06 AM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: Surrey
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Hogs Back Farnham White
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 388989 |
 | **Beer** | Hogs Back Farnham White |
 | **Brewer** | Hogs Back Brewery |

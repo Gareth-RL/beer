@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Cotleigh Chocca Mocca Porter
+Appearance: 4.0
+Aroma: 6.0
+Beer: Cotleigh Chocca Mocca Porter
+BeerID: 496343
+Brewer: Cotleigh Brewery
+City: Wiveliscombe
+Comments: Cask. Pours dark chestnut with tan foam head. Aroma is malts rather than
+  chocolate although that is in the taste. Taste is medium bitter with a lasting sour
+  finish. Palate is slick medium bodied and astringent sour finish. Not what I was
+  expecting in a chocolate porter in terms of richness smoothness or sweetness.
+Country: England
+Date: '"10/12/2017 11:37:18 AM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: Somerset
+Style: Porter
+Taste: 6.0
 ---
 
 # Cotleigh Chocca Mocca Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 496343 |
 | **Beer** | Cotleigh Chocca Mocca Porter |
 | **Brewer** | Cotleigh Brewery |

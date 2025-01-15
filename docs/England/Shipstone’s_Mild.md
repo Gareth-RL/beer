@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Shipstone’s Mild
+Appearance: 4.0
+Aroma: 7.0
+Beer: Shipstone’s Mild
+BeerID: 559603
+Brewer: '"Shipstone&#39;s Beer Company"'
+City: Old Basford
+Comments: '"Cask at The Trip to Jerusalem. Pour dark chestnut tan foam top.. Aroma
+  has caramelized malts and berry fruits. Taste is medium sweet to bitter. Palate
+  is medium bodied, sticky feel, average carbonation, and a long fruit finish. Very
+  nice. 2nd sipping on the 2023 mild trail Nottingham @ Malt Shovel Beeston 3rd sipping
+  on 2024 trail and this time it''s at the Johnson Arms."'
+Country: England
+Date: '"5/6/2018 10:49:08 AM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Shipstone’s Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 559603 |
 | **Beer** | Shipstone’s Mild |
 | **Brewer** | Shipstone&#39;s Beer Company |

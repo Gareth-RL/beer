@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Robinsons Trooper (Cask)
+Appearance: .nan
+Aroma: .nan
+Beer: Robinsons Trooper (Cask)
+BeerID: 221029
+Brewer: Robinsons Family Brewery
+City: Stockport
+Comments: ' '
+Country: England
+Date: '"8/2/2017 11:19:45 AM"'
+MyScore: 1.0
+Overall: .nan
+Palate: .nan
+State: Greater Manchester
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: .nan
 ---
 
 # Robinsons Trooper (Cask)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 221029 |
 | **Beer** | Robinsons Trooper (Cask) |
 | **Brewer** | Robinsons Family Brewery |

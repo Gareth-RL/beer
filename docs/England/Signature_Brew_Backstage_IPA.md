@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Signature Brew Backstage IPA
+Appearance: 3.0
+Aroma: 6.0
+Beer: Signature Brew Backstage IPA
+BeerID: 266586
+Brewer: Signature Brew
+City: Walthamstow
+Comments: This is a beer that is described in different ways in terms of appearance
+  which may mean a variable recipe. Some speak of amber and orange whereas my can
+  delivered a decidedly pale yellow, clear body with white foam head. Aroma is fruity
+  with grapefruit, pineapple and mango noted. Taste is medium sweet through sour to
+  bitter with a mineral note in the finish. Palate is thin to medium bodied, oily
+  texture, soft to average carbonation, and a bitter pithy finish.  Their head brewer
+  speaks of enjoying three of these in the course of the night, but I think it would
+  wear on the tongue during the second.
+Country: England
+Date: '"7/14/2020 1:31:12 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Greater London
+Style: IPA
+Taste: 7.0
 ---
 
 # Signature Brew Backstage IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 266586 |
 | **Beer** | Signature Brew Backstage IPA |
 | **Brewer** | Signature Brew |

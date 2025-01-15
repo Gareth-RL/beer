@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Deya Hokum Stomp
+Appearance: 4.0
+Aroma: 7.0
+Beer: Deya Hokum Stomp
+BeerID: 504117
+Brewer: Deya Brewing Company
+City: Cheltenham
+Comments: '"Tap. Pours dark black brown with cream tan top. Aroma dark malts cereal,
+  licorice, coffee, resin, but all muted rather than pungent. Taste is medium to full
+  sweetness and a bitterness back beat. Palate is odd, creamy texture but beneath
+  the coating there&#39;s nothing beyond medium in body, carbonation soft to flat,
+  and thus the finish is long but more due to the coating tongue effect than a  languorous
+  expansion of flavour. Less than the sum of its parts."'
+Country: England
+Date: '"11/6/2017 10:43:49 AM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Gloucestershire
+Style: Porter
+Taste: 7.0
 ---
 
 # Deya Hokum Stomp
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 504117 |
 | **Beer** | Deya Hokum Stomp |
 | **Brewer** | Deya Brewing Company |

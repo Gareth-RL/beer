@@ -1,12 +1,28 @@
 ---
-layout: default
-title: The Kernel Dry Stout Motueka El Dorado
+Appearance: 4.0
+Aroma: 7.0
+Beer: The Kernel Dry Stout Motueka El Dorado
+BeerID: 1178917
+Brewer: The Kernel Brewery
+City: Bermondsey
+Comments: Poured cola brown body thin tan lace. Aroma of dark coffee malt and grapefruit
+  hops. Medium sweet to bitter with the coffee and grapefruit pushing the dry finish
+  . Medium bodied smooth texture average carbonation and a dry bitter finish. Normally
+  I look for the malt in a stout but this is certainly hop forward.
+Country: England
+Date: '"2/29/2024 4:06:19 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Greater London
+Style: Stout - Dry / Irish
+Taste: 7.0
 ---
 
 # The Kernel Dry Stout Motueka El Dorado
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1178917 |
 | **Beer** | The Kernel Dry Stout Motueka El Dorado |
 | **Brewer** | The Kernel Brewery |

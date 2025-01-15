@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Beavertown 8 Ball
+Appearance: 4.0
+Aroma: 9.0
+Beer: Beavertown 8 Ball
+BeerID: 173659
+Brewer: Beavertown Brewery (Heineken)
+City: Tottenham Hale
+Comments: Keg. Aroma is complex essentially grapefruit marmalade dipped in a caramel
+  sauce gently. Pours murky orange amber with a white top. There’s more of a wash
+  than I expected from an American pale beer. The lacing is strong. Taste is more
+  caramelized but the fruit lingers in a pleasantly souring mash. I could easily get
+  carried away by this stuff and the knowledge that this is literally true gives me
+  pause.
+Country: England
+Date: '"7/14/2016 1:14:48 PM"'
+MyScore: 3.5
+Overall: 11.0
+Palate: 4.0
+State: Greater London
+Style: IPA - Rye
+Taste: 7.0
 ---
 
 # Beavertown 8 Ball
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 173659 |
 | **Beer** | Beavertown 8 Ball |
 | **Brewer** | Beavertown Brewery (Heineken) |

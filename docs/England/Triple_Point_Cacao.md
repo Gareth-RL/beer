@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Triple Point Cacao
+Appearance: 4.0
+Aroma: 6.0
+Beer: Triple Point Cacao
+BeerID: 1065540
+Brewer: Triple Point Brewery
+City: Sheffield
+Comments: 'Poured dark brown reddish tint thin lace. Aroma chocolate malts coffee.
+  Taste medium sweet to bitter chocolate coffee start hop fruit finish. Light to medium
+  bodied slightly grainy texture average carbonation and a long finish. The chocolate
+  is there but not overwhelming. 6.2% in the 2022 version '
+Country: England
+Date: '"2/3/2023 12:34:18 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: South Yorkshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Triple Point Cacao
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1065540 |
 | **Beer** | Triple Point Cacao |
 | **Brewer** | Triple Point Brewery |

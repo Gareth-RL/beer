@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Mindful
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lincoln Green Mindful
+BeerID: 1193430
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: 'Poured golden body white lace top. Aroma of citrus and mango hop and pale
+  malt. Floral. Medium sweet to bitter with citrus notes and a grainy finish. Medium
+  bodied smooth texture average carbonation and a bitter finish. Session worthy like
+  a single hand clapping '
+Country: England
+Date: '"5/5/2024 4:25:34 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale
+Taste: 6.0
 ---
 
 # Lincoln Green Mindful
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1193430 |
 | **Beer** | Lincoln Green Mindful |
 | **Brewer** | Lincoln Green Brewing Co. |

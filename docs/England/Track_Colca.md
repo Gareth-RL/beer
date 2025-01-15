@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Track Colca
+Appearance: 2.0
+Aroma: 7.0
+Beer: Track Colca
+BeerID: 661132
+Brewer: Track Brewing Co.
+City: Manchester
+Comments: '"Tap at the Overdraught Nottingham. Pours a decidedly murky gold with white
+  lace top. Aroma has pineapple citrus grapefruit hops and pale malts. Taste is medium
+  sweet to lightly sour. Palate is light to medium bodied, sticky texture, soft to
+  average carbonation, and a light sour finish. The most underwhelming Imperial I&#39;ve
+  encountered "'
+Country: England
+Date: '"10/19/2018 4:05:10 PM"'
+MyScore: 3.3
+Overall: 14.0
+Palate: 3.0
+State: Greater Manchester
+Style: IIPA DIPA - Imperial / Double IPA
+Taste: 7.0
 ---
 
 # Track Colca
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 661132 |
 | **Beer** | Track Colca |
 | **Brewer** | Track Brewing Co. |

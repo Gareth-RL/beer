@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Wander Beyond Snuffle
+Appearance: 4.0
+Aroma: 8.0
+Beer: Wander Beyond Snuffle
+BeerID: 656711
+Brewer: Wander Beyond Brewing
+City: Manchester
+Comments: '"Aroma is dark malts - coffee chocolate lactose and smoky notes. Pours
+  black with tan halo. Taste is medium sweet to bitter with a pleasant licorice melding
+  of the two. Palate is medium to full bodied sticky feel average carbonation and
+  a long finish. If Baltic porters didn''t have such a hefty kick I could become a
+  regular drinker."'
+Country: England
+Date: '"1/18/2019 2:27:19 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Greater Manchester
+Style: Porter - Baltic
+Taste: 7.0
 ---
 
 # Wander Beyond Snuffle
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 656711 |
 | **Beer** | Wander Beyond Snuffle |
 | **Brewer** | Wander Beyond Brewing |

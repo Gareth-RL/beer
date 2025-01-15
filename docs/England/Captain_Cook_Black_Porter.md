@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Captain Cook Black Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Captain Cook Black Porter
+BeerID: 66862
+Brewer: Captain Cook Brewery
+City: Stokesley
+Comments: Cask. Aroma puzzled me since the pub was awash with fried fish smells but
+  lurking below the batter was coffee and chocolate and berry. Pours mahogany with
+  tan top and good lacing. Fortunately the taste was unaffected by the fishy environment
+  and the roasted malts and fruity notes came through pleasantly. Palate was medium
+  with some excess carbonation but overall a porter to return to.
+Country: England
+Date: '"9/28/2016 10:55:42 AM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: North Yorkshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Captain Cook Black Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 66862 |
 | **Beer** | Captain Cook Black Porter |
 | **Brewer** | Captain Cook Brewery |

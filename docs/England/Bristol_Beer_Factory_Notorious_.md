@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Bristol Beer Factory Notorious 
+Appearance: 4.0
+Aroma: 6.0
+Beer: 'Bristol Beer Factory Notorious '
+BeerID: 703331
+Brewer: Bristol Beer Factory
+City: Bristol
+Comments: Pours golden white top. Aroma tropical fruits and pale malt. Taste medium
+  sweet to bitter. Palate medium bodied average carbonation smooth texture and bitter
+  finish. A decent session ale
+Country: England
+Date: '"10/1/2021 5:49:06 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Gloucestershire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Bristol Beer Factory Notorious 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 703331 |
 | **Beer** | Bristol Beer Factory Notorious  |
 | **Brewer** | Bristol Beer Factory |

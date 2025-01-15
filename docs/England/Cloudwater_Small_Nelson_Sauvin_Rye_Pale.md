@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Cloudwater Small Nelson Sauvin Rye Pale
+Appearance: 4.0
+Aroma: 7.0
+Beer: Cloudwater Small Nelson Sauvin Rye Pale
+BeerID: 581779
+Brewer: Cloudwater Brew Co
+City: Manchester
+Comments: Tap at the Junkyard. Pours cloudy orange golden with white lace top . Aroma
+  has peach passionfruit grassy straw and spice. Taste is medium sweet to lightly
+  sour with a spicy note in there. Palate is medium bodied, sticky texture, soft carbonation,
+  and a languorous finish. Plenty to enjoy in this 2.9%abv.
+Country: England
+Date: '"1/29/2018 5:59:04 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Greater Manchester
+Style: Pale Ale - Rye
+Taste: 7.0
 ---
 
 # Cloudwater Small Nelson Sauvin Rye Pale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 581779 |
 | **Beer** | Cloudwater Small Nelson Sauvin Rye Pale |
 | **Brewer** | Cloudwater Brew Co |

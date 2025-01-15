@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Cloudwater Tropical Stout
+Appearance: 4.0
+Aroma: 8.0
+Beer: Cloudwater Tropical Stout
+BeerID: 574160
+Brewer: Cloudwater Brew Co
+City: Manchester
+Comments: '"Tap at the Overdraught. Pours dark brown body with thin tan lace thinning
+  to a halo. Aroma is richly malted - coffee toffee chocolate licorice dark fruit
+  and more cake than biscuit. Taste is medium sweet with some rough alcoholic back
+  notes. Palate is medium bodied, smooth creamy texture, soft carbonation, and a licorice
+  twist finish. As for the tropicality, maybe it&#39;s the Ekuanot hops. I would expect
+  Jamaican rum myself."'
+Country: England
+Date: '"2/23/2018 5:36:30 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Greater Manchester
+Style: Stout - Extra / Foreign / Tropical
+Taste: 6.0
 ---
 
 # Cloudwater Tropical Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 574160 |
 | **Beer** | Cloudwater Tropical Stout |
 | **Brewer** | Cloudwater Brew Co |

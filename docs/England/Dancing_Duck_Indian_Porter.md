@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Dancing Duck Indian Porter
+Appearance: 4.0
+Aroma: 8.0
+Beer: Dancing Duck Indian Porter
+BeerID: 242308
+Brewer: Dancing Duck Brewery
+City: Derby
+Comments: '"Roasted malts inthe aroma. Pours dark with thick tan top. The taste is
+  smoky, toasted malts with some sweet fruity notes at the tail. The spice is muted.
+  Body medium, carbonation slight. Possibly the best porter on the Nottingham stroll
+  &#40;the stouts are better this year&#41;."'
+Country: England
+Date: '"3/18/2016 10:38:39 AM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 3.0
+State: Derbyshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Dancing Duck Indian Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 242308 |
 | **Beer** | Dancing Duck Indian Porter |
 | **Brewer** | Dancing Duck Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Firebrand Eighty Dynar
+Appearance: 4.0
+Aroma: 6.0
+Beer: Firebrand Eighty Dynar
+BeerID: 988628
+Brewer: Firebrand Brewing (Altarnun)
+City: Launceston
+Comments: Labeled a dark ale on the bar and Untapped but looks like a reddish amber
+  without Belgian strength or pretensions. Light caramel malt nose. Taste is medium
+  sweet to lightly sour with a mishmash of grain and fruit. Palate is medium bodied
+  smooth texture soft carbonation and a sour finish. Not sure what to make of it
+Country: England
+Date: '"1/26/2022 2:34:21 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Cornwall
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # Firebrand Eighty Dynar
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 988628 |
 | **Beer** | Firebrand Eighty Dynar |
 | **Brewer** | Firebrand Brewing (Altarnun) |

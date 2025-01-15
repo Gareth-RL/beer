@@ -1,12 +1,28 @@
 ---
-layout: default
-title: North Riding Tiramisu Porter 
+Appearance: 4.0
+Aroma: 7.0
+Beer: 'North Riding Tiramisu Porter '
+BeerID: 533619
+Brewer: North Riding Brewery
+City: Snainton
+Comments: Cask. Aroma chocolate and coffee and vanilla. Pours black with tan lace
+  top. Tate is medium to heavy sweet with some underlying bitterness. Carbonation
+  average to soft. Body medium. I guess the flavours could be mistaken for tiramisu,
+  but only if your knowledge were trifling.
+Country: England
+Date: '"8/4/2017 11:35:21 AM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: North Yorkshire
+Style: Porter
+Taste: 7.0
 ---
 
 # North Riding Tiramisu Porter 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 533619 |
 | **Beer** | North Riding Tiramisu Porter  |
 | **Brewer** | North Riding Brewery |

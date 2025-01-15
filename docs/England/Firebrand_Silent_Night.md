@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Firebrand Silent Night
+Appearance: 4.0
+Aroma: 6.0
+Beer: Firebrand Silent Night
+BeerID: 886316
+Brewer: Firebrand Brewing (Altarnun)
+City: Launceston
+Comments: 'Poured amber body thin lace. Aroma spicy hops grainy. Taste medium sweet
+  to bitter with cereal grains predominantly. Medium bodied grainy texture average
+  carbonation and a spicy finish. Went down easy '
+Country: England
+Date: '"11/29/2022 8:32:48 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Cornwall
+Style: Strong Ale - English
+Taste: 7.0
 ---
 
 # Firebrand Silent Night
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 886316 |
 | **Beer** | Firebrand Silent Night |
 | **Brewer** | Firebrand Brewing (Altarnun) |

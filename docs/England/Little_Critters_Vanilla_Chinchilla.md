@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Little Critters Vanilla Chinchilla
+Appearance: 4.0
+Aroma: 7.0
+Beer: Little Critters Vanilla Chinchilla
+BeerID: 1085992
+Brewer: Little Critters Brewing Co.
+City: Sheffield
+Comments: '"Poured dark brown body tan cream top. Aroma of vanilla and chocolate malts.
+  Sweet with lactose vanilla and milk chocolate notes. A malty milkshake with just
+  a nod of hop in the finish. Medium bodied smooth texture average carbonation and
+  a light bitter finish. You get what you expect and that''s fine by me"'
+Country: England
+Date: '"2/28/2024 7:17:37 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: South Yorkshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Little Critters Vanilla Chinchilla
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1085992 |
 | **Beer** | Little Critters Vanilla Chinchilla |
 | **Brewer** | Little Critters Brewing Co. |

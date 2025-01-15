@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Neon Raptor Levitating Tactics
+Appearance: 4.0
+Aroma: 8.0
+Beer: Neon Raptor Levitating Tactics
+BeerID: 763905
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: '"Cert ainly running the hop mix on the current pale range: Centennial,
+  Ekuanot, Mosaic and Vic Secret. Dank tropical aroma. Cloudy orange juice with thin
+  lace. Taste is non-sequential and thus complex to the likes of me. Initially sweet
+  and bitter it''s then more bitter than sweet although the two intertwined throughout.
+  (Parental advisory). Palate is the familiar medium bodied clammy feel soft carbonation
+  and long finish of the NEIPA family. Let no one ponder the name of the beer, that
+  way madness lies, but if you experience a lightness of being after the second sipping,
+  all will be both clear and unclear. (I''ll get my coat). "'
+Country: England
+Date: '"9/15/2019 1:14:17 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Neon Raptor Levitating Tactics
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 763905 |
 | **Beer** | Neon Raptor Levitating Tactics |
 | **Brewer** | Neon Raptor Brewing Co. |

@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Scheldebrouwerij Dulle Griet
+Appearance: 4.0
+Aroma: 6.0
+Beer: Scheldebrouwerij Dulle Griet
+BeerID: 6940
+Brewer: Scheldebrouwerij
+City: '"Meer &#40;Hoogstraten&#41;"'
+Comments: '"Dark reddish amber body tan thin lace. Roasted malt aroma. Medium sweet
+  to lightly bitter. Raisin and malt loaf. Medium bodied smooth texture average carbonation
+  and a bitter finish. It''s okay but a bit disappointing for a Belgian Dubbel "'
+Country: Belgium
+Date: '"12/25/2023 11:17:38 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Antwerp
+Style: Dubbel
+Taste: 6.0
 ---
 
 # Scheldebrouwerij Dulle Griet
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 6940 |
 | **Beer** | Scheldebrouwerij Dulle Griet |
 | **Brewer** | Scheldebrouwerij |

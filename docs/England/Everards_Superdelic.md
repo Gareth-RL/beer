@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Everards Superdelic
+Appearance: 4.0
+Aroma: 6.0
+Beer: Everards Superdelic
+BeerID: 1185584
+Brewer: Everards
+City: Enderby
+Comments: 'Poured golden body white lace top. Aroma of grassy hop. Medium sweet to
+  dry bitter. Medium bodied slightly grainy texture average carbonation and a bitter
+  finish. Decent enough '
+Country: England
+Date: '"3/30/2024 5:02:56 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Leicestershire
+Style: ISA - Session IPA
+Taste: 7.0
 ---
 
 # Everards Superdelic
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1185584 |
 | **Beer** | Everards Superdelic |
 | **Brewer** | Everards |

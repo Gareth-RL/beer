@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Tiny Rebel Stay Puft
+Appearance: 3.0
+Aroma: 7.0
+Beer: Tiny Rebel Stay Puft
+BeerID: 395065
+Brewer: Tiny Rebel
+City: Rogerstone, Newport
+Comments: '"Tap. Pours cola black with a thin tan top. Aroma is sweet and the marshmallows
+  make an emphatically scented appearance. The taste is similarly wrapped in candy
+  but not distressingly so if you take your novelty beers in small measures. Taste
+  is heavy cloying sweetness, lightly bitter, so don&#39;t get a pint"'
+Country: Wales
+Date: '"11/22/2016 11:35:16 AM"'
+MyScore: 3.0
+Overall: 14.0
+Palate: 4.0
+State: Gwent
+Style: Porter - Flavored
+Taste: 6.0
 ---
 
 # Tiny Rebel Stay Puft
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 395065 |
 | **Beer** | Tiny Rebel Stay Puft |
 | **Brewer** | Tiny Rebel |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: New Bristol Cinder Toffee Stout
+Appearance: 5.0
+Aroma: 7.0
+Beer: New Bristol Cinder Toffee Stout
+BeerID: 672777
+Brewer: New Bristol Brewery
+City: Bristol
+Comments: '"Poured a picture of a brown stout with ran cream lace too. Aroma of toffees.
+  Taste is very sweet but there is a little bitterness at the back. Palate is medium
+  bodied sticky feel average carbonation and a long finish. If you don''t like cinder
+  toffee (think crunchy you Brits), don''t go near."'
+Country: England
+Date: '"11/16/2019 4:04:25 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Gloucestershire
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # New Bristol Cinder Toffee Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 672777 |
 | **Beer** | New Bristol Cinder Toffee Stout |
 | **Brewer** | New Bristol Brewery |

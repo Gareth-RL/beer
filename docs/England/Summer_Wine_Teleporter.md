@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Summer Wine Teleporter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Summer Wine Teleporter
+BeerID: 107157
+Brewer: Summer Wine Brewery
+City: Holmfirth
+Comments: '"Tap and it took the barmaid 3 attempts to pull a half. I note that it
+  got rave reviews in 2010 and north of here. Time and distance has diminished its
+  appeal so it doesn’t teleport well. Some of the 10 malts are roasted judging by
+  the scent. Taste has coffee. Dark chocolate and maybe some plum. A beer of this
+  type should have more staying power on the palate. Indeed, more heft overall. Not
+  the best £3.20 investment of the week&#033;"'
+Country: England
+Date: '"7/29/2015 1:17:15 PM"'
+MyScore: 3.1
+Overall: 10.0
+Palate: 3.0
+State: West Yorkshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Summer Wine Teleporter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 107157 |
 | **Beer** | Summer Wine Teleporter |
 | **Brewer** | Summer Wine Brewery |

@@ -1,12 +1,33 @@
 ---
-layout: default
-title: Gordon Xmas Ale
+Appearance: 4.0
+Aroma: 7.0
+Beer: Gordon Xmas Ale
+BeerID: 9688
+Brewer: John Martin
+City: Genval
+Comments: '"Poured rich brown copper body with spotted tan creamy lace top. Aroma
+  of roasted malts and dried fruits--date and raisins to my nose. Not quite spicy
+  enough for mince pies. Medium sweet with a long syrup feel and then a rapid descent
+  into something altogether murkier and slightly sour; the beer is let down by its
+  finish. Medium bodied, smooth textured, soft to average carbonation but then that
+  medicinal finish. Given its history, I was expecting more, and maybe it''s different
+  on draft, of course. But I do hope the Macros care for these things. And I hope
+  some of our polished palates will revisit it some time soon. Part of my Belgian
+  Xmas haul from B of E which looks set to survive Easter."'
+Country: Belgium
+Date: '"3/13/2024 7:38:00 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Walloon Brabant
+Style: Scotch Ale / Wee Heavy
+Taste: 7.0
 ---
 
 # Gordon Xmas Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 9688 |
 | **Beer** | Gordon Xmas Ale |
 | **Brewer** | John Martin |

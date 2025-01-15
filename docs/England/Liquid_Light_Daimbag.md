@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Liquid Light Daimbag
+Appearance: 4.0
+Aroma: 6.0
+Beer: Liquid Light Daimbag
+BeerID: 1076283
+Brewer: Liquid Light Brewing Company
+City: Nottingham
+Comments: '"Poured dark brown with thin tan lacing. Chocolate malt aroma. Taste is
+  medium sweet to bitter: some caramel alongside the chocolate. But less sweet or
+  decadent than many a pastry stout. Medium bodied, smooth textured, average carbonation
+  and a bitter finish. Just a slight hint of confectioner''s sugar in the finish to
+  signal its pastry status"'
+Country: England
+Date: '"3/14/2023 12:13:42 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Liquid Light Daimbag
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1076283 |
 | **Beer** | Liquid Light Daimbag |
 | **Brewer** | Liquid Light Brewing Company |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Plain Inncognito
+Appearance: 4.0
+Aroma: 8.0
+Beer: Plain Inncognito
+BeerID: 137962
+Brewer: Plain Ales
+City: Warminster
+Comments: '"Poured dark mahogany body with tan lace top. Aroma of dark malt with caramel
+  and light licorice notes. Taste is medium sweet to bitter with a licorice tang.
+  Palate is medium bodied oily texture average carbonation and a nice finish. It''s
+  eluded me and I would happily drink more."'
+Country: England
+Date: '"1/30/2020 7:02:58 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Wiltshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Plain Inncognito
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 137962 |
 | **Beer** | Plain Inncognito |
 | **Brewer** | Plain Ales |

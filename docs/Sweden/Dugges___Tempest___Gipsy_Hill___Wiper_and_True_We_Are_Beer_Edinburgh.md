@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Dugges / Tempest / Gipsy Hill / Wiper and True We Are Beer Edinburgh
+Appearance: 4.0
+Aroma: 8.0
+Beer: Dugges / Tempest / Gipsy Hill / Wiper and True We Are Beer Edinburgh
+BeerID: 616042
+Brewer: Dugges Bryggeri
+City: Landvetter
+Comments: Tap at Beerheadz Nottingham. Pours black with tan cream lace top. Aroma
+  is chocolate coffee toffee Grenache greatness. Taste is medium sweet with a light
+  bitterness. Palate is medium to full bodied with creamy texture, soft carbonation,
+  and a languorous finish that has some bitterness at the back to offset the sweetness.
+Country: Sweden
+Date: '"8/13/2018 3:54:16 PM"'
+MyScore: 4.0
+Overall: 16.0
+Palate: 4.0
+State: Västra Götaland
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # Dugges / Tempest / Gipsy Hill / Wiper and True We Are Beer Edinburgh
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 616042 |
 | **Beer** | Dugges / Tempest / Gipsy Hill / Wiper and True We Are Beer Edinburgh |
 | **Brewer** | Dugges Bryggeri |

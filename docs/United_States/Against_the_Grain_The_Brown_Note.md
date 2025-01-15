@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Against the Grain The Brown Note
+Appearance: 4.0
+Aroma: 7.0
+Beer: Against the Grain The Brown Note
+BeerID: 170312
+Brewer: Against the Grain Brewery
+City: Louisville
+Comments: '"Tap. Pours brown body off white lace top. Aroma malty roasted toasted
+  and plain. Taste is medium bitter sour bitter. Palate is medium and never full bodied
+  even if the texture is sticky and the carbonation average. I took against this as
+  I read the commercial description which is relentlessly hyperbolic and finally xenophobic.
+  Brits do not unanimously favour monarchy, in fact Americans seem more interested
+  than most intelligent Brits. But objectively it&#39;s a decent brown ale."'
+Country: United States
+Date: '"12/4/2017 12:46:14 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Kentucky
+Style: Brown Ale
+Taste: 7.0
 ---
 
 # Against the Grain The Brown Note
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 170312 |
 | **Beer** | Against the Grain The Brown Note |
 | **Brewer** | Against the Grain Brewery |

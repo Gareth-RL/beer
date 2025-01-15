@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Black Hole Starry Night
+Appearance: 4.0
+Aroma: 6.0
+Beer: Black Hole Starry Night
+BeerID: 96635
+Brewer: Black Hole Brewery
+City: Little Eaton
+Comments: '"Poured ruby copper body off white lace top.  Aroma of roasted malts and
+  berry hops.  Medium sweet to bitter with roasted malts to the fore and bitter hop
+  finish. Medium bodied smooth texture average carbonation and a bitter finish.  You
+  don''t often see a ruby bitter as description compared to ruby Mild say. But decent
+  enough "'
+Country: England
+Date: '"11/29/2024 5:27:50 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Black Hole Starry Night
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 96635 |
 | **Beer** | Black Hole Starry Night |
 | **Brewer** | Black Hole Brewery |

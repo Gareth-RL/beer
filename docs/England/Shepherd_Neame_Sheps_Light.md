@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Shepherd Neame Sheps Light
+Appearance: 3.0
+Aroma: 6.0
+Beer: Shepherd Neame Sheps Light
+BeerID: 772721
+Brewer: Shepherd Neame
+City: Faversham
+Comments: Lightly citric scent. Pours amber not straw! Thin lacing. Taste is medium
+  sweet to bitter with good fruitiness.  Palate is medium bodied oily texture average
+  carbonation and a bitter finish. Okay.
+Country: England
+Date: '"10/19/2019 4:01:39 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Kent
+Style: Blonde Ale / Golden Ale
+Taste: 7.0
 ---
 
 # Shepherd Neame Sheps Light
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 772721 |
 | **Beer** | Shepherd Neame Sheps Light |
 | **Brewer** | Shepherd Neame |

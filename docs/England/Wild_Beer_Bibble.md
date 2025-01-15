@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Wild Beer Bibble
+Appearance: 4.0
+Aroma: 6.0
+Beer: Wild Beer Bibble
+BeerID: 278113
+Brewer: '"Wild Beer (Curious Brewing - St. Peter&#39;s)"'
+City: Shepton Mallet
+Comments: Cask. Aroma has roasty, toasty, malts citrus hops. Pours clear amber with
+  full white foam top. Taste is medium with initial bitterness sweetening and then
+  ebbing away. Palate is medium to full due to thick feel, carbonation average, and
+  it certainly leaves a film of something and not in a good way. I suspect this is
+  the lowest rating  that I have given to the skilled brewers of Somerset. Let it
+  be a lesson to us all. 24/11/21 second sipping. Keg. Residual film that marred the
+  first tasting has disappeared. Still a malty pale.
+Country: England
+Date: '"11/1/2017 1:31:39 PM"'
+MyScore: 3.4
+Overall: 14.0
+Palate: 4.0
+State: Somerset
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Wild Beer Bibble
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 278113 |
 | **Beer** | Wild Beer Bibble |
 | **Brewer** | Wild Beer (Curious Brewing - St. Peter&#39;s) |

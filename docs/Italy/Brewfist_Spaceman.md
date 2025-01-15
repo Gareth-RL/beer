@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Brewfist Spaceman
+Appearance: 4.0
+Aroma: 8.0
+Beer: Brewfist Spaceman
+BeerID: 144877
+Brewer: Brewfist
+City: '"Codogno &#40;LO&#41;"'
+Comments: Bottle from One For the Road Mestre. Poured amber body and off white lacing.
+  Richly scented with New World hops some  citrus some pine some melon, some herb.
+  Taste is medium sweet to bitter with a relatively rapid transition to the latter
+  which is long and drying in the finish. Palate is medium bodied, smooth enough but
+  drying, average to soft carbonation and a dry bitter finish. Certainly refreshing
+  and true to the style
+Country: Italy
+Date: '"7/31/2022 10:46:08 AM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Lombardia
+Style: IPA
+Taste: 7.0
 ---
 
 # Brewfist Spaceman
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 144877 |
 | **Beer** | Brewfist Spaceman |
 | **Brewer** | Brewfist |

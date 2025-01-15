@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Pheasantry Mikado Mild
+Appearance: 5.0
+Aroma: 6.0
+Beer: Pheasantry Mikado Mild
+BeerID: 268373
+Brewer: Pheasantry Brewery
+City: Newark
+Comments: Cask. Nuts, roasted malts, cereal, bread, are all in the scent but subtly
+  so. Pours a deep dark brown with copper lights and a thick creamy off-white head.
+  Very enticing. Taste has a medium to strong sweetness in the caramel range but the
+  hops come through to provide a soft bitter finish. Slightly surprised that I haven’t
+  reviewed this before since it is not the first encounter. Well worth a return.
+Country: England
+Date: '"5/8/2017 7:16:04 AM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Pheasantry Mikado Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 268373 |
 | **Beer** | Pheasantry Mikado Mild |
 | **Brewer** | Pheasantry Brewery |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Black Iris Endless Summer 
+Appearance: 4.0
+Aroma: 8.0
+Beer: 'Black Iris Endless Summer '
+BeerID: 347937
+Brewer: Black Iris Brewery
+City: Nottingham
+Comments: 'Cask. Aroma pineapple mango and other fruits tropical. Yellow pale with
+  white foam top. Lacing. Tastes as expected of the citric flavoured hops. The sparkle
+  is there as befits a pale that evokes sunnier days. Drinking it with snow outside.
+  Easy swallow 24/11/23 five years later. Very lively in the can. Froth everywhere
+  but still light and summery '
+Country: England
+Date: '"2/15/2016 12:35:27 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: ISA - Session IPA
+Taste: 7.0
 ---
 
 # Black Iris Endless Summer 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 347937 |
 | **Beer** | Black Iris Endless Summer  |
 | **Brewer** | Black Iris Brewery |

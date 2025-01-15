@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Northallerton Uncle Sams Black IPA
+Appearance: 3.0
+Aroma: 6.0
+Beer: Northallerton Uncle Sams Black IPA
+BeerID: 525235
+Brewer: Northallerton Brewery
+City: Northallerton
+Comments: Cask. Aroma has chocolate, woody, herbs, but the taste is medium bitter.
+  Pours ruby brown and as this was a barrel tap no lace appeared. I caught a hint
+  of spice but for a Black IPA this was surprisingly bland.
+Country: England
+Date: '"7/30/2017 7:10:56 AM"'
+MyScore: 3.1
+Overall: 13.0
+Palate: 3.0
+State: North Yorkshire
+Style: IPA - Black / Brown / Cascadian Dark
+Taste: 6.0
 ---
 
 # Northallerton Uncle Sams Black IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 525235 |
 | **Beer** | Northallerton Uncle Sams Black IPA |
 | **Brewer** | Northallerton Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Wolf's Ridge Clear Sky - Coconut Cream Pie
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Wolf''s Ridge Clear Sky - Coconut Cream Pie"'
+BeerID: 411656
+Brewer: '"Wolf''s Ridge Brewing"'
+City: Columbus
+Comments: Aroma has coconut atop pale malts. Pours golden with no head to speak of.
+  Taste is medium sweet thanks to the background coconut. Palate is medium bodied
+  creamy texture average carbonation and a lightly bitter finish. I am not really
+  familiar with cream ale but this does what it says on the tin.
+Country: United States
+Date: '"12/4/2018 4:32:59 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Ohio
+Style: Flavored - Other
+Taste: 7.0
 ---
 
 # Wolf's Ridge Clear Sky - Coconut Cream Pie
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 411656 |
 | **Beer** | Wolf's Ridge Clear Sky - Coconut Cream Pie |
 | **Brewer** | Wolf's Ridge Brewing |

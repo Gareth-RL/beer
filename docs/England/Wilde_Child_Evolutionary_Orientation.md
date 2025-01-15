@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Wilde Child Evolutionary Orientation
+Appearance: 4.0
+Aroma: 6.0
+Beer: Wilde Child Evolutionary Orientation
+BeerID: 1095852
+Brewer: Wilde Child Brewing Co
+City: Leeds
+Comments: 'Standard bitter scent of biscuit malt and English hops. Poured golden body
+  white lace. Lightly sweet to medium bitter Hoppy finish. Medium bodied slightly
+  grainy texture average carbonation and a twig finish. Old school '
+Country: England
+Date: '"4/8/2023 5:21:31 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: West Yorkshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Wilde Child Evolutionary Orientation
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1095852 |
 | **Beer** | Wilde Child Evolutionary Orientation |
 | **Brewer** | Wilde Child Brewing Co |

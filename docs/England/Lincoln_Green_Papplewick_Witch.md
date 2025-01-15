@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Lincoln Green Papplewick Witch
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lincoln Green Papplewick Witch
+BeerID: 1088169
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: 'Poured clear golden body thin lace swirl. Hoppy aroma. Pale malts. Medium
+  sweet to bitter. Honey note. Medium bodied smooth texture average carbonation and
+  a bitter finish. Decent enough '
+Country: England
+Date: '"2/21/2023 6:27:45 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA
+Taste: 7.0
 ---
 
 # Lincoln Green Papplewick Witch
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1088169 |
 | **Beer** | Lincoln Green Papplewick Witch |
 | **Brewer** | Lincoln Green Brewing Co. |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Falstaff A Fist Full Of Hops
+Appearance: 4.0
+Aroma: 6.0
+Beer: Falstaff A Fist Full Of Hops
+BeerID: 36416
+Brewer: Falstaff Brewery
+City: Derby
+Comments: '"Aroma light citrus. Pours pale orange golden body with white lace top.
+  Taste is medium sweet to bitter. Palate is medium bodied oily texture average carbonation
+  and a bitter finish. Overall this is a hard beer to judge since over the years it''s
+  impressed and underwhelmed the connoisseurs. It''s decent enough but I would not
+  spot it in a blind tasting."'
+Country: England
+Date: '"8/20/2019 3:43:11 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Falstaff A Fist Full Of Hops
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 36416 |
 | **Beer** | Falstaff A Fist Full Of Hops |
 | **Brewer** | Falstaff Brewery |

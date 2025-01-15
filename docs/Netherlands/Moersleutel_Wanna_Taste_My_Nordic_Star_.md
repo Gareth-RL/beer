@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Moersleutel Wanna Taste My Nordic Star?
+Appearance: 4.0
+Aroma: 7.0
+Beer: Moersleutel Wanna Taste My Nordic Star?
+BeerID: 968729
+Brewer: Moersleutel
+City: Alkmaar
+Comments: '"Poured black body with tan cream lace diminishing to halo. Aroma has malt
+  bread, molasses and caramel. Taste is medium sweet with chocolate and toffee giving
+  way to a bitter finish. Some spice and liquorice. Palate is medium to full body,
+  smooth texture, soft carbonation and a bitter finish. The texture is particularly
+  impressive and overall it''s as rich an imperial as an afternoon tipple can manage."'
+Country: Netherlands
+Date: '"12/9/2021 3:45:27 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: North Holland
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # Moersleutel Wanna Taste My Nordic Star?
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 968729 |
 | **Beer** | Moersleutel Wanna Taste My Nordic Star? |
 | **Brewer** | Moersleutel |

@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Mad Dog Now in a Minute
+Appearance: 3.0
+Aroma: 6.0
+Beer: Mad Dog Now in a Minute
+BeerID: 327425
+Brewer: Mad Dog Brewing Co.
+City: Cardiff
+Comments: Jan 19 2018 Amber ale thin lace. Some berry hops and not a lot of chocolate.
+  Taste is medium sweet to bitter but not in a complex way. Palate is thin to medium
+  average carbonation and a bitter finish. The best thing about it is the title.
+Country: Wales
+Date: '"1/19/2018 6:20:35 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: South Glamorgan
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # Mad Dog Now in a Minute
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 327425 |
 | **Beer** | Mad Dog Now in a Minute |
 | **Brewer** | Mad Dog Brewing Co. |

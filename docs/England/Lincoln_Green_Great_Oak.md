@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Great Oak
+Appearance: 4.0
+Aroma: 7.0
+Beer: Lincoln Green Great Oak
+BeerID: 1234297
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: Poured golden body white lace.  As promised complex hop aroma floral fruity
+  herbal etc. Medium sweet to bitter with plenty of tropical fruit toasting on a pale
+  malt base. Medium bodied smooth texture average carbonation and a bitter finish.  I
+  added my tuppence to the tasting panel along the way. And it is not bad.
+Country: England
+Date: '"10/24/2024 3:45:07 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale
+Taste: 7.0
 ---
 
 # Lincoln Green Great Oak
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1234297 |
 | **Beer** | Lincoln Green Great Oak |
 | **Brewer** | Lincoln Green Brewing Co. |

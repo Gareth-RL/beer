@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Birra Antoniana Altinate
+Appearance: 4.0
+Aroma: 6.0
+Beer: Birra Antoniana Altinate
+BeerID: 238658
+Brewer: Birrificio Antoniano (Interbrau)
+City: Villafranca Padovana
+Comments: On tap. Pours pale yellow gold with white lace top. Aroma pale malts and
+  yeast. Sweet fruity taste with a pleasant biscuit finish. Slightly over carbonated
+  but overall refreshing and good.
+Country: Italy
+Date: '"1/17/2017 7:03:18 AM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Veneto
+Style: Pale Lager - Hoppy / India (IPL)
+Taste: 6.0
 ---
 
 # Birra Antoniana Altinate
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 238658 |
 | **Beer** | Birra Antoniana Altinate |
 | **Brewer** | Birrificio Antoniano (Interbrau) |

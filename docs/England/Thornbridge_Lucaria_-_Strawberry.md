@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Thornbridge Lucaria - Strawberry
+Appearance: 4.0
+Aroma: 8.0
+Beer: Thornbridge Lucaria - Strawberry
+BeerID: 632434
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: Cask at the Organ Grinder Nottingham. Pours dark chestnut with tan foam
+  top. Aroma has strawberry icecream as promised. Taste is medium sweet to lightly
+  bitter with a sweet berry finish. Palate is medium bodied, creamy texture, average
+  carbonation and a sweet finish. The strawberry has an artificial flavour but it
+  does what it says
+Country: England
+Date: '"6/29/2018 3:34:32 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # Thornbridge Lucaria - Strawberry
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 632434 |
 | **Beer** | Thornbridge Lucaria - Strawberry |
 | **Brewer** | Thornbridge Brewery |

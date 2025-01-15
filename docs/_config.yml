@@ -1,6 +1,6 @@
 etitle: Beer Ratings from Ratebeer
 description: Exports from my ratebeer records
-remote_theme: alshedivat/al-folio
+theme: jekyll-theme-dinky
 markdown: kramdown
 plugins:
   - jekyll-sitemap

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Moor Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Moor Stout
+BeerID: 304424
+Brewer: Moor Beer Co.
+City: Bristol
+Comments: Cask. Aroma roasted malts coffee and a hint of tobacco smoke. Pours clear
+  black body tan creamy top. Taste is light sweet and medium bitter. Texture oily
+  and carbonation soft. A decent solid stout on yet another wet day. 23/11/24 second
+  sipping.  All of the above remains true. And that includes the weather.
+Country: England
+Date: '"9/6/2017 7:15:55 AM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Gloucestershire
+Style: Stout
+Taste: 7.0
 ---
 
 # Moor Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 304424 |
 | **Beer** | Moor Stout |
 | **Brewer** | Moor Beer Co. |

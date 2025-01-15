@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Brewfist Il Montante
+Appearance: 4.0
+Aroma: 6.0
+Beer: Brewfist Il Montante
+BeerID: 598437
+Brewer: Brewfist
+City: '"Codogno &#40;LO&#41;"'
+Comments: 'Pours a rich reddish amber with thin beige head. Aroma of caramel malt
+  and hop fruits. Taste is medium sweet with malt dominant to begin, then a tart hop
+  finish. Palate is medium bodied average carbonation slightly sticky feel and a bitter
+  finish. Some yeasty notes in there. Overall, a pleasant enough Doppelbock by this
+  Lombardian brewer. Bought at One For the Road bottleshop in Mestre 27/12/23 second
+  sipping still good enough '
+Country: Italy
+Date: '"1/9/2022 11:51:22 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Lombardia
+Style: Bock - Doppelbock
+Taste: 6.0
 ---
 
 # Brewfist Il Montante
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 598437 |
 | **Beer** | Brewfist Il Montante |
 | **Brewer** | Brewfist |

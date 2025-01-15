@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Siren Please Look After This Beer
+Appearance: 4.0
+Aroma: 7.0
+Beer: Siren Please Look After This Beer
+BeerID: 577404
+Brewer: Siren Craft Brew
+City: Finchampstead
+Comments: Tap at the Overdraught Nottingham. Pours orange body with lace halo. Aroma
+  has tangerine if that passes for marmalade, with floral notes. Taste is medium sweet
+  to lightly bitter which confirms the marmalade quotient. Palate is medium bodied,
+  sticky texture but only lightly, otherwise oily, soft to average carbonation, soft
+  light sweet languor. Another beer that I  grew fonder of with each mouthful.
+Country: England
+Date: '"3/19/2018 6:57:55 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Berkshire
+Style: IPA - Flavored
+Taste: 7.0
 ---
 
 # Siren Please Look After This Beer
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 577404 |
 | **Beer** | Siren Please Look After This Beer |
 | **Brewer** | Siren Craft Brew |

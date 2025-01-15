@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Duration Ebb & Flow
+Appearance: 4.0
+Aroma: 8.0
+Beer: Duration Ebb & Flow
+BeerID: 684823
+Brewer: Duration Brewing
+City: West Acre
+Comments: Aroma has a  stack of malt coffee chocolate and licorice. Pours black brown
+  with tan thin lace. Taste is medium sweet to bitter with pleasant chocolate notes.
+  Palate is medium bodied, oily to sticky texture, soft to average carbonation and
+  bitter finish but with a little ash. So lots going on in a good way and how often
+  can one put those clichés in the same sentence?
+Country: England
+Date: '"1/15/2019 4:59:21 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: Norfolk
+Style: Stout
+Taste: 7.0
 ---
 
 # Duration Ebb & Flow
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 684823 |
 | **Beer** | Duration Ebb & Flow |
 | **Brewer** | Duration Brewing |

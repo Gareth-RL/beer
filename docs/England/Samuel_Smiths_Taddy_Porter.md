@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Samuel Smiths Taddy Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Samuel Smiths Taddy Porter
+BeerID: 94
+Brewer: Samuel Smith
+City: Tadcaster
+Comments: '"Correcting a rating borne of the I''ll judged star scheme. I misguidedly
+  thought this was for how often you drank it: hence *. Poured dark brown with deep
+  foam tan top. Aroma of roasted malt a little licorice a little fruit. Taste is lightly
+  sweet to medium bitter with backnotes of chocolate and berries. Palate is medium
+  to full bodied slightly grainy texture average carbonation and a bitter finish.
+  Certainly a porter in the classic style if a little gassy."'
+Country: England
+Date: '"10/29/2016 12:54:29 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: North Yorkshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Samuel Smiths Taddy Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 94 |
 | **Beer** | Samuel Smiths Taddy Porter |
 | **Brewer** | Samuel Smith |

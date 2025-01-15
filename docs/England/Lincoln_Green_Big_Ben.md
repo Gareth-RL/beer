@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Lincoln Green Big Ben
+Appearance: 4.0
+Aroma: 7.0
+Beer: Lincoln Green Big Ben
+BeerID: 269230
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: 'A pleasant surprise for a summer evening. Toffee malted on the nose. Rich
+  mahogany with thin cream top. Predictably a lot to sort in terms of taste. Caramels
+  and dried fruits predominate but while it coats the palate it’s not as heavy kicking
+  as its 6% might suggest. Still for those who like the sharp clean edge on the palate
+  this is the other end of the spectrum. I can no longer imagine an evening of these.
+  But I hope it reappears as the nights draw in. Mild Trail 2019 it has reappeared
+  and is still good. 12/06/24 it missed the Mild Trail but its till good '
+Country: England
+Date: '"6/29/2015 12:17:58 PM"'
+MyScore: 3.8
+Overall: 16.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Lincoln Green Big Ben
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 269230 |
 | **Beer** | Lincoln Green Big Ben |
 | **Brewer** | Lincoln Green Brewing Co. |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Hollow Stone Oligo Nunk
+Appearance: 4.0
+Aroma: 6.0
+Beer: Hollow Stone Oligo Nunk
+BeerID: 536880
+Brewer: '"Shipstone&#39;s Beer Company"'
+City: Old Basford
+Comments: '"Cask. Pours golden amber with thin lace. Aroma roasted malt with modest
+  fruits. Taste medium sweet and bitter. Average carbonation. The name is more interesting
+  than the beer. 05/07/19 the above was harsh but the grading was fair. What are Shipstone''s
+  trying to do? 19/05/23 they are still trying but it''s not working for me "'
+Country: England
+Date: '"8/19/2017 9:57:43 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Hollow Stone Oligo Nunk
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 536880 |
 | **Beer** | Hollow Stone Oligo Nunk |
 | **Brewer** | Shipstone&#39;s Beer Company |

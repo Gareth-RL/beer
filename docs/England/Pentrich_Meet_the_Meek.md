@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Pentrich Meet the Meek
+Appearance: 4.0
+Aroma: 6.0
+Beer: Pentrich Meet the Meek
+BeerID: 1196546
+Brewer: Pentrich Brewing Co.
+City: Pentrich
+Comments: '"Poured copper body tan lace top. Aroma of dark malts and dark fruits.
+  Medium sweet with berries and plums as well as roasted malts. Medium bodied smooth
+  texture average carbonation and a bitter finish. Decent enough for the style. That''s
+  a dozen Milds."'
+Country: England
+Date: '"5/17/2024 3:03:01 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Pentrich Meet the Meek
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1196546 |
 | **Beer** | Pentrich Meet the Meek |
 | **Brewer** | Pentrich Brewing Co. |

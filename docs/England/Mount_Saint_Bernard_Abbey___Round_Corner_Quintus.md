@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Mount Saint Bernard Abbey / Round Corner Quintus
+Appearance: 4.0
+Aroma: 6.0
+Beer: Mount Saint Bernard Abbey / Round Corner Quintus
+BeerID: 1159972
+Brewer: Mount Saint Bernard Abbey Brewery
+City: Coalville
+Comments: 'Poured lightly hazy golden white lace . Citrus fruit aroma which is odd
+  for a British hopped bitter. Medium sweet to bitter with plenty of fruit and pale
+  malt. Medium bodied slightly grainy texture average carbonation and a light bitter
+  finish. Not like the Trappist '
+Country: England
+Date: '"12/4/2023 3:55:02 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Leicestershire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Mount Saint Bernard Abbey / Round Corner Quintus
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1159972 |
 | **Beer** | Mount Saint Bernard Abbey / Round Corner Quintus |
 | **Brewer** | Mount Saint Bernard Abbey Brewery |

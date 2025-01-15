@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Lincoln Green Flerovium
+Appearance: 3.0
+Aroma: 1.0
+Beer: Lincoln Green Flerovium
+BeerID: 333040
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: Well aroma is faintly citrus with the emphasis on faint. Appearance is pale
+  honey yellow with thin top. Taste has some grapefruit and melon so it suits those
+  who like a blonde beer on the sweet side. A smooth wash of the palate with little
+  bite. A session ale. But there are better on offer notably in this pub. Marion or
+  Sheriff for instance. Harsh but fair.
+Country: England
+Date: '"7/16/2015 12:37:58 PM"'
+MyScore: 2.4
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Lincoln Green Flerovium
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 333040 |
 | **Beer** | Lincoln Green Flerovium |
 | **Brewer** | Lincoln Green Brewing Co. |

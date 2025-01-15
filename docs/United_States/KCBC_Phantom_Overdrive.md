@@ -1,12 +1,30 @@
 ---
-layout: default
-title: KCBC Phantom Overdrive
+Appearance: 4.0
+Aroma: 7.0
+Beer: KCBC Phantom Overdrive
+BeerID: 687148
+Brewer: KCBC (Kings County Brewers Collective)
+City: Brooklyn
+Comments: Aroma moderate, rustic malt, herbal hop note. Poured  murky pale orange
+  body and initially a towering foam head which died back eventually to broken lace
+  top. Taste is medium sweet to lightly bitter/sour. Some citrus in the taste and
+  a sour tang. Palate is medium bodied, sticky texture, average to fizzy carbonation
+  and the bitter finish. Not as overwhelmingly fruity as some NEIPA because of the
+  hop mix but still a tasty pale.
+Country: United States
+Date: '"8/9/2020 3:14:31 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: New York
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # KCBC Phantom Overdrive
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 687148 |
 | **Beer** | KCBC Phantom Overdrive |
 | **Brewer** | KCBC (Kings County Brewers Collective) |

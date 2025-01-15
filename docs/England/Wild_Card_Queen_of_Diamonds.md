@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Wild Card Queen of Diamonds
+Appearance: 4.0
+Aroma: 6.0
+Beer: Wild Card Queen of Diamonds
+BeerID: 260463
+Brewer: Wild Card Brewery (England)
+City: Walthamstow
+Comments: Tap at The Junkyard Nottingham. Pours golden amber with white lace top.
+  Aroma has floral, grass, herbs, on the hop front and the barest hint of pale malt.
+  Continuous hopping indeed. Taste is medium sweet to lightly bitter. Palate is medium
+  bodied,oily feel, average carbonation and a residual sweet hop finish. I was thrown
+  initially by the ruby ale description on the board here. Odd, they are usually meticulous.
+Country: England
+Date: '"6/30/2018 5:23:48 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Greater London
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Wild Card Queen of Diamonds
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 260463 |
 | **Beer** | Wild Card Queen of Diamonds |
 | **Brewer** | Wild Card Brewery (England) |

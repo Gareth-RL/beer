@@ -1,12 +1,33 @@
 ---
-layout: default
-title: Leffe Blonde / Blond
+Appearance: 4.0
+Aroma: 7.0
+Beer: Leffe Blonde / Blond
+BeerID: 2514
+Brewer: Anheuser-Busch InBev Belgium (AB InBev)
+City: Leuven
+Comments: '"Can from Aldi supermarket in Mestre. Poured orange gold body foam white
+  top. Aroma is caramel malt, banana, and spice. Taste is medium sweet or maybe a
+  little more; the roast malts hold the fort. Medium bodied, smooth texture, average
+  carbonation for canned beer, and a lightly spiced finish. Part of my campaign to
+  rate European beers that I know I have tried in the past but never somehow put on
+  here. Plus, given the way prices are going, a 33cl can for 1.69 euro seemed a fair
+  deal even for the corporate mega-breweries. Having said that, this is no more than
+  okay for a Belgian pale, and my memory of it having tasted better may stem from
+  the low level of competition back in the day. Haven''t seen Leffe in can before."'
+Country: Belgium
+Date: '"7/27/2023 11:06:51 AM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Flemish Brabant
+Style: Belgian Ale - Pale / Golden / Single
+Taste: 6.0
 ---
 
 # Leffe Blonde / Blond
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 2514 |
 | **Beer** | Leffe Blonde / Blond |
 | **Brewer** | Anheuser-Busch InBev Belgium (AB InBev) |

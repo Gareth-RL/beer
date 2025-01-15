@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Batemans Black Widow
+Appearance: 4.0
+Aroma: 6.0
+Beer: Batemans Black Widow
+BeerID: 963154
+Brewer: Batemans
+City: Wainfleet
+Comments: 'Poured deep brown almost black. Roasted malt scent. Slight hint of licorice
+  in the taste. Medium sweet to bitter. Dusty medium bodied texture average to soft
+  carbonation languorous finish. Expected more from a strong Mild '
+Country: England
+Date: '"10/18/2021 4:32:25 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Lincolnshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Batemans Black Widow
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 963154 |
 | **Beer** | Batemans Black Widow |
 | **Brewer** | Batemans |

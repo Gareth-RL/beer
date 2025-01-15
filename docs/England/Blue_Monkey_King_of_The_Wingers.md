@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Blue Monkey King of The Wingers
+Appearance: 4.0
+Aroma: 6.0
+Beer: Blue Monkey King of The Wingers
+BeerID: 361128
+Brewer: Blue Monkey Brewery
+City: Nottingham
+Comments: Cask at the Organ Grinder. Pours chestnut off white lace top. Aroma has
+  bread, floral, herbal hop notes. Taste is medium bitter with sweet hop berry background
+  and a bitter biscuit finish. Palate is medium bodied, oily texture, average carbonation
+  and a bitter, crumbly biscuit finish. A very decent session bitter.
+Country: England
+Date: '"2/14/2016 11:34:47 AM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Blue Monkey King of The Wingers
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 361128 |
 | **Beer** | Blue Monkey King of The Wingers |
 | **Brewer** | Blue Monkey Brewery |

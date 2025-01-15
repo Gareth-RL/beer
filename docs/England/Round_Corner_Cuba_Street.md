@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Round Corner Cuba Street
+Appearance: 4.0
+Aroma: 7.0
+Beer: Round Corner Cuba Street
+BeerID: 948008
+Brewer: Round Corner Brewing
+City: Melton Mowbray
+Comments: Pours slightly hazy golden body with thin off-white lace top. Definite aroma
+  of nectarine, pineapple with a hint of passion fruit. Taste is medium sweet with
+  juicy fruits to the fore, and a light bitter finish with some biscuit. Palate is
+  medium bodied, slightly mineral texture, average carbonation, and a bitter finish.
+  A pleasant IPA which was ideal for a laid-back birthday on a rainy August evening.
+Country: England
+Date: '"8/22/2021 7:23:25 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Leicestershire
+Style: IPA
+Taste: 7.0
 ---
 
 # Round Corner Cuba Street
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 948008 |
 | **Beer** | Round Corner Cuba Street |
 | **Brewer** | Round Corner Brewing |

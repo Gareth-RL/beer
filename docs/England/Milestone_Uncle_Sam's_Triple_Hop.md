@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Milestone Uncle Sam's Triple Hop
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Milestone Uncle Sam''s Triple Hop"'
+BeerID: 186233
+Brewer: Milestone Brewing
+City: Newark
+Comments: '"Cask. Strong orange and tangerine scent signals the hop preponderance.
+  Pours orange golden with white lace top. Taste is predictably hop-driven with citrus
+  and berry fruits softening the initial flavour but a bitter tang in the finish.
+  Some resinous languor and medium carbonation but you may ask: Do you need Uncle
+  Sam?"'
+Country: England
+Date: '"5/18/2016 12:17:12 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Milestone Uncle Sam's Triple Hop
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 186233 |
 | **Beer** | Milestone Uncle Sam's Triple Hop |
 | **Brewer** | Milestone Brewing |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Donkeystone Madagaska
+Appearance: 3.0
+Aroma: 5.0
+Beer: Donkeystone Madagaska
+BeerID: 900721
+Brewer: Donkeystone Brewing Co.
+City: Greenfield
+Comments: '"Poured cola black body with rapidly disappearing lacing. As others note,
+  it''s gassy to pour but flat to drink! Not a lot of scent to be savoured either
+  --just a little light coffee malts; the vanilla comes through on the end of the
+  taste, but it''s got that artificial flavour to it. Thin, especially for a stout,
+  watery feel, still got high carbonation at the back however, and a curiously dusty
+  finish. I know this was a cheap Lidl can, but eek, what a disappointment."'
+Country: England
+Date: '"10/18/2022 11:34:11 AM"'
+MyScore: 2.5
+Overall: 10.0
+Palate: 2.0
+State: Greater Manchester
+Style: Stout - Flavored / Pastry
+Taste: 5.0
 ---
 
 # Donkeystone Madagaska
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 900721 |
 | **Beer** | Donkeystone Madagaska |
 | **Brewer** | Donkeystone Brewing Co. |

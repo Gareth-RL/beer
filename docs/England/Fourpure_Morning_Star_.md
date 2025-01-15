@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Fourpure Morning Star 
+Appearance: 4.0
+Aroma: 8.0
+Beer: 'Fourpure Morning Star '
+BeerID: 375119
+Brewer: Fourpure Brewing Co. (Odyssey Inns)
+City: Bermondsey
+Comments: Tap at the Junkyard. Aroma has licorice and coffee malts richly scented.
+  Pours black with tan lace top. Taste is medium sweet to lightly bitter and the latter
+  is bitter chocolate. Palate is medium to full, creamy, soft to average carbonation,
+  languid finish. Still wondering how the vanilla keeps so far back so that it is
+  more an aftertaste. Very nice.
+Country: England
+Date: '"1/26/2018 2:36:12 PM"'
+MyScore: 3.9
+Overall: 14.0
+Palate: 4.0
+State: Greater London
+Style: Porter
+Taste: 9.0
 ---
 
 # Fourpure Morning Star 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 375119 |
 | **Beer** | Fourpure Morning Star  |
 | **Brewer** | Fourpure Brewing Co. (Odyssey Inns) |

@@ -1,12 +1,33 @@
 ---
-layout: default
-title: Charnwood Bald Eagle
+Appearance: 4.0
+Aroma: 6.0
+Beer: Charnwood Bald Eagle
+BeerID: 604652
+Brewer: Charnwood Brewery
+City: Loughborough
+Comments: '"Bottle from Adventure Beer. And my first beer in a while. Maybe I''m rusty.
+  The nose seems bready to me so the big hitting American hops clearly hit someone
+  else. Orange copper body with full white lace so the looks are fine. Taste is lightly
+  sweet to medium bitter with a slight tang in the finish. I get the malts coming
+  through in a lightly spiced way but the hops don''t give me the fruit that I expect
+  from the New World. But as said, it''s my first beer in some weeks. As with many
+  bottled beers, there''s a lively carbonation, but it''s medium bodied, tacky texture
+  and a tangy though bitter finish, maybe, just maybe hinting at grapefruit pith.
+  I think I am going to try something else to reawaken the tastebuds."'
+Country: England
+Date: '"5/30/2022 11:10:40 AM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Leicestershire
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # Charnwood Bald Eagle
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 604652 |
 | **Beer** | Charnwood Bald Eagle |
 | **Brewer** | Charnwood Brewery |

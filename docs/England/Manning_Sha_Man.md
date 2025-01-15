@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Manning Sha Man
+Appearance: 4.0
+Aroma: 6.0
+Beer: Manning Sha Man
+BeerID: 572373
+Brewer: Manning Brewers
+City: Congleton
+Comments: '"Tap at the Crafty Crow. Pours yellow gold with white lace top. Aroma is
+  fruity whether it is passionfruity depends on your familiarity with said fruit which
+  isn&#39;t in my daily intake frankly. But scent wise I feel it lies between mango
+  and lychee. The funky non-citrus side of tropical. Taste is medium bitter eventually
+  but through a fog darkly. You have some fugg to get through. Palate is medium bodied,
+  oily texture, average carbonation and a one of those finishes that raise the nose,
+  It stays more than it lingers. But it is not a  bad beer just one you won&#39;t
+  insist on."'
+Country: England
+Date: '"1/7/2018 12:40:17 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Cheshire
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Manning Sha Man
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 572373 |
 | **Beer** | Manning Sha Man |
 | **Brewer** | Manning Brewers |

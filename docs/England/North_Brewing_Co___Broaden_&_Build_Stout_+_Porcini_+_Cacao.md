@@ -1,12 +1,28 @@
 ---
-layout: default
-title: North Brewing Co / Broaden & Build Stout + Porcini + Cacao
+Appearance: 4.0
+Aroma: 8.0
+Beer: North Brewing Co / Broaden & Build Stout + Porcini + Cacao
+BeerID: 784075
+Brewer: North Brewing Co (England)
+City: Leeds
+Comments: Poured dark brown body dusty top. Aroma has cocoa dark malts and something
+  funky if not exactly mushroomy. Taste is richly chocolate so medium + sweetness
+  and this slowly dissolves like a chocolate liquor. Palate is medium bodied silky
+  smooth texture soft carbonation and a long finish. A dessert.
+Country: England
+Date: '"11/12/2019 4:17:40 PM"'
+MyScore: 4.0
+Overall: 16.0
+Palate: 4.0
+State: West Yorkshire
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # North Brewing Co / Broaden & Build Stout + Porcini + Cacao
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 784075 |
 | **Beer** | North Brewing Co / Broaden & Build Stout + Porcini + Cacao |
 | **Brewer** | North Brewing Co (England) |

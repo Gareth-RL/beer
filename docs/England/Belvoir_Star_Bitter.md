@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Belvoir Star Bitter
+Appearance: .nan
+Aroma: .nan
+Beer: Belvoir Star Bitter
+BeerID: 5442
+Brewer: Belvoir Brewery
+City: Melton Mowbray
+Comments: ' '
+Country: England
+Date: '"12/6/2016 2:17:37 PM"'
+MyScore: 2.0
+Overall: .nan
+Palate: .nan
+State: Leicestershire
+Style: Bitter - Ordinary / Best
+Taste: .nan
 ---
 
 # Belvoir Star Bitter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 5442 |
 | **Beer** | Belvoir Star Bitter |
 | **Brewer** | Belvoir Brewery |

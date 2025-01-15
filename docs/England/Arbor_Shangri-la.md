@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Arbor Shangri-la
+Appearance: 4.0
+Aroma: 6.0
+Beer: Arbor Shangri-la
+BeerID: 400285
+Brewer: Arbor Ales
+City: Bristol
+Comments: '"Poured clear golden body with white lace top. Aroma of pale malts and
+  grassy citric hops. Taste is medium sweet to bitter with fruit forward and a pithy
+  finish. Palate is problematic. Thin but it has a drying souring aftertaste with
+  a chalky finish. That drops its rating significantly and I couldn''t face a session."'
+Country: England
+Date: '"12/9/2021 4:13:32 PM"'
+MyScore: 3.1
+Overall: 13.0
+Palate: 2.0
+State: Gloucestershire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Arbor Shangri-la
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 400285 |
 | **Beer** | Arbor Shangri-la |
 | **Brewer** | Arbor Ales |

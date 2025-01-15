@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Birrificio 620 Passi FIPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: Birrificio 620 Passi FIPA
+BeerID: 818126
+Brewer: Birrificio 620 Passi
+City: '"Marano Lagunare &#40;UD&#41;"'
+Comments: Another supermarket beer. Poured an amber body with thin lace top diminishing
+  to halo. Aroma pineapple and mango. Medium sweet to bitter a little bread malt but
+  dominated by New World hops. Medium bodied smooth texture average carbonation and
+  a bitter finish. Better than some. From Ali in Mestre
+Country: Italy
+Date: '"4/7/2024 10:24:30 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Friuli-Venezia Giulia
+Style: IPA
+Taste: 6.0
 ---
 
 # Birrificio 620 Passi FIPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 818126 |
 | **Beer** | Birrificio 620 Passi FIPA |
 | **Brewer** | Birrificio 620 Passi |

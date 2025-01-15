@@ -1,12 +1,28 @@
 ---
-layout: default
-title: BrewDog Bounty Hunter
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog Bounty Hunter
+BeerID: 713719
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: '"Aroma has burnt coconut, roasted dark malt and a vague metallic note.
+  Poured dark brown body dusty cocoa foam top. Taste is medium sweet with the expected
+  Bounty note. Palate is medium bodied sticky feel soft to average carbonation and
+  a long finish with an odd chalky note. Somehow the parts don''t add to a whole."'
+Country: Scotland
+Date: '"11/8/2019 3:54:29 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Grampian
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # BrewDog Bounty Hunter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 713719 |
 | **Beer** | BrewDog Bounty Hunter |
 | **Brewer** | BrewDog |

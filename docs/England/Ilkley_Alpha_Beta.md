@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Ilkley Alpha Beta
+Appearance: .nan
+Aroma: .nan
+Beer: Ilkley Alpha Beta
+BeerID: 405989
+Brewer: Ilkley Brewery
+City: Ilkley
+Comments: ' '
+Country: England
+Date: '"10/17/2017 11:24:29 AM"'
+MyScore: 3.0
+Overall: .nan
+Palate: .nan
+State: West Yorkshire
+Style: ISA - Session IPA
+Taste: .nan
 ---
 
 # Ilkley Alpha Beta
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 405989 |
 | **Beer** | Ilkley Alpha Beta |
 | **Brewer** | Ilkley Brewery |

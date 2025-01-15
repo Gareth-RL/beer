@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Maxim John Bull Stout
+Appearance: 4.0
+Aroma: 5.0
+Beer: Maxim John Bull Stout
+BeerID: 359971
+Brewer: Maxim Brewery
+City: Houghton le Spring
+Comments: Cask. Black with thin tan cream head that coats rather than laces the glass.
+  Aroma is subtle but there’s blackcurrant and biscuit. The fruity note is even more
+  pronounced in the taste which is infused with dark fruit alongside a creamy texture
+  and underlying hop bitterness. Slightly gassy for a stout, but certainly of interest.
+Country: England
+Date: '"10/23/2015 11:05:25 AM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Tyne &amp; Wear
+Style: Stout
+Taste: 7.0
 ---
 
 # Maxim John Bull Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 359971 |
 | **Beer** | Maxim John Bull Stout |
 | **Brewer** | Maxim Brewery |

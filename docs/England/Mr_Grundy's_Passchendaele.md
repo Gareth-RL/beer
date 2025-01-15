@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Mr Grundy's Passchendaele
+Appearance: 4.0
+Aroma: 5.0
+Beer: '"Mr Grundy''s Passchendaele"'
+BeerID: 179133
+Brewer: Black Hole Brewery
+City: Little Eaton
+Comments: Cask. Pours very pale yellow gold with white lace top. Aroma is muted floral
+  hops. Taste is medium to full bitter with a sour note. Palate is medium to light
+  bodied despite its oily texture, carbonation is average to soft, and the finish
+  is bitter. Overall a big disappointment as the brewery has done some decent ale.
+  In this instance, the most impressive thing is the correct spelling of the battle
+  field.
+Country: England
+Date: '"8/15/2018 4:16:55 PM"'
+MyScore: 2.9
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Bitter - Ordinary / Best
+Taste: 4.0
 ---
 
 # Mr Grundy's Passchendaele
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 179133 |
 | **Beer** | Mr Grundy's Passchendaele |
 | **Brewer** | Black Hole Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Burton Bridge Stairway to Heaven
+Appearance: 4.0
+Aroma: 6.0
+Beer: Burton Bridge Stairway to Heaven
+BeerID: 26702
+Brewer: Burton Bridge Brewery
+City: Burton-on-Trent
+Comments: Cask. Spicy hops predominate in a pleasant aroma. Colour honey gold and
+  paler in the light. I guess the pale malts and extra hops tell in the end. Taste
+  well it fills and coats with a metallic edge to the first sip and good resinous
+  palate. Better than many. And deceptively strong. I would try again if offered.
+Country: England
+Date: '"7/8/2015 1:32:56 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 3.0
+State: Staffordshire
+Style: Blonde Ale / Golden Ale
+Taste: 8.0
 ---
 
 # Burton Bridge Stairway to Heaven
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 26702 |
 | **Beer** | Burton Bridge Stairway to Heaven |
 | **Brewer** | Burton Bridge Brewery |

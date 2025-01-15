@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Bang The Elephant / Urban Chicken A Trip to Trumpton
+Appearance: 4.0
+Aroma: 7.0
+Beer: Bang The Elephant / Urban Chicken A Trip to Trumpton
+BeerID: 790289
+Brewer: Bang The Elephant Brewing
+City: Langley Mill
+Comments: Spicey fruitcake aroma. Poured dark mahogany body with tan lace. Taste is
+  medium sweet to bitter with nutmeg and cinnamon evident. Palate is medium bodied
+  sticky feel average carbonation and a long spicy finish. Tis the season, but not
+  bad for British Christmas beer which is often dire.
+Country: England
+Date: '"12/1/2019 6:12:21 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: Derbyshire
+Style: Porter - Flavored
+Taste: 6.0
 ---
 
 # Bang The Elephant / Urban Chicken A Trip to Trumpton
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 790289 |
 | **Beer** | Bang The Elephant / Urban Chicken A Trip to Trumpton |
 | **Brewer** | Bang The Elephant Brewing |

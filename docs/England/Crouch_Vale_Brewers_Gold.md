@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Crouch Vale Brewers Gold
+Appearance: 3.0
+Aroma: 7.0
+Beer: Crouch Vale Brewers Gold
+BeerID: 18064
+Brewer: Crouch Vale Brewery
+City: South Woodham Ferrers
+Comments: If you favour a beer with lemon/pineapple scent, this is for you. Pale gold
+  body. Thin head that laces well. Neutral at first but sharper and tarter as you
+  sip. The back taste is fuller than the fore. Thin on the palate and meant for summer.
+  And probably a hotter one if served chilled. Not to be repeated.
+Country: England
+Date: '"5/21/2015 11:21:53 AM"'
+MyScore: 2.7
+Overall: 10.0
+Palate: 2.0
+State: Essex
+Style: Blonde Ale / Golden Ale
+Taste: 5.0
 ---
 
 # Crouch Vale Brewers Gold
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 18064 |
 | **Beer** | Crouch Vale Brewers Gold |
 | **Brewer** | Crouch Vale Brewery |

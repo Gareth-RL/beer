@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Omnipollo Bianca Mango Lassi Gose 6%
+Appearance: 4.0
+Aroma: 7.0
+Beer: Omnipollo Bianca Mango Lassi Gose 6%
+BeerID: 306802
+Brewer: Omnipollo
+City: Sundbyberg
+Comments: '"Tap at the Kean&#39;s Head. Pours hazy yellow with white lace circle.
+  Aroma is mango with a hint of lime. Taste is medium sweet to sour but with a salty
+  kick. Palate is medium bodied, oily texture with some lactose stickiness, average
+  carbonation, and a salty finish. Interesting and refreshing although I can&#39;t
+  imagine drinking pints."'
+Country: Sweden
+Date: '"1/4/2018 10:13:50 AM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 4.0
+State: Stockholm
+Style: Gose - Flavored
+Taste: 6.0
 ---
 
 # Omnipollo Bianca Mango Lassi Gose 6%
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 306802 |
 | **Beer** | Omnipollo Bianca Mango Lassi Gose 6% |
 | **Brewer** | Omnipollo |

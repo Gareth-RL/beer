@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Track Arosa
+Appearance: 4.0
+Aroma: 6.0
+Beer: Track Arosa
+BeerID: 812341
+Brewer: Track Brewing Co.
+City: Manchester
+Comments: Poured pale golden with thin lace top. Aroma has pale malt straw hop scent.
+  Taste is lightly sweet swiftly souring yo a crisp bitter finish in the Helles style.
+  I am not a lager fan and there is nothing out of character here that would convert
+  me. But I am able to see that it is competently done. In these times especially,
+  that should be appreciated.  I am also told by RB that this is my first Track beer
+  which puzzles me since they have been around a while and I have been sampling a
+  range of Manchester craft ale this last 12 months. I will have to check my own records.
+Country: England
+Date: '"3/23/2020 2:12:36 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Greater Manchester
+Style: Helles / Dortmunder Export
+Taste: 6.0
 ---
 
 # Track Arosa
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 812341 |
 | **Beer** | Track Arosa |
 | **Brewer** | Track Brewing Co. |

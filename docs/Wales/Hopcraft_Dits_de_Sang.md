@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Hopcraft Dits de Sang
+Appearance: 3.0
+Aroma: 6.0
+Beer: Hopcraft Dits de Sang
+BeerID: 595233
+Brewer: Hopcraft Brewing
+City: Pontyclun
+Comments: '"Keg at The Overdraught Nottingham. There seems to be a lot more Hopcraft
+  about and this is an oddity. Pours dark brown with a thin head that dissipating
+  quickly. Aroma has a very odd mix some lactose some herbs some cinnamon and struggling
+  inside a hint of coffee or chocolate oh and lime. Taste is medium sweet but with
+  a peculiar medical tang. Like lime and eucalyptus. Palate is medium bodied at best,
+  sticky texture, average carbonation, and a languorous finish as one&#39;s tongue
+  mumbles&quot;what the f**k&quot;. Dits de sang indeed. If I was Catalan I&#39;d
+  sue."'
+Country: Wales
+Date: '"5/30/2018 3:24:23 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Mid Glamorgan
+Style: Stout - Milk / Sweet
+Taste: 6.0
 ---
 
 # Hopcraft Dits de Sang
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 595233 |
 | **Beer** | Hopcraft Dits de Sang |
 | **Brewer** | Hopcraft Brewing |

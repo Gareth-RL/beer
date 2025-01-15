@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Neon Raptor DeLorean Dynamite
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neon Raptor DeLorean Dynamite
+BeerID: 818544
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: '"Poured hazy golden pale body with white lace top. Aroma has grapefruit
+  citrus pineapple notes. Taste is medium sweet souring softly to bitter with a gentle
+  finish. . Palate is medium bodied clammy feel soft carbonation and a light finish.
+  This is the third NEIPA of theirs that I have added and as variants on a theme,
+  this is the easy drinking one. It''s also deceptively the strongest in abv."'
+Country: England
+Date: '"3/15/2020 4:43:32 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale - Hazy / New England
+Taste: 7.0
 ---
 
 # Neon Raptor DeLorean Dynamite
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 818544 |
 | **Beer** | Neon Raptor DeLorean Dynamite |
 | **Brewer** | Neon Raptor Brewing Co. |

@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Leyden Oyster Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Leyden Oyster Stout
+BeerID: 65628
+Brewer: Leyden Brewing
+City: Bury
+Comments: Cask. Pours dark brown with red tints in the light, bubbly top, but as a
+  tap pour no great head or lace. Aroma dark bitter chocolate culinary strength with
+  licorice and for me, something evocative of the dockside. Predictably malty in the
+  taste with oat bread and yeast competing with caramel and generally winning. Watery
+  rather than fuller on the palate although there’s a potent bitter afterburner. Good
+  of its type which is all one can ask. But ultimately decide your type and mine is
+  not oyster.
+Country: England
+Date: '"3/14/2016 12:45:50 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Greater Manchester
+Style: Stout
+Taste: 7.0
 ---
 
 # Leyden Oyster Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 65628 |
 | **Beer** | Leyden Oyster Stout |
 | **Brewer** | Leyden Brewing |

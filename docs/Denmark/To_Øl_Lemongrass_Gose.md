@@ -1,12 +1,27 @@
 ---
-layout: default
-title: To Øl Lemongrass Gose
+Appearance: 4.0
+Aroma: 6.0
+Beer: To Øl Lemongrass Gose
+BeerID: 504731
+Brewer: To Øl
+City: Svinninge
+Comments: '"Tap. Pours hazy orange yellow with thin lace circle. Aroma is modestly
+  citric. And taste is similarly moderated: Medium sour medium sweet light bitterness.
+  But refreshing enough "'
+Country: Denmark
+Date: '"7/24/2017 11:07:37 AM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: .nan
+Style: Gose - Flavored
+Taste: 6.0
 ---
 
 # To Øl Lemongrass Gose
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 504731 |
 | **Beer** | To Øl Lemongrass Gose |
 | **Brewer** | To Øl |

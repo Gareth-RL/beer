@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lost And Grounded Starsky
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lost And Grounded Starsky
+BeerID: 976224
+Brewer: Lost And Grounded Brewers
+City: Bristol
+Comments: 'Poured dark ruby chestnut body tan lace diminishing to halo. Aroma of roasted
+  malts coffee and chocolate. Medium sweet to bitter with more chocolate and berry
+  fruit notes. Medium bodied smooth texture average carbonation and a bitter finish.
+  Decent enough '
+Country: England
+Date: '"1/19/2024 3:37:49 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Gloucestershire
+Style: Stout - Oatmeal
+Taste: 6.0
 ---
 
 # Lost And Grounded Starsky
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 976224 |
 | **Beer** | Lost And Grounded Starsky |
 | **Brewer** | Lost And Grounded Brewers |

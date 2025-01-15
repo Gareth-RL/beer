@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Adnams Nut Brown Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Adnams Nut Brown Ale
+BeerID: 13216
+Brewer: Adnams
+City: Southwold
+Comments: 'Clear brown amber body white lace top. Aroma of roasted malts and nutty
+  hints. Medium sweet to bitter more light caramel and nut malts. Medium bodied grainy
+  texture average carbonation and a bitter finish. Decent enough '
+Country: England
+Date: '"10/19/2023 2:28:26 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Suffolk
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Adnams Nut Brown Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 13216 |
 | **Beer** | Adnams Nut Brown Ale |
 | **Brewer** | Adnams |

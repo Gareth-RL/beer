@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Church End Rest in Peace (RIP)
+Appearance: 4.0
+Aroma: 5.0
+Beer: Church End Rest in Peace (RIP)
+BeerID: 18782
+Brewer: Church End Brewery
+City: Nuneaton
+Comments: Poured copper body off white lace. Aroma odd woody and fruit syrup.  Taste
+  is medium sweet to souring bitter. Medium bodied grainy texture average carbonation
+  and a bitter finish. Not good without being all bad
+Country: England
+Date: '"2/6/2023 2:10:23 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Warwickshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Church End Rest in Peace (RIP)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 18782 |
 | **Beer** | Church End Rest in Peace (RIP) |
 | **Brewer** | Church End Brewery |

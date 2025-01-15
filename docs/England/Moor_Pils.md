@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Moor Pils
+Appearance: 4.0
+Aroma: 5.0
+Beer: Moor Pils
+BeerID: 666084
+Brewer: Moor Beer Co.
+City: Bristol
+Comments: poured a pale yellow gold body with thin diminishing lacing. Aroma has a
+  little grassy hop and pale malts. Taste is lightly sweet with a medium grainy grassy
+  bitterness to follow. Palate is light to medium bodied, average carbonation, husky
+  feel in the mouth and a soft finish. Another lager that I can drink without a grimace.
+Country: England
+Date: '"6/29/2020 3:12:55 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Gloucestershire
+Style: Pilsener / Pils / Pilsner
+Taste: 7.0
 ---
 
 # Moor Pils
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 666084 |
 | **Beer** | Moor Pils |
 | **Brewer** | Moor Beer Co. |

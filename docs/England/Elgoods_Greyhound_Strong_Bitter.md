@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Elgoods Greyhound Strong Bitter
+Appearance: 4.0
+Aroma: 6.0
+Beer: Elgoods Greyhound Strong Bitter
+BeerID: 4307
+Brewer: Elgoods Brewery
+City: Wisbech
+Comments: Cask. Pours chestnut brown with white lace top. Some toffee malt and stewed
+  fruit on the nose. Tastes more bitter and hoppy than the scent suggests. More roasted
+  cereal notes than raisin on the tongue to my mind. But given that the last three
+  beers I rated were bland and forgettable, this is an improvement. It’s a medium
+  bodied bitter with a strong lasting bitterness on the palate and there’s a place
+  for that. Although it’s shrinking.
+Country: England
+Date: '"4/6/2016 12:46:52 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Cambridgeshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 7.0
 ---
 
 # Elgoods Greyhound Strong Bitter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 4307 |
 | **Beer** | Elgoods Greyhound Strong Bitter |
 | **Brewer** | Elgoods Brewery |

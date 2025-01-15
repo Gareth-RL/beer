@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Northern Monk / Equilibrium  Whale of Two Cities (Patrons Project 3.06)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Northern Monk / Equilibrium  Whale of Two Cities (Patrons Project 3.06)
+BeerID: 679494
+Brewer: Northern Monk Brew Co.
+City: Leeds
+Comments: '"This infuriates me. I don''t rate many beers above 3 5. So this was good
+  stuff but the demons of the internet drank my review which was in the kind of blank
+  verse that Shakespeare dabbled in. That''s gone. I cannot bring it back. All I would
+  say is drink this"'
+Country: England
+Date: '"11/29/2018 6:23:39 PM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: West Yorkshire
+Style: IIPA DIPA - Imperial / Double Hazy (NEIPA)
+Taste: 8.0
 ---
 
 # Northern Monk / Equilibrium  Whale of Two Cities (Patrons Project 3.06)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 679494 |
 | **Beer** | Northern Monk / Equilibrium  Whale of Two Cities (Patrons Project 3.06) |
 | **Brewer** | Northern Monk Brew Co. |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Funky Fluid Winter Cake
+Appearance: 4.0
+Aroma: 7.0
+Beer: Funky Fluid Winter Cake
+BeerID: 964257
+Brewer: Browar Funky Fluid
+City: Warszawa
+Comments: Depends on your love of chocolate orange. A Xmas perennial in the UK. Poured
+  black with tan lace top. Aroma has orange extract atop chocolate malts with spicy
+  notes. Taste is hyper sweet with a chocolate backnote but not much in the way of
+  complexity or transition. Palate is thin but sticky with a grainy finish. An abiding
+  sense of artificiality.
+Country: Poland
+Date: '"12/13/2021 3:52:21 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 3.0
+State: Masovian
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Funky Fluid Winter Cake
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 964257 |
 | **Beer** | Funky Fluid Winter Cake |
 | **Brewer** | Browar Funky Fluid |

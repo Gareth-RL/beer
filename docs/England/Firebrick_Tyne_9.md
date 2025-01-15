@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Firebrick Tyne 9
+Appearance: 4.0
+Aroma: 6.0
+Beer: Firebrick Tyne 9
+BeerID: 236861
+Brewer: Firebrick Brewery
+City: Blaydon on Tyne
+Comments: 'Cask at The Crafty Crow Nottingham. Setting aside the way my modest dislike
+  of Alan Shearer has grown exponentially with his punditry, this is a mysterious
+  brew. Yes certainly more Schwartz bier than porter. Aroma has roasted malts to the
+  fore. Pours dark amber with off white lace top. Taste is medium sweet to bitter.although
+  the sweetness lingers. Palate is is medium bodied, oily feel, average carbonation
+  and a soft slightly sweet finish so no lager crisp finish. But at 3.9% it punches
+  way above its weight in terms of taste and complexity '
+Country: England
+Date: '"11/17/2018 5:41:34 PM"'
+MyScore: 3.6
+Overall: 15.0
+Palate: 4.0
+State: Tyne &amp; Wear
+Style: Schwarzbier / Black Lager
+Taste: 7.0
 ---
 
 # Firebrick Tyne 9
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 236861 |
 | **Beer** | Firebrick Tyne 9 |
 | **Brewer** | Firebrick Brewery |

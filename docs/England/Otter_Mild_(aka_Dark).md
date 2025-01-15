@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Otter Mild (aka Dark)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Otter Mild (aka Dark)
+BeerID: 121308
+Brewer: Otter Brewery
+City: Honiton
+Comments: 'Poured ruby chestnut body tan lace top. Aroma of roasted malts nuts and
+  coffee. Medium sweet to bitter with toffee at the front and licorice in the finish.
+  Medium bodied smooth texture average carbonation and a bitter finish. Certainly
+  better than many a Mild '
+Country: England
+Date: '"3/8/2024 2:57:08 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Devon
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Otter Mild (aka Dark)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 121308 |
 | **Beer** | Otter Mild (aka Dark) |
 | **Brewer** | Otter Brewery |

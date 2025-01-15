@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Tring Kotuku
+Appearance: 4.0
+Aroma: 4.0
+Beer: Tring Kotuku
+BeerID: 253423
+Brewer: Tring Brewery
+City: Tring
+Comments: The sun is shining and that is right for paler golden ales. This one has
+  a gentle grassy scent. A good golden yellow colour in the body and a thin film top.
+  The kindest way to describe the taste is balanced and understated. The hops are
+  certainly there but as it washes the palate the sharpness is subdued by a malty
+  coating. This gives it some persistence on the palate. Overall perfectly okay as
+  a session ale in a beer garden on a sunny evening. But not one to jump at.
+Country: England
+Date: '"5/26/2015 11:52:19 AM"'
+MyScore: 2.9
+Overall: 12.0
+Palate: 3.0
+State: Hertfordshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Tring Kotuku
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 253423 |
 | **Beer** | Tring Kotuku |
 | **Brewer** | Tring Brewery |

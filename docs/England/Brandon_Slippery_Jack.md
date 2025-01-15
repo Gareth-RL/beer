@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Brandon Slippery Jack
+Appearance: 3.0
+Aroma: 5.0
+Beer: Brandon Slippery Jack
+BeerID: 52715
+Brewer: Brandon Brewery
+City: Brandon
+Comments: Tap from the Barrel Drop. No great aroma just a whiff of stewed filter coffee.
+  A dark ale with thin tan head. Tastes of roasted malts with some sweetness. But
+  overall disappointing and dull.
+Country: England
+Date: '"1/18/2016 12:09:48 PM"'
+MyScore: 2.8
+Overall: 11.0
+Palate: 3.0
+State: Suffolk
+Style: Stout - Dry / Irish
+Taste: 6.0
 ---
 
 # Brandon Slippery Jack
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 52715 |
 | **Beer** | Brandon Slippery Jack |
 | **Brewer** | Brandon Brewery |

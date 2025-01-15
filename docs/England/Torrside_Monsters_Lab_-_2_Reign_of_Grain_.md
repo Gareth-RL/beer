@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Torrside Monsters Lab - 2 Reign of Grain 
+Appearance: 4.0
+Aroma: 8.0
+Beer: 'Torrside Monsters Lab - 2 Reign of Grain '
+BeerID: 541987
+Brewer: Torrside Brewing
+City: New Mills
+Comments: Pours black with tan lace. Strong aroma of roasted malts with licorice and
+  coffee notes. Taste is medium sweet with toffee and chocolate but sours to licorice
+  and bitterness. Palate is medium body, oily texture, soft to average carbonation
+  and a long finish with a hint of cough medicine. It needs to be more widely available
+  since 3 reviews in 3 years is meagre. Still it worked for me.
+Country: England
+Date: '"12/10/2020 1:45:23 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter - Baltic
+Taste: 7.0
 ---
 
 # Torrside Monsters Lab - 2 Reign of Grain 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 541987 |
 | **Beer** | Torrside Monsters Lab - 2 Reign of Grain  |
 | **Brewer** | Torrside Brewing |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Cascade Sang Royal
+Appearance: 4.0
+Aroma: 7.0
+Beer: Cascade Sang Royal
+BeerID: 99203
+Brewer: Cascade Brewing
+City: Portland
+Comments: Keg at The Junkyard Nottingham. Pours reddish brown amber with no lacing
+  to speak of. Aroma is definitely red wine tannin but with cherry or plum notes.
+  Taste is sweet to sour with the sourness above the medium range but then softening.
+  Palate is medium bodied, sticky texture, soft carbonation, and a sour finish with
+  grape notes. I did not know what to expect but it certainly takes my Sour register
+  in a new direction.
+Country: United States
+Date: '"6/12/2018 5:00:13 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Oregon
+Style: Sour / Wild Beer - Flavored
+Taste: 7.0
 ---
 
 # Cascade Sang Royal
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 99203 |
 | **Beer** | Cascade Sang Royal |
 | **Brewer** | Cascade Brewing |

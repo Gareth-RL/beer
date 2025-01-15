@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Cotleigh Osprey
+Appearance: 4.0
+Aroma: 6.0
+Beer: Cotleigh Osprey
+BeerID: 122123
+Brewer: Cotleigh Brewery
+City: Wiveliscombe
+Comments: Cask. Aroma roasted malt. Pours amber with thin white top. Tastes cherry
+  fruits and toasted malts. Medium bodied with soft oily finish. At 5% it should do
+  more with the malt.
+Country: England
+Date: '"8/2/2016 7:15:21 AM"'
+MyScore: 3.0
+Overall: 10.0
+Palate: 3.0
+State: Somerset
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 7.0
 ---
 
 # Cotleigh Osprey
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 122123 |
 | **Beer** | Cotleigh Osprey |
 | **Brewer** | Cotleigh Brewery |

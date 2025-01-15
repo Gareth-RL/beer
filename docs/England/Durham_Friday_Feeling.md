@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Durham Friday Feeling
+Appearance: 4.0
+Aroma: 6.0
+Beer: Durham Friday Feeling
+BeerID: 1160721
+Brewer: Durham Brewery
+City: Bowburn
+Comments: '"Honey comb and dark chocolate stout @TheMistRollingInn. Poured ruby dark
+  brown tan wash top. Candy and dark malt scent. Medium sweet with chocolate and caramel
+  evident but it is not a Crunchie. Thin to medium bodied smooth texture average carbonation
+  and a light bitter finish. Okay as sweet stouts go, but don''t go out of your way
+  for it."'
+Country: England
+Date: '"12/8/2023 4:18:02 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Durham
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Durham Friday Feeling
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1160721 |
 | **Beer** | Durham Friday Feeling |
 | **Brewer** | Durham Brewery |

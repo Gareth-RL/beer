@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Tongerlo Prior Tripel
+Appearance: 4.0
+Aroma: 6.0
+Beer: Tongerlo Prior Tripel
+BeerID: 101795
+Brewer: Haacht
+City: Boortmeerbeek
+Comments: Bottle. Poured clear pale golden body full foaming white top. The aroma
+  is certainly floral. Taste is lemon and grapefruit with a peppery back note. Medium
+  sweet to bitter with the spiciness evident in the finish. Medium bodied, drying
+  in the mouth, average + carbonation, and a spice finish. I am not a great Tripel
+  drinker and if I had spotted the 9% I might have waited to share the bottle. Still
+  it is pleasant and refreshing
+Country: Belgium
+Date: '"1/27/2023 12:47:05 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Flemish Brabant
+Style: Tripel
+Taste: 6.0
 ---
 
 # Tongerlo Prior Tripel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 101795 |
 | **Beer** | Tongerlo Prior Tripel |
 | **Brewer** | Haacht |

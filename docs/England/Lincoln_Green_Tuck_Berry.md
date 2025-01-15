@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Tuck Berry
+Appearance: 4.0
+Aroma: 7.0
+Beer: Lincoln Green Tuck Berry
+BeerID: 1144657
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: '"Poured dark brown body tan lace top. Aroma of cherry and chocolate. Taste
+  is medium sweet to bitter with more chocolate to blend with the cherry liquor taste.
+  Medium bodied smooth texture average carbonation and a bitter finish. A variant
+  that thankfully doesn''t destroy the original."'
+Country: England
+Date: '"9/30/2023 1:52:10 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # Lincoln Green Tuck Berry
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1144657 |
 | **Beer** | Lincoln Green Tuck Berry |
 | **Brewer** | Lincoln Green Brewing Co. |

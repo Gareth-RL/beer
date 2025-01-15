@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Acorn Gorlovka Imperial Stout
+Appearance: 3.0
+Aroma: 7.0
+Beer: Acorn Gorlovka Imperial Stout
+BeerID: 65504
+Brewer: Acorn Brewery
+City: Wombwell
+Comments: Cas. Malty with a whiff of gravy powder on the nose. Dark as befits an imperial
+  stout but the tan top could be improved in terms of creamy texture. Taste has smooth
+  roasted malt with a little fruit flitting through.and some coffee notes in the finish.
+  Imperial stout is not an easy style to master. I have yet to find my archetype but
+  this isn’t it.
+Country: England
+Date: '"5/20/2016 12:19:23 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: South Yorkshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Acorn Gorlovka Imperial Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 65504 |
 | **Beer** | Acorn Gorlovka Imperial Stout |
 | **Brewer** | Acorn Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Adnams Jack Brand Mosaic Pale Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Adnams Jack Brand Mosaic Pale Ale
+BeerID: 252859
+Brewer: Adnams
+City: Southwold
+Comments: Aroma of pale malts and light grapefruit hop. Pours amber body with white
+  lace. Taste is lightly sweet to medium bitter, dryer than expected. Palate is medium
+  bodied oily texture average carbonation and a bitter finish. Fair enough.  07/12/2019
+  second sipping. Same as above which is fair enough.
+Country: England
+Date: '"7/11/2019 3:31:46 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Suffolk
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Adnams Jack Brand Mosaic Pale Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 252859 |
 | **Beer** | Adnams Jack Brand Mosaic Pale Ale |
 | **Brewer** | Adnams |

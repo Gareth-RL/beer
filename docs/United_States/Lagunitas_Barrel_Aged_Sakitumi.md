@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Lagunitas Barrel Aged Sakitumi
+Appearance: 3.0
+Aroma: 6.0
+Beer: Lagunitas Barrel Aged Sakitumi
+BeerID: 768599
+Brewer: Lagunitas Brewing Company (Heineken)
+City: Petaluma
+Comments: '"On sale for just £4.00 per 2/3. Not usual for a 12.6% import. But it was
+  the Junkyard''s 5th birthday so maybe they cut a deal. But clearly available elsewhere.
+  Pours copper amber body thin lace. Aroma has a tannic note. Taste is medium sweet
+  to bitter with a buzzing fruitiness that suggests more than it delivers, like a
+  seer with a stammer. Not like any old ale I have had and I fear this is more Heineken
+  than Lagunitas."'
+Country: United States
+Date: '"9/17/2019 4:53:54 PM"'
+MyScore: 2.8
+Overall: 11.0
+Palate: 3.0
+State: California
+Style: Old Ale
+Taste: 5.0
 ---
 
 # Lagunitas Barrel Aged Sakitumi
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 768599 |
 | **Beer** | Lagunitas Barrel Aged Sakitumi |
 | **Brewer** | Lagunitas Brewing Company (Heineken) |

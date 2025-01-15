@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Zähringer German Beer Premium
+Appearance: 4.0
+Aroma: 4.0
+Beer: Zähringer German Beer Premium
+BeerID: 173794
+Brewer: Frankenthaler Brauhaus (Eichbaum)
+City: Frankenthal
+Comments: Can from Iperland supermarket in Mestre-Venezia (60cents a can). Poured
+  golden body, white lace. Aroma of cereal malts bready and a little grassy hop. Taste
+  is light sweet to bitter but very little to discuss. Light body, gassy, and no great
+  finish. You get what you pay for here.
+Country: Germany
+Date: '"4/16/2024 12:45:37 PM"'
+MyScore: 2.6
+Overall: 10.0
+Palate: 3.0
+State: Rhineland-Palatinate
+Style: Pale Lager - International / Premium
+Taste: 5.0
 ---
 
 # Zähringer German Beer Premium
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 173794 |
 | **Beer** | Zähringer German Beer Premium |
 | **Brewer** | Frankenthaler Brauhaus (Eichbaum) |

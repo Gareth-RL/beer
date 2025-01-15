@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Sadler's Peaky Blinder Black IPA
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Sadler''s Peaky Blinder Black IPA"'
+BeerID: 265930
+Brewer: '"Sadler&#39;s Ales"'
+City: Lye
+Comments: Cask. Aroma roasted malts and spice. Pours dark mahogany with creamy tan
+  head dissipating to broken lace. Taste has some chocolate malt and biscuit to the
+  fore but it finishes hoppy and with a pleasant wash to the palate, although there
+  is some strong herbal aftertaste For me a good example of a black IPA. And it explains
+  why I prefer porter and stout.
+Country: England
+Date: '"11/11/2016 11:18:59 AM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: West Midlands
+Style: IPA - Black / Brown / Cascadian Dark
+Taste: 6.0
 ---
 
 # Sadler's Peaky Blinder Black IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 265930 |
 | **Beer** | Sadler's Peaky Blinder Black IPA |
 | **Brewer** | Sadler&#39;s Ales |

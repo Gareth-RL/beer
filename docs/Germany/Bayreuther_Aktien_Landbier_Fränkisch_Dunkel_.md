@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Bayreuther Aktien Landbier Fränkisch Dunkel 
+Appearance: 4.0
+Aroma: 6.0
+Beer: 'Bayreuther Aktien Landbier Fränkisch Dunkel '
+BeerID: 89762
+Brewer: Bayreuther Bierbrauerei
+City: Bayreuth
+Comments: Bottle from Beers of Europe. Poured chestnut body off white lace. Aroma
+  of roasted malt and earthy straw hops. Medium sweet to bitter with a little toffee
+  malt along the way and a light bitter finish. Medium bodied, smooth texture, average
+  carbonation for a bottled beer and a bitter finish. I would happily drink it but
+  would not rate it among my top Dunkel lagers.
+Country: Germany
+Date: '"3/2/2024 4:27:33 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Bavaria
+Style: Dark Lager - Dunkel / Tmavý
+Taste: 7.0
 ---
 
 # Bayreuther Aktien Landbier Fränkisch Dunkel 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 89762 |
 | **Beer** | Bayreuther Aktien Landbier Fränkisch Dunkel  |
 | **Brewer** | Bayreuther Bierbrauerei |

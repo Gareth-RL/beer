@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Fat Pig Porco Rosso
+Appearance: 4.0
+Aroma: 7.0
+Beer: Fat Pig Porco Rosso
+BeerID: 494054
+Brewer: Fat Pig Brewery
+City: Exeter
+Comments: Brewed for the Leicester Beer Festival using very heavy peat smoked malt.
+  Predictably therefore this is what comes through on the malty nose. It is a ruby
+  amber colour with a thin top. The taste has dark fruits and beneath the smoke there
+  is a sweet languor although it remains light to medium on the palate.
+Country: England
+Date: '"3/10/2017 5:42:12 AM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: Devon
+Style: Smoked - Rauchbier
+Taste: 6.0
 ---
 
 # Fat Pig Porco Rosso
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 494054 |
 | **Beer** | Fat Pig Porco Rosso |
 | **Brewer** | Fat Pig Brewery |

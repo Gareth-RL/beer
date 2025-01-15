@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Derby Mercia IPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: Derby Mercia IPA
+BeerID: 212305
+Brewer: Derby Brewing
+City: Derby
+Comments: 'Poured clear golden body wash lacing. Aroma of floral hops and pale malt.
+  Medium sweet to bitter with fruit notes and a bitter malt finish. Medium bodied
+  grainy texture average carbonation and a bitter finish. True to type but in a dull
+  way '
+Country: England
+Date: '"5/21/2024 10:49:40 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Derby Mercia IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 212305 |
 | **Beer** | Derby Mercia IPA |
 | **Brewer** | Derby Brewing |

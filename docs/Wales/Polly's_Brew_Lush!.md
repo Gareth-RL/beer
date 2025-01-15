@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Polly's Brew Lush!
+Appearance: 4.0
+Aroma: 7.0
+Beer: '"Polly''s Brew Lush!"'
+BeerID: 989276
+Brewer: '"Polly&#39;s Brew Co."'
+City: Mold, Flintshire
+Comments: Poured hazy golden body white lace top. Aroma has the fruit mix of New world
+  hop. Taste is medium sweet to bitter with peach and pineapple blending nicely. Palate
+  is medium bodied smooth texture soft to average carbonation and a crisp bitter finish.
+  It will taste even better in the sunshine.
+Country: Wales
+Date: '"2/2/2022 5:54:04 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Clwyd
+Style: IPA - White
+Taste: 7.0
 ---
 
 # Polly's Brew Lush!
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 989276 |
 | **Beer** | Polly's Brew Lush! |
 | **Brewer** | Polly&#39;s Brew Co. |

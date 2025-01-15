@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Pilot Mochaccino Milk Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Pilot Mochaccino Milk Stout
+BeerID: 249877
+Brewer: Pilot Beer
+City: Edinburgh
+Comments: '"Tap @brewdog Nottingham. Pours dark with tan cream top. Aroma has coffee
+  caramel chocolate, vanilla, raisin, so all one can want from a sweet  milk stout.
+  Taste is medium to full sweet with a background bitterness that never really asserts
+  itself. Palate is medium body, creamy, sticky, feel, soft carbonation, edging towards
+  flat and a lazy rather than long finish with flicks of bitterness. I could face
+  an Edinburgh winter night with one of these in my belly. 22/10/23 I had better taste
+  buds 6 years ago. But it''s still good "'
+Country: Scotland
+Date: '"11/6/2017 11:12:07 AM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Lothian
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Pilot Mochaccino Milk Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 249877 |
 | **Beer** | Pilot Mochaccino Milk Stout |
 | **Brewer** | Pilot Beer |

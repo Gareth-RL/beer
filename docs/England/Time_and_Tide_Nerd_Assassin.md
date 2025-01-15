@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Time and Tide Nerd Assassin
+Appearance: 4.0
+Aroma: 6.0
+Beer: Time and Tide Nerd Assassin
+BeerID: 645291
+Brewer: Time and Tide Brewing
+City: Worth
+Comments: '"Tap at The Junkyard Nottingham. Pours cloudy yellow gold with white foam
+  top. Aroma has hay, citrus, and more pith than juice. Taste is medium bitter and
+  lightly sweet. Palate is medium bodied, soft to average carbonation and a bitter
+  finish. Like many a New England IPA, I don&#39;t really get what they were aiming
+  for, but given the name, I may be yet to feel the wound."'
+Country: England
+Date: '"8/5/2018 2:57:24 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Kent
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Time and Tide Nerd Assassin
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 645291 |
 | **Beer** | Time and Tide Nerd Assassin |
 | **Brewer** | Time and Tide Brewing |

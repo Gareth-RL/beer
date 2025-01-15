@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Northern Monk / Seven Island  Lost Highway (Patrons Project 2.05)
+Appearance: 4.0
+Aroma: 7.0
+Beer: Northern Monk / Seven Island  Lost Highway (Patrons Project 2.05)
+BeerID: 615032
+Brewer: Northern Monk Brew Co.
+City: Leeds
+Comments: Tap at The Junkyard Nottingham. Pours murky orange peach juice. Aroma is
+  emphatically mango passionfruit with maybe some vanilla lurking in the peach notes.
+  Taste is fruit sweet initially but thereafter there is a bitter build up rather
+  than a souring so the lactose does not work well in my view. Palate is medium bodied,
+  creamy texture, soft to average carbonation, and a bitter acerbic finish. Not convinced
+  this could have been a decent APA, I suspect.
+Country: England
+Date: '"5/24/2018 5:43:51 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: West Yorkshire
+Style: IPA - Milkshake / Smoothie
+Taste: 6.0
 ---
 
 # Northern Monk / Seven Island  Lost Highway (Patrons Project 2.05)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 615032 |
 | **Beer** | Northern Monk / Seven Island  Lost Highway (Patrons Project 2.05) |
 | **Brewer** | Northern Monk Brew Co. |

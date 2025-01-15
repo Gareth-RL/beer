@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Samuel Smiths Organic  Apricot  Fruit Beer
+Appearance: 4.0
+Aroma: 7.0
+Beer: Samuel Smiths Organic  Apricot  Fruit Beer
+BeerID: 169095
+Brewer: Samuel Smith
+City: Tadcaster
+Comments: 'You will either love it or hate it, depending on how sweet you like your
+  apricots. The aroma is apricot jam. Poured golden with white lace top. Taste is
+  full fruited and sweet with just a backnote of bitterness. Palate is clammy sticky
+  jammy but not that heavy. Average carbonation and a light bitter finish. I drink
+  a fruit beer expecting fruit and this has apricot in abundance but not a lot else. '
+Country: England
+Date: '"2/16/2022 6:56:59 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 3.0
+State: North Yorkshire
+Style: Flavored - Fruit
+Taste: 8.0
 ---
 
 # Samuel Smiths Organic  Apricot  Fruit Beer
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 169095 |
 | **Beer** | Samuel Smiths Organic  Apricot  Fruit Beer |
 | **Brewer** | Samuel Smith |

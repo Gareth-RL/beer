@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Three Hills Trium Faba
+Appearance: 4.0
+Aroma: 8.0
+Beer: Three Hills Trium Faba
+BeerID: 900154
+Brewer: Three Hills Brewing
+City: Woodford
+Comments: Poured dark brown almost black with tan lace. Aroma of roasted malt coffee
+  chocolate vanilla and tonka. Taste is full sweet to lightly nutty. Vanilla marshmallow
+  and tonka spiciness. Medium bodied smooth texture average to soft carbonation the
+  spicy finish disguises the alcohol heat. A very decent imperial
+Country: England
+Date: '"1/31/2022 12:34:57 PM"'
+MyScore: 3.9
+Overall: 15.0
+Palate: 4.0
+State: Northamptonshire
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # Three Hills Trium Faba
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 900154 |
 | **Beer** | Three Hills Trium Faba |
 | **Brewer** | Three Hills Brewing |

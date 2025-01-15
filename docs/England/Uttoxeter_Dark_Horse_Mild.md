@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Uttoxeter Dark Horse Mild
+Appearance: 4.0
+Aroma: 6.0
+Beer: Uttoxeter Dark Horse Mild
+BeerID: 1019604
+Brewer: Uttoxeter Brewing Company
+City: Uttoxeter
+Comments: 'Poured dark chestnut body off white lace top. Aroma of roasted malts and
+  stone fruits. Medium sweet to bitter stewed fruit and bitter hop.it sours. Watery,
+  smooth texture average to soft carbonation and a bitter sour finish. Not the mild
+  for me. 12/05)24 second sipping for the Mild Trail '
+Country: England
+Date: '"10/31/2023 3:08:44 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Staffordshire
+Style: Mild Ale
+Taste: 5.0
 ---
 
 # Uttoxeter Dark Horse Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1019604 |
 | **Beer** | Uttoxeter Dark Horse Mild |
 | **Brewer** | Uttoxeter Brewing Company |

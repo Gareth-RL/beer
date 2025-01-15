@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Blue Monkey Chimply Red
+Appearance: 4.0
+Aroma: 6.0
+Beer: Blue Monkey Chimply Red
+BeerID: 581742
+Brewer: Blue Monkey Brewery
+City: Nottingham
+Comments: '"bread, nuts, herbs, woody, scent. Pours amber with ruby lights. White
+  lace top diminishing. Taste is lightly sweet and medium growing bitter with a sustained
+  hop fruitiness. Palate is medium bodied,oily texture, average to soft carbonation,
+  and a soft bitter finish. A decent cask pint but what to call it? Hardly an ESB,
+  and not a brown ale. There&#39;s a monkey in the works."'
+Country: England
+Date: '"1/4/2018 12:26:09 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # Blue Monkey Chimply Red
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 581742 |
 | **Beer** | Blue Monkey Chimply Red |
 | **Brewer** | Blue Monkey Brewery |

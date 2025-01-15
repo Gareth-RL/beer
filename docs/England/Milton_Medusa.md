@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Milton Medusa
+Appearance: 4.0
+Aroma: 7.0
+Beer: Milton Medusa
+BeerID: 123696
+Brewer: Milton Brewery
+City: Waterbeach
+Comments: '"Cask at the Sir John. Aroma of stewed fruits &#40;I mean that in a good
+  way&#41;. Copper brown,  lace top. Tastes of biscuit malts as a mild probably should
+  but has some raisin sweet notes. Palate is more hoppy. Overall it is modest for
+  it’s abv."'
+Country: England
+Date: '"1/6/2016 12:30:52 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 3.0
+State: Cambridgeshire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Milton Medusa
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 123696 |
 | **Beer** | Milton Medusa |
 | **Brewer** | Milton Brewery |

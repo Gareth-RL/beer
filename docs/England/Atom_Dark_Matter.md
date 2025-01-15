@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Atom Dark Matter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Atom Dark Matter
+BeerID: 290993
+Brewer: Atom Beers
+City: Hull
+Comments: '"Pours dark brown with thin tan top. Aroma has cereal malty note: nutty,
+  oatmeal, hint of liquorice. Taste is medium sweet to bitter with brown bready finish.
+  Palate is medium bodied, smooth texture, average carbonation, although could be
+  deemed higher for a stout, and a bitter finish. Overall, a decent beer with some
+  complexity and charm."'
+Country: England
+Date: '"8/21/2021 1:14:12 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: East Yorkshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Atom Dark Matter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 290993 |
 | **Beer** | Atom Dark Matter |
 | **Brewer** | Atom Beers |

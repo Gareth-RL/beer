@@ -1,12 +1,32 @@
 ---
-layout: default
-title: Verhaeghe Vichtenaar
+Appearance: 4.0
+Aroma: 8.0
+Beer: Verhaeghe Vichtenaar
+BeerID: 6950
+Brewer: Verhaeghe
+City: Vichte
+Comments: '"Poured reddish chestnut body light brown tan lacing. Aroma has berries
+  and plums and oak. The taste, as promised is sour and fruity with a lot to unpack:
+  I got a hint of cherry and raspberry as well as plum and even fig. The oak is also
+  there and the taste is persistently sour without, IMO, becoming acidic. Palate is
+  medium bodied, smooth but with some tannic residue, soft carbonation and a long
+  light sour finish. I know one shouldn''t but I am struck by how much this appeals
+  to the Scandinavian connoisseurs, and less so to the Canadians and Brits. I guess
+  I am an Oud bruins kinda guy."'
+Country: Belgium
+Date: '"6/12/2022 4:15:11 PM"'
+MyScore: 4.0
+Overall: 16.0
+Palate: 4.0
+State: West Flanders
+Style: Sour Flemish Ale - Flanders Red / Oud Bruin
+Taste: 8.0
 ---
 
 # Verhaeghe Vichtenaar
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 6950 |
 | **Beer** | Verhaeghe Vichtenaar |
 | **Brewer** | Verhaeghe |

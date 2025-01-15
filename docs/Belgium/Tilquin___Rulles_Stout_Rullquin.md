@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Tilquin / Rulles Stout Rullquin
+Appearance: 4.0
+Aroma: 6.0
+Beer: Tilquin / Rulles Stout Rullquin
+BeerID: 233726
+Brewer: Gueuzerie Tilquin
+City: Rebecq-Rognon
+Comments: 'Oh my. Not stout but a sour and a funky one. The most pleasant scent in
+  the aroma is possibly cherries. The body is reddish chestnut with lasting off white
+  lace. The taste is medium sweet to sour with tart spicy herbal notes. Palate is
+  light to medium bodied drying mouth feel some mineral notes in the finish. It will
+  not draw me back. '
+Country: Belgium
+Date: '"2/14/2022 4:09:29 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: Walloon Brabant
+Style: Sour / Wild Beer - Dark
+Taste: 6.0
 ---
 
 # Tilquin / Rulles Stout Rullquin
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 233726 |
 | **Beer** | Tilquin / Rulles Stout Rullquin |
 | **Brewer** | Gueuzerie Tilquin |

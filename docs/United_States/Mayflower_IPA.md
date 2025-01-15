@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Mayflower IPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: Mayflower IPA
+BeerID: 86841
+Brewer: Mayflower Brewing Company
+City: Plymouth
+Comments: 'Tap. Aroma pine and citrus notes but not as pungent as some beers with
+  west coast hops. Pours amber gold with thin white top and broken lace. Initial taste
+  is lightly sweet with some background saltiness. There is a pleasant malt backbone
+  here that textures the shift to a medium bitter finish. medium body, soft carbonation,
+  thin feel, mean that it is a good IPA that I won’t remember '
+Country: United States
+Date: '"4/24/2017 5:09:36 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Massachusetts
+Style: IPA
+Taste: 6.0
 ---
 
 # Mayflower IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 86841 |
 | **Beer** | Mayflower IPA |
 | **Brewer** | Mayflower Brewing Company |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Kinnegar Crossroads
+Appearance: 4.0
+Aroma: 7.0
+Beer: Kinnegar Crossroads
+BeerID: 339780
+Brewer: Kinnegar Brewing
+City: Letterkenny
+Comments: Scent combines grapefruit and roasted malts. Pours copper with off white
+  lace (struck by the range of description among reviewers - odd, frankly). Taste
+  is medium bitter but with a rich fruitiness suggestive of pomegranate! Palate is
+  medium bodied oily texture average carbonation and a bitter finish. Tis a rare thing,
+  a good Irish craft beer, may it multiply.
+Country: Ireland
+Date: '"9/17/2019 3:10:02 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: County Donegal
+Style: IPA
+Taste: 8.0
 ---
 
 # Kinnegar Crossroads
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 339780 |
 | **Beer** | Kinnegar Crossroads |
 | **Brewer** | Kinnegar Brewing |

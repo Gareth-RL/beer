@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Dukeries Farmers Branch
+Appearance: 3.0
+Aroma: 8.0
+Beer: Dukeries Farmers Branch
+BeerID: 355335
+Brewer: Dukeries Brewery
+City: Worksop
+Comments: Cask guest ale at the Hand and Heart. Predictably citrus on the nose and
+  hops on the tongue. Golden with uneven spotted lace top. Sharp and refreshing as
+  promised. And 5% abv. A beer for a languid summer. For any young man teetering on
+  the brink from lager to real ale this may be a gateway. And then you can grow up.
+Country: England
+Date: '"9/12/2015 12:33:39 PM"'
+MyScore: 3.0
+Overall: 10.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Dukeries Farmers Branch
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 355335 |
 | **Beer** | Dukeries Farmers Branch |
 | **Brewer** | Dukeries Brewery |

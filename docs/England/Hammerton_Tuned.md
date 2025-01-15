@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Hammerton Tuned
+Appearance: 4.0
+Aroma: 7.0
+Beer: Hammerton Tuned
+BeerID: 953010
+Brewer: Hammerton Brewery
+City: Islington
+Comments: Poured hazy pale orange with white lace top. Aroma has pine and passion
+  fruit. Taste is medium sweet to bitter with grapefruit vying with passion fruit
+  and the grapefruit won. Largely because the pine notes cut it off at the knees.
+  Palate is medium bodied mineral texture average carbonation and a bitter finish.
+  A diffident New Englander if there is such a thing.
+Country: England
+Date: '"1/23/2022 5:35:20 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Greater London
+Style: Pale Ale - Hazy / New England
+Taste: 7.0
 ---
 
 # Hammerton Tuned
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 953010 |
 | **Beer** | Hammerton Tuned |
 | **Brewer** | Hammerton Brewery |

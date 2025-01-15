@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Plane Runner
+Appearance: 4.0
+Aroma: 7.0
+Beer: Lincoln Green Plane Runner
+BeerID: 1118022
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: '"Poured hazy golden body white lace top with yeast spots. Aroma of citrus
+  hops pale malts and yeast esters. Medium sweet to bitter with pleasant malt input.
+  Medium bodied grainy texture average carbonation and a bitter finish. Not sure where
+  the Norwegian farmhouse ale quality kicks in. But it''s fine."'
+Country: England
+Date: '"6/16/2023 3:05:31 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA
+Taste: 7.0
 ---
 
 # Lincoln Green Plane Runner
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1118022 |
 | **Beer** | Lincoln Green Plane Runner |
 | **Brewer** | Lincoln Green Brewing Co. |

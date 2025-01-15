@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Muirhouse Magnum Mild
+Appearance: 4.0
+Aroma: 8.0
+Beer: Muirhouse Magnum Mild
+BeerID: 145953
+Brewer: Muirhouse Brewery
+City: Ilkeston
+Comments: 'Cask. Intriguing aroma that modulates from smoked wood and toast to begin
+  and then reveals coffee and chocolate malts. Impressive. Pours very dark brown with
+  tan cream top and ruby notes. Taste is creamier than I was anticipating with caramel
+  and coffee to the fore and thus sweet but the finish is more blended. It stays on
+  the palate and could cloy but overall a fine mild and for my money the best of the
+  Muirhouse range currently. '
+Country: England
+Date: '"12/15/2016 12:27:10 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Mild Ale
+Taste: 7.0
 ---
 
 # Muirhouse Magnum Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 145953 |
 | **Beer** | Muirhouse Magnum Mild |
 | **Brewer** | Muirhouse Brewery |

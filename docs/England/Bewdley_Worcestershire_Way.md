@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Bewdley Worcestershire Way
+Appearance: 4.0
+Aroma: 6.0
+Beer: Bewdley Worcestershire Way
+BeerID: 113684
+Brewer: Bewdley Brewery
+City: Bewdley
+Comments: On the board as a bitter. Golden body white lace top. Grassy verging  on
+  veg in the scent. Initial fruit sweetness but rapid lemony transit to medium bitter.
+  Medium bodied smooth texture average carbonation and a bitter finish. Never thought
+  it would be better than the Wiper & True.
+Country: England
+Date: '"3/6/2023 1:50:17 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Worcestershire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Bewdley Worcestershire Way
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 113684 |
 | **Beer** | Bewdley Worcestershire Way |
 | **Brewer** | Bewdley Brewery |

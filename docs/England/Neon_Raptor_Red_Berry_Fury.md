@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Neon Raptor Red Berry Fury
+Appearance: 4.0
+Aroma: 6.0
+Beer: Neon Raptor Red Berry Fury
+BeerID: 648616
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: 'Tap at The Neon Raptor taproom Nottingham. It was popular with locals who
+  had it by the pint. Aroma has a definite dairy note that for me eclipsed the fruit
+  although some cranberries survived. Pours a red wine scarlet with bubbles more than
+  lace atop. Taste is medium sour but with what is reminiscent of cheese along the
+  way. Palate is medium bodied sticky feel average carbonation and a long finish.
+  I wanted this to be better than it was as NB look like brewers who will do great
+  ale. But judging by other Berliner this is a work in progress '
+Country: England
+Date: '"8/18/2018 4:28:06 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Berliner Weisse - Flavored / Catharina Sour
+Taste: 6.0
 ---
 
 # Neon Raptor Red Berry Fury
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 648616 |
 | **Beer** | Neon Raptor Red Berry Fury |
 | **Brewer** | Neon Raptor Brewing Co. |

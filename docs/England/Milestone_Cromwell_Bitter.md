@@ -1,12 +1,35 @@
 ---
-layout: default
-title: Milestone Cromwell Bitter
+Appearance: 5.0
+Aroma: 6.0
+Beer: Milestone Cromwell Bitter
+BeerID: 217365
+Brewer: Milestone Brewing
+City: Newark
+Comments: '"Bottle. It looks the part: rich and clear, chestnut body with good foam
+  lace top. Aroma is bread malts not much hop in there just a hint of hedge more the
+  twig than the fruit. But there is something about the style that doesn''t play to
+  dramatic scents. Taste is medium sweet to bitter. Largely balanced but the bitter
+  has more length. A good companion to a cheese Ploughman''s, methinks. Less precisely
+  matched to zucchini risotto, on this occasions. Medium to light bodied, smooth texture,
+  average carbonation and a bitter finish with the legendary twiggy note. I think
+  we need to give traditional beer a break and rate the style. You won''t get the
+  fruit salad explosion of the new hoppy pales, and you won''t get the dense taste
+  mix of the pastry stouts, so when drinking bitter, try to appreciate English understatement.
+  I am making that attempt."'
+Country: England
+Date: '"8/1/2021 12:10:21 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Milestone Cromwell Bitter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 217365 |
 | **Beer** | Milestone Cromwell Bitter |
 | **Brewer** | Milestone Brewing |

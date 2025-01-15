@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Turning Point Minimal Water Damage
+Appearance: 3.0
+Aroma: 6.0
+Beer: Turning Point Minimal Water Damage
+BeerID: 942410
+Brewer: Turning Point Brew Co.
+City: Knaresborough
+Comments: Poured hazy golden with white lace top. Light grapefruit citrus scent. Taste
+  is medium sweet to bitter. Palate is medium bodied but with a chalky feel and a
+  bitter finish. Decent enough.
+Country: England
+Date: '"9/29/2021 4:37:30 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: North Yorkshire
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Turning Point Minimal Water Damage
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 942410 |
 | **Beer** | Turning Point Minimal Water Damage |
 | **Brewer** | Turning Point Brew Co. |

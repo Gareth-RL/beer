@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Dugges Big Idjit
+Appearance: 4.0
+Aroma: 7.0
+Beer: Dugges Big Idjit
+BeerID: 552695
+Brewer: Dugges Bryggeri
+City: Landvetter
+Comments: '"Tap at the Junkyard. Pours expresso black with tan halo. Aroma roasted
+  malts some chocolate coffee vanilla notes but not quite as overpowering as feared.
+  Taste is medium bitter to sweet with definite chocolate notes. Palate is fantastic.
+  My best yet full bodied creamy and rich, flat carbonation and a not so much languor
+  that you hesitate to sip again. Alright it&#39;s a finale beer but deservedly so"'
+Country: Sweden
+Date: '"11/30/2017 12:49:54 PM"'
+MyScore: 4.1
+Overall: 17.0
+Palate: 5.0
+State: Västra Götaland
+Style: Stout - Imperial
+Taste: 8.0
 ---
 
 # Dugges Big Idjit
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 552695 |
 | **Beer** | Dugges Big Idjit |
 | **Brewer** | Dugges Bryggeri |

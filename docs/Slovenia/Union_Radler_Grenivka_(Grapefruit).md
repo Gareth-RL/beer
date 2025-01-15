@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Union Radler Grenivka (Grapefruit)
+Appearance: 3.0
+Aroma: 5.0
+Beer: Union Radler Grenivka (Grapefruit)
+BeerID: 128817
+Brewer: Pivovarna Union (Laško - Heineken)
+City: Ljubljana
+Comments: 'Much depends on whether you think a radler should taste of beer. At 2%
+  abv, this one should. However, it smells and tastes like grapefruit soda. Cloudy
+  pale body white lace top.  Aroma of grapefruit and sugar. Sweet and a bitter fruit
+  stcky sugar finish. No beer or detected. But refreshing I guess  afrika beach bar
+  umag croatia. '
+Country: Slovenia
+Date: '"7/4/2024 3:17:35 PM"'
+MyScore: 2.7
+Overall: 11.0
+Palate: 3.0
+State: .nan
+Style: Radler / Shandy
+Taste: 5.0
 ---
 
 # Union Radler Grenivka (Grapefruit)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 128817 |
 | **Beer** | Union Radler Grenivka (Grapefruit) |
 | **Brewer** | Pivovarna Union (Laško - Heineken) |

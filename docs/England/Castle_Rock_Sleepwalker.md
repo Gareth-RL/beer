@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Castle Rock Sleepwalker
+Appearance: 4.0
+Aroma: 6.0
+Beer: Castle Rock Sleepwalker
+BeerID: 751244
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: '"A modest aroma with grassy hop notes amid pale malt.  Pours clear golden
+  with white lace. Taste is lightly sweet to bitter. Some pleasant fruit notes in
+  passing before a bitter finish. Texture is thin, watery feel, soft carbonation and
+  a bitter finish. It''s not clear whether this beer is named because the brewer made
+  it in his sleep or because it''s blandness is soporific. CR can do a lot better."'
+Country: England
+Date: '"8/2/2019 11:49:15 AM"'
+MyScore: 2.9
+Overall: 10.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Pale Ale
+Taste: 6.0
 ---
 
 # Castle Rock Sleepwalker
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 751244 |
 | **Beer** | Castle Rock Sleepwalker |
 | **Brewer** | Castle Rock Brewery |

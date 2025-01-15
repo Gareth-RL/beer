@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Burnt Mill Nebulous Fog
+Appearance: 4.0
+Aroma: 8.0
+Beer: Burnt Mill Nebulous Fog
+BeerID: 728084
+Brewer: Burnt Mill Brewery
+City: Stowmarket
+Comments: '"Aroma has the fruit that one comes to expect. Hands up, if you decide
+  to buy a papaya to see if it tastes like beer? Grapefruit guava melon pineapple
+  mango. Shake a tree. Pours hazy golden lace halo. The usual. Taste is mellow at
+  its mellowest: pillow mellow, cottonwool mellow - you get my drift.  And sweet.
+  Bitterness and sourness around the edges but sweet backbone. Nebulous fog. Palate
+  is medium bodied clammy feel soft carbonation and a finish like the folding of angels''
+  wings. I think I liked it "'
+Country: England
+Date: '"7/8/2019 4:57:23 PM"'
+MyScore: 4.0
+Overall: 16.0
+Palate: 4.0
+State: Suffolk
+Style: IIPA DIPA - Imperial / Double Hazy (NEIPA)
+Taste: 8.0
 ---
 
 # Burnt Mill Nebulous Fog
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 728084 |
 | **Beer** | Burnt Mill Nebulous Fog |
 | **Brewer** | Burnt Mill Brewery |

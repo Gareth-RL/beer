@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Liquid Light Mother North
+Appearance: 3.0
+Aroma: 8.0
+Beer: Liquid Light Mother North
+BeerID: 859355
+Brewer: Liquid Light Brewing Company
+City: Nottingham
+Comments: '"Pours a decidedly murky orange with a thin scummy top. Fortunately, the
+  aroma is better with melon, apricot and pineapples detectable. Taste is dank and
+  juicy with a medium sweet beginning and a sour vegetable finish. Palate is thin
+  to medium bodied, slightly cloying with some pith in the finish, and a soft to average
+  carbonation. It''s fruity in the best NEIPA tradition but there are other notes
+  in here that I could do without."'
+Country: England
+Date: '"8/14/2021 8:06:08 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Liquid Light Mother North
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 859355 |
 | **Beer** | Liquid Light Mother North |
 | **Brewer** | Liquid Light Brewing Company |

@@ -1,12 +1,33 @@
 ---
-layout: default
-title: Evil Twin Even More Coco Jesus 
+Appearance: 4.0
+Aroma: 8.0
+Beer: 'Evil Twin Even More Coco Jesus '
+BeerID: 524849
+Brewer: Evil Twin Brewing
+City: Queens
+Comments: '"Aroma has dark malts with coffee cocoa coconut and alcohol all present
+  and correct. Pours black with fading tan lace halo. Taste is medium to full sweet
+  with the maple syrup more evident on the tongue and other sugars fighting the alcohol
+  effect keeping the heat in check. Palate is full to medium bodied sticky feel soft
+  to average carbonation and a bitter alcohol finish. Maybe if the can hadn''t been
+  in the chill cabinet so long then the flavours would be more abundant. Still luxuriant
+  but more alcohol evident than the room temperature version. It teeters on the edge
+  of excellence but somehow like a student who is not quite a First it stays on the
+  lower side. Certainly one to return to."'
+Country: United States
+Date: '"1/30/2019 6:54:21 PM"'
+MyScore: 3.9
+Overall: 15.0
+Palate: 4.0
+State: New York
+Style: Stout - Imperial Flavored / Pastry
+Taste: 8.0
 ---
 
 # Evil Twin Even More Coco Jesus 
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 524849 |
 | **Beer** | Evil Twin Even More Coco Jesus  |
 | **Brewer** | Evil Twin Brewing |

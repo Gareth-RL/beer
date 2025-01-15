@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Blackjack Irk Street Pale
+Appearance: 4.0
+Aroma: 7.0
+Beer: Blackjack Irk Street Pale
+BeerID: 995046
+Brewer: Blackjack Beers
+City: Manchester
+Comments: 'Poured slightly hazy golden body thin lace top. Aroma of tropical fruit
+  hops pineapple papaya and mandarin. Medium sweet to bitter with more citrus in the
+  taste. Medium to light body smooth texture average carbonation and a bitter finish.
+  Decent enough stripped back as they say '
+Country: England
+Date: '"3/22/2024 4:23:22 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Greater Manchester
+Style: Pale Ale - American (APA)
+Taste: 7.0
 ---
 
 # Blackjack Irk Street Pale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 995046 |
 | **Beer** | Blackjack Irk Street Pale |
 | **Brewer** | Blackjack Beers |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Castle Rock James Shipstone
+Appearance: 4.0
+Aroma: 5.0
+Beer: Castle Rock James Shipstone
+BeerID: 346697
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: Shipstone’s has a nostalgic reputation in Nottingham so Castle Rock’s decision
+  to offer this variety may find a local market. No great aroma a little yeasty. Good
+  honey colour and thin top. Taste is one of growing intensity with strong grapefruits’
+  in the lingering finish.Light beginnings are succeeded by a resinous palate. I can’t
+  say I’m pining for days gone by.
+Country: England
+Date: '"8/27/2015 10:24:49 AM"'
+MyScore: 2.8
+Overall: 9.0
+Palate: 4.0
+State: Nottinghamshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Castle Rock James Shipstone
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 346697 |
 | **Beer** | Castle Rock James Shipstone |
 | **Brewer** | Castle Rock Brewery |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Terzo Tempo
+Appearance: 4.0
+Aroma: 5.0
+Beer: Terzo Tempo
+BeerID: 241515
+Brewer: Birrificio Argo
+City: Parma
+Comments: Aroma has some malt but muted hop (brewer promises floral. ) Pour amber
+  gold body thin lace. Taste is medium sweet to lightly bitter. Palate is medium bodied
+  clammy/creamy texture average to soft carbonation and a light bitter finish. In
+  the Wetherspoons festival but hardly a measure of the Italian beer scene.
+Country: Italy
+Date: '"10/9/2019 5:04:55 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Emilia-Romagna
+Style: Cream Ale
+Taste: 6.0
 ---
 
 # Terzo Tempo
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 241515 |
 | **Beer** | Terzo Tempo |
 | **Brewer** | Birrificio Argo |

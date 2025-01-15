@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Bang The Elephant Thunder Child
+Appearance: 4.0
+Aroma: 7.0
+Beer: Bang The Elephant Thunder Child
+BeerID: 773249
+Brewer: Bang The Elephant Brewing
+City: Langley Mill
+Comments: Light floral hops in the scent. Pours hazy golden body with white lace top.
+  Taste is medium sweet but with a drying hop bitterness. Palate is medium bodied
+  oily texture average carbonation and a bitter finish. Of newish local brewers BTE
+  are among the best.
+Country: England
+Date: '"10/12/2019 11:54:28 AM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Pale Ale - American (APA)
+Taste: 8.0
 ---
 
 # Bang The Elephant Thunder Child
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 773249 |
 | **Beer** | Bang The Elephant Thunder Child |
 | **Brewer** | Bang The Elephant Brewing |

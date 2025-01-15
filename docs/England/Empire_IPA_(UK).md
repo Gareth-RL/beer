@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Empire IPA (UK)
+Appearance: .nan
+Aroma: .nan
+Beer: Empire IPA (UK)
+BeerID: 101890
+Brewer: Empire Brewing Co.
+City: Slaithwaite
+Comments: ' '
+Country: England
+Date: '"8/7/2017 8:30:44 AM"'
+MyScore: 2.0
+Overall: .nan
+Palate: .nan
+State: West Yorkshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: .nan
 ---
 
 # Empire IPA (UK)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 101890 |
 | **Beer** | Empire IPA (UK) |
 | **Brewer** | Empire Brewing Co. |

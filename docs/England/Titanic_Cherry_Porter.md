@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Titanic Cherry Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Titanic Cherry Porter
+BeerID: 1001891
+Brewer: Titanic Brewery (UK)
+City: Stoke-on-Trent
+Comments: 'Poured rich red chestnut body tan lace top. Definite cherry essence scent.  Medium
+  to full sweet initially with more of a collapse than a transition to a bitter sour
+  finish. Medium bodied smooth texture average carbonation and a bitter finish. I
+  remember back in the day regarding the Plum Porter as glorious, which reflected
+  the times. This is equally cherry but times have changed. '
+Country: England
+Date: '"11/13/2024 5:21:45 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: Staffordshire
+Style: Porter - Flavored
+Taste: 6.0
 ---
 
 # Titanic Cherry Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1001891 |
 | **Beer** | Titanic Cherry Porter |
 | **Brewer** | Titanic Brewery (UK) |

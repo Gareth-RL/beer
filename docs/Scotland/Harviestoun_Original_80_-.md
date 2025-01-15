@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Harviestoun Original 80/-
+Appearance: .nan
+Aroma: .nan
+Beer: Harviestoun Original 80/-
+BeerID: 398336
+Brewer: Harviestoun Brewery
+City: Alva, Stirlingshire
+Comments: ' '
+Country: Scotland
+Date: '"10/26/2016 12:08:57 PM"'
+MyScore: 1.0
+Overall: .nan
+Palate: .nan
+State: Central Scotland
+Style: Scottish Ale
+Taste: .nan
 ---
 
 # Harviestoun Original 80/-
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 398336 |
 | **Beer** | Harviestoun Original 80/- |
 | **Brewer** | Harviestoun Brewery |

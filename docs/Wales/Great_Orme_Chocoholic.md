@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Great Orme Chocoholic
+Appearance: 3.0
+Aroma: 10.0
+Beer: Great Orme Chocoholic
+BeerID: 675955
+Brewer: Snowdon Craft Brewery
+City: Mochdre, Denbighshire
+Comments: 'Aroma has milk chocolate and berry fruits. Pours dark chestnut with little
+  or no top which was a surprise. Taste is medium sweet to lightly bitter and always
+  chocolate. Palate is medium bodied sticky feel average carbonation and a bitter
+  finish. Not as rich as anticipated and for some that might be an asset '
+Country: Wales
+Date: '"12/17/2018 4:53:06 PM"'
+MyScore: 3.6
+Overall: 12.0
+Palate: 4.0
+State: Clwyd
+Style: Porter
+Taste: 7.0
 ---
 
 # Great Orme Chocoholic
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 675955 |
 | **Beer** | Great Orme Chocoholic |
 | **Brewer** | Snowdon Craft Brewery |

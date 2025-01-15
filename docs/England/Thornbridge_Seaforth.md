@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Thornbridge Seaforth
+Appearance: 4.0
+Aroma: 6.0
+Beer: Thornbridge Seaforth
+BeerID: 106316
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: '"Light fruit and malt nose. Poured rich golden with thin rapidly diminishing
+  lace. Taste is medium sweet to bitter with a long finish. Palate is medium bodied
+  sticky feel soft to flat carbonation, and a long also flat bitter finish. I suspect
+  it''s not the beer early reviewers tasted. And not a Thornbridge classic."'
+Country: England
+Date: '"2/14/2020 5:27:07 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Derbyshire
+Style: IPA - English
+Taste: 6.0
 ---
 
 # Thornbridge Seaforth
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 106316 |
 | **Beer** | Thornbridge Seaforth |
 | **Brewer** | Thornbridge Brewery |

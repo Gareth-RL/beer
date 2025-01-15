@@ -1,12 +1,33 @@
 ---
-layout: default
-title: Poesiat & Kater Van Vollenhoven & Co Extra Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Poesiat & Kater Van Vollenhoven & Co Extra Stout
+BeerID: 480455
+Brewer: Poesiat & Kater
+City: Amsterdam
+Comments: Poured dark brown with tan lace fading to halo. My bottle behaved so the
+  chalice filled without becoming entirely foam; this can happen! Aroma is emphatically
+  malty with roasted coffee and chocolate notes - the latter on the powdered cocoa
+  side. Taste is briefly sweet but lastingly and drying bitter. Some licorice comes
+  through amidst earthy malt. Palate is medium bodied, smooth to oily feel, soft to
+  average carbonation, and a long finish. My exploration of Dutch stout continues
+  and overall, they seem solid enough although most have been extra or imperial and
+  many have been dry rather than sweet and licorice rather than caramel malts. It
+  is a step up from Guinness in the bottle.
+Country: Netherlands
+Date: '"4/8/2020 3:59:20 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: North Holland
+Style: Stout - Extra / Foreign / Tropical
+Taste: 7.0
 ---
 
 # Poesiat & Kater Van Vollenhoven & Co Extra Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 480455 |
 | **Beer** | Poesiat & Kater Van Vollenhoven & Co Extra Stout |
 | **Brewer** | Poesiat & Kater |

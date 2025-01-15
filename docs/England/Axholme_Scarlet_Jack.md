@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Axholme Scarlet Jack
+Appearance: 4.0
+Aroma: 6.0
+Beer: Axholme Scarlet Jack
+BeerID: 460900
+Brewer: Axholme Brewing Company
+City: Grimsby
+Comments: '"Cask. Lightly spiced sweet malt scent. Pours maple syrup brown with thin
+  top diminishing lace. Taste is not as sweet as the pumpkin maple combination might
+  lead some to fear. The finish is bitter and the palate is light. Overall a solid
+  brown ale with none of the Halloween disadvantages&#033;"'
+Country: England
+Date: '"10/30/2016 1:39:15 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Lincolnshire
+Style: Brown Ale
+Taste: 6.0
 ---
 
 # Axholme Scarlet Jack
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 460900 |
 | **Beer** | Axholme Scarlet Jack |
 | **Brewer** | Axholme Brewing Company |

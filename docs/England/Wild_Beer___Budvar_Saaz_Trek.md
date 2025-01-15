@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Wild Beer / Budvar Saaz Trek
+Appearance: 4.0
+Aroma: 7.0
+Beer: Wild Beer / Budvar Saaz Trek
+BeerID: 694413
+Brewer: '"Wild Beer (Curious Brewing - St. Peter&#39;s)"'
+City: Shepton Mallet
+Comments: Aroma has dark malts berry fruits and something else lime maybe. Pours chestnut
+  with ruby lights and a broken tan lacing. Taste is medium sweet to bitter. The lagering
+  seems to lengthen this. Palate is medium bodied, smooth texture average carbonation
+  and a bitter finish. An interesting hybrid that looks like an ESB but tastes like
+  a bock.
+Country: England
+Date: '"1/28/2019 5:59:04 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Somerset
+Style: Dark Lager - Dunkel / Tmavý
+Taste: 8.0
 ---
 
 # Wild Beer / Budvar Saaz Trek
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 694413 |
 | **Beer** | Wild Beer / Budvar Saaz Trek |
 | **Brewer** | Wild Beer (Curious Brewing - St. Peter&#39;s) |

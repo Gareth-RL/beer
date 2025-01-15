@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Bumpmill Stan
+Appearance: 3.0
+Aroma: 5.0
+Beer: Bumpmill Stan
+BeerID: 340834
+Brewer: Bumpmill Brewery
+City: Alfreton
+Comments: Cask. No great aroma but grassy citrus fruit lurk. Pours honey gold with
+  no head to speak of. The taste might generously be described as Understated. The
+  flavours are muted with lemon and thin biscuit hovering politely like a boy too
+  shy to ask a girl to dance. It coates the palate pleasantly enough but if this is
+  a memorial to Stan, he was lonely.
+Country: England
+Date: '"4/16/2016 6:39:37 AM"'
+MyScore: 2.8
+Overall: 11.0
+Palate: 3.0
+State: Derbyshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Bumpmill Stan
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 340834 |
 | **Beer** | Bumpmill Stan |
 | **Brewer** | Bumpmill Brewery |

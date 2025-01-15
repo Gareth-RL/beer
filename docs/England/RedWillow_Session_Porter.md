@@ -1,12 +1,27 @@
 ---
-layout: default
-title: RedWillow Session Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: RedWillow Session Porter
+BeerID: 1094211
+Brewer: RedWillow Brewery
+City: Macclesfield
+Comments: 'Poured chestnut body with tan lace top. Coffee malt aroma. Medium sweet
+  to bitter with definite coffee grounds. Medium bodied smooth texture average carbonation
+  and a bitter finish. Nicely balanced porter '
+Country: England
+Date: '"3/17/2023 5:30:40 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Cheshire
+Style: Porter
+Taste: 7.0
 ---
 
 # RedWillow Session Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1094211 |
 | **Beer** | RedWillow Session Porter |
 | **Brewer** | RedWillow Brewery |

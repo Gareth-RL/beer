@@ -1,12 +1,33 @@
 ---
-layout: default
-title: BrewDog vs. Amundsen Mallow Mafia
+Appearance: 4.0
+Aroma: 8.0
+Beer: BrewDog vs. Amundsen Mallow Mafia
+BeerID: 630142
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: Aroma has marshmallow and chocolate the kind you get when you open a certain
+  wrapped proprietary biscuit (why advertise a brand for free?) It is regulation expresso
+  brown and any lace is too fleeting to warrant spelling. Taste is sweet with little
+  to separate you from your marshmallow except the ice-cream of your mind. Palate
+  is surprisingly medium to less in body terms (at least for me), because the texture
+  is not as sticky as many others, carbonation is soft to flat, and the finish is
+  long but on the one note (with that slight soprano recital sense of will she let
+  it go? To sample two double imperial collaborations was folly, but life needs these
+  odd pieces to make the mosaic work. This is not a conclusion but a hypothesis.
+Country: Scotland
+Date: '"2/25/2019 6:52:54 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Grampian
+Style: Stout - Imperial Flavored / Pastry
+Taste: 7.0
 ---
 
 # BrewDog vs. Amundsen Mallow Mafia
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 630142 |
 | **Beer** | BrewDog vs. Amundsen Mallow Mafia |
 | **Brewer** | BrewDog |

@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Bespoke Money For Old Rope
+Appearance: 4.0
+Aroma: 6.0
+Beer: Bespoke Money For Old Rope
+BeerID: 173852
+Brewer: Bespoke Brewing Co
+City: Littledean
+Comments: 'Cask. Aroma malty with licorice notes. Pours black with thin tan top. Taste
+  is pleasantly complex with roasted malts giving way to chocolate coffee and licorice
+  flavours and some dark fruits Soft finish. '
+Country: England
+Date: '"3/25/2017 2:08:24 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Gloucestershire
+Style: Stout
+Taste: 8.0
 ---
 
 # Bespoke Money For Old Rope
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 173852 |
 | **Beer** | Bespoke Money For Old Rope |
 | **Brewer** | Bespoke Brewing Co |

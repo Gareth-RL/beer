@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Põhjala Kirg
+Appearance: 4.0
+Aroma: 7.0
+Beer: Põhjala Kirg
+BeerID: 506598
+Brewer: Põhjala
+City: Tallinn
+Comments: Tap at The Canal House Nottingham. Pours golden with white lace top. Aroma
+  mango passionfruit etc. Taste medium sweet to lightly sour. Palate is medium bodied
+  sticky feel average carbonation and long finish. A nice summer pale from Estonia.
+Country: Estonia
+Date: '"8/5/2018 1:22:37 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: .nan
+Style: IPA - Flavored
+Taste: 7.0
 ---
 
 # Põhjala Kirg
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 506598 |
 | **Beer** | Põhjala Kirg |
 | **Brewer** | Põhjala |

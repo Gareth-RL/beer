@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Castello La Rubina
+Appearance: 3.0
+Aroma: 6.0
+Beer: Castello La Rubina
+BeerID: 940599
+Brewer: Castello di Udine Spa
+City: San Giorgio di Nogaro
+Comments: Bottle from the local supermarket in Mestre. Red brown body but the lacing
+  is thin and fading . Medium sweet with light caramel malted taste. Not a lot to
+  report here. Medium bodied smooth texture average carbonation and a fade rather
+  than a finish. An unremarkable 6 5% ale 30/06/24 second sipping from a stash donated
+  for Xmas.  Tastes slightly better.
+Country: Italy
+Date: '"1/3/2024 12:02:34 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Friuli-Venezia Giulia
+Style: Red Ale / International Amber Ale
+Taste: 7.0
 ---
 
 # Castello La Rubina
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 940599 |
 | **Beer** | Castello La Rubina |
 | **Brewer** | Castello di Udine Spa |

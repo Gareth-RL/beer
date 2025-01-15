@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Ashover 1910 Porter
+Appearance: 4.0
+Aroma: 7.0
+Beer: Ashover 1910 Porter
+BeerID: 278132
+Brewer: Ashover Brewery
+City: Clay Cross
+Comments: 'Cask. Pours mahogany dark with tan creamy top. Aroma is malty with toffee
+  and chocolate notes. Tastes caramelized malts and soft fruits. Palate smooth light
+  and easy drinking for 5%. It is Ashover here with no reference to Fuller. But a
+  pleasant brew. 31/07/24 second sipping 8 years later and I stand by my earlier comment. '
+Country: England
+Date: '"2/24/2016 12:49:58 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Derbyshire
+Style: Porter
+Taste: 7.0
 ---
 
 # Ashover 1910 Porter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 278132 |
 | **Beer** | Ashover 1910 Porter |
 | **Brewer** | Ashover Brewery |

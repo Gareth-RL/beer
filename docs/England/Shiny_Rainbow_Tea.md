@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Shiny Rainbow Tea
+Appearance: 4.0
+Aroma: 7.0
+Beer: Shiny Rainbow Tea
+BeerID: 601588
+Brewer: Shiny Brewing
+City: Little Eaton
+Comments: Tap at the Overdraught Nottingham. Pours golden honey brown with white foam
+  lace top. Aroma is herbal pine hops with the odd vanilla note. Taste is medium sweet
+  to bitter. Palate is medium bodied, oily texture, soft to average carbonation, and
+  a long finish. Overall a beer whose appeal grows as you taste but never quite goes
+  from good to excellent. 26/06/23Still very good.
+Country: England
+Date: '"3/19/2018 6:38:45 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Derbyshire
+Style: Flavored - Other
+Taste: 7.0
 ---
 
 # Shiny Rainbow Tea
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 601588 |
 | **Beer** | Shiny Rainbow Tea |
 | **Brewer** | Shiny Brewing |

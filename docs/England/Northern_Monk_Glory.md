@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Northern Monk Glory
+Appearance: 4.0
+Aroma: 7.0
+Beer: Northern Monk Glory
+BeerID: 588145
+Brewer: Northern Monk Brew Co.
+City: Leeds
+Comments: '"Tap. The Junkyard. I suspect this ale is better from the can. Pours hazy
+  orange gold with thin white lace. Aroma is more mango papaya than pineapple citrus
+  but the nose has fruit that obliterates malts. Taste is surprisingly measured. Lightly
+  bitter to sour. And as others note, no alcohol burn &#40;no reminder or cautionary
+  note&#41;.  Palate is similarly relatively understated medium bodied, sticky texture,
+  soft carbonation but quite a rich almost creamy finish. Is this intended to be a
+  Belgian Tripel or an Imperial? But good which ever way you go."'
+Country: England
+Date: '"2/15/2018 6:52:55 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: West Yorkshire
+Style: IIPA DIPA - Imperial / Double Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Northern Monk Glory
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 588145 |
 | **Beer** | Northern Monk Glory |
 | **Brewer** | Northern Monk Brew Co. |

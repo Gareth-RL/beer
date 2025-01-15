@@ -1,12 +1,28 @@
 ---
-layout: default
-title: SantJago 14 di terra
+Appearance: 4.0
+Aroma: 6.0
+Beer: SantJago 14 di terra
+BeerID: 855301
+Brewer: SantJago
+City: '"Vittorio &#40;TV&#41;"'
+Comments: 'Poured amber body with white diminishing foam head. Aroma has roasted malt
+  and herbal hops.  Taste is medium sweet to lightly bitter. A little caramel noted.
+  Palate is medium bodied oily texture average to full carbonation and a light bitter
+  finish.  Sometimes the pursuit of balance is at the expense of character. '
+Country: Italy
+Date: '"8/28/2020 11:35:53 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Veneto
+Style: Red Ale / International Amber Ale
+Taste: 6.0
 ---
 
 # SantJago 14 di terra
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 855301 |
 | **Beer** | SantJago 14 di terra |
 | **Brewer** | SantJago |

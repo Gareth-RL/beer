@@ -1,12 +1,29 @@
 ---
-layout: default
-title: One Mile End Juicy 4PM
+Appearance: 4.0
+Aroma: 7.0
+Beer: One Mile End Juicy 4PM
+BeerID: 528148
+Brewer: OME Beer (prev One Mile End Brewery)
+City: Upper Edmonton
+Comments: The aroma has mango pineapple and associated fruits and that includes lychees.
+  Pours cloudy orange golden with white lacing. Taste is medium sweet to bitter with
+  just the hint of toothpaste. Palate is medium bodied sticky feel soft to average
+  carbonation and a fruit finish with something else that I associate with that moment
+  when you sip your morning fruit juice and it collides with toothpaste.
+Country: England
+Date: '"4/15/2019 3:33:15 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Greater London
+Style: Pale Ale - Hazy / New England
+Taste: 7.0
 ---
 
 # One Mile End Juicy 4PM
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 528148 |
 | **Beer** | One Mile End Juicy 4PM |
 | **Brewer** | OME Beer (prev One Mile End Brewery) |

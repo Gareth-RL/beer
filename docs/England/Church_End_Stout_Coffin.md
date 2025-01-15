@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Church End Stout Coffin
+Appearance: 4.0
+Aroma: 7.0
+Beer: Church End Stout Coffin
+BeerID: 32727
+Brewer: Church End Brewery
+City: Nuneaton
+Comments: '"@nottingham beer festival. Aroma is butterscotch, caramel, malts. Appearance
+  is dark body with off white lacing. Taste is medium heavy sweetness, then medium
+  bitter. Palate is full and rich with soft carbonation and a creamy finish. I liked
+  it and if it were not for the fact that it was shared with a friend, I would have
+  drank far more&#033;"'
+Country: England
+Date: '"10/12/2017 2:12:20 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Warwickshire
+Style: Stout
+Taste: 7.0
 ---
 
 # Church End Stout Coffin
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 32727 |
 | **Beer** | Church End Stout Coffin |
 | **Brewer** | Church End Brewery |

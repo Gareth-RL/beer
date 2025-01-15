@@ -1,12 +1,28 @@
 ---
-layout: default
-title: BrewDog Punk IPA
+Appearance: 4.0
+Aroma: 7.0
+Beer: BrewDog Punk IPA
+BeerID: 135361
+Brewer: BrewDog
+City: Ellon, Aberdeenshire
+Comments: Tap. Pours yellow gold with thin white lace top. Broken lacing. Aroma citrus
+  and pine. Taste medium bitter with fruity flavours but the bitterness predominates.
+  As befits an IPA this has a fairly crisp finish. Another ideal garden beer for the
+  summer or a way of weaning students off cheap lager.
+Country: Scotland
+Date: '"6/8/2017 11:01:32 AM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 3.0
+State: Grampian
+Style: IPA
+Taste: 7.0
 ---
 
 # BrewDog Punk IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 135361 |
 | **Beer** | BrewDog Punk IPA |
 | **Brewer** | BrewDog |

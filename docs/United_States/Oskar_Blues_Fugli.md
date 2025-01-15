@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Oskar Blues Fugli
+Appearance: 4.0
+Aroma: 7.0
+Beer: Oskar Blues Fugli
+BeerID: 512749
+Brewer: Oskar Blues Brewery (Monster Beverage Corp)
+City: Longmont
+Comments: Tap at The Canal House Nottingham. Pours amber gold body and white lace
+  top. Aroma has a medley of fruits tropical and subtropical, raw and cooked. Taste
+  is medium to light sweet to bitter. Palate is medium bodied, slick texture, average
+  carbonation, and a long finish. Might help if I had previously encountered a Yuzu.
+  Uncommon in these parts.
+Country: United States
+Date: '"5/22/2018 3:57:05 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Colorado
+Style: IPA - Flavored
+Taste: 7.0
 ---
 
 # Oskar Blues Fugli
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 512749 |
 | **Beer** | Oskar Blues Fugli |
 | **Brewer** | Oskar Blues Brewery (Monster Beverage Corp) |

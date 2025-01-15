@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Oakham Preacher
+Appearance: 4.0
+Aroma: 6.0
+Beer: Oakham Preacher
+BeerID: 163728
+Brewer: Oakham Ales
+City: Peterborough
+Comments: Cask. Aroma fruity malts. Pours copper chestnut with white top. Taste has
+  soft berry fruits and malt biscuit. Some citra hops in the finish. A very agreeable
+  bitter.
+Country: England
+Date: '"2/24/2017 9:33:04 AM"'
+MyScore: 3.4
+Overall: 14.0
+Palate: 3.0
+State: Cambridgeshire
+Style: Bitter - Ordinary / Best
+Taste: 7.0
 ---
 
 # Oakham Preacher
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 163728 |
 | **Beer** | Oakham Preacher |
 | **Brewer** | Oakham Ales |

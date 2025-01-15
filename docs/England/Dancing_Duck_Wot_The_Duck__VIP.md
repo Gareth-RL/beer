@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Dancing Duck Wot The Duck? VIP
+Appearance: 4.0
+Aroma: 5.0
+Beer: Dancing Duck Wot The Duck? VIP
+BeerID: 366746
+Brewer: Dancing Duck Brewery
+City: Derby
+Comments: Cask. Pours ruby dark chestnut with bubbly tan head. Vanilla barely present
+  in the aroma which is malty and biscuity with toast notes. Taste brings the vanilla
+  out but in a subdued and subtle way; smooth rather than cloying. Medium to full
+  in term of languor on the palate where some bitter rind taste cuts through. Interesting,
+  if not quite a match for Dark Drake.
+Country: England
+Date: '"10/18/2015 7:07:09 AM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter - Flavored
+Taste: 8.0
 ---
 
 # Dancing Duck Wot The Duck? VIP
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 366746 |
 | **Beer** | Dancing Duck Wot The Duck? VIP |
 | **Brewer** | Dancing Duck Brewery |

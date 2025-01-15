@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Nottingham Sooty Oatmeal Stout
+Appearance: 4.0
+Aroma: 7.0
+Beer: Nottingham Sooty Oatmeal Stout
+BeerID: 13077
+Brewer: Nottingham Brewery
+City: Nottingham
+Comments: Summer isn’t the usual time for a stout but drizzle needs it any day. I’m
+  surprised this isn’t available more often from NB. A champion example of the style.some
+  smoke on the malt for the nose. As dark in the glass as one would wish but don’t
+  expect a Guinness top. Oatmeal stout are thinner headed. There’s a nice spread of
+  flavours on the palate. Biscuit at the back but glossier malt and licorice notes.
+  An old fashioned ale that one can grow old with.
+Country: England
+Date: '"8/31/2015 12:24:25 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Stout - Oatmeal
+Taste: 7.0
 ---
 
 # Nottingham Sooty Oatmeal Stout
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 13077 |
 | **Beer** | Nottingham Sooty Oatmeal Stout |
 | **Brewer** | Nottingham Brewery |

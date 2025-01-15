@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Everards Unfiltered Session IPA
+Appearance: 4.0
+Aroma: 6.0
+Beer: Everards Unfiltered Session IPA
+BeerID: 1175930
+Brewer: Everards
+City: Enderby
+Comments: '"Poured slightly hazy golden body white lace top. Aroma citrus hops and
+  pale malt. Medium sweet to bitter with light grapefruit and melon and roasted malts
+  in the crisp finish. Medium bodied grainy texture average carbonation and a bitter
+  finish. Not bad although whether that''s due to its being unfiltered is beyond me
+  "'
+Country: England
+Date: '"2/21/2024 6:45:10 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Leicestershire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Everards Unfiltered Session IPA
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1175930 |
 | **Beer** | Everards Unfiltered Session IPA |
 | **Brewer** | Everards |

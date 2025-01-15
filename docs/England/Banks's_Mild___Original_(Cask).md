@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Banks's Mild / Original (Cask)
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Banks''s Mild / Original (Cask)"'
+BeerID: 75376
+Brewer: '"Banks&#39;s Beer (Carlsberg Marston&#39;s Brewing Co.)"'
+City: Wolverhampton
+Comments: '"Cask. Aroma modestly malty. Pours chestnut with thin lace top. Taste has
+  caramelized malt and soft fruits. Watery with flat carbonation and a mild &#40;yes,
+  I know&#41; bitter finish."'
+Country: England
+Date: '"5/11/2017 6:32:18 AM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 3.0
+State: West Midlands
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Banks's Mild / Original (Cask)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 75376 |
 | **Beer** | Banks's Mild / Original (Cask) |
 | **Brewer** | Banks&#39;s Beer (Carlsberg Marston&#39;s Brewing Co.) |

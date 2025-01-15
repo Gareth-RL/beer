@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Cotswold Spring Old Sodbury Mild
+Appearance: 3.0
+Aroma: 6.0
+Beer: Cotswold Spring Old Sodbury Mild
+BeerID: 58607
+Brewer: Cotswold Spring Brewing Co. (Combined Brewers)
+City: Wotton-under-Edge
+Comments: 'Cask. Aroma caramel and roasted malts. Pours dark chestnut with tan froth,
+  broken lacing. Tastes bready, with a hint if cough syrup. Medium bodied and soft
+  oily finish. I suspect this is a good example of why youngsters eschew Mild and
+  old farts cherish it. Could do with some more dark fruit but fine enough '
+Country: England
+Date: '"8/1/2016 6:23:30 AM"'
+MyScore: 3.0
+Overall: 11.0
+Palate: 4.0
+State: Gloucestershire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Cotswold Spring Old Sodbury Mild
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 58607 |
 | **Beer** | Cotswold Spring Old Sodbury Mild |
 | **Brewer** | Cotswold Spring Brewing Co. (Combined Brewers) |

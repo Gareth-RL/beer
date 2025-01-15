@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lost And Grounded Märzenbier
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lost And Grounded Märzenbier
+BeerID: 957633
+Brewer: Lost And Grounded Brewers
+City: Bristol
+Comments: '"Pouring copper body with white lace top. A little malt in the scent but
+  some Marzen deliver more. Taste is medium sweet to lightly bitter with the biscuit
+  flavour building. Medium bodied, mouth coating, with the carbonation leaving a fizz
+  on the tongue. Bitter finish. It''s in the style but not the top."'
+Country: England
+Date: '"10/20/2021 3:51:51 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: Gloucestershire
+Style: Märzen / Oktoberfest Bier
+Taste: 7.0
 ---
 
 # Lost And Grounded Märzenbier
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 957633 |
 | **Beer** | Lost And Grounded Märzenbier |
 | **Brewer** | Lost And Grounded Brewers |

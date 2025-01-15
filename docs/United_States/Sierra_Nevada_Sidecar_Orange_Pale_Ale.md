@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Sierra Nevada Sidecar Orange Pale Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Sierra Nevada Sidecar Orange Pale Ale
+BeerID: 447053
+Brewer: Sierra Nevada Brewing Company
+City: Chico
+Comments: 'Keg. Aroma citrus hops and bread malts. Pours hazy honey gold with white
+  top and lasting lacing. Tase medium bitterness, lightly sour, '
+Country: United States
+Date: '"7/16/2017 9:45:32 AM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: California
+Style: Pale Ale - Flavored
+Taste: 6.0
 ---
 
 # Sierra Nevada Sidecar Orange Pale Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 447053 |
 | **Beer** | Sierra Nevada Sidecar Orange Pale Ale |
 | **Brewer** | Sierra Nevada Brewing Company |

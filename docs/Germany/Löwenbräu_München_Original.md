@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Löwenbräu München Original
+Appearance: 4.0
+Aroma: 5.0
+Beer: Löwenbräu München Original
+BeerID: 4792
+Brewer: Löwenbräu München
+City: München
+Comments: '"I continue my stroll along the supermarket beer aisle and find this familiar
+  name, which I have never reviewed. It''s lager but you never know until you try.
+  Pours a golden body with loose white foam lace top. Aroma is of grassy hop and bread
+  malt. Medium sweet to bitter with a slight spice note and a drying finish, but bland
+  as hell.Medium bodied, smooth texture, average carbonation (can 500 ml), and a dry
+  finish. A small step from here to Fosters frankly."'
+Country: Germany
+Date: '"4/5/2024 1:42:49 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 4.0
+State: Bavaria
+Style: Helles / Dortmunder Export
+Taste: 5.0
 ---
 
 # Löwenbräu München Original
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 4792 |
 | **Beer** | Löwenbräu München Original |
 | **Brewer** | Löwenbräu München |

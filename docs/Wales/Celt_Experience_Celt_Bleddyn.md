@@ -1,12 +1,26 @@
 ---
-layout: default
-title: Celt Experience Celt Bleddyn
+Appearance: 4.0
+Aroma: 6.0
+Beer: Celt Experience Celt Bleddyn
+BeerID: 542886
+Brewer: Evan Evans Brewery
+City: Llandeilo, Carmarthenshire
+Comments: Cask. Caramel malt and berry fruit. Pours brown with white lace top. Taste
+  sweet then bitter and finally sour. Has a bitter soft finish. Nothing special.
+Country: Wales
+Date: '"8/20/2017 5:28:21 AM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Dyfed
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Celt Experience Celt Bleddyn
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 542886 |
 | **Beer** | Celt Experience Celt Bleddyn |
 | **Brewer** | Evan Evans Brewery |

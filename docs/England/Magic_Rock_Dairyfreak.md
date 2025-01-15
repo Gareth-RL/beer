@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Magic Rock Dairyfreak
+Appearance: 4.0
+Aroma: 7.0
+Beer: Magic Rock Dairyfreak
+BeerID: 574179
+Brewer: Magic Rock Brewing (Odyssey Inns)
+City: Huddersfield
+Comments: '"Latte coffee scent. Poured dark mahogany body with tan lace top. Taste
+  is medium sweet with lactic notes. Palate is medium bodied sticky feel soft to average
+  carbonation and a long creamy finish. Milk ice porter, it''s a new one on me.<br>Earlier
+  Rating: 12/14/2018 Total Score: 3.5<br>Aroma has milk chocolate and coffee malts.
+  Pours dark brown with tan cream top. Taste is medium sweet to lightly bitter. Palate
+  is medium bodied sticky feel average carbonation and a long still mainly sweet finish.
+  Solid stuff."'
+Country: England
+Date: '"12/15/2019 6:17:52 PM"'
+MyScore: 3.4
+Overall: 13.0
+Palate: 4.0
+State: West Yorkshire
+Style: Porter - Flavored
+Taste: 6.0
 ---
 
 # Magic Rock Dairyfreak
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 574179 |
 | **Beer** | Magic Rock Dairyfreak |
 | **Brewer** | Magic Rock Brewing (Odyssey Inns) |

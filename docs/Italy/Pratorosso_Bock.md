@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Pratorosso Bock
+Appearance: 4.0
+Aroma: 5.0
+Beer: Pratorosso Bock
+BeerID: 1132684
+Brewer: Pratorosso
+City: '"Settala &#40;MI&#41;"'
+Comments: Bottle for Ali supermarket Mestre. Pours copper body fleeting lace. Aroma
+  of roasted malt and metal. Taste is medium sweet to bitter with some light caramel
+  and hints of alcohol in the finish. Medium bodied smooth, average carbonation, and
+  a warm finish. It may be a single Bock judging by the Italian description although
+  at 8.2% it is heading towards a doppelbock. Cheap and cheerful
+Country: Italy
+Date: '"8/11/2023 10:47:58 AM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 4.0
+State: Lombardia
+Style: Bock - Doppelbock
+Taste: 6.0
 ---
 
 # Pratorosso Bock
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1132684 |
 | **Beer** | Pratorosso Bock |
 | **Brewer** | Pratorosso |

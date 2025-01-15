@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Dartmoor Jail Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Dartmoor Jail Ale
+BeerID: 22023
+Brewer: Dartmoor Brewery
+City: Yelverton
+Comments: Cask. Aroma is caramel malts and some spice. Pours copper brown with off
+  white lace top. Taste is similarly malt heavy with roasted and toffee malts evident
+  and just a hint of hop fruits. I rate this a reasonable if not memorable bitter.
+  20/06/24 second sipping  7years later. Still a decent bitt
+Country: England
+Date: '"4/12/2017 7:39:57 AM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Devon
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 7.0
 ---
 
 # Dartmoor Jail Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 22023 |
 | **Beer** | Dartmoor Jail Ale |
 | **Brewer** | Dartmoor Brewery |

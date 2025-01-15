@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Magpie Stoked
+Appearance: 4.0
+Aroma: 7.0
+Beer: Magpie Stoked
+BeerID: 634469
+Brewer: Magpie Brewery
+City: Nottingham
+Comments: Cask at The Crafty Crow Nottingham. Pours black with tan lacing.. Aroma
+  has roasted malts resin, cheese, and pleasantly skunky. Taste is superb, beautifully
+  poised between sweet malts and bitter hops. Palate is medium bodied, smooth texture,
+  average to soft carbonation, and a bitter finish. Overall far better than I expected
+  and the keg version has more bitterness if you prefer it.
+Country: England
+Date: '"7/3/2018 5:28:04 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA - Black / Brown / Cascadian Dark
+Taste: 8.0
 ---
 
 # Magpie Stoked
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 634469 |
 | **Beer** | Magpie Stoked |
 | **Brewer** | Magpie Brewery |

@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Nektar Bez Filtera
+Appearance: 3.0
+Aroma: 6.0
+Beer: Nektar Bez Filtera
+BeerID: 1152074
+Brewer: Banjalučka Pivara
+City: Banja Luka, Republika Srpska
+Comments: '"My second Herzegovina beer. Citrus hop scent. Hazy orange body. White
+  foam top. Medium sweet to bitter: Some orange, some lemon. some soap! Medium bodied,
+  soapy texture, average carbonation and a bitter finish. I can''t say that I am becoming
+  a fan of the beers of this region, but it is drinkable. From the supermarket Iperlando
+  1 euro 90 so not a lot of money to waste."'
+Country: Bosnia and Herzegovina
+Date: '"7/10/2024 10:25:27 AM"'
+MyScore: 2.9
+Overall: 11.0
+Palate: 3.0
+State: .nan
+Style: Zwickelbier / Kellerbier / Landbier
+Taste: 6.0
 ---
 
 # Nektar Bez Filtera
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1152074 |
 | **Beer** | Nektar Bez Filtera |
 | **Brewer** | Banjalučka Pivara |

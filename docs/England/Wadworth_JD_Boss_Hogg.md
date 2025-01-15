@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Wadworth JD Boss Hogg
+Appearance: 4.0
+Aroma: 6.0
+Beer: Wadworth JD Boss Hogg
+BeerID: 773652
+Brewer: Wadworth
+City: Devizes
+Comments: Pours golden body with thin lace. Aroma of lemony citrus hops lightly. Taste
+  is medium sweet to bitter grapefruit pith. Palatte is medium bodied sticky feel
+  average carbonation and a bitter finish. Soapy. Not great.
+Country: England
+Date: '"10/15/2019 3:43:51 PM"'
+MyScore: 2.8
+Overall: 10.0
+Palate: 3.0
+State: Wiltshire
+Style: Blonde Ale / Golden Ale
+Taste: 5.0
 ---
 
 # Wadworth JD Boss Hogg
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 773652 |
 | **Beer** | Wadworth JD Boss Hogg |
 | **Brewer** | Wadworth |

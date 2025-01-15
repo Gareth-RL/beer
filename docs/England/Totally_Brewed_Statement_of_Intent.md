@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Totally Brewed Statement of Intent
+Appearance: 4.0
+Aroma: 7.0
+Beer: Totally Brewed Statement of Intent
+BeerID: 619413
+Brewer: Totally Brewed
+City: Nottingham
+Comments: Tap. Aroma has the full tropical citrus hops. Pours cloudy pale orange with
+  white lace. Taste is surprisingly sour and bitter but with some light background
+  sweetness to offset this, but my expectations were reversed. Palate is medium bodied,sticky
+  texture, soft to average carbonation, and a certain sour languor. I retain an ambivalence
+  towards NEIPA. Is it an APA or IPA that mutated unexpectedly? I see there are cans
+  of it in the chiller. A statement of intent, indeed.
+Country: England
+Date: '"5/18/2018 5:18:25 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Totally Brewed Statement of Intent
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 619413 |
 | **Beer** | Totally Brewed Statement of Intent |
 | **Brewer** | Totally Brewed |

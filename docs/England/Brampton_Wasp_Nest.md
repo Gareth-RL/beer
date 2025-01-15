@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Brampton Wasp Nest
+Appearance: 3.0
+Aroma: 6.0
+Beer: Brampton Wasp Nest
+BeerID: 101929
+Brewer: Brampton Brewery
+City: Chesterfield
+Comments: '"Bottle from Adventure Beer Company. Aroma is caramel malt with a hint
+  of berry hops. Poured clear amber body with thin lacing fading to halo. Taste is
+  medium sweet to bitter with toffee malt dominant initially and hop biscuit overtaking
+  that in the finish. This is what bitter does, it balances. Palate is medium bodied,
+  grainy in texture, average to more carbonation, and a lightly spiced bitter finish.
+  I wanted to like this more than I do which is how I feel about a lot of Brampton''s
+  beers. They are decent enough but only occasionally memorable."'
+Country: England
+Date: '"4/29/2022 1:01:22 PM"'
+MyScore: 3.1
+Overall: 13.0
+Palate: 3.0
+State: Derbyshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Brampton Wasp Nest
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 101929 |
 | **Beer** | Brampton Wasp Nest |
 | **Brewer** | Brampton Brewery |

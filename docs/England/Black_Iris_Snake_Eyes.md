@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Black Iris Snake Eyes
+Appearance: 4.0
+Aroma: 8.0
+Beer: Black Iris Snake Eyes
+BeerID: 313164
+Brewer: Black Iris Brewery
+City: Nottingham
+Comments: Cask. Pours pale yellow with bubbly white top.. Citrus and straw scent.
+  Bitter floral citrus notes but not smooth. Resinous. Overall there are better ales
+  to be had but this is safe enough in an emergency. 5/12/19 second sipping - considering
+  some of the beer supped since , I was harsh.
+Country: England
+Date: '"12/1/2015 11:51:20 AM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Pale Ale - American (APA)
+Taste: 6.0
 ---
 
 # Black Iris Snake Eyes
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 313164 |
 | **Beer** | Black Iris Snake Eyes |
 | **Brewer** | Black Iris Brewery |

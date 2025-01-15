@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lincoln Green Bite the Bullet
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lincoln Green Bite the Bullet
+BeerID: 1183304
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: Poured clear golden body white lace top. Floral hop scent. Medium sweet
+  to bitter with juicy fore and bready stern. Maybe a hint of white grapes from NZ
+  hops. Medium bodied oily texture average carbonation and a bitter finish. Quite
+  a silenced bullet.
+Country: England
+Date: '"3/21/2024 6:04:57 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Lincoln Green Bite the Bullet
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1183304 |
 | **Beer** | Lincoln Green Bite the Bullet |
 | **Brewer** | Lincoln Green Brewing Co. |

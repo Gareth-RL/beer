@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Wylam Amendment 3534
+Appearance: 4.0
+Aroma: 5.0
+Beer: Wylam Amendment 3534
+BeerID: 755195
+Brewer: Wylam Brewery
+City: Newcastle upon Tyne
+Comments: '"Amidst the fruit there''s an ammoniacal hint of cat piss that rarely endears.
+  Reasonably clear golden body with lace halo. Taste is medium sweet to sour. Certainly
+  there is pineapple juice grapefruit pith and a slug of mango thrown in but it''s
+  an oddity. Palate is medium bodied oily texture average carbonation and a bitter
+  finish. Overall, an amendment top far."'
+Country: England
+Date: '"9/26/2019 5:12:30 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 4.0
+State: Tyne &amp; Wear
+Style: IPA - Flavored
+Taste: 6.0
 ---
 
 # Wylam Amendment 3534
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 755195 |
 | **Beer** | Wylam Amendment 3534 |
 | **Brewer** | Wylam Brewery |

@@ -1,12 +1,27 @@
 ---
-layout: default
-title: St. Bernardus Christmas Ale
+Appearance: 4.0
+Aroma: 7.0
+Beer: St. Bernardus Christmas Ale
+BeerID: 65814
+Brewer: St. Bernardus Brouwerij
+City: Watou
+Comments: 'Poured reddish brown body thin lace top with yeast Aroma of dark malts
+  dried fruit yeast and alcohol finish Medium body smooth texture average carbonation
+  and a spiced finish. I expected more '
+Country: Belgium
+Date: '"11/23/2023 2:58:24 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: West Flanders
+Style: Quadrupel / Abt
+Taste: 7.0
 ---
 
 # St. Bernardus Christmas Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 65814 |
 | **Beer** | St. Bernardus Christmas Ale |
 | **Brewer** | St. Bernardus Brouwerij |

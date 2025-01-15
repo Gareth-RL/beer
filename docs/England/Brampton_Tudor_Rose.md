@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Brampton Tudor Rose
+Appearance: 4.0
+Aroma: 5.0
+Beer: Brampton Tudor Rose
+BeerID: 121739
+Brewer: Brampton Brewery
+City: Chesterfield
+Comments: '"Some citrus hope and honeyed malt: balanced. Clear golden body and white
+  lace top. Medium sweet with grapefruit notes smooth transition and a bitter crisp
+  finish. Medium bodied, creamy feel, average carbonation, and a lingering finish.
+  The profile does not give a pleasant finish. To quote my son it is a digestive biscuit
+  or a vanilla ice cream in the sense of average and unremarkable, It will do no harm."'
+Country: England
+Date: '"6/3/2020 12:55:49 PM"'
+MyScore: 3.1
+Overall: 13.0
+Palate: 3.0
+State: Derbyshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Brampton Tudor Rose
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 121739 |
 | **Beer** | Brampton Tudor Rose |
 | **Brewer** | Brampton Brewery |

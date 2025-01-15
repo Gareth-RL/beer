@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Salopian Lullaby
+Appearance: 4.0
+Aroma: 7.0
+Beer: Salopian Lullaby
+BeerID: 564477
+Brewer: Salopian Brewery
+City: Hadnall
+Comments: Tap at the Junkyard. Pours golden amber brown with off white lace thin top.
+  Aroma has tropical fruit mango papaya lychee mix but nothing overpowering. Taste
+  is medium sweet to bitter but with some alcohol heat at the back. Palate is medium
+  bodied, sticky almost creamy texture, average to soft carbonation, and a soft balanced
+  finish. Some DIPA at 9% abv have a burn in the finish but this one has it initially
+  but it dissipates. Overall more pluses than minuses.
+Country: England
+Date: '"3/21/2018 6:33:46 PM"'
+MyScore: 3.8
+Overall: 16.0
+Palate: 4.0
+State: Shropshire
+Style: IIPA DIPA - Imperial / Double IPA
+Taste: 7.0
 ---
 
 # Salopian Lullaby
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 564477 |
 | **Beer** | Salopian Lullaby |
 | **Brewer** | Salopian Brewery |

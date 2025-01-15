@@ -1,12 +1,27 @@
 ---
-layout: default
-title: Thornbridge Cocoa Wonderland
+Appearance: 4.0
+Aroma: 7.0
+Beer: Thornbridge Cocoa Wonderland
+BeerID: 294397
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: '"@Nottingham beer festival. Pours dark chocolate with tan cream top. Aroma
+  cocoa powder glorious. Medium sweet with a bitter finish. Palate full bodied rich
+  texture creamy and nicely rounded. Excellent."'
+Country: England
+Date: '"10/11/2017 3:10:45 PM"'
+MyScore: 3.7
+Overall: 15.0
+Palate: 4.0
+State: Derbyshire
+Style: Porter - Flavored
+Taste: 7.0
 ---
 
 # Thornbridge Cocoa Wonderland
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 294397 |
 | **Beer** | Thornbridge Cocoa Wonderland |
 | **Brewer** | Thornbridge Brewery |

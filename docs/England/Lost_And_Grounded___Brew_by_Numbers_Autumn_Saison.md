@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lost And Grounded / Brew by Numbers Autumn Saison
+Appearance: 4.0
+Aroma: 8.0
+Beer: Lost And Grounded / Brew by Numbers Autumn Saison
+BeerID: 555421
+Brewer: Lost And Grounded Brewers
+City: Bristol
+Comments: Tap. Pours unclear amber brown with halo of off white lace. Aroma has toast,
+  bread, herbs, leaves, woody, earthy, yeast scents. Taste is medium sour to sweet.
+  Palate is medium bodied, oily feel, average carbonation, and a bitter finish. This
+  one grew on me. More farmhouse than Saison perhaps.
+Country: England
+Date: '"11/20/2017 12:39:05 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Gloucestershire
+Style: Saison / Farmhouse / Grisette
+Taste: 7.0
 ---
 
 # Lost And Grounded / Brew by Numbers Autumn Saison
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 555421 |
 | **Beer** | Lost And Grounded / Brew by Numbers Autumn Saison |
 | **Brewer** | Lost And Grounded Brewers |

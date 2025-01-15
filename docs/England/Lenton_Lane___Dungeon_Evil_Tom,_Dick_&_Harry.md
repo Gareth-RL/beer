@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Lenton Lane / Dungeon Evil Tom, Dick & Harry
+Appearance: 4.0
+Aroma: 6.0
+Beer: Lenton Lane / Dungeon Evil Tom, Dick & Harry
+BeerID: 1227029
+Brewer: Lenton Lane Brewery
+City: Nottingham
+Comments: '"Poured golden body white lace top. Aroma of pale malt and lemony citrus
+  hop. Lightly sweet but rapid transition to medium pithy citrus bitter. Medium bodied
+  slightly grainy texture average carbonation and a bitter finish.  It may not suit
+  everyone- you know, Tom, Dick and the other guy. Cask @theembankment."'
+Country: England
+Date: '"9/26/2024 12:13:38 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: IPA
+Taste: 6.0
 ---
 
 # Lenton Lane / Dungeon Evil Tom, Dick & Harry
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1227029 |
 | **Beer** | Lenton Lane / Dungeon Evil Tom, Dick & Harry |
 | **Brewer** | Lenton Lane Brewery |

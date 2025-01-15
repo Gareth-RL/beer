@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Frome Same Again
+Appearance: 4.0
+Aroma: 6.0
+Beer: Frome Same Again
+BeerID: 393096
+Brewer: Frome Brewing Co. (prev Milk Street Brewery)
+City: Frome
+Comments: '"I suspect that Milk Street had a similar beer. So maybe an alias.  Aroma
+  has biscuit malts and hedgerow hops.  Pours golden body and white lace. Taste is
+  medium sweet to bitter. Palate is medium bodied oily texture average carbonation
+  and a light bitter finish. It''s a decent session summer beer."'
+Country: England
+Date: '"6/5/2019 5:17:04 PM"'
+MyScore: 3.1
+Overall: 11.0
+Palate: 4.0
+State: Somerset
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Frome Same Again
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 393096 |
 | **Beer** | Frome Same Again |
 | **Brewer** | Frome Brewing Co. (prev Milk Street Brewery) |

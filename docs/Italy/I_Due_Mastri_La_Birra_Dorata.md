@@ -1,12 +1,29 @@
 ---
-layout: default
-title: I Due Mastri La Birra Dorata
+Appearance: 4.0
+Aroma: 7.0
+Beer: I Due Mastri La Birra Dorata
+BeerID: 735070
+Brewer: I Due Mastri
+City: Prato
+Comments: Poured hazy golden body white foam top.  Aroma of coriander and floral hops.
+  Belgian like in scent. Medium sweet to bitter with a taste of stewed fruit with
+  spice notes and a tart finish.  Medium bodied oily texture average carbonation and
+  a tart sour finish.  hardly A classic golden ale in the American or English traditions
+  but for anyone on an Italian supermarket sweep there are worse.
+Country: Italy
+Date: '"8/15/2024 12:06:15 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Tuscany
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # I Due Mastri La Birra Dorata
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 735070 |
 | **Beer** | I Due Mastri La Birra Dorata |
 | **Brewer** | I Due Mastri |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Gloucester Priory Pale
+Appearance: 4.0
+Aroma: 8.0
+Beer: Gloucester Priory Pale
+BeerID: 184936
+Brewer: Gloucester Brewery
+City: Gloucester
+Comments: Tried at the Great Central Railway beer festival 2018. Now this has a strong
+  citrus hop scent. It pours golden with an off white lace top. The taste is medium
+  sweet to bitter and very fruity. The palate is medium bodied, oily texture, average
+  carbonation and a crisp bitter finish. A find. I would gladly have it again.
+Country: England
+Date: '"9/22/2018 3:25:10 PM"'
+MyScore: 3.7
+Overall: 14.0
+Palate: 4.0
+State: Gloucestershire
+Style: Blonde Ale / Golden Ale
+Taste: 7.0
 ---
 
 # Gloucester Priory Pale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 184936 |
 | **Beer** | Gloucester Priory Pale |
 | **Brewer** | Gloucester Brewery |

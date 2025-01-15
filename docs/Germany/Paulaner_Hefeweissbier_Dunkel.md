@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Paulaner Hefeweissbier Dunkel
+Appearance: 3.0
+Aroma: 7.0
+Beer: Paulaner Hefeweissbier Dunkel
+BeerID: 648
+Brewer: Paulaner Brauerei
+City: München
+Comments: 'The yeasty wheat banana scent is coupled to some dark malts. Poured murky
+  brown with foaming off white lace top. Taste is medium sweet to lightly bitter with
+  a little souring in the finish. Palate is medium bodied, clammy feel, soft to average
+  carbonation and a yeasty finish. Possibly better bottled. '
+Country: Germany
+Date: '"11/24/2019 3:50:57 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Bavaria
+Style: Weissbier - Dunkelweizen
+Taste: 7.0
 ---
 
 # Paulaner Hefeweissbier Dunkel
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 648 |
 | **Beer** | Paulaner Hefeweissbier Dunkel |
 | **Brewer** | Paulaner Brauerei |

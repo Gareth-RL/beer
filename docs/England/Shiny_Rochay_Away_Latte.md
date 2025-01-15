@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Shiny Rochay Away Latte
+Appearance: 4.0
+Aroma: 7.0
+Beer: Shiny Rochay Away Latte
+BeerID: 1068335
+Brewer: Shiny Brewing
+City: Little Eaton
+Comments: '"Espresso brown body tan lace top. Coffee vanilla hazelnut scent. Taste
+  medium sweet to bitter with definite hazelnut syrup kick. Synthetic but okay. Medium
+  bodied coffee grainy texture and a long bitter finish. It''s exactly what it claims
+  to be but I could not drink a pint of it. 23 March 23 second sipping still good."'
+Country: England
+Date: '"11/28/2022 12:29:04 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Derbyshire
+Style: Stout - Flavored / Pastry
+Taste: 7.0
 ---
 
 # Shiny Rochay Away Latte
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 1068335 |
 | **Beer** | Shiny Rochay Away Latte |
 | **Brewer** | Shiny Brewing |

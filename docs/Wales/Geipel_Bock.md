@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Geipel Bock
+Appearance: 4.0
+Aroma: 7.0
+Beer: Geipel Bock
+BeerID: 295627
+Brewer: Geipel Brewing
+City: Llangwm, Caernarfonshire
+Comments: '"The weird world of the modern drinker. This lager was the darkest beer
+  i tried with a pleasant roasted malts look and taste. Aroma  of light toasted malt.
+  Medium sweet to bitter with toffee malt and a bitter finish.  Medium bodied smooth
+  texture average carbonation and a bitter finish.  You wouldn''t think it came from
+  S Wales!"'
+Country: Wales
+Date: '"12/10/2024 7:43:19 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Clwyd
+Style: Bock - Dunkler Bock
+Taste: 7.0
 ---
 
 # Geipel Bock
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 295627 |
 | **Beer** | Geipel Bock |
 | **Brewer** | Geipel Brewing |

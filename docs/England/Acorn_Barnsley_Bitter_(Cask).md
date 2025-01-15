@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Acorn Barnsley Bitter (Cask)
+Appearance: 4.0
+Aroma: 6.0
+Beer: Acorn Barnsley Bitter (Cask)
+BeerID: 33672
+Brewer: Acorn Brewery
+City: Wombwell
+Comments: A standard cask bitter. Pours chestnut body with white lace top. Aroma has
+  bready malts and berry hops. Taste is lightly sweet to medium bitter. Palate is
+  medium bodied oily texture average carbonation and a bitter finish.. It could have
+  been made 50 years ago and then we would have been more impressed.
+Country: England
+Date: '"10/13/2019 5:27:19 PM"'
+MyScore: 3.2
+Overall: 13.0
+Palate: 3.0
+State: South Yorkshire
+Style: Bitter - Ordinary / Best
+Taste: 6.0
 ---
 
 # Acorn Barnsley Bitter (Cask)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 33672 |
 | **Beer** | Acorn Barnsley Bitter (Cask) |
 | **Brewer** | Acorn Brewery |

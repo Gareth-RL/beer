@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Black Sheep Twilighter
+Appearance: 4.0
+Aroma: 6.0
+Beer: Black Sheep Twilighter
+BeerID: 731750
+Brewer: Black Sheep Brewery
+City: Masham
+Comments: '"Aroma has hedgerow hops and pale malt. Pours clear golden with lasting
+  white lace. Taste is medium sweet to bitter. Definitely a biscuit bitter note that
+  makes me think the rebranding of Black Sheep is more pumpclip than beer. Palate
+  is medium bodied oily texture average carbonation and a light bitter finish. A session
+  ale and there''s not wrong with that as long as you want a session."'
+Country: England
+Date: '"6/22/2019 8:32:30 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: North Yorkshire
+Style: ISA - Session IPA
+Taste: 6.0
 ---
 
 # Black Sheep Twilighter
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 731750 |
 | **Beer** | Black Sheep Twilighter |
 | **Brewer** | Black Sheep Brewery |

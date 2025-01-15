@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Young's Special London Ale
+Appearance: .nan
+Aroma: .nan
+Beer: '"Young''s Special London Ale"'
+BeerID: 140
+Brewer: Eagle Brewery (Damm)
+City: Bedford
+Comments: ' '
+Country: England
+Date: '"10/26/2016 11:59:42 AM"'
+MyScore: 1.0
+Overall: .nan
+Palate: .nan
+State: Bedfordshire
+Style: Strong Ale - English
+Taste: .nan
 ---
 
 # Young's Special London Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 140 |
 | **Beer** | Young's Special London Ale |
 | **Brewer** | Eagle Brewery (Damm) |

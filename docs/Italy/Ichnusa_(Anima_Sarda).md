@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Ichnusa (Anima Sarda)
+Appearance: .nan
+Aroma: .nan
+Beer: Ichnusa (Anima Sarda)
+BeerID: 8156
+Brewer: Ichnusa (Heineken Italia)
+City: Assemini
+Comments: ' '
+Country: Italy
+Date: '"1/13/2017 5:30:28 AM"'
+MyScore: 3.0
+Overall: .nan
+Palate: .nan
+State: Sardinia
+Style: Pale Lager - International / Premium
+Taste: .nan
 ---
 
 # Ichnusa (Anima Sarda)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 8156 |
 | **Beer** | Ichnusa (Anima Sarda) |
 | **Brewer** | Ichnusa (Heineken Italia) |

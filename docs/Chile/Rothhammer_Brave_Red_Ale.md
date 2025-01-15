@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Rothhammer Brave Red Ale
+Appearance: 3.0
+Aroma: 7.0
+Beer: Rothhammer Brave Red Ale
+BeerID: 399959
+Brewer: Handwerk Brewers
+City: Lo Boza, Pudahuel, Santiago
+Comments: '"Bottle. Pours hazy amber body thin lace. Aroma has caramel, bread, nuts,
+  in the malts  herbal and yeasty for the rest. Taste is medium sweet to bitter with
+  a toffee tang. Palate is medium bodied, sticky, average carbonation, bitter, finish.
+  I&#39;d no expectations and they were met."'
+Country: Chile
+Date: '"11/22/2017 11:20:45 AM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: Santiago
+Style: Red Ale / International Amber Ale
+Taste: 7.0
 ---
 
 # Rothhammer Brave Red Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 399959 |
 | **Beer** | Rothhammer Brave Red Ale |
 | **Brewer** | Handwerk Brewers |

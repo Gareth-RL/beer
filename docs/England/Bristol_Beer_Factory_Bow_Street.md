@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Bristol Beer Factory Bow Street
+Appearance: 4.0
+Aroma: 7.0
+Beer: Bristol Beer Factory Bow Street
+BeerID: 590849
+Brewer: Bristol Beer Factory
+City: Bristol
+Comments: Some lightly roasted malts in a scent that favours citrus and herbal hops.
+  Pours pale amber with lasting lace top. Taste is medium sweet to bitter with the
+  biscuit malts kicking the finish. Palate is medium bodied oily texture average carbonation
+  and a drying bitter finish. Good enough.
+Country: England
+Date: '"9/13/2019 3:43:48 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Gloucestershire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Bristol Beer Factory Bow Street
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 590849 |
 | **Beer** | Bristol Beer Factory Bow Street |
 | **Brewer** | Bristol Beer Factory |

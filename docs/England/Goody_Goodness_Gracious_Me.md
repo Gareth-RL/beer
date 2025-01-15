@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Goody Goodness Gracious Me
+Appearance: 4.0
+Aroma: 5.0
+Beer: Goody Goodness Gracious Me
+BeerID: 299899
+Brewer: Goody Ales
+City: Herne
+Comments: Cask at the Sir John Borlase Warren Nottingham. Pours orange golden with
+  white lace top. Aroma is muted but a little hop fruits. Taste is medium sweet to
+  bitter. Palate is medium bodied oily texture average carbonation, and a soft finish.
+  A session beer of nondescript merit and defects.
+Country: England
+Date: '"7/31/2018 3:27:57 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Kent
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Goody Goodness Gracious Me
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 299899 |
 | **Beer** | Goody Goodness Gracious Me |
 | **Brewer** | Goody Ales |

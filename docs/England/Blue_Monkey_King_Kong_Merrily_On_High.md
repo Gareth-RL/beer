@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Blue Monkey King Kong Merrily On High
+Appearance: 4.0
+Aroma: 7.0
+Beer: Blue Monkey King Kong Merrily On High
+BeerID: 161221
+Brewer: Blue Monkey Brewery
+City: Nottingham
+Comments: Cask at the Organ Grinder. Aroma toffee malt and caramel. Pours dark brown
+  with ruby glimmer. Frothy tan top.. Fruits - date prune, dark cherry mix with sweet
+  malt nites at first but there is a hoppy bitter finish. Pleasant enough and all
+  the better for avoiding the Christmas spice blight of so many seasonal ales
+Country: England
+Date: '"12/21/2015 1:31:56 PM"'
+MyScore: 3.3
+Overall: 13.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # Blue Monkey King Kong Merrily On High
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 161221 |
 | **Beer** | Blue Monkey King Kong Merrily On High |
 | **Brewer** | Blue Monkey Brewery |

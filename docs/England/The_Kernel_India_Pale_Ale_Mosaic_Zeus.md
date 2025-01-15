@@ -1,12 +1,30 @@
 ---
-layout: default
-title: The Kernel India Pale Ale Mosaic Zeus
+Appearance: 4.0
+Aroma: 7.0
+Beer: The Kernel India Pale Ale Mosaic Zeus
+BeerID: 297523
+Brewer: The Kernel Brewery
+City: Bermondsey
+Comments: Tap at the Junkyard Nottingham . Pours golden with white top. Aroma is the
+  obligatory tropical fruit with some malt evident. Taste is medium sweet to bitter
+  but it takes a while to get there. Palate is medium bodied, oily texture, average
+  carbonation, and a  long finish. For no good reason I am resentful of Kernel and
+  feel they are going through the motions on a lot of brews. The big brewers do but
+  should the craft also?
+Country: England
+Date: '"3/12/2018 6:23:06 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Greater London
+Style: IPA
+Taste: 7.0
 ---
 
 # The Kernel India Pale Ale Mosaic Zeus
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 297523 |
 | **Beer** | The Kernel India Pale Ale Mosaic Zeus |
 | **Brewer** | The Kernel Brewery |

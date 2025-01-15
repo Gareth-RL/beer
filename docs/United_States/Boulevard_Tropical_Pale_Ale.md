@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Boulevard Tropical Pale Ale
+Appearance: 4.0
+Aroma: 6.0
+Beer: Boulevard Tropical Pale Ale
+BeerID: 410561
+Brewer: Boulevard Brewing Company (Duvel Moortgat)
+City: Kansas City
+Comments: Keg. Aroma has citrus hops on the grapefruit pith end of the spectrum but
+  the rest of the juice band was muted. Pours dark clear orange amber with minimal
+  lacing. While it fizzles initially on the tongue the taste is medium bitter and
+  sour. Especially sour in the finish which lingers like stale air in a lift. Maybe
+  I should have sent it back to KC MO. Disappointing.
+Country: United States
+Date: '"8/2/2017 11:33:08 AM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 2.0
+State: Missouri
+Style: Pale Ale - Flavored
+Taste: 6.0
 ---
 
 # Boulevard Tropical Pale Ale
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 410561 |
 | **Beer** | Boulevard Tropical Pale Ale |
 | **Brewer** | Boulevard Brewing Company (Duvel Moortgat) |

@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Neon Raptor Computer Chess
+Appearance: 4.0
+Aroma: 7.0
+Beer: Neon Raptor Computer Chess
+BeerID: 811173
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: Aroma has a mix of pineapple and pine and herbal notes that suggest a real
+  hoppy mix. Classic murky body and thin lace top of an NEIPA. Taste is medium sweet,
+  dissolving into light bitter finish. The last is long and well defined. But I am
+  ambiguous about the mouth feel. Medium bodied, dank fruity texture certainly but
+  the transition is a bit dirty for my taste. But this is me quibbling which in my
+  line of work is almost obligatory.
+Country: England
+Date: '"2/16/2020 6:04:39 PM"'
+MyScore: 3.5
+Overall: 14.0
+Palate: 3.0
+State: Nottinghamshire
+Style: IPA - Hazy (NEIPA)
+Taste: 7.0
 ---
 
 # Neon Raptor Computer Chess
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 811173 |
 | **Beer** | Neon Raptor Computer Chess |
 | **Brewer** | Neon Raptor Brewing Co. |

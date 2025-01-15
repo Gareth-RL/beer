@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Cross Bay Sunset
+Appearance: 3.0
+Aroma: 5.0
+Beer: Cross Bay Sunset
+BeerID: 156270
+Brewer: Cross Bay Brewery
+City: Morecambe
+Comments: Cask. A modest and mildly fruity aroma. Pours pale gold and from the tap
+  there’s no head just a smattering of broken lace. So far so unimpressive. But the
+  taste is better than the scent. With a bready malty richness and a pleasing wash
+  upon the palate. I could spend the evening in this company, even if it would be
+  unremarkable.
+Country: England
+Date: '"9/24/2016 11:23:03 AM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 4.0
+State: Lancashire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Cross Bay Sunset
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 156270 |
 | **Beer** | Cross Bay Sunset |
 | **Brewer** | Cross Bay Brewery |

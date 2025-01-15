@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Hammerton Apprentice No More
+Appearance: 4.0
+Aroma: 7.0
+Beer: Hammerton Apprentice No More
+BeerID: 513361
+Brewer: Hammerton Brewery
+City: Islington
+Comments: Tap at the Overdraught. Pours clear golden amber with full white lace top.
+  Aroma has a medley of hop fruits tangerine pineapple and lychee. Melon and mango
+  below in pale malt company. Taste is medium sweet to bitter. Palate is medium bodied,
+  oily texture, average carbonation, and a bitter finish. Overall I can imagine a
+  session of this pale and my wit at least would sparkle. This apprentice is no Mickey
+  Mouse 🐭.
+Country: England
+Date: '"2/20/2018 6:58:12 PM"'
+MyScore: 3.6
+Overall: 14.0
+Palate: 4.0
+State: Greater London
+Style: ISA - Session IPA
+Taste: 7.0
 ---
 
 # Hammerton Apprentice No More
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 513361 |
 | **Beer** | Hammerton Apprentice No More |
 | **Brewer** | Hammerton Brewery |

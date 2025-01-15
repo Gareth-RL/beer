@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Yeastie Boys Gunnamatta
+Appearance: 4.0
+Aroma: 7.0
+Beer: Yeastie Boys Gunnamatta
+BeerID: 173556
+Brewer: Yeastie Boys
+City: Wellington
+Comments: Aroma has the bergamot. Pours hazy golden with white lace top. Taste is
+  medium sweet to bitter but with the Earl Grey doing its spicy sweet thing all the
+  while. Palate is medium bodied clammy feel soft to average carbonation and a spice
+  finish as the tea mashes. Like having a beer with a maiden aunt. 22/07/20 second
+  sipping confirms my initial thoughts although it reminds me that my maiden aunt
+  was more likely to be drinking Courvoisier  brandy.
+Country: New Zealand
+Date: '"10/12/2019 12:00:41 PM"'
+MyScore: 3.5
+Overall: 13.0
+Palate: 4.0
+State: Wellington
+Style: IPA - Flavored
+Taste: 7.0
 ---
 
 # Yeastie Boys Gunnamatta
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 173556 |
 | **Beer** | Yeastie Boys Gunnamatta |
 | **Brewer** | Yeastie Boys |

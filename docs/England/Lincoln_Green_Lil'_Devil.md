@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Lincoln Green Lil' Devil
+Appearance: 4.0
+Aroma: 6.0
+Beer: '"Lincoln Green Lil'' Devil"'
+BeerID: 515529
+Brewer: Lincoln Green Brewing Co.
+City: Hucknall
+Comments: '"Cask. Aroma caramel malts. Pours chestnut brown with cream white lace
+  top. Taste is watery initially so a lighter mild with medium sour finish and fruit
+  notes. Nit seen before and unlikely to displace the Major or the Big Ben. But it
+  reminds me of old milds bought because they were cheaper than bitter. You could
+  stay out longer for a pound&#033;"'
+Country: England
+Date: '"5/21/2017 1:12:03 PM"'
+MyScore: 3.2
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Lincoln Green Lil' Devil
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 515529 |
 | **Beer** | Lincoln Green Lil' Devil |
 | **Brewer** | Lincoln Green Brewing Co. |

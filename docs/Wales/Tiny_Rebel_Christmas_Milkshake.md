@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Tiny Rebel Christmas Milkshake
+Appearance: 4.0
+Aroma: 7.0
+Beer: Tiny Rebel Christmas Milkshake
+BeerID: 679860
+Brewer: Tiny Rebel
+City: Rogerstone, Newport
+Comments: Tap at Crafty Crow Nottingham. Pours murky orange pale with thin lace top.
+  Aroma has pineapple grapefruit and spice note. Taste is medium sweet to lightly
+  bitter. Palate is medium bodied sticky feel due to lactose factor soft to average
+  carbonation and a long finish. I can get the milkshake reference but the Christmas
+  label is just gratuitous marketing spiel. Easy drinking.
+Country: Wales
+Date: '"12/10/2018 6:28:59 PM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Gwent
+Style: IPA - Milkshake / Smoothie
+Taste: 7.0
 ---
 
 # Tiny Rebel Christmas Milkshake
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 679860 |
 | **Beer** | Tiny Rebel Christmas Milkshake |
 | **Brewer** | Tiny Rebel |

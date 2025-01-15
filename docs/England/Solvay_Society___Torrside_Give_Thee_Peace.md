@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Solvay Society / Torrside Give Thee Peace
+Appearance: 4.0
+Aroma: 7.0
+Beer: Solvay Society / Torrside Give Thee Peace
+BeerID: 783582
+Brewer: Solvay Society Brewery
+City: Leytonstone
+Comments: Dark malt spicy nose. Poured murky brown with thin halo. Taste is medium
+  sweet with light licorice backnote. Palate is medium bodied sticky feel soft to
+  average carbonation and a long finish with just a hint of booziness. Quite easy
+  drinking for the abv
+Country: England
+Date: '"11/16/2019 3:19:14 PM"'
+MyScore: 3.6
+Overall: 13.0
+Palate: 4.0
+State: Greater London
+Style: Belgian Ale - Strong Dark
+Taste: 8.0
 ---
 
 # Solvay Society / Torrside Give Thee Peace
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 783582 |
 | **Beer** | Solvay Society / Torrside Give Thee Peace |
 | **Brewer** | Solvay Society Brewery |

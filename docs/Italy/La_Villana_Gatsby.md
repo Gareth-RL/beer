@@ -1,12 +1,29 @@
 ---
-layout: default
-title: La Villana Gatsby
+Appearance: 4.0
+Aroma: 7.0
+Beer: La Villana Gatsby
+BeerID: 593771
+Brewer: Birrificio La Villana
+City: '"Grantorto &#40;PD&#41;"'
+Comments: '"Poured amber body with off white foam top.  Aroma has hop fruits and yeasty
+  esters  as well as bread malts. Taste is medium sweet to bitter with a pleasant
+  hoppy finish. Palate is medium bodied oily texture and a drying finish. Not a classic
+  ESB since these aren''t associated with yeasty scents. Overall  good but why name
+  an English  beer after the hero of a classic American novel?"'
+Country: Italy
+Date: '"1/8/2021 12:37:08 PM"'
+MyScore: 3.3
+Overall: 12.0
+Palate: 4.0
+State: Veneto
+Style: Bitter - Premium / Strong / Extra Special (ESB)
+Taste: 6.0
 ---
 
 # La Villana Gatsby
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 593771 |
 | **Beer** | La Villana Gatsby |
 | **Brewer** | Birrificio La Villana |

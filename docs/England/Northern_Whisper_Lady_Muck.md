@@ -1,12 +1,30 @@
 ---
-layout: default
-title: Northern Whisper Lady Muck
+Appearance: 3.0
+Aroma: 7.0
+Beer: Northern Whisper Lady Muck
+BeerID: 532209
+Brewer: Northern Whisper Brewing Co.
+City: Cloughfold
+Comments: '"Tap at the Canal House. Pours murky pink with foamy halo of off white
+  lace. And it took four attempts to secure my third due to the liveliness of the
+  pour. Aroma has raspberry blackberry hedgerow and straw which degenerates to weak
+  Ribena with a raspberry twist in the mouth. Taste is light to medium sweet. Given
+  the lively pour it is predictably light bodied slightly sticky feel lively carbonation,
+  abrupt finish. An experiment that didn&#39;t succeed I respectfully suggest."'
+Country: England
+Date: '"1/13/2018 6:22:52 PM"'
+MyScore: 3.1
+Overall: 12.0
+Palate: 3.0
+State: Lancashire
+Style: Sour / Wild Beer - Flavored
+Taste: 6.0
 ---
 
 # Northern Whisper Lady Muck
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 532209 |
 | **Beer** | Northern Whisper Lady Muck |
 | **Brewer** | Northern Whisper Brewing Co. |

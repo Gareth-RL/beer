@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Neon Raptor Blowfish
+Appearance: 4.0
+Aroma: 8.0
+Beer: Neon Raptor Blowfish
+BeerID: 598468
+Brewer: Neon Raptor Brewing Co.
+City: Nottingham
+Comments: '"Tap @ The Overdraught Nottingham. Pours a murky orange with off white
+  froth top. Aroma is amply floral hops. Taste is medium bitter with light sour finish.
+  Palate is medium bodied, smooth pale malt texture, and sour notes in a long finish.
+  I&#39;m in training for Boston trip so NEIPA is essential."'
+Country: England
+Date: '"6/29/2018 4:01:36 PM"'
+MyScore: 3.5
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Pale Ale - Hazy / New England
+Taste: 7.0
 ---
 
 # Neon Raptor Blowfish
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 598468 |
 | **Beer** | Neon Raptor Blowfish |
 | **Brewer** | Neon Raptor Brewing Co. |

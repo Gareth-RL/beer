@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Castle Rock Helen Watts
+Appearance: 5.0
+Aroma: 7.0
+Beer: Castle Rock Helen Watts
+BeerID: 615436
+Brewer: Castle Rock Brewery
+City: Nottingham
+Comments: '"Cask. Pours chestnut with off white lace top. Aroma has herbal notes suitable
+  for a juniper mild. Taste is medium bitter but with a tangle of surrounding flavours
+  that others can unpack better than I. Palate is medium bodied, texture sticky, carbonation
+  average, and the finish long. I&#39;m assuming Watts did not belong to the teetotal
+  suffragist wing that may have slowed the achievement of female suffrage."'
+Country: England
+Date: '"5/5/2018 11:55:08 AM"'
+MyScore: 3.4
+Overall: 12.0
+Palate: 4.0
+State: Nottinghamshire
+Style: Mild Ale
+Taste: 6.0
 ---
 
 # Castle Rock Helen Watts
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 615436 |
 | **Beer** | Castle Rock Helen Watts |
 | **Brewer** | Castle Rock Brewery |

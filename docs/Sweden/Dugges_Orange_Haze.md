@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Dugges Orange Haze
+Appearance: .nan
+Aroma: .nan
+Beer: Dugges Orange Haze
+BeerID: 293281
+Brewer: Dugges Bryggeri
+City: Landvetter
+Comments: ' '
+Country: Sweden
+Date: '"11/11/2017 10:22:11 AM"'
+MyScore: 3.0
+Overall: .nan
+Palate: .nan
+State: Västra Götaland
+Style: IPA
+Taste: .nan
 ---
 
 # Dugges Orange Haze
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 293281 |
 | **Beer** | Dugges Orange Haze |
 | **Brewer** | Dugges Bryggeri |

@@ -1,12 +1,28 @@
 ---
-layout: default
-title: Beer Works Doctor Morton's Eurocrat
+Appearance: 3.0
+Aroma: 5.0
+Beer: '"Beer Works Doctor Morton''s Eurocrat"'
+BeerID: 133588
+Brewer: Abbeydale Brewery
+City: Sheffield
+Comments: 'Cask. A glimmer of malt on the nose with orange peel. Pours yellow with
+  white lace head that curtains the sides. Taste has solid hoppy bitterness with a
+  soft rather crisp finish. Slightly over-carbonated but if you are apt to suck your
+  grapefruit skins, you will like it '
+Country: England
+Date: '"6/11/2016 8:19:43 AM"'
+MyScore: 2.6
+Overall: 10.0
+Palate: 3.0
+State: South Yorkshire
+Style: Bitter - Ordinary / Best
+Taste: 5.0
 ---
 
 # Beer Works Doctor Morton's Eurocrat
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 133588 |
 | **Beer** | Beer Works Doctor Morton's Eurocrat |
 | **Brewer** | Abbeydale Brewery |

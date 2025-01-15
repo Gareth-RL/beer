@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Milestone Azacca Gold
+Appearance: 4.0
+Aroma: 5.0
+Beer: Milestone Azacca Gold
+BeerID: 422327
+Brewer: Milestone Brewing
+City: Newark
+Comments: '"Cask. Pours golden amber with white lacing. Aroma is muted, some biscuit
+  malt with toffee note on the tongue. Taste medium sweet that faded to bitter. Described
+  as a citrus pale by the management presumably on the basis of the hop not the beer..
+  It isn&#39;t. Palate medium bodied, soft carbonation, oily feel, and a bitter languor.
+  I can recall drinking many ales like it in the wasted years."'
+Country: England
+Date: '"10/25/2017 12:43:35 PM"'
+MyScore: 3.0
+Overall: 12.0
+Palate: 3.0
+State: Nottinghamshire
+Style: Blonde Ale / Golden Ale
+Taste: 6.0
 ---
 
 # Milestone Azacca Gold
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 422327 |
 | **Beer** | Milestone Azacca Gold |
 | **Brewer** | Milestone Brewing |

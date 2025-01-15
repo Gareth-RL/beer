@@ -1,12 +1,29 @@
 ---
-layout: default
-title: Fierce Cranachan Killer
+Appearance: 4.0
+Aroma: 6.0
+Beer: Fierce Cranachan Killer
+BeerID: 383186
+Brewer: Fierce Beer Co
+City: Dyce, Aberdeenshire
+Comments: Tap. Definite aromatic hints of the raspberries in the jammy nose. Pours
+  amber with barely a head. The taste is no more than bitter sweet which might be
+  a blessing for those wary of fruit beers of this kind. The raspberry flavor lingers
+  but there is ample bitterness and sourness as well. Medium body, and soft carbonation
+  with a pleasant languor in the finish. Overall, a brave effort.
+Country: Scotland
+Date: '"8/16/2017 10:53:41 AM"'
+MyScore: 3.6
+Overall: 15.0
+Palate: 4.0
+State: Grampian
+Style: Pale Ale - Flavored
+Taste: 7.0
 ---
 
 # Fierce Cranachan Killer
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 383186 |
 | **Beer** | Fierce Cranachan Killer |
 | **Brewer** | Fierce Beer Co |

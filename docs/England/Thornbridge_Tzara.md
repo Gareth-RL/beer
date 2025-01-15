@@ -1,12 +1,25 @@
 ---
-layout: default
-title: Thornbridge Tzara
+Appearance: .nan
+Aroma: .nan
+Beer: Thornbridge Tzara
+BeerID: 159851
+Brewer: Thornbridge Brewery
+City: Bakewell
+Comments: ' '
+Country: England
+Date: '"10/26/2016 12:03:52 PM"'
+MyScore: 1.0
+Overall: .nan
+Palate: .nan
+State: Derbyshire
+Style: Kölsch / Kölsch-Style
+Taste: .nan
 ---
 
 # Thornbridge Tzara
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 159851 |
 | **Beer** | Thornbridge Tzara |
 | **Brewer** | Thornbridge Brewery |

@@ -1,12 +1,31 @@
 ---
-layout: default
-title: Wylam / Hawkshead Pleasures In The Darkness
+Appearance: 3.0
+Aroma: 8.0
+Beer: Wylam / Hawkshead Pleasures In The Darkness
+BeerID: 568644
+Brewer: Wylam Brewery
+City: Newcastle upon Tyne
+Comments: '"Keg or cask at The Keans Head Nottingham. Pours dark cola brown. No head
+  to speak of in the keg version at least. The aroma has most of my malt favourites:
+  coffee, chocolate, caramel with a little licorice in the finish. Taste is medium
+  to full sweet with light bitter notes. Rich. Palate is medium + in terms of body,
+  sticky texture, soft carbonation and a long languorous finish. I can&#39;t imagine
+  drinking more of this than a third at a time but if it added to the look and the
+  feel, it would be a first rate Imperial."'
+Country: England
+Date: '"6/10/2018 5:39:14 PM"'
+MyScore: 3.8
+Overall: 16.0
+Palate: 4.0
+State: Tyne &amp; Wear
+Style: Stout - Imperial Flavored / Pastry
+Taste: 7.0
 ---
 
 # Wylam / Hawkshead Pleasures In The Darkness
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 568644 |
 | **Beer** | Wylam / Hawkshead Pleasures In The Darkness |
 | **Brewer** | Wylam Brewery |

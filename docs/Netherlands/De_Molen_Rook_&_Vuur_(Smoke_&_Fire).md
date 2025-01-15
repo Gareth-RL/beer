@@ -1,12 +1,28 @@
 ---
-layout: default
-title: De Molen Rook & Vuur (Smoke & Fire)
+Appearance: 4.0
+Aroma: 8.0
+Beer: De Molen Rook & Vuur (Smoke & Fire)
+BeerID: 115442
+Brewer: Brouwerij De Molen (Swinkels Family Brewers)
+City: Bodegraven
+Comments: Bottle. Aroma is like walking into an osteria, cured meats and cheeses with
+  smokehouse effect. Pours black like flat cola with tan froth that fades fast. Taste
+  is medium sweet till the chilies pull you back to centre. Smoke yes, but thankfully
+  no fire. A brew to try again younger as this bottle was 1/04/15.
+Country: Netherlands
+Date: '"8/8/2017 11:25:03 AM"'
+MyScore: 3.8
+Overall: 15.0
+Palate: 4.0
+State: South Holland
+Style: Smoked - Other
+Taste: 7.0
 ---
 
 # De Molen Rook & Vuur (Smoke & Fire)
 
-| Field         | Value     |
-|---------------|-----------|
+| Field         | Value |
+|---------------|-------|
 | **BeerID** | 115442 |
 | **Beer** | De Molen Rook & Vuur (Smoke & Fire) |
 | **Brewer** | Brouwerij De Molen (Swinkels Family Brewers) |
